@@ -1,0 +1,1332 @@
+[ {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari ganteng\r\n  <li>Ashari ganteng\r\n  <li>Ashari jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3 ", 0 ], [ false, "2 saja ", 1 ], [ false, "semuanya benar", 2 ], [ true, "1 dan 2 ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b43f4f4b429dbb281cb0988a0b"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung ganteng\r\n  <li>Hari ganteng\r\n  <li>Ashari jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja ", 0 ], [ false, "tidak ada ", 1 ], [ true, "1 dan 2 ", 2 ], [ false, "2 dan 3", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4118a489cbb82c7a5d724c722"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari ganteng\r\n  <li>Gita jelek\r\n  <li>Agung ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja ", 0 ], [ true, "1 dan 3 ", 1 ], [ false, "2 dan 3 ", 2 ], [ false, "1 dan 2", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4c0b54d9da5b47bd0326ab537"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Ashari jelek\r\n  <li>Ashari ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja", 0 ], [ false, "1 dan 2 ", 1 ], [ false, "semuanya benar ", 2 ], [ true, "3 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4565d45cb99c6d78c8a8f7b5c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Gita cantik\r\n  <li>Gita jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "semuanya benar", 0 ], [ false, "1 dan 3 ", 1 ], [ true, "2 saja ", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b482e4407b80771e4d390b43a3"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari ganteng\r\n  <li>Agung ganteng\r\n  <li>Gita jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "semuanya benar ", 0 ], [ false, "3 saja ", 1 ], [ true, "1 dan 2 ", 2 ], [ false, "2 saja", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b46889433b8bf876f4ecd95f67"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari ganteng\r\n  <li>Agung ganteng\r\n  <li>Hari ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3", 0 ], [ false, "1 dan 2 ", 1 ], [ true, "semuanya benar ", 2 ], [ false, "2 dan 3 ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b430ef4e8887f42125ea204791"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Hari ganteng\r\n  <li>Thomas ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 saja ", 0 ], [ false, "1 dan 2 ", 1 ], [ false, "2 saja", 2 ], [ true, "semuanya benar ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4943a4f7697ee4c7689f3ada6"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Agung ganteng\r\n  <li>Agung jelek\r\n  <li>Thomas jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 saja ", 0 ], [ false, "1 dan 2 ", 1 ], [ false, "3 saja", 2 ], [ false, "tidak ada ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4c70f45d7b1afc7cfe51edeb5"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Ashari jelek\r\n  <li>Agung jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3 ", 0 ], [ false, "2 dan 3", 1 ], [ false, "tidak ada ", 2 ], [ true, "1 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4fb9040d38946a3c265f2733c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Thomas ganteng\r\n  <li>Gita jelek\r\n  <li>Ashari ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 dan 3 ", 0 ], [ false, "1 dan 2 ", 1 ], [ false, "semuanya benar ", 2 ], [ false, "tidak ada", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4df5e4857a105f038bca7e27c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Hari jelek\r\n  <li>Ashari ganteng\r\n  <li>Agung jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3 ", 0 ], [ false, "1 dan 2", 1 ], [ true, "2 saja ", 2 ], [ false, "3 saja ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b43f49445ea736e5cc7cbf5db6"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung ganteng\r\n  <li>Thomas jelek\r\n  <li>Gita cantik\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 saja ", 0 ], [ false, "semuanya benar ", 1 ], [ false, "tidak ada", 2 ], [ true, "1 dan 3 ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4da774bd89449f45a9eb88aa9"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Thomas ganteng\r\n  <li>Hari jelek\r\n  <li>Gita jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3 ", 0 ], [ false, "1 dan 2", 1 ], [ false, "semuanya benar ", 2 ], [ true, "1 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4f7bb48a1966c452208612662"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Thomas jelek\r\n  <li>Thomas ganteng\r\n  <li>Agung jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "semuanya benar ", 0 ], [ true, "2 saja ", 1 ], [ false, "1 dan 2", 2 ], [ false, "tidak ada ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b47ef7472ea620e1c7da596d41"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Agung ganteng\r\n  <li>Gita jelek\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 saja ", 0 ], [ false, "2 dan 3", 1 ], [ false, "1 dan 3 ", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4da144f2f85f8f4e666dc93d3"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari ganteng\r\n  <li>Gita cantik\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 dan 2 ", 0 ], [ false, "tidak ada ", 1 ], [ false, "1 dan 3 ", 2 ], [ false, "2 dan 3", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b465cc43faa221a3031585ec95"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Thomas jelek\r\n  <li>Ashari jelek\r\n  <li>Agung jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "tidak ada ", 0 ], [ false, "2 dan 3 ", 1 ], [ false, "1 dan 2", 2 ], [ false, "2 saja ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4faf04c37bb02be3726237034"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Ashari ganteng\r\n  <li>Hari ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja ", 0 ], [ true, "2 dan 3 ", 1 ], [ false, "3 saja ", 2 ], [ false, "tidak ada", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4875f448580cdce0a37d3521d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Thomas jelek\r\n  <li>Hari jelek\r\n  <li>Agung ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "3 saja ", 0 ], [ false, "semuanya benar ", 1 ], [ false, "tidak ada ", 2 ], [ false, "1 saja", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b46d804a3baecfb5b129a54017"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari jelek\r\n  <li>Thomas jelek\r\n  <li>Thomas ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 2 ", 0 ], [ false, "2 dan 3 ", 1 ], [ true, "3 saja ", 2 ], [ false, "1 saja", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b42d884b75bd19e71dfa90aa09"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari ganteng\r\n  <li>Agung ganteng\r\n  <li>Hari jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 dan 2 ", 0 ], [ false, "2 dan 3", 1 ], [ false, "semuanya benar ", 2 ], [ false, "1 saja ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4b67b430ead5666017e962475"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari ganteng\r\n  <li>Agung ganteng\r\n  <li>Thomas ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "semuanya benar ", 0 ], [ false, "3 saja", 1 ], [ false, "2 dan 3 ", 2 ], [ false, "tidak ada ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b425f543268cee3e38ece3cd18"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Thomas jelek\r\n  <li>Agung jelek\r\n  <li>Ashari jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "tidak ada ", 0 ], [ false, "1 saja", 1 ], [ false, "3 saja ", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4df4d40b981a4af62245568f7"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Ashari jelek\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3 ", 0 ], [ false, "1 dan 3 ", 1 ], [ true, "tidak ada ", 2 ], [ false, "2 saja", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4b0ab4eb88e2d8370fb179060"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Hari jelek\r\n  <li>Agung ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3 ", 0 ], [ false, "1 saja", 1 ], [ false, "tidak ada ", 2 ], [ true, "3 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b43a654314bc821160c7d512f8"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Thomas ganteng\r\n  <li>Hari ganteng\r\n  <li>Ashari ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "semuanya benar ", 0 ], [ false, "2 saja", 1 ], [ false, "1 dan 3 ", 2 ], [ false, "3 saja ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4d2b14191aac4a22e5ce73a17"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Hari jelek\r\n  <li>Gita cantik\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "semuanya benar", 0 ], [ true, "3 saja ", 1 ], [ false, "2 saja ", 2 ], [ false, "2 dan 3 ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b47a0f4b2a81fe8af66b1a6550"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Ashari jelek\r\n  <li>Hari jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 saja ", 0 ], [ false, "semuanya benar ", 1 ], [ true, "tidak ada ", 2 ], [ false, "1 dan 3", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4ee044b30a4c69431b229bc9f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Gita cantik\r\n  <li>Hari jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 2", 0 ], [ true, "2 saja ", 1 ], [ false, "2 dan 3 ", 2 ], [ false, "1 saja ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4b3e54c9d90683d192dce0f49"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita jelek\r\n  <li>Hari jelek\r\n  <li>Hari ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 saja", 0 ], [ false, "semuanya benar ", 1 ], [ true, "3 saja ", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b44cbd4f50891c0234194d0c95"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung ganteng\r\n  <li>Thomas ganteng\r\n  <li>Gita jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "3 saja", 0 ], [ false, "2 dan 3 ", 1 ], [ true, "1 dan 2 ", 2 ], [ false, "2 saja ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4eedd434d982669cb04e4891f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Agung jelek\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 saja ", 0 ], [ false, "2 dan 3 ", 1 ], [ false, "tidak ada", 2 ], [ false, "2 saja ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b451e0429d98c32165ecff546c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari jelek\r\n  <li>Agung jelek\r\n  <li>Ashari ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 saja ", 0 ], [ false, "2 saja ", 1 ], [ false, "1 dan 2", 2 ], [ true, "3 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b48db54fc989957c214b390634"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Hari jelek\r\n  <li>Ashari jelek\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 2 ", 0 ], [ false, "1 dan 3 ", 1 ], [ false, "3 saja", 2 ], [ true, "tidak ada ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4b26c44d794d916642fb5ed05"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Thomas jelek\r\n  <li>Hari ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 saja ", 0 ], [ false, "semuanya benar ", 1 ], [ true, "3 saja ", 2 ], [ false, "1 dan 3", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b49c9744568e847bddff3415cc"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Thomas ganteng\r\n  <li>Thomas jelek\r\n  <li>Ashari ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "semuanya benar ", 0 ], [ false, "1 dan 2", 1 ], [ false, "3 saja ", 2 ], [ true, "1 dan 3 ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4a3924a989b685e3336cdf2f3"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Ashari jelek\r\n  <li>Hari jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "semuanya benar", 0 ], [ false, "2 dan 3 ", 1 ], [ true, "1 saja ", 2 ], [ false, "3 saja ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4645d495abccd33eac6132207"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita jelek\r\n  <li>Hari ganteng\r\n  <li>Ashari jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3", 0 ], [ false, "3 saja ", 1 ], [ false, "1 dan 2 ", 2 ], [ true, "2 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b43a984c228f40036cf16baec4"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Hari ganteng\r\n  <li>Thomas jelek\r\n  <li>Agung jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 saja ", 0 ], [ false, "tidak ada", 1 ], [ false, "semuanya benar ", 2 ], [ false, "2 saja ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b46a764652a6f8b9db0ca301be"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Thomas ganteng\r\n  <li>Gita cantik\r\n  <li>Hari ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "3 saja ", 0 ], [ false, "1 dan 3", 1 ], [ false, "tidak ada ", 2 ], [ true, "semuanya benar ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b47a65457a8b813c2b3f6a7228"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari ganteng\r\n  <li>Thomas jelek\r\n  <li>Agung jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "semuanya benar ", 0 ], [ false, "3 saja ", 1 ], [ false, "2 dan 3", 2 ], [ true, "1 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4aa2c4ca4ad023382d589fbb1"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari jelek\r\n  <li>Agung jelek\r\n  <li>Hari ganteng\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tidak ada ", 0 ], [ true, "3 saja ", 1 ], [ false, "semuanya benar ", 2 ], [ false, "2 dan 3", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4353b490d9366122af8506a45"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Gita cantik\r\n  <li>Thomas ganteng\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "3 saja", 0 ], [ true, "2 dan 3 ", 1 ], [ false, "2 saja ", 2 ], [ false, "1 saja ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4f17441808462c12df130052a"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari ganteng\r\n  <li>Thomas ganteng\r\n  <li>Ashari jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 saja ", 0 ], [ false, "2 dan 3", 1 ], [ false, "semuanya benar ", 2 ], [ true, "1 dan 2 ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b480594cdcaae205ea357af3a8"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari jelek\r\n  <li>Agung jelek\r\n  <li>Hari ganteng\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "semuanya benar", 0 ], [ false, "1 saja ", 1 ], [ true, "3 saja ", 2 ], [ false, "2 saja ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b41644458f8d99928c10727a34"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Gita jelek\r\n  <li>Hari ganteng\r\n  <li>Thomas ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "2 dan 3 ", 0 ], [ false, "1 dan 2", 1 ], [ false, "3 saja ", 2 ], [ false, "1 saja ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b413fd4a08bc596fe220b30151"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Agung ganteng\r\n  <li>Thomas ganteng\r\n  <li>Ashari ganteng\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "semuanya benar ", 0 ], [ false, "1 saja ", 1 ], [ false, "tidak ada", 2 ], [ false, "1 dan 3 ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b48baa48c59fe23dc0a5984474"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita jelek\r\n  <li>Agung jelek\r\n  <li>Hari jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja", 0 ], [ true, "tidak ada ", 1 ], [ false, "3 saja ", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4a4df48ac873444068cd0f9f8"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung ganteng\r\n  <li>Thomas jelek\r\n  <li>Gita cantik\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja", 0 ], [ false, "semuanya benar ", 1 ], [ true, "1 dan 3 ", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4677540c3b4c42316a0f358bd"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Hari ganteng\r\n  <li>Agung ganteng\r\n  <li>Agung jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja ", 0 ], [ true, "1 dan 2 ", 1 ], [ false, "tidak ada ", 2 ], [ false, "3 saja", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4b6044a038eb320723d9ad8d5"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung ganteng\r\n  <li>Thomas ganteng\r\n  <li>Hari ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3", 0 ], [ false, "tidak ada ", 1 ], [ false, "1 dan 3 ", 2 ], [ true, "semuanya benar ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4cbad4685808c31732aea8ade"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Ashari ganteng\r\n  <li>Thomas ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3", 0 ], [ false, "1 saja ", 1 ], [ false, "2 dan 3 ", 2 ], [ true, "semuanya benar ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4e3a64768a341476efec01247"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Gita cantik\r\n  <li>Ashari ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "3 saja ", 0 ], [ true, "2 dan 3 ", 1 ], [ false, "1 dan 2 ", 2 ], [ false, "2 saja", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b49d754c07a75fb497f980ca6a"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Gita jelek\r\n  <li>Thomas ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tidak ada ", 0 ], [ false, "semuanya benar", 1 ], [ true, "1 dan 3 ", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b40aaf42c084b10be04d09fa23"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita jelek\r\n  <li>Agung jelek\r\n  <li>Ashari jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "tidak ada ", 0 ], [ false, "2 dan 3 ", 1 ], [ false, "3 saja", 2 ], [ false, "1 saja ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4ab874908802574821e8eff77"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari jelek\r\n  <li>Thomas jelek\r\n  <li>Gita cantik\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 2 ", 0 ], [ false, "1 dan 3", 1 ], [ false, "2 dan 3 ", 2 ], [ true, "3 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4d7164ecd9e837701ca16c1b7"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Agung ganteng\r\n  <li>Gita jelek\r\n  <li>Hari jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "3 saja", 0 ], [ true, "1 saja ", 1 ], [ false, "semuanya benar ", 2 ], [ false, "1 dan 3 ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4fabb4982bb5744c67408b2d0"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Hari jelek\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "semuanya benar ", 0 ], [ false, "1 dan 3 ", 1 ], [ false, "1 dan 2", 2 ], [ true, "1 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4b57c483a9f2d8ce6102fc21e"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Gita jelek\r\n  <li>Hari jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 saja ", 0 ], [ false, "2 saja", 1 ], [ false, "3 saja ", 2 ], [ false, "1 dan 3 ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4074b4093add35dfde1bb7cbc"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari jelek\r\n  <li>Gita jelek\r\n  <li>Agung jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "3 saja", 0 ], [ true, "tidak ada ", 1 ], [ false, "semuanya benar ", 2 ], [ false, "1 dan 3 ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4b7da42a1ac564fcc61569566"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Gita jelek\r\n  <li>Hari ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 saja ", 0 ], [ false, "tidak ada", 1 ], [ false, "1 dan 2 ", 2 ], [ true, "3 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b45ad74e3483fd2e6dd13a1a70"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Thomas jelek\r\n  <li>Gita cantik\r\n  <li>Hari jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3 ", 0 ], [ true, "2 saja ", 1 ], [ false, "1 saja", 2 ], [ false, "tidak ada ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4b2a7435e9a4ab0c4dc8b42a9"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Agung ganteng\r\n  <li>Agung jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3", 0 ], [ false, "1 dan 3 ", 1 ], [ false, "semuanya benar ", 2 ], [ true, "2 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4fa8e4b4ca325cbe6af9f6f07"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari ganteng\r\n  <li>Agung jelek\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3", 0 ], [ false, "2 saja ", 1 ], [ true, "1 saja ", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b470db46eb8d95fba57b8d7689"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Thomas jelek\r\n  <li>Gita jelek\r\n  <li>Thomas ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja", 0 ], [ false, "tidak ada ", 1 ], [ true, "3 saja ", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b43cf54b67a2908208aab7c420"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Hari jelek\r\n  <li>Ashari ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tidak ada", 0 ], [ false, "1 dan 2 ", 1 ], [ false, "2 dan 3 ", 2 ], [ true, "3 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4a6d945158086189b32cef21a"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Thomas ganteng\r\n  <li>Ashari jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3", 0 ], [ false, "1 dan 3 ", 1 ], [ true, "2 saja ", 2 ], [ false, "semuanya benar ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b425374d7087f4c907250a515b"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari ganteng\r\n  <li>Gita jelek\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3", 0 ], [ false, "1 dan 2 ", 1 ], [ true, "1 saja ", 2 ], [ false, "1 dan 3 ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4511b4b6b911ddba2792b9744"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Gita jelek\r\n  <li>Hari jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 2 ", 0 ], [ false, "3 saja ", 1 ], [ false, "2 saja", 2 ], [ true, "tidak ada ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b41fc0409c83746b0e906c4117"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Ashari ganteng\r\n  <li>Agung ganteng\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "semuanya benar ", 0 ], [ false, "1 dan 2 ", 1 ], [ false, "2 dan 3 ", 2 ], [ false, "1 saja", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b432ec40639fc0eb7aec670376"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari ganteng\r\n  <li>Hari ganteng\r\n  <li>Gita cantik\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja ", 0 ], [ true, "semuanya benar ", 1 ], [ false, "1 dan 3 ", 2 ], [ false, "3 saja", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b467d843e3915a3e1b9c9e9dbd"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Hari jelek\r\n  <li>Agung jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "tidak ada ", 0 ], [ false, "3 saja ", 1 ], [ false, "2 dan 3", 2 ], [ false, "1 saja ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b40fc5497cae4cc68c9fdedc0d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Hari ganteng\r\n  <li>Agung ganteng\r\n  <li>Ashari ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja ", 0 ], [ true, "semuanya benar ", 1 ], [ false, "3 saja ", 2 ], [ false, "tidak ada", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b42bf74c188114a43b7d63904a"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita jelek\r\n  <li>Agung jelek\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "semuanya benar", 0 ], [ true, "tidak ada ", 1 ], [ false, "3 saja ", 2 ], [ false, "1 dan 3 ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b416954fb9b1c26031ec744ffb"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Thomas ganteng\r\n  <li>Agung jelek\r\n  <li>Agung ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 dan 3 ", 0 ], [ false, "1 dan 2 ", 1 ], [ false, "1 saja", 2 ], [ false, "semuanya benar ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4c36e4061b885b765b7449d91"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Hari ganteng\r\n  <li>Thomas ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "3 saja ", 0 ], [ false, "1 saja", 1 ], [ true, "semuanya benar ", 2 ], [ false, "2 dan 3 ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b464b64426a2ad83e6f2f3e686"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Thomas jelek\r\n  <li>Agung ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 dan 3 ", 0 ], [ false, "2 dan 3 ", 1 ], [ false, "3 saja ", 2 ], [ false, "semuanya benar", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4f7aa4c30bd45eb6706ed2db4"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Hari jelek\r\n  <li>Gita cantik\r\n  <li>Agung ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 2 ", 0 ], [ false, "1 saja ", 1 ], [ true, "2 dan 3 ", 2 ], [ false, "1 dan 3", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4cfdc427a894ae65c5615f3ea"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung ganteng\r\n  <li>Ashari ganteng\r\n  <li>Gita cantik\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3 ", 0 ], [ false, "1 dan 2", 1 ], [ false, "1 saja ", 2 ], [ true, "semuanya benar ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b472694dacb105d5928e23e6c8"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Gita jelek\r\n  <li>Agung ganteng\r\n  <li>Ashari ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja ", 0 ], [ true, "2 dan 3 ", 1 ], [ false, "1 dan 2", 2 ], [ false, "semuanya benar ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4744947abba2e6aa907d1f061"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Thomas jelek\r\n  <li>Thomas ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "3 saja ", 0 ], [ false, "1 dan 2 ", 1 ], [ false, "1 saja ", 2 ], [ false, "tidak ada", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b492984f6bb74e75edbc2701e0"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari jelek\r\n  <li>Thomas ganteng\r\n  <li>Gita jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 2 ", 0 ], [ false, "1 dan 3", 1 ], [ false, "3 saja ", 2 ], [ true, "2 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b435f04a0480458313423e6795"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari ganteng\r\n  <li>Thomas ganteng\r\n  <li>Hari jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3", 0 ], [ false, "2 saja ", 1 ], [ true, "1 dan 2 ", 2 ], [ false, "semuanya benar ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b46bdd40c9a12061b68922df1a"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Agung jelek\r\n  <li>Hari jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "3 saja", 0 ], [ false, "2 saja ", 1 ], [ true, "tidak ada ", 2 ], [ false, "1 saja ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4bce84709accb0ab9c11216f5"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Thomas ganteng\r\n  <li>Hari jelek\r\n  <li>Ashari jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "3 saja ", 0 ], [ true, "1 saja ", 1 ], [ false, "1 dan 3", 2 ], [ false, "2 dan 3 ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b465544c369e26b9d901a120d7"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Gita jelek\r\n  <li>Agung jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 saja ", 0 ], [ false, "3 saja ", 1 ], [ false, "1 dan 3", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b42b9e420bb78ce93595528cca"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Ashari ganteng\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3", 0 ], [ false, "3 saja ", 1 ], [ false, "2 dan 3 ", 2 ], [ true, "1 dan 2 ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b40b9e44978b8c3759fd4da119"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Hari ganteng\r\n  <li>Agung ganteng\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "2 dan 3 ", 0 ], [ false, "1 dan 2 ", 1 ], [ false, "1 dan 3", 2 ], [ false, "1 saja ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4e1d84d4cbb793cc67937b9a9"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Agung jelek\r\n  <li>Hari jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tidak ada ", 0 ], [ true, "1 saja ", 1 ], [ false, "2 dan 3", 2 ], [ false, "1 dan 3 ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4522144f4a22e4a22bdf4088f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Ashari jelek\r\n  <li>Gita cantik\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3", 0 ], [ true, "3 saja ", 1 ], [ false, "1 dan 2 ", 2 ], [ false, "semuanya benar ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4a1d64bcca3a446f2ea1c409c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Hari jelek\r\n  <li>Ashari ganteng\r\n  <li>Agung jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3 ", 0 ], [ false, "3 saja ", 1 ], [ true, "2 saja ", 2 ], [ false, "1 saja", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b44d214b1885833c1101f4e59f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Gita jelek\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "tidak ada ", 0 ], [ false, "2 dan 3", 1 ], [ false, "1 saja ", 2 ], [ false, "1 dan 3 ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4867c4699bdbb093610344390"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Thomas ganteng\r\n  <li>Ashari jelek\r\n  <li>Hari jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 2", 0 ], [ false, "1 dan 3 ", 1 ], [ false, "2 saja ", 2 ], [ true, "1 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4947140b1929ee84295811307"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Gita cantik\r\n  <li>Hari jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "3 saja", 0 ], [ true, "2 saja ", 1 ], [ false, "tidak ada ", 2 ], [ false, "2 dan 3 ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4b6d142758d15e6a6fb2f9a05"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Hari ganteng\r\n  <li>Hari jelek\r\n  <li>Thomas ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 dan 3 ", 0 ], [ false, "3 saja ", 1 ], [ false, "2 saja", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b41f264c32aed7c49a40a5aee7"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Gita jelek\r\n  <li>Agung jelek\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3", 0 ], [ false, "semuanya benar ", 1 ], [ true, "tidak ada ", 2 ], [ false, "1 saja ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b401e84915b650ea241c40eb39"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita jelek\r\n  <li>Ashari jelek\r\n  <li>Hari ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja ", 0 ], [ false, "tidak ada ", 1 ], [ true, "3 saja ", 2 ], [ false, "semuanya benar", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4efa5495c9c3770f4c45f5f74"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Ashari ganteng\r\n  <li>Ashari jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3", 0 ], [ false, "semuanya benar ", 1 ], [ true, "2 saja ", 2 ], [ false, "3 saja ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b40c1b42638254aea741c552a0"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Thomas jelek\r\n  <li>Ashari ganteng\r\n  <li>Ashari jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "semuanya benar ", 0 ], [ false, "tidak ada", 1 ], [ true, "2 saja ", 2 ], [ false, "2 dan 3 ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4e34b4d6890e779f868290b7b"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Hari ganteng\r\n  <li>Ashari jelek\r\n  <li>Ashari ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 2 ", 0 ], [ false, "2 saja", 1 ], [ true, "1 dan 3 ", 2 ], [ false, "3 saja ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4c2d242b5ba623b2e5888e378"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita jelek\r\n  <li>Ashari jelek\r\n  <li>Ashari ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3 ", 0 ], [ false, "semuanya benar ", 1 ], [ true, "3 saja ", 2 ], [ false, "2 dan 3", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4d3864ef99827857e39bee737"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Agung ganteng\r\n  <li>Ashari jelek\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 saja ", 0 ], [ false, "1 dan 3 ", 1 ], [ true, "2 saja ", 2 ], [ false, "tidak ada", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4896645a89b6bf6264d48434a"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Gita jelek\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 2 ", 0 ], [ true, "tidak ada ", 1 ], [ false, "3 saja", 2 ], [ false, "2 dan 3 ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4c095421dbd84da3492a214ce"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Thomas jelek\r\n  <li>Hari ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja ", 0 ], [ true, "1 dan 3 ", 1 ], [ false, "1 dan 2 ", 2 ], [ false, "3 saja", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b478244ab08afa1e08108035a9"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Thomas ganteng\r\n  <li>Ashari jelek\r\n  <li>Agung ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 saja ", 0 ], [ false, "1 dan 2", 1 ], [ false, "3 saja ", 2 ], [ true, "1 dan 3 ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b40c454fb4850465f26c49517f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Thomas ganteng\r\n  <li>Gita jelek\r\n  <li>Agung jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 saja", 0 ], [ false, "2 dan 3 ", 1 ], [ true, "1 saja ", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b41a09410a8d710fba24e5afbb"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Thomas ganteng\r\n  <li>Agung ganteng\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "3 saja ", 0 ], [ false, "1 saja ", 1 ], [ false, "1 dan 3", 2 ], [ true, "1 dan 2 ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4df164d63a5851807316f1779"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Thomas jelek\r\n  <li>Thomas ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3 ", 0 ], [ true, "1 dan 3 ", 1 ], [ false, "3 saja ", 2 ], [ false, "semuanya benar", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b482314832bd45c83c72ea83df"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari ganteng\r\n  <li>Ashari jelek\r\n  <li>Agung jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 3 ", 0 ], [ false, "2 dan 3 ", 1 ], [ true, "1 saja ", 2 ], [ false, "2 saja", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b417334870be248f6472acb724"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Ashari jelek\r\n  <li>Agung ganteng\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 2", 0 ], [ true, "1 dan 3 ", 1 ], [ false, "3 saja ", 2 ], [ false, "2 dan 3 ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4cf5c454cbef5ab6013624536"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Thomas jelek\r\n  <li>Gita cantik\r\n  <li>Agung ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "3 saja", 0 ], [ false, "tidak ada ", 1 ], [ false, "2 saja ", 2 ], [ true, "2 dan 3 ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b48725494198b10de4e231ebe9"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Gita cantik\r\n  <li>Thomas ganteng\r\n  <li>Thomas jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 saja ", 0 ], [ true, "1 dan 2 ", 1 ], [ false, "2 dan 3", 2 ], [ false, "tidak ada ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b453df4781956cb439761bcac2"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Hari ganteng\r\n  <li>Gita cantik\r\n  <li>Thomas ganteng\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "2 dan 3", 0 ], [ false, "2 saja ", 1 ], [ true, "semuanya benar ", 2 ], [ false, "1 saja ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4c49d42f698bfc8b18c278bc3"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Ashari ganteng\r\n  <li>Agung jelek\r\n  <li>Hari jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "1 dan 2 ", 0 ], [ false, "tidak ada ", 1 ], [ false, "semuanya benar", 2 ], [ true, "1 saja ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4738e452fbfafbd003f64687b"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Thomas jelek\r\n  <li>Agung ganteng\r\n  <li>Thomas ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tidak ada ", 0 ], [ true, "2 dan 3 ", 1 ], [ false, "2 saja", 2 ], [ false, "1 dan 3 ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4e02b4a3089fe41d0c8c2b59e"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Coba perhatikan kondisi kecakepan beberapa orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Ashari ganteng\r\n  <li>Ashari jelek\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "2 saja ", 0 ], [ false, "1 dan 3 ", 1 ], [ false, "1 saja", 2 ], [ false, "1 dan 2 ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4b94846679bb46298fdf42685"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Di bawah ini adalah opsi-opsi terkait kecakepan suatu orang.<br>\r\n<ol>\r\n  <li>Hari ganteng\r\n  <li>Hari jelek\r\n  <li>Agung ganteng\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "1 dan 3 ", 0 ], [ false, "1 saja ", 1 ], [ false, "2 saja ", 2 ], [ false, "2 dan 3", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b415b740b0a12202e20661b144"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari ganteng\r\n  <li>Agung ganteng\r\n  <li>Thomas ganteng\r\n</ol>\r\nFakta yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tidak ada ", 0 ], [ false, "2 saja ", 1 ], [ true, "semuanya benar ", 2 ], [ false, "1 dan 2", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4e86c47b2a1958d16aaf0dd7c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Ashari jelek\r\n  <li>Hari ganteng\r\n  <li>Gita cantik\r\n</ol>\r\nOpsi yang benar adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "2 dan 3 ", 0 ], [ false, "1 saja ", 1 ], [ false, "semuanya benar ", 2 ], [ false, "tidak ada", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b4c2a44e028fe62a14d25b419d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\n  Perhatikan opsi-opsi terkait kecakepan orang-orang di bawah ini!<br>\r\n<ol>\r\n  <li>Agung jelek\r\n  <li>Gita cantik\r\n  <li>Hari jelek\r\n</ol>\r\nOpsi yang nggak salah ialah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "2 saja ", 0 ], [ false, "1 dan 3 ", 1 ], [ false, "1 saja", 2 ], [ false, "2 dan 3 ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nCakep, dong. Masa iya nggak cakep.",
+  "images" : [ ],
+  "template-id" : "0337387cbd1942a7a7374a950025f4ae",
+  "topic" : "other",
+  "problem-id" : "033788b400e84f8e84e3f9a22cfc610c"
+} ]
