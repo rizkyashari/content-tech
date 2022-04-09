@@ -279,3 +279,10 @@
        distinct
        (take 300)
        shuffle))
+
+(defn ekonomi []
+  (->> (fn []
+         (let [hijau ["a" "b" "c"]
+               kuning ["e" "d" "e"]]
+           {:hijau (rand-nth hijau)
+            :kuning (rand-nth kuning)}))))
