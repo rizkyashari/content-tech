@@ -280,9 +280,256 @@
        (take 300)
        shuffle))
 
-(defn ekonomi []
+(defn pengertian-dan-tujuan-konsumsi []
   (->> (fn []
-         (let [hijau ["a" "b" "c"]
-               kuning ["e" "d" "e"]]
-           {:hijau (rand-nth hijau)
-            :kuning (rand-nth kuning)}))))
+         (let [type-soal (rand-nth [:S1 :S2 :S3 :S4])
+               coklat [["Di bawah ini yang merupakan definisi dari konsumsi adalah ...."
+                        "Definisi dari konsumsi adalah ...."
+                        "Pengertian dari konsumsi adalah ...."
+                        "Maksud dari konsumsi adalah ...."
+                        "Konsumsi adalah ...."]
+                       ["suatu kegiatan untuk menggunakan daya guna dari suatu barang atau jasa"
+                        "suatu kegiatan yang dilakukan dalam rangka menggunakan serta mengurangi nilai guna suatu barang atau jasa"
+                        "kegiatan mengurangi daya guna suatu barang atau jasa dengan tujuan memenuhi kebutuhan hidup"
+                        "suatu kegiatan yang dilakukan dalam rangka mengurangi daya guna suatu barang atau jasa dengan tujuan menghindari kepunahan manusia"
+                        "upaya penggunaan suatu benda atau jasa agar bisa manusia bisa bertahan hidup"
+                        "segala pekerjaan yang dapat mengurangi nilai kegunaan dari suatu barang atau jasa"]
+                       ["suatu kegiatan ekonomi yang menjembatani antara kegiatan produksi dan kegiatan konsumsi"
+                        "kegiatan untuk menambah nilai guna terhadap suatu barang atau jasa untuk memenuhi kebutuhan"
+                        "kegiatan menghasilkan barang atau jasa oleh orang atau badan tertentu"
+                        "kegiatan pemasaran barang atau jasa dari produsen ke konsumen"
+                        "upaya untuk menghasilkan suatu barang atau jasa dari produsen"
+                        "segala pekerjaan yang berkaitan dengan penyaluran suatu barang atau jasa dari produsen ke konsumen"]]
+               hijau [["Di bawah ini yang <b><u>bukan</u></b> merupakan definisi konsumsi adalah ...."
+                       "Berikut ini yang <b><u>bukan</u></b> merupakan pengertian dari konsumsi adalah ...."
+                       "Yang <b><u>bukan</u></b> merupakan definisi konsumsi  adalah ...."]
+                      ["suatu kegiatan ekonomi yang menjembatani antara kegiatan produksi dan kegiatan konsumsi"
+                       "kegiatan untuk menambah nilai guna terhadap suatu barang atau jasa untuk memenuhi kebutuhan"
+                       "kegiatan menghasilkan barang atau jasa oleh orang atau badan tertentu"
+                       "kegiatan pemasaran barang atau jasa dari produsen ke konsumen"
+                       "upaya untuk menghasilkan suatu barang atau jasa dari produsen"
+                       "segala pekerjaan yang berkaitan dengan penyaluran suatu barang atau jasa dari produsen ke konsumen"]
+                      ["suatu kegiatan untuk menggunakan daya guna dari suatu barang atau jasa"
+                       "suatu kegiatan yang dilakukan dalam rangka menggunakan serta mengurangi nilai guna suatu barang atau jasa"
+                       "kegiatan mengurangi daya guna suatu barang atau jasa dengan tujuan memenuhi kebutuhan hidup"
+                       "suatu kegiatan yang dilakukan dalam rangka mengurangi daya guna suatu barang atau jasa dengan tujuan menghindari kepunahan manusia"
+                       "upaya penggunaan suatu benda atau jasa agar bisa manusia bisa bertahan hidup"
+                       "segala pekerjaan yang dapat mengurangi nilai kegunaan dari suatu barang atau jasa"]]
+               ungu [["Di bawah ini yang merupakan salah satu tujuan konsumsi adalah ...."
+                      "Salah satu tujuan konsumsi adalah ...."
+                      "Contoh dari tujuan konsumsi adalah ...."
+                      "Berikut ini yang merupakan tujuan konsumsi adalah ...."
+                      "Tujuan konsumsi salah satunya adalah ...."]
+                     ["mengurangi nilai guna barang atau jasa secara bertahap"
+                      "menghabiskan nilai guna barang sekaligus"
+                      "memuaskan kebutuhan secara fisik"
+                      "memuaskan kebutuhan secara nonfisik"
+                      "menghindari kepunahan manusia"
+                      "memenuhi kebutuhan hidup secara perlahan atau sekaligus"]
+                     ["menghasilkan barang atau jasa"
+                      "meningkatkan kesejahteraan karyawan"
+                      "meningkatkan kemakmuran masyarakat"
+                      "meningkatkan keuntungan"
+                      "memperluas lapangan usaha"
+                      "menjaga kesinambungan usaha perusahaan"]]
+               biru [["Di bawah ini yang <b><u>bukan</u></b> merupakan salah satu tujuan konsumsi adalah ...."
+                      "Salah satu opsi di bawah ini yang <b><u>bukan</u></b> merupakan tujuan konsumsi adalah ...."
+                      "Contoh yang <b><u>bukan</u></b> merupakan dari tujuan konsumsi adalah ...."
+                      "Berikut ini yang <b><u>bukan</u></b> merupakan tujuan konsumsi adalah ...."
+                      "Yang <b><u>bukan</u></b> merupakan tujuan konsumsi di bawah ini adalah ...."]
+                     ["menghasilkan barang atau jasa"
+                      "meningkatkan kesejahteraan karyawan"
+                      "meningkatkan kemakmuran masyarakat"
+                      "meningkatkan keuntungan"
+                      "memperluas lapangan usaha"
+                      "menjaga kesinambungan usaha perusahaan"]
+                     ["mengurangi nilai guna barang atau jasa secara bertahap"
+                      "menghabiskan nilai guna barang sekaligus"
+                      "memuaskan kebutuhan secara fisik"
+                      "memuaskan kebutuhan secara nonfisik"
+                      "menghindari kepunahan manusia"
+                      "memenuhi kebutuhan hidup secara perlahan atau sekaligus"]]]
+         
+         (merge
+          (condp = type-soal
+            :S1 (merge {:soal (rand-nth (coklat 0))
+                        :pb (rand-nth (coklat 1))}
+                       (zipmap [:p1 :p2 :p3] (shuffle (coklat 2))))
+            :S2 (merge {:soal (rand-nth (hijau 0))
+                        :pb (rand-nth (hijau 1))}
+                       (zipmap [:p1 :p2 :p3] (shuffle (hijau 2))))
+            :S3 (merge {:soal (rand-nth (ungu 0))
+                        :pb (rand-nth (ungu 1))}
+                       (zipmap [:p1 :p2 :p3] (shuffle (ungu 2))))
+            :S4 (merge {:soal (rand-nth (biru 0))
+                        :pb (rand-nth (biru 1))}
+                       (zipmap [:p1 :p2 :p3] (shuffle (biru 2))))))))
+                       
+  (repeatedly 300)
+  distinct
+  shuffle
+  (take 108)
+  shuffle))
+
+(defn ciri-benda-konsumsi []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2 :S3 :S4])
+               pengantar (rand-nth ["Coba perhatikan opsi-opsi di bawah ini!"
+                                    "Perhatikan opsi-opsi di bawah ini!"
+                                    "Perhatikan pernyataan-pernyataan di bawah ini!"])
+               soal (rand-nth ["Dari opsi-opsi di atas, yang termasuk ciri benda konsumsi adalah ...."
+                               "Dari pernyataan-pernyataan di atas, yang termasuk ciri benda konsumsi adalah ...."
+                               "Yang termasuk ke dalam ciri benda konsumsi adalah ...."])
+               benda-konsumsi ["Benda konsumsi langsung dapat digunakan tanpa diolah."
+                               "Diperlukan pengorbanan untuk memperoleh benda konsumsi."
+                               "Benda yang dikonsumsi ditujukan untuk memenuhi kebutuhan hidup."
+                               "Nilai benda yang digunakan akan habis secara bertahap atau sekaligus."
+                               "Benda konsumsi akan dipasarkan di pasar <i>output</i>."
+                               "Benda konsumsi lebih banyak digunakan oleh konsumen."]
+               benda-konsumsi-1 (rand-nth benda-konsumsi)
+               benda-konsumsi-2 (rand-nth (remove #{benda-konsumsi-1} benda-konsumsi))
+               bukan-benda-konsumsi ["Benda konsumsi tidak bisa langsung digunakan tanpa diolah."
+                                     "Tidak diperlukan pengorbanan untuk memperoleh benda konsumsi."
+                                     "Benda yang dikonsumsi ditujukan untuk menghasilkan barang atau jasa."
+                                     "Nilai benda yang digunakan tidak akan habis."
+                                     "Benda konsumsi akan dipasarkan di pasar <i>input</i>."
+                                     "Benda konsumsi lebih banyak digunakan oleh produsen."]
+               bukan-benda-konsumsi-1 (rand-nth bukan-benda-konsumsi)
+               bukan-benda-konsumsi-2 (rand-nth (remove #{bukan-benda-konsumsi-1} bukan-benda-konsumsi))
+               jawaban ["1 saja"
+                        "2 saja"
+                        "semuanya"
+                        "tidak ada"]
+               salah (fn [x] (shuffle (filter #(not (= % x)) jawaban)))]
+                        
+         (merge
+          (condp = type-soal
+            :S1 (merge {:pengantar pengantar
+                        :fakta1 benda-konsumsi-1
+                        :fakta2 bukan-benda-konsumsi-2
+                        :soal soal
+                        :pb (jawaban 0)}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+            :S2 (merge {:pengantar pengantar
+                        :fakta1 bukan-benda-konsumsi-1
+                        :fakta2 benda-konsumsi-2
+                        :soal soal
+                        :pb (jawaban 1)}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+            :S3 (merge {:pengantar pengantar
+                        :fakta1 benda-konsumsi-1
+                        :fakta2 benda-konsumsi-2
+                        :soal soal
+                        :pb (jawaban 2)}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+            :S4 (merge {:pengantar pengantar
+                        :fakta1 bukan-benda-konsumsi-1
+                        :fakta2 bukan-benda-konsumsi-2
+                        :soal soal
+                        :pb (jawaban 3)}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))))))
+                       
+  (repeatedly 1000)
+  distinct
+  shuffle
+  (take 300)
+  shuffle))
+
+(defn pembagian-benda-konsumsi []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2 :S3 :S4 :S5 :S6 :S7 :S8])
+               pengantar (rand-nth ["Coba perhatikan opsi-opsi terkait benda konsumsi di bawah ini!"
+                                    "Perhatikan opsi-opsi terkait benda konsumsi di bawah ini!"
+                                    "Perhatikan contoh-contoh benda konsumsi di bawah ini!"])
+               pembagian-benda-konsumsi [" benda yang habis dalam sekali pemakaian "
+                                         " benda yang dapat dipakai berulang-ulang "]
+               awalan (rand-nth ["Dari opsi-opsi di atas, yang termasuk"
+                                 "Dari contoh-contoh benda di atas, yang termasuk"
+                                 "Yang termasuk ke dalam"])
+               soal (fn [x] (apply str awalan x "adalah ...."))
+               soal-1 (soal (pembagian-benda-konsumsi 0))
+               soal-2 (soal (pembagian-benda-konsumsi 1))
+               sekali-pakai ["Makanan"
+                             "Minuman"
+                             "Obat-obatan"]
+               sekali-pakai-1 (rand-nth sekali-pakai)
+               sekali-pakai-2 (rand-nth (remove #{sekali-pakai-1} sekali-pakai))
+               bahas-sekali-pakai (rand-nth ["Benda konsumsi yang habis dalam sekali pemakaian contohnya adalah makanan, minuman, dan obat-obatan."])
+               ulang-pakai ["Pakaian"
+                            "Tas"
+                            "Sepatu"
+                            "Perlengkapan dapur"
+                            "Televisi"]
+               ulang-pakai-1 (rand-nth ulang-pakai)
+               ulang-pakai-2 (rand-nth (remove #{ulang-pakai-1} ulang-pakai))
+               bahas-ulang-pakai (rand-nth ["Benda konsumsi yang dapat dipakai secara berulang-ulang contohnya adalah pakaian, tas, sepatu, televisi, perlengkapan dapur, rumah, dan lain-lain."])
+               jawaban ["1 saja"
+                        "2 saja"
+                        "semuanya"
+                        "tidak ada"]
+               salah (fn [x] (shuffle (filter #(not (= % x)) jawaban)))]
+               
+         (merge
+          (condp = type-soal
+            :S1 (merge {:pengantar pengantar
+                        :fakta1 sekali-pakai-1
+                        :fakta2 ulang-pakai-2
+                        :soal soal-1
+                        :pb (jawaban 0)
+                        :pembahasan bahas-sekali-pakai}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+            :S2 (merge {:pengantar pengantar
+                        :fakta1 ulang-pakai-1
+                        :fakta2 sekali-pakai-2
+                        :soal soal-2
+                        :pb (jawaban 0)
+                        :pembahasan bahas-ulang-pakai}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+            :S3 (merge {:pengantar pengantar
+                        :fakta1 ulang-pakai-1
+                        :fakta2 sekali-pakai-2
+                        :soal soal-1
+                        :pb (jawaban 1)
+                        :pembahasan bahas-sekali-pakai}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+            :S4 (merge {:pengantar pengantar
+                        :fakta1 sekali-pakai-1
+                        :fakta2 ulang-pakai-2
+                        :soal soal-2
+                        :pb (jawaban 1)
+                        :pembahasan bahas-ulang-pakai}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+            :S5 (merge {:pengantar pengantar
+                        :fakta1 sekali-pakai-1
+                        :fakta2 sekali-pakai-2
+                        :soal soal-1
+                        :pb (jawaban 2)
+                        :pembahasan bahas-sekali-pakai}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+            :S6 (merge {:pengantar pengantar
+                        :fakta1 ulang-pakai-1
+                        :fakta2 ulang-pakai-2
+                        :soal soal-2
+                        :pb (jawaban 2)
+                        :pembahasan bahas-ulang-pakai}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+            :S7 (merge {:pengantar pengantar
+                        :fakta1 ulang-pakai-1
+                        :fakta2 ulang-pakai-2
+                        :soal soal-1
+                        :pb (jawaban 3)
+                        :pembahasan bahas-sekali-pakai}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))
+            :S8 (merge {:pengantar pengantar
+                        :fakta1 sekali-pakai-1
+                        :fakta2 sekali-pakai-2
+                        :soal soal-2
+                        :pb (jawaban 3)
+                        :pembahasan bahas-ulang-pakai}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))))))
+                       
+  (repeatedly 1000)
+  distinct
+  shuffle
+  (take 300)
+  shuffle))
