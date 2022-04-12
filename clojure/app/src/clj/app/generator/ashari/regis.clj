@@ -107,4 +107,16 @@
    {:folder "templates/ips/smp_09"
     :file   "ekonomi_pembagian-benda-konsumsi.html"
     :topic  :smp-ips
-    :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pembagian-benda-konsumsi}])
+    :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pembagian-benda-konsumsi}
+   {:folder "templates/ips/smp_09"
+    :file   "ekonomi_pengertian-harga.html"
+    :topic  :smp-ips
+    :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pengertian-harga}
+   {:folder "templates/ips/smp_09"
+    :file   "ekonomi_fungsi-harga.html"
+    :topic  :smp-ips
+    :gen-fn app.generator.ashari.ips.smp_09.ekonomi/fungsi-harga}
+   {:folder "templates/ips/smp_09"
+    :file   "ekonomi_jenis-harga.html"
+    :topic  :smp-ips
+    :gen-fn app.generator.ashari.ips.smp_09.ekonomi/jenis-harga}])

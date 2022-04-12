@@ -533,3 +533,147 @@
   shuffle
   (take 300)
   shuffle))
+
+(defn pengertian-harga []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2])
+               soal-1 (rand-nth ["Di bawah ini yang merupakan definisi harga adalah ...."
+                                 "Definisi harga adalah ...."
+                                 "Pengertian harga adalah ...."
+                                 "Maksud dari harga adalah ...."
+                                 "Harga adalah ...."])
+               soal-2 (rand-nth ["Di bawah ini yang <b><u>bukan</u></b> merupakan definisi harga adalah ...."
+                                 "Berikut ini yang <b><u>bukan</u></b> merupakan pengertian harga adalah ...."
+                                 "Yang <b><u>bukan</u></b> merupakan definisi harga  adalah ...."
+                                 "Berikut ini adalah definisi harga, <b><i>kecuali</i></b> ...."
+                                 "Di bawah ini merupakan pengertian harga, <b><i>kecuali</i></b> ...."])
+               benar ["perwujudan nilai suatu barang atau jasa dalam satuan uang"
+                      "nilai yang diberikan pada barang atau jasa yang dipertukarkan"
+                      "nilai tukar suatu barang atau jasa yang dinyatakan dengan uang"
+                      "kemampuan membeli untuk mencapai kepuasan dan manfaat"
+                      "senilai uang yang harus dibayar oleh konsumen kepada penjual untuk memperoleh barang atau jasa"]
+               salah ["perwujudan jumlah suatu barang atau jasa dalam satuan kekayaan"
+                      "nilai yang diberikan pada barang atau jasa yang disimpan di suatu bank"
+                      "nilai jual suatu barang yang dinyatakan dengan emas"
+                      "kekuatan menjual untuk memperoleh keuntungan sebanyak-banyaknya"
+                      "senilai uang yang harus dibayar oleh produsen kepada konsumen untuk menghasilkan barang atau jasa"]]
+                      
+         (merge
+          (condp = type-soal
+            :S1 (merge {:soal soal-1
+                        :pb (rand-nth benar)}
+                       (zipmap [:p1 :p2 :p3] (shuffle salah)))
+            :S2 (merge {:soal soal-2
+                        :pb (rand-nth salah)}
+                       (zipmap [:p1 :p2 :p3] (shuffle benar)))))))
+                       
+  (repeatedly 100)
+  distinct
+  shuffle
+  (take 50)
+  shuffle))
+
+(defn fungsi-harga []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2])
+               soal-1 (rand-nth ["Di bawah ini yang merupakan salah satu fungsi harga adalah ...."
+                                 "Salah satu fungsi harga adalah ...."
+                                 "Contoh fungsi harga adalah ...."
+                                 "Berikut ini yang merupakan fungsi harga adalah ...."
+                                 "Fungsi harga salah satunya adalah ...."])
+               soal-2 (rand-nth ["Di bawah ini yang <b><u>bukan</u></b> merupakan fungsi harga adalah ...."
+                                 "Salah satu opsi di bawah ini yang <b><u>bukan</u></b> merupakan fungsi harga adalah ...."
+                                 "Di bawah ini merupakan fungsi harga, <b><i>kecuali</i></b> ...."
+                                 "Berikut ini merupakan fungsi harga, <b><i>kecuali</i></b> ...."
+                                 "Yang <b><u>bukan</u></b> merupakan fungsi harga adalah ...."])
+               benar ["acuan nilai jual suatu barang ataupun jasa"
+                      "alat pengukur dan pembeda suatu barang atau jasa"
+                      "mempermudah proses jual beli"
+                      "penentu keuntungan bagi penjual atau produsen"
+                      "acuan konsumen dalam menilai kualitas barang atau jasa"
+                      "menentukan daya beli konsumen dalam pengambilan keputusan"]
+               salah ["acuan nilai jual hanya untuk barang tertentu"
+                      "memperpanjang proses tawar-menawar dalam jual beli"
+                      "penentu faktor produksi bagi penjual atau produsen"
+                      "alat pengukur dan pembeda hanya untuk jasa tertentu"
+                      "acuan konsumen dalam menentukan harga jual barang"
+                      "menentukan daya jual konsumen dalam pengambilan keputusan"]]
+                      
+         (merge
+          (condp = type-soal
+            :S1 (merge {:soal soal-1
+                        :pb (rand-nth benar)}
+                       (zipmap [:p1 :p2 :p3] (shuffle salah)))
+            :S2 (merge {:soal soal-2
+                        :pb (rand-nth salah)}
+                       (zipmap [:p1 :p2 :p3] (shuffle benar)))))))
+                       
+  (repeatedly 100)
+  distinct
+  shuffle
+  (take 60)
+  shuffle))
+
+(defn jenis-harga []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2 :S3 :S4])
+               soal (rand-nth [" adalah maksud dari jenis harga ...."
+                               " merupakan pengertian dari jenis harga ...."
+                               " merupakan definisi dari jenis harga ...."])
+               subjektif [["Harga yang ditentukan berdasarkan opini seseorang terhadap harga pasaran barang atau jasa"
+                           "Perkiraan atas harga suatu barang atau jasa yang hendak diperjualbelikan"
+                           "Harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan"]
+                          ["subjektif"]
+                          ["Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan."]]
+               objektif [["Harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi"
+                          "Harga yang telah disetujui oleh penjual dan pembeli"
+                          "Hasil kesepakatan antara penjual dan pembeli terhadap harga suatu barang atau jasa"]
+                         ["objektif"
+                          "pasar"]
+                         ["Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi."]]
+               pokok [["Harga asli suatu produk sebelum menentukan keuntungan"
+                       "Nilai yang dikeluarkan oleh produsen dalam membuat suatu produk"
+                       "Harga sebenarnya dari suatu produk sebelum produsen menjual produk tersebut ke konsumen"]
+                      ["pokok"
+                       "biaya produksi"]
+                      ["Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan."]]
+               jual [["Harga pokok yang sudah ditambahkan keuntungan oleh penjual"
+                      "Harga biaya produksi yang sudah ditambahkan keuntungan oleh produsen"
+                      "Harga suatu barang atau jasa ketika sudah dijual kepada konsumen"]
+                     ["jual"]
+                     ["Harga jual adalah harga pokok yang sudah ditambahkan keuntungan oleh penjual."]]
+               benar-1 (rand-nth (subjektif 1))
+               benar-2 (rand-nth (objektif 1))
+               benar-3 (rand-nth (pokok 1))
+               benar-4 (rand-nth (jual 1))
+               jenis-all (concat (vector benar-1) (concat (vector benar-2) (concat (vector benar-3) (vector benar-4))))
+               salah (fn [x] (shuffle (filter #(not (= % x)) jenis-all)))]
+                     
+         (merge
+          (condp = type-soal
+            :S1 (merge {:definisi (rand-nth (subjektif 0))
+                        :soal soal
+                        :pb benar-1
+                        :pembahasan (rand-nth (subjektif 2))}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah benar-1))))
+            :S2 (merge {:definisi (rand-nth (objektif 0))
+                        :soal soal
+                        :pb benar-2
+                        :pembahasan (rand-nth (objektif 2))}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah benar-2))))
+            :S3 (merge {:definisi (rand-nth (pokok 0))
+                        :soal soal
+                        :pb benar-3
+                        :pembahasan (rand-nth (pokok 2))}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah benar-3))))
+            :S4 (merge {:definisi (rand-nth (jual 0))
+                        :soal soal
+                        :pb benar-4
+                        :pembahasan (rand-nth (jual 2))}
+                       (zipmap [:p1 :p2 :p3] (shuffle (salah benar-4))))))))
+                       
+  (repeatedly 100)
+  distinct
+  shuffle
+  (take 54)
+  shuffle))
