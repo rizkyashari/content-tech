@@ -1,0 +1,208 @@
+; Connecting ...
+; No nrepl port file found.
+; Bad url: 
+; Jacking in...
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"0.9.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.27.4"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉user꞉>  ; Use `alt+enter` to evaluate
+; Jack-in done.
+clj꞉user꞉> "data and functions"
+"data and functions"
+clj꞉_basic-1.01-intro-to-clojure꞉> (+ 2 3)
+5
+clj꞉_basic-1.01-intro-to-clojure꞉> (def aku "rizky")
+#'_basic-1.01-intro-to-clojure/aku
+clj꞉_basic-1.01-intro-to-clojure꞉> aku
+"rizky"
+clj꞉_basic-1.01-intro-to-clojure꞉> 
+6
+clj꞉user꞉> 
+6
+clj꞉user꞉> 
+7
+clj꞉user꞉> 
+7
+clj꞉user꞉> 
+7
+clj꞉user꞉> 
+7
+clj꞉user꞉> 
+7
+clj꞉user꞉> 
+27/4
+clj꞉user꞉> 
+7
+clj꞉user꞉> 
+234
+clj꞉user꞉> 
+; Syntax error reading source at (REPL:11:1).
+; Invalid token: /e
+clj꞉user꞉> 
+; Syntax error reading source at (REPL:11:1).
+; Invalid token: /er
+clj꞉user꞉> 
+\a
+clj꞉user꞉> 
+\a
+clj꞉user꞉> 
+\b
+clj꞉user꞉> 
+\b
+clj꞉user꞉> 
+; Syntax error reading source at (REPL:13:1).
+; Unsupported character: \er
+clj꞉user꞉> 
+; Syntax error reading source at (REPL:13:1).
+; Unsupported character: \er
+clj꞉user꞉> 
+\e
+clj꞉user꞉> 
+22
+clj꞉user꞉> 
+2
+clj꞉user꞉> 
+6
+clj꞉user꞉> 
+3
+clj꞉user꞉> 
+2
+clj꞉user꞉> 
+2
+clj꞉user꞉> 
+2
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+false
+clj꞉user꞉> 
+false
+clj꞉user꞉> 
+false
+clj꞉user꞉> 
+false
+clj꞉user꞉> 
+false
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+false
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+false
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+false
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+; Execution error (ClassCastException) at user/eval8031 (form-init1771909608849468521.clj:22).
+; class clojure.core$_GT_ cannot be cast to class java.lang.Number (clojure.core$_GT_ is in unnamed module of loader 'app'; java.lang.Number is in module java.base of loader 'bootstrap')
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+false
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+true
+clj꞉user꞉> 
+"1n"
+clj꞉user꞉> 
+"indonesia"
+clj꞉user꞉> 
+"ashari"
+clj꞉user꞉> 
+(1 2 3 4 5)
+clj꞉user꞉> 
+; Execution error (ClassCastException) at user/eval8053 (form-init1771909608849468521.clj:4).
+; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉user꞉> 
+(1 3 4 7 5)
+clj꞉user꞉> 
+(2 3 4 7 5)
+clj꞉user꞉> 
+(1 2 3 4)
+clj꞉user꞉> 
+[1 2 3 4 5]
+clj꞉user꞉> 
+[5 2 1 4 3]
+clj꞉user꞉> 
+[32 12 45 67 12]
+clj꞉user꞉> 
+[true false false true]
+clj꞉user꞉> 
+[11 23 false true]
+clj꞉user꞉> 
+[11 23 false true]
+clj꞉user꞉> 
+:tidak-umum
+clj꞉user꞉> 
+:harus-nyambung
+clj꞉user꞉> 
+:supaya-bisa
+clj꞉user꞉> 
+[1 2 3 true false :keyword :apapun]
+clj꞉user꞉> 
+[1 2 3 [4 5] "nothing"]
+clj꞉user꞉> 
+"string"
+clj꞉user꞉> 
+"assalamualaikum"
+clj꞉user꞉> 
+"waalaikumussalam"
+clj꞉user꞉> 
+(\a \s \s \a \l \a \m \u \a \l \a \i \k \u \m)
+clj꞉user꞉> 
+{:name "Ashari", :umur "22", :alamat "rejotangan", :jumlah-istri "1"}
+clj꞉user꞉> 
+{:name "Ashari", :umur "22", :alamat "rejotangan", :jumlah-istri "belum punya"}
+clj꞉user꞉> 
+{}
+clj꞉user꞉> 
+; Syntax error reading source at (REPL:30:8).
+; Map literal must contain an even number of forms
+clj꞉user꞉> 
+#{1 3 2}
+clj꞉user꞉> 
+#{1 3 2}
+clj꞉user꞉> 
+#{4 3 2 5}
+clj꞉user꞉> 
+#{1 {:key "value", 4 true} 3 2}
+clj꞉user꞉> 
+#{"string" 1 {:key "value", 4 true} 3 2}
+clj꞉user꞉> 
+#'user/koko
+clj꞉user꞉> 
+123
+clj꞉user꞉> 
+#'user/xoxo
+clj꞉user꞉> 
+[12 23 34 45]
+clj꞉user꞉> 
+#'user/nama-dalem
+clj꞉user꞉> 
+"Joko Anwar"
+clj꞉user꞉> 
