@@ -1,0 +1,12 @@
+{:server  {:port 4000
+           :path "/"
+           :host "localhost"}
+ :content {;; "https://www.zenius.net/assets/pratice-img/" ;; legacy
+           ;; "https://cdn.zenius.net/assets/zencore/staging/" ;; staging
+           ;; "https://cdn.zenius.net/assets/zencore/production/"  ;; production
+           :target-sys-img-url "https://cdn.zenius.net/assets/zencore/production/"
+           :source             "content/source/ashari/"
+           :target             "content/target/ashari"
+           :zp-problem-source  {:sda "content-legacy/zp-problem/source/sd/"
+                                :smp "content-legacy/zp-problem/source/smp/"
+                                :sma "content-legacy/zp-problem/source/sma/"}}}

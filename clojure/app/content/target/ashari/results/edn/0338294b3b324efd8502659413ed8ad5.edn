@@ -1,0 +1,750 @@
+[{:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Thailand adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Bangkok " 0]
+    [false "Singapore " 1]
+    [false "Bandar Seri Begawan " 2]
+    [false "Kuala Lumpur" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75ed6640bf861eaf5d78e25ada"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Brunei Darussalam adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Nusantara" 0]
+    [false "Singapore " 1]
+    [false "Bangkok " 2]
+    [true "Bandar Seri Begawan " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda753c80451eb78f9ce70137231f"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Malaysia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Kuala Lumpur " 0]
+    [false "Bandar Seri Begawan " 1]
+    [false "Singapore " 2]
+    [false "Bangkok" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75809e44d4a2e69a49ebe0693f"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Bandar Seri Begawan " 0]
+    [false "Kuala Lumpur " 1]
+    [true "Nusantara " 2]
+    [false "Old York" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda7587314d9bac7404e4e8807cc7"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Brunei Darussalam adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Bangkok" 0]
+    [true "Bandar Seri Begawan " 1]
+    [false "Kuala Lumpur " 2]
+    [false "Nusantara " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda755e98409287856c6723624293"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Brunei Darussalam adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Nusantara " 0]
+    [false "Kuala Lumpur" 1]
+    [false "Antarctic City " 2]
+    [true "Bandar Seri Begawan " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75fa9b4096b32c93153106f2dd"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Malaysia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Rapture " 0]
+    [false "Singapore " 1]
+    [true "Kuala Lumpur " 2]
+    [false "Bandar Seri Begawan" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75b040486fb3ccaa62cb488103"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Singapore adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Kuala Lumpur " 0]
+    [true "Singapore " 1]
+    [false "Nusantara " 2]
+    [false "Bandar Seri Begawan" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75c63043e4888fae18b39d5484"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Kuala Lumpur " 0]
+    [false "Rapture " 1]
+    [true "Nusantara " 2]
+    [false "Bangkok" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75d6054affa523fcdd859b7c9d"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Singapore adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Old York" 0]
+    [false "Kuala Lumpur " 1]
+    [false "Nusantara " 2]
+    [true "Singapore " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75af81480284d27744a8a26028"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Brunei Darussalam adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Bangkok " 0]
+    [true "Bandar Seri Begawan " 1]
+    [false "Nusantara" 2]
+    [false "Kuala Lumpur " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75f7d24063b1cf7e516ae0a549"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Singapore " 0]
+    [true "Nusantara " 1]
+    [false "Bangkok " 2]
+    [false "Antarctic City" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75584f45bda3ce121c231f475e"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Thailand adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Perth " 0]
+    [false "Nusantara" 1]
+    [true "Bangkok " 2]
+    [false "Bandar Seri Begawan " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda756ffd4ecc8e26e1acd2473054"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Singapore" 0]
+    [false "Kuala Lumpur " 1]
+    [true "Nusantara " 2]
+    [false "Bangkok " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75ebd1425a972bd5dd06290851"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Bangkok " 0]
+    [true "Nusantara " 1]
+    [false "Singapore " 2]
+    [false "Bandar Seri Begawan" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda753d534f01a268efa99c8b06c9"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Bandar Seri Begawan" 0]
+    [true "Nusantara " 1]
+    [false "Bangkok " 2]
+    [false "Kuala Lumpur " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75fd954381adf082ae6e6e6f10"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Malaysia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Nusantara " 0]
+    [true "Kuala Lumpur " 1]
+    [false "Bandar Seri Begawan " 2]
+    [false "Bangkok" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75d6e34163816fc04d338b0ef1"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Singapore adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Singapore " 0]
+    [false "Rapture" 1]
+    [false "Nusantara " 2]
+    [false "Kuala Lumpur " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda752c1241a4a10a85225a7d3c8f"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Singapore adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Singapore " 0]
+    [false "Bangkok " 1]
+    [false "Bandar Seri Begawan" 2]
+    [false "Kuala Lumpur " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75e55c4bcba63dca506d2b479a"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Singapore adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Bandar Seri Begawan " 0]
+    [false "Nusantara" 1]
+    [true "Singapore " 2]
+    [false "Bangkok " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda758dda4831a1cdef9a24782447"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Thailand adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Rapture" 0]
+    [false "Singapore " 1]
+    [false "Kuala Lumpur " 2]
+    [true "Bangkok " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75eeba4534a09af73bfad970b2"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Nusantara " 0]
+    [false "Perth " 1]
+    [false "Bangkok" 2]
+    [false "Singapore " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda7506fb4519bbf998a487b8d8b1"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Thailand adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Nusantara " 0]
+    [false "Kuala Lumpur" 1]
+    [false "Singapore " 2]
+    [true "Bangkok " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda7572014717a8e4bd019a351953"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Malaysia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Kuala Lumpur " 0]
+    [false "Singapore " 1]
+    [false "Bandar Seri Begawan " 2]
+    [false "Bangkok" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda7560914d369391664d3c803b6c"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Thailand adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Antarctic City" 0]
+    [false "Nusantara " 1]
+    [false "Bandar Seri Begawan " 2]
+    [true "Bangkok " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75bd2b4de3a47bfa2547d14a02"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Antarctic City" 0]
+    [false "Kuala Lumpur " 1]
+    [false "Singapore " 2]
+    [true "Nusantara " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75814d4e64aa76c6bc62286b91"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Brunei Darussalam adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Kuala Lumpur" 0]
+    [false "Singapore " 1]
+    [false "Nusantara " 2]
+    [true "Bandar Seri Begawan " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda750df74902a785fe42529258a9"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Singapore adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Rapture " 0]
+    [false "Kuala Lumpur " 1]
+    [true "Singapore " 2]
+    [false "Bandar Seri Begawan" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75948c46afbb0ce0843ba469e0"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Antarctic City " 0]
+    [true "Nusantara " 1]
+    [false "Singapore " 2]
+    [false "Kuala Lumpur" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75d138408195c1d4f94a8cc084"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Brunei Darussalam adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Nusantara " 0]
+    [true "Bandar Seri Begawan " 1]
+    [false "Singapore" 2]
+    [false "Rockport " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75be1f44e28ff0bdb16129033c"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Malaysia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Nusantara " 0]
+    [true "Kuala Lumpur " 1]
+    [false "Bangkok " 2]
+    [false "Bandar Seri Begawan" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75cf2446349ac3268f697107d0"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Singapore " 0]
+    [false "Bandar Seri Begawan " 1]
+    [true "Nusantara " 2]
+    [false "Bangkok" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75052c4173a61f76c53b72d4eb"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Thailand adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Bangkok " 0]
+    [false "Singapore " 1]
+    [false "Kuala Lumpur " 2]
+    [false "Bandar Seri Begawan" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75b3674ad882d9bab879cd80be"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Brunei Darussalam adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Old York" 0]
+    [true "Bandar Seri Begawan " 1]
+    [false "Kuala Lumpur " 2]
+    [false "Nusantara " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda7585374c9daad65bf0d7b3c116"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Singapore " 0]
+    [false "Bangkok" 1]
+    [true "Nusantara " 2]
+    [false "Old York " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda7585da466f8328d2e0c9380187"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Brunei Darussalam adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Bangkok " 0]
+    [false "Rockport " 1]
+    [true "Bandar Seri Begawan " 2]
+    [false "Singapore" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75f09f456c902824f112c4e083"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Thailand adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Nusantara" 0]
+    [true "Bangkok " 1]
+    [false "Singapore " 2]
+    [false "Rapture " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda754d624bb9b93e2f10fd1b244f"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Malaysia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Kuala Lumpur " 0]
+    [false "Singapore " 1]
+    [false "Bangkok " 2]
+    [false "Nusantara" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda7504044737b620082231b23aa6"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Singapore adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Bangkok" 0]
+    [false "Kuala Lumpur " 1]
+    [false "Nusantara " 2]
+    [true "Singapore " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75924346b9befc5f8ae6cc87b7"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Bangkok" 0]
+    [false "Old York " 1]
+    [true "Nusantara " 2]
+    [false "Singapore " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda754ed040b4b85ed0806a0cdfa1"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Antarctic City" 0]
+    [false "Kuala Lumpur " 1]
+    [false "Bangkok " 2]
+    [true "Nusantara " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda7528f743d8b5b966ce4ae33a20"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Singapore adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Singapore " 0]
+    [false "Bangkok " 1]
+    [false "Rapture" 2]
+    [false "Kuala Lumpur " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75e60f47be8e7707e0bf9aaecb"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Brunei Darussalam adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Bandar Seri Begawan " 0]
+    [false "Antarctic City " 1]
+    [false "Singapore " 2]
+    [false "Bangkok" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75b2e943459addd29cb15aef7e"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Brunei Darussalam adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Bangkok " 0]
+    [false "Singapore" 1]
+    [true "Bandar Seri Begawan " 2]
+    [false "Nusantara " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda7547bb4ab6a5d8dcc422eead80"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Brunei Darussalam adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Singapore" 0]
+    [false "Nusantara " 1]
+    [true "Bandar Seri Begawan " 2]
+    [false "Old York " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75ed114a3cb8e85df6b51fcd2d"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Brunei Darussalam adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Bandar Seri Begawan " 0]
+    [false "Perth " 1]
+    [false "Bangkok" 2]
+    [false "Nusantara " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda754c4e42aa8897a5fc50f2632a"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Nusantara " 0]
+    [false "Rapture " 1]
+    [false "Bandar Seri Begawan " 2]
+    [false "Singapore" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda7553df415bbd9fd4fe7a3e33d3"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Singapore adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Bandar Seri Begawan " 0]
+    [false "Kuala Lumpur" 1]
+    [true "Singapore " 2]
+    [false "Nusantara " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75d5744074bc5c36d07c07d272"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Singapore adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "Singapore " 0]
+    [false "Rockport " 1]
+    [false "Nusantara " 2]
+    [false "Bangkok" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda75d0a94c54b64be50d6c67e9b0"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nIbukota negara Singapore adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "Rockport" 0]
+    [false "Bandar Seri Begawan " 1]
+    [true "Singapore " 2]
+    [false "Kuala Lumpur " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan mengenai ibukota negara-negara di bawah ini, ya!<br>\r\n<br>\r\n<ol>\r\n<li>Ibukota negara Indonesia adalah Nusantara.</li>\r\n<li>Ibukota negara Malaysia adalah Kuala Lumpur.</li>\r\n<li>Ibukota negara Brunei adalah Bandar Seri Begawan.</li>\r\n<li>Ibukota negara Thailand adalah Bangkok.</li>\r\n<li>Ibukota negara Singapore adalah Singapore.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!<br>\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :topic :smp-ips,
+  :problem-id "033eda7579b9433baa02b239e02dc881"}]

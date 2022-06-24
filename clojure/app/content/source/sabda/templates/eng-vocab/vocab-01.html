@@ -1,0 +1,28 @@
+
+{:template-id "a613bf004b9e11ebb2bcb7375dfef9af", :topic :english}
+
+==sepa==
+
+
+<p>
+    Sekadar latian vocab yak, for living things and manusia konteksnya <br><br>
+    {{q}}
+</p>
+
+==options==
+
+true::{{pb}} ==
+false::{{p1}} ==
+false::{{p2}} ==
+false::{{p3}} ==
+false::{{p4}}
+
+==sepa==
+
+<ul>
+    {% for word in words %}
+    <li>{{word.single}} : {{word.plural}} : {{word.indo}}</li>
+    {% endfor %}
+</ul>
+
+

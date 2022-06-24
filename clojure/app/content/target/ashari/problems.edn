@@ -1,28 +1,255 @@
 [{:topic :smp-ips,
-  :filename "Geo001_BenuaEropa.html",
+  :filename "geografi_benua-eropa.html",
   :template-id "03375abb5dc846ed8a80de5461aace5a",
   :edn-file "03375abb5dc846ed8a80de5461aace5a.edn"}
  {:topic :smp-ips,
-  :filename "Geo001_BenuaAfrika.html",
+  :filename "geografi_benua-afrika.html",
   :template-id "03375ab9c0ca4ab49db94dd4a078b22a",
   :edn-file "03375ab9c0ca4ab49db94dd4a078b22a.edn"}
  {:topic :smp-ips,
-  :filename "Geo002_Jepang.html",
+  :filename "geografi_jepang.html",
   :template-id "03375abf771e479abbd9cddeafad87ce",
   :edn-file "03375abf771e479abbd9cddeafad87ce.edn"}
  {:topic :other,
-  :filename "CakepNggak.html",
+  :filename "coba_cakep-nggak.html",
   :template-id "0337387cbd1942a7a7374a950025f4ae",
   :edn-file "0337387cbd1942a7a7374a950025f4ae.edn"}
  {:topic :smp-ips,
-  :filename "Geo002_Mesir.html",
+  :filename "geografi_mesir.html",
   :template-id "03375b49ff9f488385582013607b1593",
   :edn-file "03375b49ff9f488385582013607b1593.edn"}
  {:topic :smp-ips,
-  :filename "IPS-Geo004_PengertianInteraksi.html",
+  :filename "geografi_pengertian-interaksi.html",
   :template-id "033787bc1e3443aa8f8dc411ad0701cc",
   :edn-file "033787bc1e3443aa8f8dc411ad0701cc.edn"}
  {:topic :smp-ips,
-  :filename "IPS-Geo004_InteraksiAntarruang.html",
+  :filename "geografi_interaksi-antarruang.html",
   :template-id "0337889f9a594bb79ccb2ec1ddf2fa13",
-  :edn-file "0337889f9a594bb79ccb2ec1ddf2fa13.edn"}]
+  :edn-file "0337889f9a594bb79ccb2ec1ddf2fa13.edn"}
+ {:topic :smp-ips,
+  :filename "geografi_sdm-australia.html",
+  :template-id "0337fc2139ce4f8f954d2acf0520c689",
+  :edn-file "0337fc2139ce4f8f954d2acf0520c689.edn"}
+ {:topic :smp-ips,
+  :filename "geografi_ibukota-negara.html",
+  :template-id "0338294b3b324efd8502659413ed8ad5",
+  :edn-file "0338294b3b324efd8502659413ed8ad5.edn"}
+ {:topic :smp-ips,
+  :filename "geografi_potensi-sda-australia.html",
+  :template-id "03384401c28d40639436a97836134896",
+  :edn-file "03384401c28d40639436a97836134896.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_faktor-pendorong-perubahan-sosial-budaya.html",
+  :template-id "0338225d45994b9d91e49f34620028bd",
+  :edn-file "0338225d45994b9d91e49f34620028bd.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_faktor-penghambat-perubahan-sosial-budaya.html",
+  :template-id "033889cf795d4a4b892b6a174c979a1a",
+  :edn-file "033889cf795d4a4b892b6a174c979a1a.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_faktor-pendorong-perubahan-sosial-budaya.html",
+  :template-id "0338225d45994b9d91e49f34620028bd",
+  :edn-file "0338225d45994b9d91e49f34620028bd.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_pengertian-globalisasi.html",
+  :template-id "0338e978e68448f096699d1c092c7510",
+  :edn-file "0338e978e68448f096699d1c092c7510.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_ciri-ciri-globalisasi.html",
+  :template-id "0338eabfe21d4afdbf6b9f626d084abc",
+  :edn-file "0338eabfe21d4afdbf6b9f626d084abc.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_bentuk-globalisasi-budaya-dan-ekonomi.html",
+  :template-id "0338ecabf73c453f98b2ab7f19b6e412",
+  :edn-file "0338ecabf73c453f98b2ab7f19b6e412.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_upaya-menghadapi-globalisasi-budaya.html",
+  :template-id "03390b6f90984c428653ac822d85453f",
+  :edn-file "03390b6f90984c428653ac822d85453f.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_upaya-menghadapi-globalisasi-iptek.html",
+  :template-id "03390bfb7efe482892cd7479b1f43bfa",
+  :edn-file "03390bfb7efe482892cd7479b1f43bfa.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_upaya-menghadapi-globalisasi-ekonomi.html",
+  :template-id "03390c5038794f7f902591db768f978d",
+  :edn-file "03390c5038794f7f902591db768f978d.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_faktor-produksi.html",
+  :template-id "03393081356747a9b33bac73fd2bfdb5",
+  :edn-file "03393081356747a9b33bac73fd2bfdb5.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_persebaran-produksi-kedelai.html",
+  :template-id "033930969658421c965449374effc132",
+  :edn-file "033930969658421c965449374effc132.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pengertian-dan-tujuan-distribusi.html",
+  :template-id "03394adf91744c97848f65ba99ff9b29",
+  :edn-file "03394adf91744c97848f65ba99ff9b29.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_distribusi-antardaerah.html",
+  :template-id "03394b9572c048839dc66ce679737b36",
+  :edn-file "03394b9572c048839dc66ce679737b36.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pengertian-dan-tujuan-konsumsi.html",
+  :template-id "0339d7c04004463fbedd1688ff82b63d",
+  :edn-file "0339d7c04004463fbedd1688ff82b63d.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_ciri-benda-konsumsi.html",
+  :template-id "0339d82270cd4650aa82c622f949cd43",
+  :edn-file "0339d82270cd4650aa82c622f949cd43.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pembagian-benda-konsumsi.html",
+  :template-id "0339d8a3ffe14112939d41dfb33d96a8",
+  :edn-file "0339d8a3ffe14112939d41dfb33d96a8.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pengertian-harga.html",
+  :template-id "0339f92f16f94e3e864b96565aa1c00b",
+  :edn-file "0339f92f16f94e3e864b96565aa1c00b.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_fungsi-harga.html",
+  :template-id "0339f979a6ee48ae9b2014dfdec2d027",
+  :edn-file "0339f979a6ee48ae9b2014dfdec2d027.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_jenis-harga.html",
+  :template-id "0339f9c212fd484f8d2884df9b24f16e",
+  :edn-file "0339f9c212fd484f8d2884df9b24f16e.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pengertian-pasar.html",
+  :template-id "033a1922371b464494536ce88364f0ee",
+  :edn-file "033a1922371b464494536ce88364f0ee.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_fungsi-pasar.html",
+  :template-id "033a19900f8540c29e645f8ef04ce77d",
+  :edn-file "033a19900f8540c29e645f8ef04ce77d.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_jenis-pasar.html",
+  :template-id "033a2bdf11a942709d6db9eb423b4de9",
+  :edn-file "033a2bdf11a942709d6db9eb423b4de9.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_perdagangan-indonesia-1.html",
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :edn-file "033a2c4455234f14b0d2370d0f148170.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pengertian-migrasi.html",
+  :template-id "033ac6729c8641c7b2731d56f1d1b3ea",
+  :edn-file "033ac6729c8641c7b2731d56f1d1b3ea.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_jenis-migran-antardaerah.html",
+  :template-id "033ac722367046f7b741d9f01371ada0",
+  :edn-file "033ac722367046f7b741d9f01371ada0.edn"}
+ {:topic :smp-ips,
+  :filename
+  "ekonomi_pengaruh-ketergantungan-antarruang-pada-migrasi-1.html",
+  :template-id "033ae4419ede4f54a3bbe55113632663",
+  :edn-file "033ae4419ede4f54a3bbe55113632663.edn"}
+ {:topic :smp-ips,
+  :filename
+  "ekonomi_pengaruh-ketergantungan-antarruang-pada-migrasi-2.html",
+  :template-id "033ae4db5d4d4e9c93ef599913ce6975",
+  :edn-file "033ae4db5d4d4e9c93ef599913ce6975.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pengertian-transportasi.html",
+  :template-id "033ae522e56e4acc9886288546322052",
+  :edn-file "033ae522e56e4acc9886288546322052.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_transportasi-indonesia-era-kolonial.html",
+  :template-id "033b0ccaadc240d9921ea665b24ae33c",
+  :edn-file "033b0ccaadc240d9921ea665b24ae33c.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_transportasi-indonesia-era-orde-lama.html",
+  :template-id "033b0d2ec7a74639be91c8faeaca8a86",
+  :edn-file "033b0d2ec7a74639be91c8faeaca8a86.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_transportasi-indonesia-era-orde-baru.html",
+  :template-id "033b0d64c578465385568887baf26267",
+  :edn-file "033b0d64c578465385568887baf26267.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pendidikan-di-indonesia-1.html",
+  :template-id "033b255c4bf347c28b1098dcd758c052",
+  :edn-file "033b255c4bf347c28b1098dcd758c052.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pendidikan-di-indonesia-2.html",
+  :template-id "033b2589aa3145e7b932e650bfbc2c57",
+  :edn-file "033b2589aa3145e7b932e650bfbc2c57.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_hakikat-perubahan-sosial-budaya-2.html",
+  :template-id "033bd2f8456a4dfbbdfe81239601aed7",
+  :edn-file "033bd2f8456a4dfbbdfe81239601aed7.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_karakteristik-perubahan-sosial-budaya-2.html",
+  :template-id "033bd3481ae047e98a18be6eff7fa414",
+  :edn-file "033bd3481ae047e98a18be6eff7fa414.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_bentuk-perubahan-sosial-budaya-dari-waktu.html",
+  :template-id "033bd37d91fe4eaaa7a369a9ee699be0",
+  :edn-file "033bd37d91fe4eaaa7a369a9ee699be0.edn"}
+ {:topic :smp-ips,
+  :filename
+  "sosiologi_bentuk-perubahan-sosial-budaya-dari-pengaruh.html",
+  :template-id "033bd3abdab646dd8e3454ce712ac7db",
+  :edn-file "033bd3abdab646dd8e3454ce712ac7db.edn"}
+ {:topic :smp-ips,
+  :filename
+  "sosiologi_bentuk-perubahan-sosial-budaya-dari-perencanaan.html",
+  :template-id "033bd3d7f47549b98e104f4f72d1c44b",
+  :edn-file "033bd3d7f47549b98e104f4f72d1c44b.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_faktor-penyebab-perubahan-sosial-budaya-2.html",
+  :template-id "033bf3e6c2b74bea9d29205d9cb2cfc1",
+  :edn-file "033bf3e6c2b74bea9d29205d9cb2cfc1.edn"}
+ {:topic :smp-ips,
+  :filename
+  "sosiologi_faktor-pendorong-perubahan-sosial-budaya-2.html",
+  :template-id "033bf40ea21a4ef485c8dc9713a44e19",
+  :edn-file "033bf40ea21a4ef485c8dc9713a44e19.edn"}
+ {:topic :smp-ips,
+  :filename
+  "sosiologi_faktor-penghambat-perubahan-sosial-budaya-2.html",
+  :template-id "033bf435d69b4a0081b6c22ea48fdd5f",
+  :edn-file "033bf435d69b4a0081b6c22ea48fdd5f.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_ciri-ciri-globalisasi-2.html",
+  :template-id "033bf4594655463b8f8b79d56c4d1069",
+  :edn-file "033bf4594655463b8f8b79d56c4d1069.edn"}
+ {:topic :smp-ips,
+  :filename "sosiologi_bentuk-globalisasi-budaya.html",
+  :template-id "033bf48ed98045b1b30da0429dc69c4b",
+  :edn-file "033bf48ed98045b1b30da0429dc69c4b.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pendidikan-di-dunia-1.html",
+  :template-id "033eb5fb5e4547b79663c5a3ff43c74c",
+  :edn-file "033eb5fb5e4547b79663c5a3ff43c74c.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pendidikan-di-dunia-2.html",
+  :template-id "033eb63bb2074a14804a12d42d172dab",
+  :edn-file "033eb63bb2074a14804a12d42d172dab.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pendidikan-di-dunia-3.html",
+  :template-id "033eb654dc6e46c5b4686bc466708990",
+  :edn-file "033eb654dc6e46c5b4686bc466708990.edn"}
+ {:topic :smp-ips,
+  :filename
+  "ekonomi_pengaruh-ketergantungan-antarruang-pada-pendidikan.html",
+  :template-id "033eb683af71490c98f12683e442c61c",
+  :edn-file "033eb683af71490c98f12683e442c61c.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_pengertian-lembaga-ekonomi.html",
+  :template-id "033eb6cb6e48414d899ee8542b78c866",
+  :edn-file "033eb6cb6e48414d899ee8542b78c866.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_lembaga-ekonomi-di-indonesia-1.html",
+  :template-id "033eb6f5f3ec4b1a97d3027e31964914",
+  :edn-file "033eb6f5f3ec4b1a97d3027e31964914.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_lembaga-ekonomi-di-indonesia-2.html",
+  :template-id "033eb72c4bfb4d028d9137fc669d27d6",
+  :edn-file "033eb72c4bfb4d028d9137fc669d27d6.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_lembaga-ekonomi-di-indonesia-3.html",
+  :template-id "33eb76dca894c99a680ae5b9611dc7c",
+  :edn-file "33eb76dca894c99a680ae5b9611dc7c.edn"}
+ {:topic :smp-ips,
+  :filename "ekonomi_lembaga-ekonomi-di-indonesia-4.html",
+  :template-id "033eb7ae2c1348119a592a76cba0a1c3",
+  :edn-file "033eb7ae2c1348119a592a76cba0a1c3.edn"}]

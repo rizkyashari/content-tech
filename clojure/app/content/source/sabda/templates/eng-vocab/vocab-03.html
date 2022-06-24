@@ -1,0 +1,28 @@
+
+{:template-id "be41c0104ba111ebb2bcb7375dfef9af", :topic :english}
+
+==sepa==
+
+
+<p>
+    Sekadar latian vocab yak, konteksnya clothes & aksesoris orang "normal"<br><br>
+    {{q}}
+</p>
+
+==options==
+
+true::{{pb}} ==
+false::{{p1}} ==
+false::{{p2}} ==
+false::{{p3}} ==
+false::{{p4}}
+
+==sepa==
+
+<ul>
+    {% for word in words %}
+    <li>{{word.single}} : {{word.plural}} : {{word.indo}}</li>
+    {% endfor %}
+</ul>
+
+

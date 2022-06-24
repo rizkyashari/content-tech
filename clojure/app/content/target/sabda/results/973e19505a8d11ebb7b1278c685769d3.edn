@@ -1,0 +1,3824 @@
+[{:soal
+  {:soal-text "\n\n\n    <p>\n        1/7 ____ 2/7\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f84277905a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/4 ____ -1/6\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ea05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -9/5 ____ -1\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ea15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -9/10 ____ -1/2\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ea25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/8 ____ -7/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ea35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/10 ____ 1/3\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ea45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/5 ____ 7/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ea55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/4 ____ -1/4\n    </p>\n\n",
+   :options [[false "> " 0] [true "= " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ea65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/10 ____ 6/5\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ea75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3 ____ 1/6\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ea85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/3 ____ -1/10\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ea95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/3 ____ -1/8\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eaa5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/5 ____ -1\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eab5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/7 ____ -6/7\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eac5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/9 ____ 3/10\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ead5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/3 ____ 4/5\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eae5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ 3/4\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eaf5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        8/9 ____ -3/8\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eb05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/8 ____ 3/5\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eb15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/10 ____ -3/2\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eb25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ 3/10\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eb35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/5 ____ 4/3\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eb45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/9 ____ 5/3\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eb55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/2 ____ -1/5\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eb65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ 1\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eb75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ -9/7\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eb85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/9 ____ -9/2\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eb95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/9 ____ -3/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eba5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        8/3 ____ -5/6\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ebb5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/5 ____ -2/7\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ebc5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/2 ____ -9/4\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ebd5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 2/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ebe5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ 1/6\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ebf5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/3 ____ -2\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ec05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/2 ____ -1/2\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ec15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/3 ____ 2/3\n    </p>\n\n",
+   :options [[true "= " 0] [false "<" 1] [false "> " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ec25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ -1/4\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ec35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ 7/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ec45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/3 ____ -3/5\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ec55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/4 ____ 7/6\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ec65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/9 ____ -2/7\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ec75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/2 ____ -3/8\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ec85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ -1\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ec95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/5 ____ 5/6\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eca5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2 ____ 2/5\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ecb5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/7 ____ -1/3\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ecc5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2 ____ 4/3\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ecd5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/4 ____ -5/4\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ece5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ 2\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ecf5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/7 ____ -8/7\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ed05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ -1/9\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ed15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/2 ____ -5/2\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ed25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/4 ____ -3/4\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ed35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/4 ____ 2/3\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ed45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/7 ____ -5/6\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ed55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/5 ____ 1\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ed65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/4 ____ -1/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ed75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/7 ____ 3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ed85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/3 ____ 4/7\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ed95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ -7/10\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eda5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ 1/2\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429edb5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/5 ____ -7/9\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429edc5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ -1/2\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429edd5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 1/10\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ede5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/4 ____ -1/8\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429edf5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/4 ____ 2/5\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ee05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/4 ____ 5/7\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ee15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 2/7\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ee25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/6 ____ 7/6\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ee35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/7 ____ -1/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ee45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ -4\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ee55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/4 ____ 2/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ee65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        6/5 ____ 9/8\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ee75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/9 ____ -2/5\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ee85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/5 ____ -7/4\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ee95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/7 ____ 5/4\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eea5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/4 ____ 7/10\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eeb5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/3 ____ 1/5\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eec5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3 ____ -1/2\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eed5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/6 ____ -3/5\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eee5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/4 ____ 2/5\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eef5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/4 ____ -2/5\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ef05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        8/7 ____ -3/2\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ef15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 1/8\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ef25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/10 ____ -4/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ef35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ -3/2\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ef45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/9 ____ -5/4\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ef55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/7 ____ 3/8\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ef65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/3 ____ -3/2\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ef75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 3/2\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ef85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/3 ____ -5/4\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ef95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 6/7\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429efa5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/7 ____ 1/2\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429efb5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/9 ____ 9/8\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429efc5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/3 ____ -4/3\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429efd5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ -8/9\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429efe5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -9/10 ____ 2/5\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429eff5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/3 ____ -2/9\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f005a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/5 ____ -2/3\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f015a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/6 ____ 2/5\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f025a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ -1/6\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f035a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2 ____ -3\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f045a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/4 ____ -1/2\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f055a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/3 ____ 1\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f065a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -6/5 ____ 4/7\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f075a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/9 ____ 7/4\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f085a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 1/3\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f095a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ -8/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f0a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/2 ____ -1/9\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f0b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ -5/3\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f0c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4 ____ 4/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f0d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/4 ____ -4/9\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f0e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/5 ____ 1/4\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f0f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/3 ____ -7/4\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f105a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/3 ____ 8/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f115a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/7 ____ 4/9\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f125a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/4 ____ 2\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f135a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3 ____ -3/7\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f145a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/5 ____ 3\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f155a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/2 ____ 1/2\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f165a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4 ____ -2/5\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f175a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 3\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f185a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ -1/10\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f195a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/6 ____ -9/5\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f1a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/4 ____ 5/8\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f1b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/3 ____ -2/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f1c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/9 ____ 4/3\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f1d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/5 ____ -1/3\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f1e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/3 ____ -1/4\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f1f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/3 ____ 1\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f205a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/3 ____ 1/2\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f215a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/8 ____ -5/3\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f225a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/9 ____ 1\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f235a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/3 ____ -2/7\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f245a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/5 ____ -9/2\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f255a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/3 ____ -3/2\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f265a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -9/10 ____ -3/2\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f275a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/9 ____ -2/3\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f285a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/3 ____ -7/10\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f295a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ 7/4\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f2a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/9 ____ 2/5\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f2b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 6/7\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f2c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/9 ____ 9/10\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f2d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ -7/10\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f2e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ 2/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f2f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/4 ____ -1\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f305a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ -8/3\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f315a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2 ____ -9/8\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f325a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2 ____ 2/7\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f335a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/7 ____ 1\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f345a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/9 ____ -1\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f355a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/7 ____ -1/3\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f365a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ -3/4\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f375a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/4 ____ 5/9\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f385a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/7 ____ -1\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f395a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/3 ____ -2/5\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f3a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/5 ____ -3/10\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f3b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/9 ____ 4/3\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f3c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/5 ____ -5/4\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f3d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 1/7\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f3e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2 ____ 1/4\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f3f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/7 ____ 3/5\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f405a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/3 ____ -6/7\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f415a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/4 ____ -1/8\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f425a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -9/4 ____ -7/6\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f435a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/7 ____ 7/4\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f445a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/3 ____ 1\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f455a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/8 ____ 1\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f465a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/6 ____ -3/7\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f475a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        8/3 ____ -1/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f485a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 7/9\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f495a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ 1\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f4a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/8 ____ 7/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f4b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ -5/4\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f4c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/5 ____ -3/2\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f4d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/9 ____ -1/8\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f4e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/3 ____ -5/3\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f4f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/5 ____ 7/2\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f505a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/4 ____ 1/6\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f515a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/8 ____ -1/2\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f525a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/3 ____ 1/10\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f535a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/4 ____ -1/2\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f545a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/3 ____ -1\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f555a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/8 ____ -1\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f565a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/9 ____ -1/2\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f575a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/2 ____ -4/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f585a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/5 ____ -4/5\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f595a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/9 ____ 4/3\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f5a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ -2/5\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f5b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/7 ____ -1\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f5c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/4 ____ -1/5\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f5d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ -2\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f5e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/5 ____ 1/2\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f5f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/3 ____ 9/10\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f605a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/5 ____ 1/9\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f615a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        6/7 ____ -1/9\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f625a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/3 ____ -5/8\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f635a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/4 ____ -1\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f645a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ -1/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f655a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/6 ____ -7/4\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f665a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/10 ____ 5/2\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f675a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/7 ____ 2/3\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f685a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/8 ____ 2/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f695a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/10 ____ -9/8\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f6a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2 ____ -2\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f6b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        6/7 ____ -2/7\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f6c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/3 ____ -1/6\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f6d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/2 ____ -1/7\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f6e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/5 ____ -5/7\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f6f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/3 ____ 2/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f705a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/6 ____ -2/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f715a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/3 ____ 3\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f725a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/6 ____ 3\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f735a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/8 ____ 1\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f745a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/3 ____ 9/5\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f755a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2 ____ -8/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f765a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/4 ____ -3/7\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f775a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        8/7 ____ -1/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f785a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/9 ____ -3/8\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f795a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/8 ____ -2/3\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f7a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/3 ____ -7/3\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f7b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/10 ____ -1/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f7c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/9 ____ 1/2\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f7d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        6/7 ____ -3/4\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f7e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/4 ____ 4/7\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f7f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/8 ____ 1/2\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f805a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/4 ____ -1/3\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f815a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/9 ____ -3/2\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f825a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/7 ____ -3/2\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f835a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ 2/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f845a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/3 ____ 1/2\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f855a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/5 ____ 1/3\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f865a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/5 ____ 2/3\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f875a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/5 ____ -3\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f885a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/5 ____ -8/9\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f895a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ -2\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f8a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/6 ____ -3/5\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f8b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 9/10\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f8c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3 ____ 1/2\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f8d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/2 ____ -7/9\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f8e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 1\n    </p>\n\n",
+   :options [[false "<" 0] [false "> " 1] [true "= " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f8f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ -8/3\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f905a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/9 ____ -1/2\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f915a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/7 ____ -4/3\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f925a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/5 ____ -1\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f935a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ -2\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f945a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        6/5 ____ -7/3\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f955a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/7 ____ 1/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f965a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/5 ____ -4/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f975a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2 ____ 1/9\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f985a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/5 ____ -5/8\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f995a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/5 ____ -2/7\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f9a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/9 ____ -1\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f9b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3 ____ -2\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f9c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3 ____ 2/5\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f9d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/3 ____ -4\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f9e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ 2/3\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429f9f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/8 ____ -4/5\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fa05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/8 ____ -1/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fa15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/4 ____ 1\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fa25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/8 ____ -2/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fa35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/4 ____ -1/4\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fa45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/3 ____ 3/2\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fa55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/6 ____ -3\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fa65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/3 ____ 2/7\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fa75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ 1/5\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fa85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/2 ____ 9/7\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fa95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/5 ____ -3/7\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429faa5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/4 ____ -5/9\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fab5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/4 ____ -7/8\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fac5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 2/5\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fad5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/7 ____ -2/7\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fae5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/5 ____ -2/9\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429faf5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/9 ____ -1/5\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fb05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4 ____ -3/2\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fb15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/5 ____ 1/5\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fb25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/9 ____ -2/5\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fb35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/4 ____ 3/8\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fb45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ -3/2\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fb55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/3 ____ 6/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fb65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/2 ____ -5/6\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fb75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 9/4\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fb85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/5 ____ 3/2\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fb95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/10 ____ -5/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fba5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -9/8 ____ 1/2\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fbb5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/10 ____ 3/2\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fbc5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/10 ____ -2/9\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fbd5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/10 ____ 5/3\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fbe5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/5 ____ -1/10\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fbf5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/8 ____ -2/9\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fc05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3 ____ -3/2\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fc15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/8 ____ 7/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fc25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/5 ____ -7/6\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fc35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/9 ____ -4/3\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fc45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/5 ____ -3/7\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fc55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -9/5 ____ 5/6\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fc65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/3 ____ -3/8\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fc75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ -3/4\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fc85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/5 ____ 8/3\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fc95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/3 ____ 7/2\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fca5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2 ____ -1/2\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fcb5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/5 ____ 1/3\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fcc5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/3 ____ 1\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fcd5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/5 ____ 9/4\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fce5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/7 ____ -7/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fcf5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/6 ____ -1/4\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fd05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/5 ____ -1\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fd15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/3 ____ 1/7\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fd25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/10 ____ -2/9\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fd35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ -8/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fd45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/3 ____ 9/4\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fd55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ -1/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fd65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/2 ____ -8/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fd75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/8 ____ -4/7\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fd85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2 ____ 3/4\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fd95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/5 ____ -7/10\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fda5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ -3/7\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fdb5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/5 ____ 1/4\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fdc5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/10 ____ 1/4\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fdd5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/4 ____ -3/7\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fde5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ -2/7\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fdf5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/3 ____ -9/5\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fe05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/6 ____ 4/3\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fe15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ 4/9\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fe25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/5 ____ -5/4\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fe35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 3/7\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fe45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/8 ____ -8/3\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fe55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/4 ____ -7/3\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fe65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/8 ____ -3/8\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fe75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/2 ____ -3/2\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fe85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/3 ____ -5/4\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fe95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/5 ____ 1/3\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fea5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/3 ____ 7/5\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429feb5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/3 ____ 3/8\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fec5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/5 ____ 4/7\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fed5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/8 ____ -1\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fee5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/6 ____ -5/4\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fef5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ -8/9\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ff05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/2 ____ -7/8\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ff15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2 ____ -1\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ff25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ -5/7\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ff35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/4 ____ 9/5\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ff45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/4 ____ 7/2\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ff55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/5 ____ 8/9\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ff65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/3 ____ -7/6\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ff75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/8 ____ 1/6\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ff85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 9/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ff95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -9/10 ____ 3/4\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ffa5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/8 ____ -1\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ffb5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -6/7 ____ 7/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ffc5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/2 ____ -5/2\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ffd5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/5 ____ 2/5\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429ffe5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/2 ____ 1/4\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f8429fff5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/6 ____ -5/3\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0005a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -9/4 ____ -6/7\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0015a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/3 ____ 1/10\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0025a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ 1/2\n    </p>\n\n",
+   :options [[false "> " 0] [true "= " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0035a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        8/3 ____ 2/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0045a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ -9/8\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0055a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 9/8\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0065a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/9 ____ -6/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0075a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/3 ____ -2/3\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0085a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/4 ____ -1/10\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0095a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/6 ____ -1\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a00a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ -1\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a00b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/4 ____ 3/4\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a00c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 4/9\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a00d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ 1\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a00e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/4 ____ -1/2\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a00f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/3 ____ -1/2\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0105a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        6/7 ____ 2/9\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0115a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/8 ____ 1/7\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0125a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/5 ____ -1/4\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0135a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/8 ____ -2/7\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0145a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ 9/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0155a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/7 ____ -3/4\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0165a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/9 ____ -7/6\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0175a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2 ____ -7/8\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0185a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/3 ____ 3/7\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0195a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -6/5 ____ -3/2\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a01a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/6 ____ 1/3\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a01b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -9/5 ____ -3/5\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a01c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/7 ____ -9/7\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a01d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ 8/3\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a01e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 9/10\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a01f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/7 ____ 2/3\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0205a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/10 ____ 7/8\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0215a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/3 ____ 9/8\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0225a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/5 ____ 2/7\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0235a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/7 ____ 9/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0245a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ -1/2\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0255a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/7 ____ -4\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0265a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/10 ____ 5/4\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0275a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ 7/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0285a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 6/5\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0295a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/10 ____ 3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a02a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -9/8 ____ 9/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a02b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/2 ____ -3/7\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a02c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        6/5 ____ -1\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a02d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/2 ____ 1\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a02e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/4 ____ -9/7\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a02f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4 ____ 3/5\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0305a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/3 ____ -1/5\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0315a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -9/5 ____ 2/3\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0325a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3 ____ 1\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0335a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/8 ____ 7/2\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0345a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        3/7 ____ 4/3\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0355a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/2 ____ 2/3\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0365a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/9 ____ -1\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0375a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/7 ____ -9/10\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0385a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/4 ____ 1\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0395a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/5 ____ 5/9\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a03a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/4 ____ 3/5\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a03b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/7 ____ -8/9\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a03c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/2 ____ 3/8\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a03d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/4 ____ -4/7\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a03e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/10 ____ -2\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a03f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4 ____ -7/2\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0405a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ -6/7\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0415a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/9 ____ -5/6\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0425a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ -3/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0435a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/5 ____ -5/3\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0445a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        6/7 ____ -9/7\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0455a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/10 ____ -1/3\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0465a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/3 ____ -2/7\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0475a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/3 ____ 1/2\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0485a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/3 ____ -3/7\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0495a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/6 ____ -1/4\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a04a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/9 ____ -1\n    </p>\n\n",
+   :options [[false "<" 0] [true "> " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a04b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 3/10\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a04c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/6 ____ -9/10\n    </p>\n\n",
+   :options [[false "= " 0] [false "<" 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a04d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/5 ____ -8/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a04e5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/7 ____ 1/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a04f5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/9 ____ 1/2\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0505a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/7 ____ 1\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0515a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/8 ____ 1/6\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0525a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/4 ____ 4/3\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0535a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/5 ____ -2/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0545a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/8 ____ 3\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0555a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/3 ____ -8/7\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0565a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        6/7 ____ 5/4\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0575a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2 ____ -3/2\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0585a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ -8/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a0595a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1 ____ 1/4\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a05a5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/9 ____ -9/10\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a05b5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -4/9 ____ -1\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a05c5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/8 ____ 5/6\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842a05d5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 4/3\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5b05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/3 ____ -1/5\n    </p>\n\n",
+   :options [[true "> " 0] [false "= " 1] [false "<" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5b15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/5 ____ -7/2\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5b25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/7 ____ 3/2\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5b35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -7/4 ____ -1\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5b45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/7 ____ 1/10\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5b55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -6/5 ____ 1/2\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5b65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        2/5 ____ 7/10\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5b75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -5/3 ____ -4/5\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5b85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 7/4\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5b95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/9 ____ -3/5\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5ba5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 7/9\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5bb5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        5/3 ____ 1/2\n    </p>\n\n",
+   :options [[false "= " 0] [true "> " 1] [false "<" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5bc5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/5 ____ 8/3\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5bd5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -2/7 ____ 1/7\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5be5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/5 ____ 1/3\n    </p>\n\n",
+   :options [[true "> " 0] [false "<" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5bf5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        9/2 ____ -8/7\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5c05a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        8/9 ____ 7/2\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5c15a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ 1/2\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5c25a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        7/8 ____ 4/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5c35a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        4/7 ____ 9/4\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5c45a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -6/5 ____ 5/9\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5c55a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ 8/3\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5c65a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3 ____ -5/9\n    </p>\n\n",
+   :options [[false "= " 0] [true "< " 1] [false ">" 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5c75a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1/2 ____ 5/6\n    </p>\n\n",
+   :options [[true "< " 0] [false "= " 1] [false ">" 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5c85a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ -1/2\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5c95a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3/8 ____ -7/5\n    </p>\n\n",
+   :options [[false "<" 0] [false "= " 1] [true "> " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5ca5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -3 ____ -3/5\n    </p>\n\n",
+   :options [[true "< " 0] [false ">" 1] [false "= " 2]],
+   :jawaban "A"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5cb5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -8/3 ____ -6/5\n    </p>\n\n",
+   :options [[false ">" 0] [true "< " 1] [false "= " 2]],
+   :jawaban "B"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5cc5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        1/4 ____ 4/3\n    </p>\n\n",
+   :options [[false "= " 0] [false ">" 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5cd5a9311ebb7b1278c685769d3"}
+ {:soal
+  {:soal-text "\n\n\n    <p>\n        -1 ____ -9/10\n    </p>\n\n",
+   :options [[false ">" 0] [false "= " 1] [true "< " 2]],
+   :jawaban "C"},
+  :bahas "\n\n    Elah, ini mah bisa yak\n\n",
+  :template-id "973e19505a8d11ebb7b1278c685769d3",
+  :topic :math,
+  :problem-id "f842c5ce5a9311ebb7b1278c685769d3"}]

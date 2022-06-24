@@ -1,0 +1,39 @@
+[{:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya ruh pasti punya pencipta.<br>\n  Pencipta pertama itu punya ruh.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pencipta pertama gak punya pencipta " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan pencipta pertama tapi punya pencipta " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya ruh pasti (b) pencipta.<br>\n  (c) pencipta pertama itu (a) punya ruh.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f32be05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d81105a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang ada pasti punya pencipta.<br>\n  Pencipta pertama itu ada.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pencipta pertama gak punya pencipta " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan pencipta pertama tapi punya pencipta " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) ada pasti (b) pencipta.<br>\n  (c) pencipta pertama itu (a) ada.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f32be05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d81115a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang hidup di alam pasti punya pencipta.<br>\n  Pencipta pertama itu hidup di alam.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pencipta pertama gak punya pencipta " 0]
+    [false "Bukan pencipta pertama tapi punya pencipta " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) hidup di alam pasti (b) pencipta.<br>\n  (c) pencipta pertama itu (a) hidup di alam.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f32be05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d81125a7c11eb8b9672c8190c1ce1"}]
