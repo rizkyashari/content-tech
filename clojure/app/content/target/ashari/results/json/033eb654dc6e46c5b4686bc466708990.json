@@ -1,0 +1,826 @@
+[ {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "sumber daya manusia yang sangat berkualitas ", 0 ], [ false, "kualitas dan persebaran guru yang merata ", 1 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 2 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75bc9c455c9a54cd99f386dcd3"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Berikut ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "kurangnya pengaturan proses dan target belajar siswa ", 0 ], [ false, "sumber daya manusia yang sangat berkualitas", 1 ], [ false, "kualitas dan persebaran guru yang merata ", 2 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7584ad41cfbdc8dd791fb6c9c8"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 0 ], [ true, "kualitas dan persebaran guru yang belum merata ", 1 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ false, "sumber daya manusia yang sangat berkualitas ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75e858422fb3aa63260530287f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 0 ], [ false, "sumber daya manusia yang sangat berkualitas ", 1 ], [ false, "kualitas dan persebaran guru yang merata ", 2 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7530eb4d6e8d29e7621b0b0664"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata ", 0 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 1 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 2 ], [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7556f1418faeddaba9a5530f1c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 0 ], [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 1 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ false, "kualitas dan persebaran guru yang merata", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75888b43ae9609cb24d5d0c476"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Berikut ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 0 ], [ false, "sumber daya manusia yang sangat berkualitas ", 1 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 2 ], [ false, "kualitas dan persebaran guru yang merata ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda759c2d476ebf918b96effc015c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 0 ], [ false, "kualitas dan persebaran guru yang merata ", 1 ], [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ false, "sumber daya manusia yang sangat berkualitas", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75ae8442bc81f869f27fd091c0"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 1 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 2 ], [ false, "kualitas dan persebaran guru yang merata ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75fe7c43f5af86408076d12a3d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "kurangnya pengaturan proses dan target belajar siswa ", 0 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar", 1 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ false, "kualitas dan persebaran guru yang merata ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda751bd746c78b4a04f34a9ca6e4"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Berikut ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 0 ], [ false, "kualitas dan persebaran guru yang merata ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar", 2 ], [ true, "infrastruktur dan sumber daya pendidikan yang belum merata ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda750d7a4b52bae765a6df292a8f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata", 0 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 1 ], [ false, "sumber daya manusia yang sangat berkualitas ", 2 ], [ true, "infrastruktur dan sumber daya pendidikan yang belum merata ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda755381488ab1356c3f0bf3319d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 0 ], [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 2 ], [ false, "kualitas dan persebaran guru yang merata", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75984a4b37bc0c36c90d263c0f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata ", 0 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 2 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75de514a8da9dbc23a3adef03d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata ", 0 ], [ true, "infrastruktur dan sumber daya pendidikan yang belum merata ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 2 ], [ false, "sumber daya manusia yang sangat berkualitas", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75c4e046ed95330e59e547af12"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "sumber daya manusia yang sangat berkualitas ", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 1 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75f6734aa5bc6f2a02b5f923f5"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 1 ], [ true, "infrastruktur dan sumber daya pendidikan yang belum merata ", 2 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75160249eab5db658d1ab13ebb"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 0 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 1 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 2 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75ef434c35ac004b09bbf65293"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Berikut ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata", 0 ], [ false, "sumber daya manusia yang sangat berkualitas ", 1 ], [ true, "kualitas dan persebaran guru yang belum merata ", 2 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75c7984c5884784f513ed45287"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "sumber daya manusia yang sangat berkualitas", 0 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 1 ], [ false, "kualitas dan persebaran guru yang merata ", 2 ], [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7543ba4340ae7ccaddc28ebe16"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 0 ], [ false, "sumber daya manusia yang sangat berkualitas", 1 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 2 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda759a944f168d21de2bc2a095c1"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Berikut ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 2 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7501424278a6db6861f3eb9cd2"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 0 ], [ false, "kualitas dan persebaran guru yang merata ", 1 ], [ true, "infrastruktur dan sumber daya pendidikan yang belum merata ", 2 ], [ false, "sumber daya manusia yang sangat berkualitas", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda757f834472870e5ecf54b3bdd5"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "budaya orang Indonesia mendukung siswa untuk belajar", 0 ], [ true, "kualitas dan persebaran guru yang belum merata ", 1 ], [ false, "sumber daya manusia yang sangat berkualitas ", 2 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7579994d24ac5bc85380fcbc69"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "kurangnya pengaturan proses dan target belajar siswa ", 0 ], [ false, "kualitas dan persebaran guru yang merata ", 1 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 2 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75ebd849beba32cbfdcf68f3e3"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 0 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 1 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 2 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda755e824f0da71a4a16293dae29"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "sumber daya manusia yang sangat berkualitas", 0 ], [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 1 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7556cc45c4b560a1e095e1fb0c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Berikut ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 1 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 2 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7502d14f7084e7c23832bb8c22"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 0 ], [ false, "kualitas dan persebaran guru yang merata", 1 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 2 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda752ee54727a198bb0ca92cdc21"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 0 ], [ false, "sumber daya manusia yang sangat berkualitas", 1 ], [ false, "kualitas dan persebaran guru yang merata ", 2 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda758c93441bbb1b568c942f190f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 0 ], [ true, "infrastruktur dan sumber daya pendidikan yang belum merata ", 1 ], [ false, "sumber daya manusia yang sangat berkualitas", 2 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7540f145f4a9553a8a99715c33"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata ", 0 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 1 ], [ false, "sumber daya manusia yang sangat berkualitas", 2 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7505fc42e587fe085710d53726"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 0 ], [ false, "sumber daya manusia yang sangat berkualitas", 1 ], [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7590e144f99ab9f3b26363b2f6"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "kualitas dan persebaran guru yang belum merata ", 0 ], [ false, "kualitas dan persebaran guru yang merata ", 1 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75b7d2422397b7f4fe966b47ef"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "budaya orang Indonesia mendukung siswa untuk belajar", 0 ], [ false, "kualitas dan persebaran guru yang merata ", 1 ], [ true, "kualitas dan persebaran guru yang belum merata ", 2 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda754988414d9df9676921697d7d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Berikut ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar", 2 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75bf5b43faaa8a7a48eac82ae8"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "budaya orang Indonesia mendukung siswa untuk belajar", 0 ], [ false, "sumber daya manusia yang sangat berkualitas ", 1 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ true, "kualitas dan persebaran guru yang belum merata ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda757d7d4d269caee08148912f32"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata ", 0 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 1 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 2 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7508b84b55a5b069cb181eda20"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "budaya orang Indonesia mendukung siswa untuk belajar", 0 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 1 ], [ true, "kualitas dan persebaran guru yang belum merata ", 2 ], [ false, "sumber daya manusia yang sangat berkualitas ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75200549eea31c7783d6a13999"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 0 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 1 ], [ true, "infrastruktur dan sumber daya pendidikan yang belum merata ", 2 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7541b047a78bee72ae600b715c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Berikut ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 0 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 1 ], [ false, "sumber daya manusia yang sangat berkualitas", 2 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75932d4a4a95f2c9e0cf7478e8"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata ", 0 ], [ false, "sumber daya manusia yang sangat berkualitas ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar", 2 ], [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda750f4a4be490db24d122f9ab10"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata ", 0 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar", 1 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 2 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda757dd34e80ad1f9e17302a3493"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata ", 0 ], [ false, "sumber daya manusia yang sangat berkualitas", 1 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 2 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75ab7143bfad388adb2e6b12cf"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata ", 0 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 1 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia", 2 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75f9744b66868673548200586d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 0 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 2 ], [ false, "sumber daya manusia yang sangat berkualitas", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda756f4f477b81b8c00a824e91de"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 0 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 1 ], [ false, "kualitas dan persebaran guru yang merata ", 2 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7523014ef8aec785ecea3fcaa7"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Berikut ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "kualitas dan persebaran guru yang belum merata ", 0 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 1 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ false, "kualitas dan persebaran guru yang merata", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75fcdf46ab80e9db3c16913a77"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 0 ], [ false, "sumber daya manusia yang sangat berkualitas", 1 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 2 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7566b343fca717042ae31294b2"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "infrastruktur dan sumber daya pendidikan yang belum merata ", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 1 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ false, "kualitas dan persebaran guru yang merata ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75b739426e90c413e466545ee3"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia", 0 ], [ false, "kualitas dan persebaran guru yang merata ", 1 ], [ false, "sumber daya manusia yang sangat berkualitas ", 2 ], [ true, "infrastruktur dan sumber daya pendidikan yang belum merata ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7581e84680b01b2f9110d5fb4a"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Berikut ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 0 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia", 1 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 2 ], [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda759cba4808a2eba4167bf4dc35"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "budaya orang Indonesia mendukung siswa untuk belajar", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 1 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 2 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7561b54a8ca391be3f53d427eb"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "sumber daya manusia yang sangat berkualitas", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 1 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 2 ], [ false, "kualitas dan persebaran guru yang merata ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda755b4642d98879452201ad443f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 0 ], [ true, "infrastruktur dan sumber daya pendidikan yang belum merata ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 2 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda753cd54903a098eb3a62aab139"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia", 0 ], [ false, "sumber daya manusia yang sangat berkualitas ", 1 ], [ false, "kualitas dan persebaran guru yang merata ", 2 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda750ecf4ea492986e06592acb40"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 0 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 1 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7577f842ada4a7e4e1c2b97645"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 0 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 1 ], [ false, "kualitas dan persebaran guru yang merata ", 2 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda758f804eff94be984951259abc"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 1 ], [ false, "sumber daya manusia yang sangat berkualitas ", 2 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda754bdf4640a1717461544decef"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 0 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 1 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 2 ], [ false, "sumber daya manusia yang sangat berkualitas", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda754c6b457a94010ce36e96b2a5"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 1 ], [ false, "sumber daya manusia yang sangat berkualitas ", 2 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7552de48c9bbc610d7eaedfa9e"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Berikut ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 1 ], [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ false, "sumber daya manusia yang sangat berkualitas", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75ed4b43538bf0bfd45b0647b5"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 0 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 1 ], [ false, "sumber daya manusia yang sangat berkualitas", 2 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75d4a242199e31ed5a7e872570"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata ", 0 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 1 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 2 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7521e044d39bacb1c1bb54c4bd"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "infrastruktur dan sumber daya pendidikan yang belum merata ", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 2 ], [ false, "kualitas dan persebaran guru yang merata", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75ec10492eb2165047810c2f6b"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "rendahnya kemampuan akademis siswa-siswa di Indonesia ", 0 ], [ false, "sumber daya manusia yang sangat berkualitas ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 2 ], [ false, "kualitas dan persebaran guru yang merata", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7576e6475fb9b3979f8349250e"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "kualitas dan persebaran guru yang merata", 0 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 1 ], [ true, "kualitas dan persebaran guru yang belum merata ", 2 ], [ false, "sumber daya manusia yang sangat berkualitas ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75a9e441a992ce3b73b84e57b1"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 0 ], [ false, "sumber daya manusia yang sangat berkualitas ", 1 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 2 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75f46243ee9d44236c19e2bbe0"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 1 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 2 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda754a524cc1b4accac5e49ce0c9"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "sumber daya manusia yang sangat berkualitas", 0 ], [ true, "kurangnya pengaturan proses dan target belajar siswa ", 1 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 2 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda752f1c4f3d8675112965c4b5b1"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "sumber daya manusia yang sangat berkualitas", 0 ], [ true, "kualitas dan persebaran guru yang belum merata ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 2 ], [ false, "kualitas dan persebaran guru yang merata ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75f3da457a844e0864b929e502"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPendidikan di Indonesia memiliki tantangan yang sangat rumit dan bermacam-macam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "kurangnya pengaturan proses dan target belajar siswa ", 0 ], [ false, "kualitas dan persebaran guru yang merata ", 1 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar", 2 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda755d194a58b2bed67676f94f01"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Di bawah ini yang merupakan salah satu tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "sumber daya manusia yang sangat berkualitas ", 0 ], [ true, "lingkungan yang tidak mendukung siswa untuk belajar secara nyaman ", 1 ], [ false, "kualitas dan persebaran guru yang merata", 2 ], [ false, "tingginya kemampuan akademis siswa-siswa di Indonesia ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75bbac420bbca136ae4ba9ad64"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nMasalah dan tantangan pendidikan di Indonesia sangat rumit dan beragam. Tantangan pendidikan di Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "kualitas dan persebaran guru yang belum merata ", 0 ], [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik ", 1 ], [ false, "kualitas dan persebaran guru yang merata ", 2 ], [ false, "sumber daya manusia yang sangat berkualitas", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7535b6459a95cff1f032c1c994"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nTantangan pendidikan di Indonesia sangat kompleks dan beragam. Contoh tantangan pendidikan di Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pengaturan proses dan target belajar siswa telah ditetapkan dengan baik", 0 ], [ true, "kualitas dan persebaran guru yang belum merata ", 1 ], [ false, "sumber daya manusia yang sangat berkualitas ", 2 ], [ false, "budaya orang Indonesia mendukung siswa untuk belajar ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nMasalah dan tantangan pendidikan di Indonesia sangat kompleks dan beragam. Salah satu kendala utamanya adalah standar pendidikan di Indonesia tidak sepenuhnya sama.<br> \r\nBerikut ini adalah sedikit contoh tantangan pendidikan di Indonesia.<br>\r\n<ol>\r\n<li>Infrastruktur dan sumber daya pendidikan yang belum merata.</li>\r\n<li>Kualitas dan persebaran guru yang belum merata.</li>\r\n<li>Kurangnya pengaturan proses dan target belajar siswa.</li>\r\n<li>Lingkungan yang tidak mendukung siswa untuk belajar secara nyaman.</li>\r\n<li>Rendahnya kemampuan akademis siswa-siswa di Indonesia.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "033eb654dc6e46c5b4686bc466708990",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75273f4b6aa5a6e2a728604268"
+} ]

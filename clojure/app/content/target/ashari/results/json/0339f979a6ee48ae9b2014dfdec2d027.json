@@ -1,0 +1,661 @@
+[ {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini yang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "mempermudah proses jual beli", 0 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 1 ], [ true, "memperpanjang proses tawar-menawar dalam jual beli ", 2 ], [ false, "penentu keuntungan bagi penjual atau produsen ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda752f3848729b15143e0d443c13"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "menentukan daya beli konsumen dalam pengambilan keputusan", 0 ], [ true, "acuan nilai jual hanya untuk barang tertentu ", 1 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 2 ], [ false, "acuan nilai jual suatu barang ataupun jasa ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75a3604222a4765b3dc3caea27"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "mempermudah proses jual beli ", 0 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan", 1 ], [ false, "penentu keuntungan bagi penjual atau produsen ", 2 ], [ true, "acuan konsumen dalam menentukan harga jual barang ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75372d489eb1499811c669b41e"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "mempermudah proses jual beli ", 0 ], [ true, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 1 ], [ false, "acuan konsumen dalam menilai kualitas barang atau jasa", 2 ], [ false, "penentu keuntungan bagi penjual atau produsen ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75fb1e4dc9b7e2a86043042077"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "acuan nilai jual hanya untuk barang tertentu ", 0 ], [ false, "mempermudah proses jual beli", 1 ], [ false, "penentu keuntungan bagi penjual atau produsen ", 2 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75980b4de2a42f78b55341db4f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nContoh fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan nilai jual hanya untuk barang tertentu ", 0 ], [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 1 ], [ false, "penentu faktor produksi bagi penjual atau produsen", 2 ], [ true, "acuan konsumen dalam menilai kualitas barang atau jasa ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75deb54bcc88c45064d7747776"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini yang merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "memperpanjang proses tawar-menawar dalam jual beli", 0 ], [ false, "penentu faktor produksi bagi penjual atau produsen ", 1 ], [ false, "menentukan daya jual konsumen dalam pengambilan keputusan ", 2 ], [ true, "acuan konsumen dalam menilai kualitas barang atau jasa ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75fd104af5b1890204e7c2d57a"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nFungsi harga salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "penentu keuntungan bagi penjual atau produsen ", 0 ], [ false, "acuan nilai jual hanya untuk barang tertentu ", 1 ], [ false, "memperpanjang proses tawar-menawar dalam jual beli ", 2 ], [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7503eb451a94cd7aef97245623"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nSalah satu fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 0 ], [ false, "memperpanjang proses tawar-menawar dalam jual beli ", 1 ], [ false, "acuan nilai jual hanya untuk barang tertentu", 2 ], [ true, "menentukan daya beli konsumen dalam pengambilan keputusan ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75a4554d24bfcdc8dd368a14a5"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nContoh fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "menentukan daya beli konsumen dalam pengambilan keputusan ", 0 ], [ false, "acuan konsumen dalam menentukan harga jual barang ", 1 ], [ false, "memperpanjang proses tawar-menawar dalam jual beli ", 2 ], [ false, "menentukan daya jual konsumen dalam pengambilan keputusan", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75c72244d4badceeefdd20bce0"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nContoh fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "menentukan daya jual konsumen dalam pengambilan keputusan", 0 ], [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 1 ], [ false, "memperpanjang proses tawar-menawar dalam jual beli ", 2 ], [ true, "penentu keuntungan bagi penjual atau produsen ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75f2ad4994b9108a5301a5b59d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nContoh fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "memperpanjang proses tawar-menawar dalam jual beli ", 0 ], [ false, "acuan konsumen dalam menentukan harga jual barang ", 1 ], [ false, "penentu faktor produksi bagi penjual atau produsen", 2 ], [ true, "alat pengukur dan pembeda suatu barang atau jasa ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75c3e946079680a0fd06367f37"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nYang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "penentu keuntungan bagi penjual atau produsen", 0 ], [ false, "acuan nilai jual suatu barang ataupun jasa ", 1 ], [ true, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 2 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75da314879919f00bfb6155560"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 0 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan", 1 ], [ false, "acuan nilai jual suatu barang ataupun jasa ", 2 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda755a904fde882a7020b718de23"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini yang merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan konsumen dalam menentukan harga jual barang ", 0 ], [ false, "acuan nilai jual hanya untuk barang tertentu", 1 ], [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 2 ], [ true, "penentu keuntungan bagi penjual atau produsen ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75868a44c49f16bc6f99834711"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nYang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan konsumen dalam menilai kualitas barang atau jasa", 0 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 1 ], [ true, "acuan konsumen dalam menentukan harga jual barang ", 2 ], [ false, "acuan nilai jual suatu barang ataupun jasa ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda757e5e40b2a64e597dccbd1760"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nFungsi harga salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "menentukan daya jual konsumen dalam pengambilan keputusan ", 0 ], [ true, "penentu keuntungan bagi penjual atau produsen ", 1 ], [ false, "memperpanjang proses tawar-menawar dalam jual beli", 2 ], [ false, "acuan konsumen dalam menentukan harga jual barang ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7558eb456eb538db725dc0e7ab"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "penentu keuntungan bagi penjual atau produsen ", 0 ], [ false, "acuan konsumen dalam menilai kualitas barang atau jasa ", 1 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa", 2 ], [ true, "menentukan daya jual konsumen dalam pengambilan keputusan ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7588c24359b6c7e5375f53cbf2"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nSalah satu opsi di bawah ini yang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 0 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan", 1 ], [ false, "penentu keuntungan bagi penjual atau produsen ", 2 ], [ true, "memperpanjang proses tawar-menawar dalam jual beli ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75bae94bd8a00850c3a13c4a18"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nYang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan konsumen dalam menilai kualitas barang atau jasa ", 0 ], [ false, "penentu keuntungan bagi penjual atau produsen ", 1 ], [ true, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 2 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75c30a4aca89d9fe2b41850f2f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini yang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan nilai jual suatu barang ataupun jasa ", 0 ], [ true, "acuan nilai jual hanya untuk barang tertentu ", 1 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 2 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75cd18474d926779dc2a383261"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan konsumen dalam menilai kualitas barang atau jasa ", 0 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa", 1 ], [ false, "mempermudah proses jual beli ", 2 ], [ true, "acuan nilai jual hanya untuk barang tertentu ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7568c1496ba3f759bd5d625584"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nYang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 0 ], [ false, "acuan nilai jual suatu barang ataupun jasa", 1 ], [ false, "acuan konsumen dalam menilai kualitas barang atau jasa ", 2 ], [ true, "acuan nilai jual hanya untuk barang tertentu ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75efa2473a85120e288f0ce8ce"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nContoh fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "memperpanjang proses tawar-menawar dalam jual beli", 0 ], [ false, "acuan nilai jual hanya untuk barang tertentu ", 1 ], [ true, "acuan konsumen dalam menilai kualitas barang atau jasa ", 2 ], [ false, "acuan konsumen dalam menentukan harga jual barang ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7599c342ad9b68a9961aff9d3d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nFungsi harga salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "acuan konsumen dalam menilai kualitas barang atau jasa ", 0 ], [ false, "acuan nilai jual hanya untuk barang tertentu ", 1 ], [ false, "acuan konsumen dalam menentukan harga jual barang", 2 ], [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75e9eb4daeaaedf76b3241e867"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini yang merupakan salah satu fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "acuan konsumen dalam menilai kualitas barang atau jasa ", 0 ], [ false, "acuan nilai jual hanya untuk barang tertentu", 1 ], [ false, "penentu faktor produksi bagi penjual atau produsen ", 2 ], [ false, "acuan konsumen dalam menentukan harga jual barang ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda751ca748b8bb19ba8c9743baea"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 0 ], [ false, "mempermudah proses jual beli ", 1 ], [ false, "acuan konsumen dalam menilai kualitas barang atau jasa", 2 ], [ true, "acuan nilai jual hanya untuk barang tertentu ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7532ff407ba4b785d4d5b07be7"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "menentukan daya jual konsumen dalam pengambilan keputusan ", 0 ], [ false, "acuan nilai jual suatu barang ataupun jasa ", 1 ], [ false, "mempermudah proses jual beli", 2 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7574ae494999820107371c63d3"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nContoh fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "alat pengukur dan pembeda suatu barang atau jasa ", 0 ], [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 1 ], [ false, "menentukan daya jual konsumen dalam pengambilan keputusan", 2 ], [ false, "memperpanjang proses tawar-menawar dalam jual beli ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7526994925a6bfdfbc8cab7adf"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 0 ], [ false, "acuan konsumen dalam menilai kualitas barang atau jasa", 1 ], [ false, "mempermudah proses jual beli ", 2 ], [ true, "acuan konsumen dalam menentukan harga jual barang ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75244548adbe3bd9be43337af8"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini yang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan nilai jual suatu barang ataupun jasa", 0 ], [ true, "acuan konsumen dalam menentukan harga jual barang ", 1 ], [ false, "acuan konsumen dalam menilai kualitas barang atau jasa ", 2 ], [ false, "mempermudah proses jual beli ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda752480426e915e516478da9ad2"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nSalah satu opsi di bawah ini yang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "penentu keuntungan bagi penjual atau produsen ", 0 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 1 ], [ true, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 2 ], [ false, "mempermudah proses jual beli", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda751b794f479a23b445226f1a67"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nYang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "penentu faktor produksi bagi penjual atau produsen ", 0 ], [ false, "acuan nilai jual suatu barang ataupun jasa", 1 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 2 ], [ false, "penentu keuntungan bagi penjual atau produsen ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7572a04e2593f05979d27049e6"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nFungsi harga salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan nilai jual hanya untuk barang tertentu", 0 ], [ false, "memperpanjang proses tawar-menawar dalam jual beli ", 1 ], [ false, "acuan konsumen dalam menentukan harga jual barang ", 2 ], [ true, "menentukan daya beli konsumen dalam pengambilan keputusan ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75574d45f49a369b5ceb1ad409"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "mempermudah proses jual beli", 0 ], [ false, "penentu keuntungan bagi penjual atau produsen ", 1 ], [ true, "acuan konsumen dalam menentukan harga jual barang ", 2 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75fe22499e91f3909eef0de5c3"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini yang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "penentu faktor produksi bagi penjual atau produsen ", 0 ], [ false, "acuan konsumen dalam menilai kualitas barang atau jasa", 1 ], [ false, "penentu keuntungan bagi penjual atau produsen ", 2 ], [ false, "acuan nilai jual suatu barang ataupun jasa ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7517b84e7ead139740dfc29e67"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nFungsi harga salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "menentukan daya beli konsumen dalam pengambilan keputusan ", 0 ], [ false, "memperpanjang proses tawar-menawar dalam jual beli ", 1 ], [ false, "penentu faktor produksi bagi penjual atau produsen", 2 ], [ false, "acuan nilai jual hanya untuk barang tertentu ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75ba5f4c52815f6ff4cbdd48c5"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nSalah satu opsi di bawah ini yang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "menentukan daya beli konsumen dalam pengambilan keputusan", 0 ], [ true, "acuan konsumen dalam menentukan harga jual barang ", 1 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 2 ], [ false, "acuan nilai jual suatu barang ataupun jasa ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75f638416699d7bb61ee0de9ce"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 0 ], [ false, "mempermudah proses jual beli ", 1 ], [ false, "acuan konsumen dalam menilai kualitas barang atau jasa", 2 ], [ false, "acuan nilai jual suatu barang ataupun jasa ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75db534a6b9c6557731d7a21be"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nContoh fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan konsumen dalam menentukan harga jual barang ", 0 ], [ true, "acuan nilai jual suatu barang ataupun jasa ", 1 ], [ false, "memperpanjang proses tawar-menawar dalam jual beli ", 2 ], [ false, "menentukan daya jual konsumen dalam pengambilan keputusan", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7537284ac686e3c97a6e073111"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan konsumen dalam menilai kualitas barang atau jasa", 0 ], [ false, "acuan nilai jual suatu barang ataupun jasa ", 1 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 2 ], [ true, "penentu faktor produksi bagi penjual atau produsen ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7500e140b9bb7b182da36c56de"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini yang merupakan salah satu fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 0 ], [ false, "penentu faktor produksi bagi penjual atau produsen ", 1 ], [ false, "menentukan daya jual konsumen dalam pengambilan keputusan", 2 ], [ true, "penentu keuntungan bagi penjual atau produsen ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75714e4272b3287a9d9afa7c41"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nFungsi harga salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan konsumen dalam menentukan harga jual barang", 0 ], [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 1 ], [ false, "memperpanjang proses tawar-menawar dalam jual beli ", 2 ], [ true, "penentu keuntungan bagi penjual atau produsen ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75ef694e5089af7976c7d78c4b"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini yang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "alat pengukur dan pembeda suatu barang atau jasa", 0 ], [ true, "acuan konsumen dalam menentukan harga jual barang ", 1 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 2 ], [ false, "acuan konsumen dalam menilai kualitas barang atau jasa ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75fb3c4f37aeefe62cb4e88026"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini yang merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "menentukan daya jual konsumen dalam pengambilan keputusan", 0 ], [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 1 ], [ true, "mempermudah proses jual beli ", 2 ], [ false, "acuan konsumen dalam menentukan harga jual barang ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7538854c3da41d344eeb122279"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini yang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 0 ], [ false, "acuan konsumen dalam menilai kualitas barang atau jasa ", 1 ], [ true, "menentukan daya jual konsumen dalam pengambilan keputusan ", 2 ], [ false, "penentu keuntungan bagi penjual atau produsen", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75c63f4ffab29ffe4fd55c71d3"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan konsumen dalam menilai kualitas barang atau jasa ", 0 ], [ false, "penentu keuntungan bagi penjual atau produsen", 1 ], [ true, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 2 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda754b6b400380d253229e31b6f3"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 0 ], [ true, "acuan konsumen dalam menentukan harga jual barang ", 1 ], [ false, "mempermudah proses jual beli", 2 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda750ef84dcca568ca90dfe31b3c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan nilai jual suatu barang ataupun jasa ", 0 ], [ false, "penentu keuntungan bagi penjual atau produsen", 1 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa ", 2 ], [ true, "menentukan daya jual konsumen dalam pengambilan keputusan ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75d8bc4fe8b6ad6a6bbb5e8d3c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nFungsi harga salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan konsumen dalam menentukan harga jual barang ", 0 ], [ false, "menentukan daya jual konsumen dalam pengambilan keputusan", 1 ], [ false, "penentu faktor produksi bagi penjual atau produsen ", 2 ], [ true, "acuan konsumen dalam menilai kualitas barang atau jasa ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7523fa46e0ac30fe74ee8b60cd"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 0 ], [ true, "acuan nilai jual hanya untuk barang tertentu ", 1 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa", 2 ], [ false, "acuan nilai jual suatu barang ataupun jasa ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda756c3845ccb7c14bc63d18f6fb"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini yang merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "penentu faktor produksi bagi penjual atau produsen ", 0 ], [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 1 ], [ false, "memperpanjang proses tawar-menawar dalam jual beli", 2 ], [ true, "alat pengukur dan pembeda suatu barang atau jasa ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75d86346ed99ec49e402bd8ee8"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nYang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 0 ], [ false, "penentu keuntungan bagi penjual atau produsen ", 1 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa", 2 ], [ true, "acuan konsumen dalam menentukan harga jual barang ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75e51b4bfd91663fab31877eac"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nSalah satu opsi di bawah ini yang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan konsumen dalam menilai kualitas barang atau jasa ", 0 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan", 1 ], [ true, "acuan konsumen dalam menentukan harga jual barang ", 2 ], [ false, "acuan nilai jual suatu barang ataupun jasa ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda755f554db393250f3487ea4b87"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini merupakan fungsi harga, <i>kecuali</i> ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "penentu keuntungan bagi penjual atau produsen ", 0 ], [ true, "acuan konsumen dalam menentukan harga jual barang ", 1 ], [ false, "alat pengukur dan pembeda suatu barang atau jasa", 2 ], [ false, "acuan konsumen dalam menilai kualitas barang atau jasa ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda752db344fb82267cc6fb1faae0"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nDi bawah ini yang merupakan salah satu fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "menentukan daya jual konsumen dalam pengambilan keputusan ", 0 ], [ false, "memperpanjang proses tawar-menawar dalam jual beli", 1 ], [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 2 ], [ true, "acuan nilai jual suatu barang ataupun jasa ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda757e7c4baf90804445f753dfb4"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini yang merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 0 ], [ false, "acuan nilai jual hanya untuk barang tertentu", 1 ], [ true, "acuan nilai jual suatu barang ataupun jasa ", 2 ], [ false, "acuan konsumen dalam menentukan harga jual barang ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75adcd467eb2e42250ae802ecb"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nYang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "acuan nilai jual suatu barang ataupun jasa ", 0 ], [ true, "memperpanjang proses tawar-menawar dalam jual beli ", 1 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 2 ], [ false, "mempermudah proses jual beli", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7586524d3baf16c11788a6ce64"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nYang <u>bukan</u> merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "penentu keuntungan bagi penjual atau produsen", 0 ], [ false, "menentukan daya beli konsumen dalam pengambilan keputusan ", 1 ], [ false, "acuan konsumen dalam menilai kualitas barang atau jasa ", 2 ], [ true, "acuan nilai jual hanya untuk barang tertentu ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75937b43a298e71a2f499009da"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nBerikut ini yang merupakan fungsi harga adalah ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "mempermudah proses jual beli ", 0 ], [ false, "alat pengukur dan pembeda hanya untuk jasa tertentu ", 1 ], [ false, "menentukan daya jual konsumen dalam pengambilan keputusan ", 2 ], [ false, "penentu faktor produksi bagi penjual atau produsen", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga adalah salah satu komponen penting dalam transaksi jual beli barang atau jasa. Berikut ini adalah fungsi-fungsi harga.<br>\r\n<ol>\r\n<li>Alat pengukur dan pembeda suatu barang atau jasa.</li>\r\n<li>Acuan nilai jual suatu barang ataupun jasa.</li>\r\n<li>Mempermudah proses jual beli.</li>\r\n<li>Penentu keuntungan bagi penjual atau produsen.</li>\r\n<li>Acuan konsumen dalam menilai kualitas barang atau jasa.</li>\r\n<li>Menentukan daya beli konsumen dalam pengambilan keputusan.</li>\r\n</ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f979a6ee48ae9b2014dfdec2d027",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75c4394f3f9b31da07ef3b87e1"
+} ]

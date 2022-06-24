@@ -1,0 +1,20 @@
+(ns app.generator.mbe.regis
+  (:require [app.generator.mbe.ipsum]))
+
+(def register
+  [{:folder "subject/ipsum"
+    :file   "ipsum-arit.html"
+    :topic  :math
+    :gen-fn app.generator.mbe.ipsum/ipsum-arit}
+   {:folder "subject/ipsum"
+    :file   "ipsum-limit.html"
+    :topic  :math
+    :gen-fn app.generator.mbe.ipsum/ipsum-limit}
+   {:folder "subject/ipsum"
+    :file   "ipsum-matrix.html"
+    :topic  :math
+    :gen-fn app.generator.mbe.ipsum/ipsum-matrix}
+   {:folder "subject/ipsum"
+    :file   "ipsum-image.html"
+    :topic  :math
+    :gen-fn app.generator.mbe.ipsum/ipsum-image}])

@@ -1,0 +1,750 @@
+[{:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "plastik" 0]
+    [false "barang dari plastik " 1]
+    [true "besi dan baja " 2]
+    [false "bahan kimia organik " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda753feb4865aeb78e0c39eea200"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nSalah satu komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "bahan bakar mineral " 0]
+    [false "plastik" 1]
+    [false "barang dari plastik " 2]
+    [false "bahan kimia organik " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda7519db4fc4a95da4b02ac2759d"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "perhiasan/permata " 0]
+    [true "besi dan baja " 1]
+    [false "bahan bakar mineral " 2]
+    [false "lemak dan minyak hewan/nabati" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75b4f345b9a920c63e42236a7c"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nBerikut ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "mesin dan peralatan elektrik " 0]
+    [false "barang dari plastik" 1]
+    [false "plastik " 2]
+    [false "bahan kimia organik " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda7565004e0aa3074f3c4ef87a0e"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "plastik" 0]
+    [true "lemak dan minyak hewan/nabati " 1]
+    [false "barang dari plastik " 2]
+    [false "bahan kimia organik " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda758db94e1c8d2e41bda9005e6e"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nBerikut ini yang merupakan komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "bahan bakar mineral " 0]
+    [true "bahan kimia organik " 1]
+    [false "perhiasan/permata " 2]
+    [false "lemak dan minyak hewan/nabati" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda759e4a4bec9f5d04ff79df2d87"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "perhiasan/permata" 0]
+    [true "besi dan baja " 1]
+    [false "lemak dan minyak hewan/nabati " 2]
+    [false "bahan bakar mineral " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75f9004deb929fc8ebd8c09f2a"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nKomoditas nonmigas utama yang diimpor oleh Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "bahan bakar mineral " 0]
+    [false "perhiasan/permata " 1]
+    [false "lemak dan minyak hewan/nabati" 2]
+    [true "mesin-mesin/pesawat mekanik " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda7576804c9d9c29a5dae2d69858"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "barang dari plastik " 0]
+    [false "plastik " 1]
+    [false "bahan kimia organik" 2]
+    [true "perhiasan/permata " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75e4874529aeac8154ee0a5f1f"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nSalah satu komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "barang dari plastik" 0]
+    [false "plastik " 1]
+    [true "perhiasan/permata " 2]
+    [false "bahan kimia organik " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75ff164152a812dfb622162e43"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "plastik " 0]
+    [false "bahan kimia organik " 1]
+    [false "barang dari plastik" 2]
+    [true "mesin dan peralatan elektrik " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda750eba46c9a4d865da1c887aed"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nBerikut ini yang merupakan komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "plastik dan barang dari plastik " 0]
+    [false "perhiasan/permata " 1]
+    [false "bahan bakar mineral " 2]
+    [false "lemak dan minyak hewan/nabati" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75d6bf462e823ce52ad4cf071e"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "lemak dan minyak hewan/nabati " 0]
+    [false "bahan bakar mineral " 1]
+    [false "perhiasan/permata" 2]
+    [true "bahan kimia organik " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda757ff944fabd95490468694832"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "peralatan listrik " 0]
+    [false "bahan bakar mineral " 1]
+    [false "perhiasan/permata " 2]
+    [false "lemak dan minyak hewan/nabati" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75025848f686c01394e5a1ca25"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "plastik dan barang dari plastik " 0]
+    [false "perhiasan/permata" 1]
+    [false "bahan bakar mineral " 2]
+    [false "lemak dan minyak hewan/nabati " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75ed2845e0862dd4859b98d99d"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nBerikut ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "plastik" 0]
+    [false "bahan kimia organik " 1]
+    [true "besi dan baja " 2]
+    [false "barang dari plastik " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda7586cc44009ecaee5dd95117da"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "lemak dan minyak hewan/nabati " 0]
+    [false "bahan bakar mineral" 1]
+    [true "plastik dan barang dari plastik " 2]
+    [false "perhiasan/permata " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda7514704445a331d1eae00946d9"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nBerikut ini yang merupakan komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "bahan bakar mineral " 0]
+    [false "perhiasan/permata " 1]
+    [true "peralatan listrik " 2]
+    [false "lemak dan minyak hewan/nabati" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75e15b41308a0c41f9acb766d1"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nKomoditas nonmigas utama yang diekspor oleh Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "plastik " 0]
+    [false "barang dari plastik " 1]
+    [true "bahan bakar mineral " 2]
+    [false "bahan kimia organik" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75c17d4d3ba831519fd8c02207"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nBerikut ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "barang dari plastik " 0]
+    [true "besi dan baja " 1]
+    [false "bahan kimia organik" 2]
+    [false "plastik " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75e2b24db89c2896eb5de308df"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nBerikut ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "lemak dan minyak hewan/nabati " 0]
+    [false "plastik " 1]
+    [false "bahan kimia organik" 2]
+    [false "barang dari plastik " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda7560ef4f25876db710335aca7a"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "lemak dan minyak hewan/nabati " 0]
+    [true "mesin-mesin/pesawat mekanik " 1]
+    [false "perhiasan/permata" 2]
+    [false "bahan bakar mineral " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75db6747e28268324bb8ae4b95"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nSalah satu komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "barang dari plastik " 0]
+    [true "besi dan baja " 1]
+    [false "bahan kimia organik " 2]
+    [false "plastik" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75fc604fa29ebd4eb5b9e1ec2d"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "barang dari plastik " 0]
+    [true "perhiasan/permata " 1]
+    [false "bahan kimia organik" 2]
+    [false "plastik " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda7598b749968bca3bdec4ece49e"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nKomoditas nonmigas utama yang diekspor oleh Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "plastik " 0]
+    [true "bahan bakar mineral " 1]
+    [false "barang dari plastik" 2]
+    [false "bahan kimia organik " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda758c8c4c3aa25d407dffc0cff8"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "lemak dan minyak hewan/nabati " 0]
+    [true "plastik dan barang dari plastik " 1]
+    [false "bahan bakar mineral " 2]
+    [false "perhiasan/permata" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda754fac4a6eafd52524f7c45757"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "lemak dan minyak hewan/nabati " 0]
+    [false "plastik " 1]
+    [false "bahan kimia organik " 2]
+    [false "barang dari plastik" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75ed6247f3a283c71d66a59925"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "barang dari plastik" 0]
+    [false "plastik " 1]
+    [true "mesin dan peralatan elektrik " 2]
+    [false "bahan kimia organik " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75fb89479990b68c537a2a1147"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "barang dari plastik " 0]
+    [false "bahan kimia organik " 1]
+    [false "plastik" 2]
+    [true "bahan bakar mineral " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75663a442aa59c41d04f30abb0"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "lemak dan minyak hewan/nabati " 0]
+    [false "bahan bakar mineral" 1]
+    [false "perhiasan/permata " 2]
+    [true "plastik dan barang dari plastik " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda751eec492b90d459b45f34d87b"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nBerikut ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "plastik " 0]
+    [false "barang dari plastik " 1]
+    [true "mesin dan peralatan elektrik " 2]
+    [false "bahan kimia organik" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75ea6e41bc85307c1d145f2822"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nKomoditas nonmigas utama yang diimpor oleh Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "perhiasan/permata" 0]
+    [false "lemak dan minyak hewan/nabati " 1]
+    [true "plastik dan barang dari plastik " 2]
+    [false "bahan bakar mineral " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda7558f14f738853133a31301edd"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nKomoditas nonmigas utama yang diekspor oleh Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "mesin dan peralatan elektrik " 0]
+    [false "plastik " 1]
+    [false "barang dari plastik" 2]
+    [false "bahan kimia organik " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda7591ff4202aa954a0b99c41bb3"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "perhiasan/permata" 0]
+    [false "lemak dan minyak hewan/nabati " 1]
+    [false "bahan bakar mineral " 2]
+    [true "mesin-mesin/pesawat mekanik " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75e6614924851f23cbf71ff5ab"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "plastik dan barang dari plastik " 0]
+    [false "bahan bakar mineral" 1]
+    [false "lemak dan minyak hewan/nabati " 2]
+    [false "perhiasan/permata " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75547e44d5b6ac9b8ffb629e5b"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "lemak dan minyak hewan/nabati" 0]
+    [false "perhiasan/permata " 1]
+    [true "mesin-mesin/pesawat mekanik " 2]
+    [false "bahan bakar mineral " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda750e934da08eb7e638c7c9f5bc"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "bahan bakar mineral " 0]
+    [false "lemak dan minyak hewan/nabati " 1]
+    [true "peralatan listrik " 2]
+    [false "perhiasan/permata" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75eb3d4de1ba47bc7905139da9"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nBerikut ini yang merupakan komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "bahan bakar mineral" 0]
+    [false "lemak dan minyak hewan/nabati " 1]
+    [true "peralatan listrik " 2]
+    [false "perhiasan/permata " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75046845e283f1e1db9cd71a7d"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "bahan bakar mineral " 0]
+    [false "lemak dan minyak hewan/nabati " 1]
+    [false "perhiasan/permata" 2]
+    [true "mesin-mesin/pesawat mekanik " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75a2a34108a3ac612f2da1991c"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nBerikut ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "bahan kimia organik " 0]
+    [false "barang dari plastik " 1]
+    [true "mesin dan peralatan elektrik " 2]
+    [false "plastik" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75eba74f8bac212ff7994bdccb"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nContoh komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "bahan bakar mineral " 0]
+    [true "peralatan listrik " 1]
+    [false "lemak dan minyak hewan/nabati " 2]
+    [false "perhiasan/permata" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75f05849248c2fd3541779db89"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nSalah satu komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "bahan kimia organik " 0]
+    [false "barang dari plastik" 1]
+    [false "plastik " 2]
+    [true "besi dan baja " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75110a4fce94792256e2caa573"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nKomoditas nonmigas utama yang diekspor oleh Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "perhiasan/permata " 0]
+    [false "bahan kimia organik " 1]
+    [false "barang dari plastik" 2]
+    [false "plastik " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75878e4d8d8a78fbe0f9dfbf21"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "perhiasan/permata " 0]
+    [true "peralatan listrik " 1]
+    [false "bahan bakar mineral" 2]
+    [false "lemak dan minyak hewan/nabati " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda7503704da197d9376ce307b467"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "plastik " 0]
+    [true "lemak dan minyak hewan/nabati " 1]
+    [false "bahan kimia organik " 2]
+    [false "barang dari plastik" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75a45748f7bf0031d3200c1b50"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nKomoditas nonmigas utama yang diekspor oleh Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[true "besi dan baja " 0]
+    [false "plastik " 1]
+    [false "barang dari plastik " 2]
+    [false "bahan kimia organik" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda756faf44d2845aa2f9009c5de7"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nKomoditas nonmigas utama yang diekspor oleh Indonesia salah satunya adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "plastik" 0]
+    [true "lemak dan minyak hewan/nabati " 1]
+    [false "bahan kimia organik " 2]
+    [false "barang dari plastik " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75fdac4cc8a4646a50ead051f4"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nSalah satu komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "bahan bakar mineral " 0]
+    [false "lemak dan minyak hewan/nabati " 1]
+    [true "besi dan baja " 2]
+    [false "perhiasan/permata" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda754ad347568e8d43556bd12e24"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nDi bawah ini yang merupakan komoditas nonmigas utama yang diekspor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "barang dari plastik " 0]
+    [true "lemak dan minyak hewan/nabati " 1]
+    [false "bahan kimia organik" 2]
+    [false "plastik " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diekspor oleh Indonesia beserta nilai ekspornya pada tahun 2020.\n                         <ol>\n                         <li>Lemak dan minyak hewan/nabati. Nilai ekspornya sebesar 20,72 miliar USD.</li>\n                         <li>Bahan bakar mineral. Nilai ekspornya sebesar 17,27 miliar USD.</li>\n                         <li>Besi dan baja. Nilai ekspornya sebesar 10,85 miliar USD.</li>\n                         <li>Mesin dan peralatan elektrik. Nilai ekspornya sebesar 9,23 miliar USD.</li>\n                         <li>Perhiasan/permata. Nilai ekspornya sebesar 8,22 miliar USD.</li>\n                         </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda75b8324b8590eff56a72908fab"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\nSalah satu komoditas nonmigas utama yang diimpor oleh Indonesia adalah ....\r\n</p>\r\n\r\n\r\n",
+   :options
+   [[false "lemak dan minyak hewan/nabati " 0]
+    [false "perhiasan/permata " 1]
+    [true "bahan kimia organik " 2]
+    [false "bahan bakar mineral" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nBerikut ini adalah komoditas nonmigas utama yang diimpor oleh Indonesia beserta nilai impornya pada tahun 2020.\n                      <ol>\n                      <li>Mesin-mesin/pesawat mekanik. Nilai impornya sebesar 21,81 miliar USD.</li>\n                      <li>Peralatan listrik. Nilai impornya sebesar 19,03 miliar USD.</li>\n                      <li>Plastik dan barang dari plastik. Nilai impornya sebesar 7,15 miliar USD.</li>\n                      <li>Besi dan baja. Nilai impornya sebesar 6,86 miliar USD.</li>\n                      <li>Bahan kimia organik. Nilai impornya sebesar 5,03 miliar USD.</li>\n                      </ol>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t",
+  :images [],
+  :template-id "033a2c4455234f14b0d2370d0f148170",
+  :topic :smp-ips,
+  :problem-id "033eda7548854dcfa035c713ff9fe921"}]

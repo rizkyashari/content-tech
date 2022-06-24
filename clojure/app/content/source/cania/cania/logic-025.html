@@ -1,0 +1,51 @@
+
+{:template-id "c6f798b05a7911ebb6299de765e272db", :topic :logic}
+
+==sepa==
+<p>
+  Ada klaim sebagai berikut:<br>
+  {{cx}} yang {{a}} pasti {{b}}.<br>
+  Ada {{x}} yang {{b}} yang tidak {{c}}.<br>
+<br>
+  Perhatikan sejumlah informasi berikut:<br>
+  (I) Ada {{x}} yang {{b}} yang tidak {{c}}.<br>
+  (II) Ada {{x}} yang {{a}} yang {{c}}.<br>
+  (III) Ada {{x}} yang {{a}} yang tidak {{c}}.<br>
+  (IV) Tidak ada {{x}} yang {{a}} yang tidak {{b}}.<br>
+  (V) Semua {{x}} yang tidak {{b}} tidak {{a}}.<br>
+<br>
+  Manakah informasi yang pasti benar jika klaimnya benar?
+</p>
+
+==options==
+
+true::IV dan V ==
+false::II dan IV ==
+false::I, III, dan IV ==
+false::Semua yang ada dalam daftar pasti benar ==
+false::Tidak ada yang pasti benar dalam daftar ==
+false::Semua kecuali V
+
+==sepa==
+
+<p>
+  So, klaimnya kan ini yaa:<br>
+  {{cx}} yang (a) {{a}} pasti (b) {{b}}.<br>
+  Ada {{x}} yang (b) {{b}} yang (c) {{c}}.<br>
+<br>
+  Itu artinya, gak ada {{x}} yang a yang gak b (IV)<br>
+  dan semua {{x}} yang gak b pasti gak a (V).<br>
+<br>
+  Terus kenapa kita gak bisa nyimpulin apapun untuk variabel c ({{c}})?<br>
+  Karena keterangannya cuman ADA yang b yang c.<br>
+  Nah kita gak bisa tau pasti yang mana yang b sekaligus c.<br>
+  Bisa aja itu yang b tapi gak a. <br>
+  Makanya ituu kita gak bisa nyimpulin pasti ada a yang c (II).<br>
+<br>
+  Terus juga untuk variabel “tidak {{c}}” itu kan variabel baru lagi<br>
+  yang gak ada informasinya hehe<br>
+  kita gatau doong apakah ADA {{x}} yang {{b}} dan gak {{c}}<br>
+  atau ADA {{x}} yang {{a}} yang gak {{c}}.<br>
+  <br>
+  Hal ini gak ada di dalam klaimnya. Gitu yak~
+</p>

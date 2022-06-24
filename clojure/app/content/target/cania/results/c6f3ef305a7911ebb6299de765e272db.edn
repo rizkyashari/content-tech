@@ -1,0 +1,2600 @@
+[{:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti suka film romance.<br>\n  Makhluk itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan makhluk tapi suka film romance " 1]
+    [true "Makhluk gak suka film romance " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) suka film romance.<br>\n  (c) makhluk itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c205a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti suka baca teenlit.<br>\n  Manusia itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Manusia gak suka baca teenlit " 1]
+    [false "Bukan manusia tapi suka baca teenlit " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) suka baca teenlit.<br>\n  (c) manusia itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c215a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti gampang sakit hati.<br>\n  Laki-laki itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan laki-laki tapi gampang sakit hati " 1]
+    [true "Laki-laki gak gampang sakit hati " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) gampang sakit hati.<br>\n  (c) laki-laki itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c225a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti suka lagu cinta.<br>\n  Laki-laki itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan laki-laki tapi suka lagu cinta " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Laki-laki gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) suka lagu cinta.<br>\n  (c) laki-laki itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c235a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti suka film romance.<br>\n  Orang itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Orang gak suka film romance " 1]
+    [false "Bukan orang tapi suka film romance " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) suka film romance.<br>\n  (c) orang itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c245a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti suka film romance.<br>\n  Pujangga itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pujangga gak suka film romance " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan pujangga tapi suka film romance " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) suka film romance.<br>\n  (c) pujangga itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c255a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti suka film romance.<br>\n  Laki-laki itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan laki-laki tapi suka film romance " 1]
+    [true "Laki-laki gak suka film romance " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) suka film romance.<br>\n  (c) laki-laki itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c265a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti suka film romance.<br>\n  Pujangga itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Pujangga gak suka film romance " 1]
+    [false "Bukan pujangga tapi suka film romance " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) suka film romance.<br>\n  (c) pujangga itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c275a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti gampang sakit hati.<br>\n  Makhluk itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan makhluk tapi gampang sakit hati " 0]
+    [true "Makhluk gak gampang sakit hati " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) gampang sakit hati.<br>\n  (c) makhluk itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c285a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti ngerti perasaan orang.<br>\n  Pemuda itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pemuda tapi ngerti perasaan orang " 0]
+    [true "Pemuda gak ngerti perasaan orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) ngerti perasaan orang.<br>\n  (c) pemuda itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c295a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti bertepuk sebelah tangan.<br>\n  Laki-laki itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan laki-laki tapi bertepuk sebelah tangan " 1]
+    [true "Laki-laki gak bertepuk sebelah tangan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) bertepuk sebelah tangan.<br>\n  (c) laki-laki itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c2a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti punya sedikit mantan.<br>\n  Pujangga itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pujangga gak punya sedikit mantan " 0]
+    [false "Bukan pujangga tapi punya sedikit mantan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) punya sedikit mantan.<br>\n  (c) pujangga itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c2b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah menjalin asmara pasti gampang sakit hati.<br>\n  Orang itu pernah menjalin asmara.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan orang tapi gampang sakit hati " 0]
+    [true "Orang gak gampang sakit hati " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah menjalin asmara pasti (b) gampang sakit hati.<br>\n  (c) orang itu (a) pernah menjalin asmara.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c2c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti punya cinta pertama.<br>\n  Remaja itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan remaja tapi punya cinta pertama " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Remaja gak punya cinta pertama " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) punya cinta pertama.<br>\n  (c) remaja itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c2d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti suka baca teenlit.<br>\n  Perempuan itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Perempuan gak suka baca teenlit " 1]
+    [false "Bukan perempuan tapi suka baca teenlit " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) suka baca teenlit.<br>\n  (c) perempuan itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c2e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti suka baca teenlit.<br>\n  Makhluk itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Makhluk gak suka baca teenlit " 1]
+    [false "Bukan makhluk tapi suka baca teenlit " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) suka baca teenlit.<br>\n  (c) makhluk itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c2f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti punya cinta pertama.<br>\n  Pujangga itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan pujangga tapi punya cinta pertama " 1]
+    [true "Pujangga gak punya cinta pertama " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) punya cinta pertama.<br>\n  (c) pujangga itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c305a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti ngerti perasaan orang.<br>\n  Remaja itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Remaja gak ngerti perasaan orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan remaja tapi ngerti perasaan orang " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) ngerti perasaan orang.<br>\n  (c) remaja itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c315a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti pernah naksir orang.<br>\n  Selebritis itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Selebritis gak pernah naksir orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan selebritis tapi pernah naksir orang " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) pernah naksir orang.<br>\n  (c) selebritis itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c325a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti ngerti perasaan orang.<br>\n  Pemuda itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pemuda tapi ngerti perasaan orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Pemuda gak ngerti perasaan orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) ngerti perasaan orang.<br>\n  (c) pemuda itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c335a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti suka baca teenlit.<br>\n  Remaja itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan remaja tapi suka baca teenlit " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Remaja gak suka baca teenlit " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) suka baca teenlit.<br>\n  (c) remaja itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c345a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti suka lagu cinta.<br>\n  Pahlawan itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan pahlawan tapi suka lagu cinta " 1]
+    [true "Pahlawan gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) suka lagu cinta.<br>\n  (c) pahlawan itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c355a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti suka lagu cinta.<br>\n  Perempuan itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan perempuan tapi suka lagu cinta " 0]
+    [true "Perempuan gak suka lagu cinta " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) suka lagu cinta.<br>\n  (c) perempuan itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c365a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti punya sedikit mantan.<br>\n  Pemuda itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pemuda gak punya sedikit mantan " 0]
+    [false "Bukan pemuda tapi punya sedikit mantan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) punya sedikit mantan.<br>\n  (c) pemuda itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c375a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti bertepuk sebelah tangan.<br>\n  Orang itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan orang tapi bertepuk sebelah tangan " 1]
+    [true "Orang gak bertepuk sebelah tangan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) bertepuk sebelah tangan.<br>\n  (c) orang itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c385a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah menjalin asmara pasti punya sedikit mantan.<br>\n  Pemuda itu pernah menjalin asmara.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pemuda gak punya sedikit mantan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan pemuda tapi punya sedikit mantan " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah menjalin asmara pasti (b) punya sedikit mantan.<br>\n  (c) pemuda itu (a) pernah menjalin asmara.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c395a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti punya banyak mantan.<br>\n  Pujangga itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pujangga tapi punya banyak mantan " 0]
+    [true "Pujangga gak punya banyak mantan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) punya banyak mantan.<br>\n  (c) pujangga itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c3a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti suka film romance.<br>\n  Perempuan itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan perempuan tapi suka film romance " 0]
+    [true "Perempuan gak suka film romance " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) suka film romance.<br>\n  (c) perempuan itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c3b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti bertepuk sebelah tangan.<br>\n  Laki-laki itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Laki-laki gak bertepuk sebelah tangan " 1]
+    [false "Bukan laki-laki tapi bertepuk sebelah tangan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) bertepuk sebelah tangan.<br>\n  (c) laki-laki itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c3c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti punya cinta pertama.<br>\n  Selebritis itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan selebritis tapi punya cinta pertama " 1]
+    [true "Selebritis gak punya cinta pertama " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) punya cinta pertama.<br>\n  (c) selebritis itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c3d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti bertepuk sebelah tangan.<br>\n  Pemuda itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pemuda tapi bertepuk sebelah tangan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Pemuda gak bertepuk sebelah tangan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) bertepuk sebelah tangan.<br>\n  (c) pemuda itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c3e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti suka lagu cinta.<br>\n  Pujangga itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan pujangga tapi suka lagu cinta " 1]
+    [true "Pujangga gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) suka lagu cinta.<br>\n  (c) pujangga itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c3f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti bertepuk sebelah tangan.<br>\n  Pemuda itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Pemuda gak bertepuk sebelah tangan " 1]
+    [false "Bukan pemuda tapi bertepuk sebelah tangan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) bertepuk sebelah tangan.<br>\n  (c) pemuda itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c405a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti ngerti perasaan orang.<br>\n  Perempuan itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Perempuan gak ngerti perasaan orang " 0]
+    [false "Bukan perempuan tapi ngerti perasaan orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) ngerti perasaan orang.<br>\n  (c) perempuan itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c415a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti suka lagu cinta.<br>\n  Orang itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Orang gak suka lagu cinta " 1]
+    [false "Bukan orang tapi suka lagu cinta " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) suka lagu cinta.<br>\n  (c) orang itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c425a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah menjalin asmara pasti bertepuk sebelah tangan.<br>\n  Perempuan itu pernah menjalin asmara.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan perempuan tapi bertepuk sebelah tangan " 1]
+    [true "Perempuan gak bertepuk sebelah tangan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah menjalin asmara pasti (b) bertepuk sebelah tangan.<br>\n  (c) perempuan itu (a) pernah menjalin asmara.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c435a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti suka baca teenlit.<br>\n  Selebritis itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan selebritis tapi suka baca teenlit " 0]
+    [true "Selebritis gak suka baca teenlit " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) suka baca teenlit.<br>\n  (c) selebritis itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c445a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti punya banyak mantan.<br>\n  Perempuan itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan perempuan tapi punya banyak mantan " 0]
+    [true "Perempuan gak punya banyak mantan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) punya banyak mantan.<br>\n  (c) perempuan itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c455a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti punya cinta pertama.<br>\n  Manusia itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Manusia gak punya cinta pertama " 1]
+    [false "Bukan manusia tapi punya cinta pertama " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) punya cinta pertama.<br>\n  (c) manusia itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c465a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti punya banyak mantan.<br>\n  Tokoh masyarakat itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan tokoh masyarakat tapi punya banyak mantan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Tokoh masyarakat gak punya banyak mantan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) punya banyak mantan.<br>\n  (c) tokoh masyarakat itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c475a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti suka lagu cinta.<br>\n  Selebritis itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan selebritis tapi suka lagu cinta " 1]
+    [true "Selebritis gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) suka lagu cinta.<br>\n  (c) selebritis itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c485a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti pernah naksir orang.<br>\n  Remaja itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan remaja tapi pernah naksir orang " 0]
+    [true "Remaja gak pernah naksir orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) pernah naksir orang.<br>\n  (c) remaja itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c495a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti bertepuk sebelah tangan.<br>\n  Laki-laki itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Laki-laki gak bertepuk sebelah tangan " 0]
+    [false "Bukan laki-laki tapi bertepuk sebelah tangan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) bertepuk sebelah tangan.<br>\n  (c) laki-laki itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c4a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah menjalin asmara pasti pernah naksir orang.<br>\n  Selebritis itu pernah menjalin asmara.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan selebritis tapi pernah naksir orang " 0]
+    [true "Selebritis gak pernah naksir orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah menjalin asmara pasti (b) pernah naksir orang.<br>\n  (c) selebritis itu (a) pernah menjalin asmara.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c4b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti punya cinta pertama.<br>\n  Pemuda itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Pemuda gak punya cinta pertama " 1]
+    [false "Bukan pemuda tapi punya cinta pertama " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) punya cinta pertama.<br>\n  (c) pemuda itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c4c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti bertepuk sebelah tangan.<br>\n  Makhluk itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Makhluk gak bertepuk sebelah tangan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan makhluk tapi bertepuk sebelah tangan " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) bertepuk sebelah tangan.<br>\n  (c) makhluk itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c4d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti suka baca teenlit.<br>\n  Tokoh masyarakat itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Tokoh masyarakat gak suka baca teenlit " 1]
+    [false "Bukan tokoh masyarakat tapi suka baca teenlit " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) suka baca teenlit.<br>\n  (c) tokoh masyarakat itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c4e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti suka film romance.<br>\n  Perempuan itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Perempuan gak suka film romance " 1]
+    [false "Bukan perempuan tapi suka film romance " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) suka film romance.<br>\n  (c) perempuan itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c4f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti punya banyak mantan.<br>\n  Selebritis itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Selebritis gak punya banyak mantan " 0]
+    [false "Bukan selebritis tapi punya banyak mantan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) punya banyak mantan.<br>\n  (c) selebritis itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c505a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti pernah naksir orang.<br>\n  Makhluk itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan makhluk tapi pernah naksir orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Makhluk gak pernah naksir orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) pernah naksir orang.<br>\n  (c) makhluk itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c515a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti punya sedikit mantan.<br>\n  Selebritis itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Selebritis gak punya sedikit mantan " 1]
+    [false "Bukan selebritis tapi punya sedikit mantan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) punya sedikit mantan.<br>\n  (c) selebritis itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c525a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti suka baca teenlit.<br>\n  Tokoh masyarakat itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Tokoh masyarakat gak suka baca teenlit " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan tokoh masyarakat tapi suka baca teenlit " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) suka baca teenlit.<br>\n  (c) tokoh masyarakat itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c535a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti punya sedikit mantan.<br>\n  Laki-laki itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Laki-laki gak punya sedikit mantan " 1]
+    [false "Bukan laki-laki tapi punya sedikit mantan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) punya sedikit mantan.<br>\n  (c) laki-laki itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c545a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti ngerti perasaan orang.<br>\n  Selebritis itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan selebritis tapi ngerti perasaan orang " 0]
+    [true "Selebritis gak ngerti perasaan orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) ngerti perasaan orang.<br>\n  (c) selebritis itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c0676c555a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti punya cinta pertama.<br>\n  Makhluk itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Makhluk gak punya cinta pertama " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan makhluk tapi punya cinta pertama " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) punya cinta pertama.<br>\n  (c) makhluk itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793305a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti bertepuk sebelah tangan.<br>\n  Pemuda itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan pemuda tapi bertepuk sebelah tangan " 1]
+    [true "Pemuda gak bertepuk sebelah tangan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) bertepuk sebelah tangan.<br>\n  (c) pemuda itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793315a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti gampang sakit hati.<br>\n  Orang itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Orang gak gampang sakit hati " 0]
+    [false "Bukan orang tapi gampang sakit hati " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) gampang sakit hati.<br>\n  (c) orang itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793325a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti punya sedikit mantan.<br>\n  Orang itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan orang tapi punya sedikit mantan " 1]
+    [true "Orang gak punya sedikit mantan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) punya sedikit mantan.<br>\n  (c) orang itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793335a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti suka film romance.<br>\n  Pemuda itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan pemuda tapi suka film romance " 1]
+    [true "Pemuda gak suka film romance " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) suka film romance.<br>\n  (c) pemuda itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793345a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti punya sedikit mantan.<br>\n  Pujangga itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pujangga gak punya sedikit mantan " 0]
+    [false "Bukan pujangga tapi punya sedikit mantan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) punya sedikit mantan.<br>\n  (c) pujangga itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793355a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti gampang sakit hati.<br>\n  Laki-laki itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Laki-laki gak gampang sakit hati " 0]
+    [false "Bukan laki-laki tapi gampang sakit hati " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) gampang sakit hati.<br>\n  (c) laki-laki itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793365a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti punya cinta pertama.<br>\n  Tokoh masyarakat itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan tokoh masyarakat tapi punya cinta pertama " 0]
+    [true "Tokoh masyarakat gak punya cinta pertama " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) punya cinta pertama.<br>\n  (c) tokoh masyarakat itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793375a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti bertepuk sebelah tangan.<br>\n  Tokoh masyarakat itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan tokoh masyarakat tapi bertepuk sebelah tangan " 1]
+    [true "Tokoh masyarakat gak bertepuk sebelah tangan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) bertepuk sebelah tangan.<br>\n  (c) tokoh masyarakat itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793385a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti punya cinta pertama.<br>\n  Tokoh masyarakat itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Tokoh masyarakat gak punya cinta pertama " 1]
+    [false "Bukan tokoh masyarakat tapi punya cinta pertama " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) punya cinta pertama.<br>\n  (c) tokoh masyarakat itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793395a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti suka lagu cinta.<br>\n  Laki-laki itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan laki-laki tapi suka lagu cinta " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Laki-laki gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) suka lagu cinta.<br>\n  (c) laki-laki itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067933a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti suka baca teenlit.<br>\n  Makhluk itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Makhluk gak suka baca teenlit " 1]
+    [false "Bukan makhluk tapi suka baca teenlit " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) suka baca teenlit.<br>\n  (c) makhluk itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067933b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti suka film romance.<br>\n  Pahlawan itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pahlawan gak suka film romance " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan pahlawan tapi suka film romance " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) suka film romance.<br>\n  (c) pahlawan itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067933c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah menjalin asmara pasti gampang sakit hati.<br>\n  Makhluk itu pernah menjalin asmara.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Makhluk gak gampang sakit hati " 1]
+    [false "Bukan makhluk tapi gampang sakit hati " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah menjalin asmara pasti (b) gampang sakit hati.<br>\n  (c) makhluk itu (a) pernah menjalin asmara.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067933d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti suka baca teenlit.<br>\n  Pujangga itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pujangga gak suka baca teenlit " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan pujangga tapi suka baca teenlit " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) suka baca teenlit.<br>\n  (c) pujangga itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067933e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti pernah naksir orang.<br>\n  Orang itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Orang gak pernah naksir orang " 1]
+    [false "Bukan orang tapi pernah naksir orang " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) pernah naksir orang.<br>\n  (c) orang itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067933f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti punya cinta pertama.<br>\n  Pahlawan itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan pahlawan tapi punya cinta pertama " 1]
+    [true "Pahlawan gak punya cinta pertama " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) punya cinta pertama.<br>\n  (c) pahlawan itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793405a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti ngerti perasaan orang.<br>\n  Selebritis itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan selebritis tapi ngerti perasaan orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Selebritis gak ngerti perasaan orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) ngerti perasaan orang.<br>\n  (c) selebritis itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793415a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti punya cinta pertama.<br>\n  Orang itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan orang tapi punya cinta pertama " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Orang gak punya cinta pertama " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) punya cinta pertama.<br>\n  (c) orang itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793425a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti pernah naksir orang.<br>\n  Pemuda itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan pemuda tapi pernah naksir orang " 1]
+    [true "Pemuda gak pernah naksir orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) pernah naksir orang.<br>\n  (c) pemuda itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793435a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti punya cinta pertama.<br>\n  Perempuan itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan perempuan tapi punya cinta pertama " 0]
+    [true "Perempuan gak punya cinta pertama " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) punya cinta pertama.<br>\n  (c) perempuan itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793445a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah menjalin asmara pasti punya sedikit mantan.<br>\n  Manusia itu pernah menjalin asmara.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Manusia gak punya sedikit mantan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan manusia tapi punya sedikit mantan " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah menjalin asmara pasti (b) punya sedikit mantan.<br>\n  (c) manusia itu (a) pernah menjalin asmara.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793455a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti pernah naksir orang.<br>\n  Orang itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan orang tapi pernah naksir orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Orang gak pernah naksir orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) pernah naksir orang.<br>\n  (c) orang itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793465a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti bertepuk sebelah tangan.<br>\n  Tokoh masyarakat itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Tokoh masyarakat gak bertepuk sebelah tangan " 0]
+    [false "Bukan tokoh masyarakat tapi bertepuk sebelah tangan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) bertepuk sebelah tangan.<br>\n  (c) tokoh masyarakat itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793475a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti punya banyak mantan.<br>\n  Pujangga itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Pujangga gak punya banyak mantan " 1]
+    [false "Bukan pujangga tapi punya banyak mantan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) punya banyak mantan.<br>\n  (c) pujangga itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793485a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti punya sedikit mantan.<br>\n  Pemuda itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Pemuda gak punya sedikit mantan " 1]
+    [false "Bukan pemuda tapi punya sedikit mantan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) punya sedikit mantan.<br>\n  (c) pemuda itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793495a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti ngerti perasaan orang.<br>\n  Remaja itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan remaja tapi ngerti perasaan orang " 0]
+    [true "Remaja gak ngerti perasaan orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) ngerti perasaan orang.<br>\n  (c) remaja itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067934a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti suka lagu cinta.<br>\n  Pemuda itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pemuda gak suka lagu cinta " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan pemuda tapi suka lagu cinta " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) suka lagu cinta.<br>\n  (c) pemuda itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067934b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti bertepuk sebelah tangan.<br>\n  Perempuan itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Perempuan gak bertepuk sebelah tangan " 1]
+    [false "Bukan perempuan tapi bertepuk sebelah tangan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) bertepuk sebelah tangan.<br>\n  (c) perempuan itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067934c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti suka lagu cinta.<br>\n  Makhluk itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Makhluk gak suka lagu cinta " 1]
+    [false "Bukan makhluk tapi suka lagu cinta " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) suka lagu cinta.<br>\n  (c) makhluk itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067934d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti punya banyak mantan.<br>\n  Selebritis itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan selebritis tapi punya banyak mantan " 1]
+    [true "Selebritis gak punya banyak mantan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) punya banyak mantan.<br>\n  (c) selebritis itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067934e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti suka baca teenlit.<br>\n  Selebritis itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan selebritis tapi suka baca teenlit " 1]
+    [true "Selebritis gak suka baca teenlit " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) suka baca teenlit.<br>\n  (c) selebritis itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067934f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti suka film romance.<br>\n  Pahlawan itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pahlawan gak suka film romance " 0]
+    [false "Bukan pahlawan tapi suka film romance " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) suka film romance.<br>\n  (c) pahlawan itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793505a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti ngerti perasaan orang.<br>\n  Laki-laki itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan laki-laki tapi ngerti perasaan orang " 1]
+    [true "Laki-laki gak ngerti perasaan orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) ngerti perasaan orang.<br>\n  (c) laki-laki itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793515a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti pernah naksir orang.<br>\n  Selebritis itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan selebritis tapi pernah naksir orang " 1]
+    [true "Selebritis gak pernah naksir orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) pernah naksir orang.<br>\n  (c) selebritis itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793525a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti pernah naksir orang.<br>\n  Makhluk itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan makhluk tapi pernah naksir orang " 0]
+    [true "Makhluk gak pernah naksir orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) pernah naksir orang.<br>\n  (c) makhluk itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793535a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti ngerti perasaan orang.<br>\n  Laki-laki itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Laki-laki gak ngerti perasaan orang " 0]
+    [false "Bukan laki-laki tapi ngerti perasaan orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) ngerti perasaan orang.<br>\n  (c) laki-laki itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793545a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti pernah naksir orang.<br>\n  Makhluk itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan makhluk tapi pernah naksir orang " 1]
+    [true "Makhluk gak pernah naksir orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) pernah naksir orang.<br>\n  (c) makhluk itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793555a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti suka baca teenlit.<br>\n  Pahlawan itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pahlawan gak suka baca teenlit " 0]
+    [false "Bukan pahlawan tapi suka baca teenlit " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) suka baca teenlit.<br>\n  (c) pahlawan itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793565a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah menjalin asmara pasti bertepuk sebelah tangan.<br>\n  Selebritis itu pernah menjalin asmara.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan selebritis tapi bertepuk sebelah tangan " 0]
+    [true "Selebritis gak bertepuk sebelah tangan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah menjalin asmara pasti (b) bertepuk sebelah tangan.<br>\n  (c) selebritis itu (a) pernah menjalin asmara.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793575a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti punya banyak mantan.<br>\n  Selebritis itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan selebritis tapi punya banyak mantan " 1]
+    [true "Selebritis gak punya banyak mantan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) punya banyak mantan.<br>\n  (c) selebritis itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793585a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti gampang sakit hati.<br>\n  Remaja itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan remaja tapi gampang sakit hati " 0]
+    [true "Remaja gak gampang sakit hati " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) gampang sakit hati.<br>\n  (c) remaja itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793595a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti pernah naksir orang.<br>\n  Pahlawan itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pahlawan tapi pernah naksir orang " 0]
+    [true "Pahlawan gak pernah naksir orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) pernah naksir orang.<br>\n  (c) pahlawan itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067935a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti punya sedikit mantan.<br>\n  Orang itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Orang gak punya sedikit mantan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan orang tapi punya sedikit mantan " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) punya sedikit mantan.<br>\n  (c) orang itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067935b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti gampang sakit hati.<br>\n  Makhluk itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan makhluk tapi gampang sakit hati " 0]
+    [true "Makhluk gak gampang sakit hati " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) gampang sakit hati.<br>\n  (c) makhluk itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067935c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti gampang sakit hati.<br>\n  Perempuan itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Perempuan gak gampang sakit hati " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan perempuan tapi gampang sakit hati " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) gampang sakit hati.<br>\n  (c) perempuan itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067935d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti punya cinta pertama.<br>\n  Remaja itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan remaja tapi punya cinta pertama " 1]
+    [true "Remaja gak punya cinta pertama " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) punya cinta pertama.<br>\n  (c) remaja itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067935e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti ngerti perasaan orang.<br>\n  Remaja itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan remaja tapi ngerti perasaan orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Remaja gak ngerti perasaan orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) ngerti perasaan orang.<br>\n  (c) remaja itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067935f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti punya sedikit mantan.<br>\n  Makhluk itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan makhluk tapi punya sedikit mantan " 1]
+    [true "Makhluk gak punya sedikit mantan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) punya sedikit mantan.<br>\n  (c) makhluk itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793605a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti suka film romance.<br>\n  Pemuda itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pemuda gak suka film romance " 0]
+    [false "Bukan pemuda tapi suka film romance " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) suka film romance.<br>\n  (c) pemuda itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793615a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti ngerti perasaan orang.<br>\n  Manusia itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan manusia tapi ngerti perasaan orang " 1]
+    [true "Manusia gak ngerti perasaan orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) ngerti perasaan orang.<br>\n  (c) manusia itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793625a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti punya cinta pertama.<br>\n  Remaja itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Remaja gak punya cinta pertama " 0]
+    [false "Bukan remaja tapi punya cinta pertama " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) punya cinta pertama.<br>\n  (c) remaja itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793635a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti punya banyak mantan.<br>\n  Manusia itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Manusia gak punya banyak mantan " 1]
+    [false "Bukan manusia tapi punya banyak mantan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) punya banyak mantan.<br>\n  (c) manusia itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793645a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti punya banyak mantan.<br>\n  Perempuan itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan perempuan tapi punya banyak mantan " 1]
+    [true "Perempuan gak punya banyak mantan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) punya banyak mantan.<br>\n  (c) perempuan itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793655a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti punya cinta pertama.<br>\n  Pahlawan itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Pahlawan gak punya cinta pertama " 1]
+    [false "Bukan pahlawan tapi punya cinta pertama " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) punya cinta pertama.<br>\n  (c) pahlawan itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793665a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti punya sedikit mantan.<br>\n  Pemuda itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan pemuda tapi punya sedikit mantan " 1]
+    [true "Pemuda gak punya sedikit mantan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) punya sedikit mantan.<br>\n  (c) pemuda itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793675a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti gampang sakit hati.<br>\n  Perempuan itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Perempuan gak gampang sakit hati " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan perempuan tapi gampang sakit hati " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) gampang sakit hati.<br>\n  (c) perempuan itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793685a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti suka baca teenlit.<br>\n  Tokoh masyarakat itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Tokoh masyarakat gak suka baca teenlit " 0]
+    [false "Bukan tokoh masyarakat tapi suka baca teenlit " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) suka baca teenlit.<br>\n  (c) tokoh masyarakat itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793695a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti bertepuk sebelah tangan.<br>\n  Pujangga itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan pujangga tapi bertepuk sebelah tangan " 1]
+    [true "Pujangga gak bertepuk sebelah tangan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) bertepuk sebelah tangan.<br>\n  (c) pujangga itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067936a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti suka lagu cinta.<br>\n  Remaja itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan remaja tapi suka lagu cinta " 1]
+    [true "Remaja gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) suka lagu cinta.<br>\n  (c) remaja itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067936b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti pernah naksir orang.<br>\n  Orang itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan orang tapi pernah naksir orang " 1]
+    [true "Orang gak pernah naksir orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) pernah naksir orang.<br>\n  (c) orang itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067936c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah menjalin asmara pasti gampang sakit hati.<br>\n  Selebritis itu pernah menjalin asmara.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan selebritis tapi gampang sakit hati " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Selebritis gak gampang sakit hati " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah menjalin asmara pasti (b) gampang sakit hati.<br>\n  (c) selebritis itu (a) pernah menjalin asmara.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067936d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti suka baca teenlit.<br>\n  Pemuda itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pemuda tapi suka baca teenlit " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Pemuda gak suka baca teenlit " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) suka baca teenlit.<br>\n  (c) pemuda itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067936e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti suka lagu cinta.<br>\n  Pujangga itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pujangga tapi suka lagu cinta " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Pujangga gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) suka lagu cinta.<br>\n  (c) pujangga itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067936f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah menjalin asmara pasti pernah naksir orang.<br>\n  Perempuan itu pernah menjalin asmara.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Perempuan gak pernah naksir orang " 0]
+    [false "Bukan perempuan tapi pernah naksir orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah menjalin asmara pasti (b) pernah naksir orang.<br>\n  (c) perempuan itu (a) pernah menjalin asmara.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793705a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah menjalin asmara pasti pernah naksir orang.<br>\n  Pahlawan itu pernah menjalin asmara.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Pahlawan gak pernah naksir orang " 1]
+    [false "Bukan pahlawan tapi pernah naksir orang " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah menjalin asmara pasti (b) pernah naksir orang.<br>\n  (c) pahlawan itu (a) pernah menjalin asmara.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793715a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti suka lagu cinta.<br>\n  Selebritis itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Selebritis gak suka lagu cinta " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan selebritis tapi suka lagu cinta " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) suka lagu cinta.<br>\n  (c) selebritis itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793725a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti suka lagu cinta.<br>\n  Manusia itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Manusia gak suka lagu cinta " 0]
+    [false "Bukan manusia tapi suka lagu cinta " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) suka lagu cinta.<br>\n  (c) manusia itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793735a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti punya sedikit mantan.<br>\n  Manusia itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan manusia tapi punya sedikit mantan " 1]
+    [true "Manusia gak punya sedikit mantan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) punya sedikit mantan.<br>\n  (c) manusia itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793745a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti suka lagu cinta.<br>\n  Pemuda itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan pemuda tapi suka lagu cinta " 1]
+    [true "Pemuda gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) suka lagu cinta.<br>\n  (c) pemuda itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793755a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti pernah naksir orang.<br>\n  Selebritis itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Selebritis gak pernah naksir orang " 1]
+    [false "Bukan selebritis tapi pernah naksir orang " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) pernah naksir orang.<br>\n  (c) selebritis itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793765a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti punya sedikit mantan.<br>\n  Tokoh masyarakat itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan tokoh masyarakat tapi punya sedikit mantan " 0]
+    [true "Tokoh masyarakat gak punya sedikit mantan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) punya sedikit mantan.<br>\n  (c) tokoh masyarakat itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793775a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti suka baca teenlit.<br>\n  Orang itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan orang tapi suka baca teenlit " 0]
+    [true "Orang gak suka baca teenlit " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) suka baca teenlit.<br>\n  (c) orang itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793785a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti suka film romance.<br>\n  Selebritis itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Selebritis gak suka film romance " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan selebritis tapi suka film romance " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) suka film romance.<br>\n  (c) selebritis itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793795a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti suka lagu cinta.<br>\n  Remaja itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Remaja gak suka lagu cinta " 1]
+    [false "Bukan remaja tapi suka lagu cinta " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) suka lagu cinta.<br>\n  (c) remaja itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067937a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti gampang sakit hati.<br>\n  Pemuda itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pemuda gak gampang sakit hati " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan pemuda tapi gampang sakit hati " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) gampang sakit hati.<br>\n  (c) pemuda itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067937b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti gampang sakit hati.<br>\n  Remaja itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Remaja gak gampang sakit hati " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan remaja tapi gampang sakit hati " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) gampang sakit hati.<br>\n  (c) remaja itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067937c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti suka film romance.<br>\n  Perempuan itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan perempuan tapi suka film romance " 0]
+    [true "Perempuan gak suka film romance " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) suka film romance.<br>\n  (c) perempuan itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067937d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti suka baca teenlit.<br>\n  Selebritis itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan selebritis tapi suka baca teenlit " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Selebritis gak suka baca teenlit " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) suka baca teenlit.<br>\n  (c) selebritis itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067937e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti pernah naksir orang.<br>\n  Perempuan itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan perempuan tapi pernah naksir orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Perempuan gak pernah naksir orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) pernah naksir orang.<br>\n  (c) perempuan itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067937f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti bertepuk sebelah tangan.<br>\n  Remaja itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Remaja gak bertepuk sebelah tangan " 1]
+    [false "Bukan remaja tapi bertepuk sebelah tangan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) bertepuk sebelah tangan.<br>\n  (c) remaja itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793805a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti punya sedikit mantan.<br>\n  Pahlawan itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pahlawan gak punya sedikit mantan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan pahlawan tapi punya sedikit mantan " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) punya sedikit mantan.<br>\n  (c) pahlawan itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793815a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti bertepuk sebelah tangan.<br>\n  Makhluk itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan makhluk tapi bertepuk sebelah tangan " 0]
+    [true "Makhluk gak bertepuk sebelah tangan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) bertepuk sebelah tangan.<br>\n  (c) makhluk itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793825a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti suka lagu cinta.<br>\n  Orang itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan orang tapi suka lagu cinta " 1]
+    [true "Orang gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) suka lagu cinta.<br>\n  (c) orang itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793835a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti bertepuk sebelah tangan.<br>\n  Pahlawan itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pahlawan tapi bertepuk sebelah tangan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Pahlawan gak bertepuk sebelah tangan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) bertepuk sebelah tangan.<br>\n  (c) pahlawan itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793845a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti bertepuk sebelah tangan.<br>\n  Selebritis itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Selebritis gak bertepuk sebelah tangan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan selebritis tapi bertepuk sebelah tangan " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) bertepuk sebelah tangan.<br>\n  (c) selebritis itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793855a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti suka lagu cinta.<br>\n  Pahlawan itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pahlawan gak suka lagu cinta " 0]
+    [false "Bukan pahlawan tapi suka lagu cinta " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) suka lagu cinta.<br>\n  (c) pahlawan itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793865a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti gampang sakit hati.<br>\n  Perempuan itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan perempuan tapi gampang sakit hati " 1]
+    [true "Perempuan gak gampang sakit hati " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) gampang sakit hati.<br>\n  (c) perempuan itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793875a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti punya banyak mantan.<br>\n  Laki-laki itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Laki-laki gak punya banyak mantan " 1]
+    [false "Bukan laki-laki tapi punya banyak mantan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) punya banyak mantan.<br>\n  (c) laki-laki itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793885a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti punya cinta pertama.<br>\n  Laki-laki itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Laki-laki gak punya cinta pertama " 1]
+    [false "Bukan laki-laki tapi punya cinta pertama " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) punya cinta pertama.<br>\n  (c) laki-laki itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793895a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti suka baca teenlit.<br>\n  Tokoh masyarakat itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan tokoh masyarakat tapi suka baca teenlit " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Tokoh masyarakat gak suka baca teenlit " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) suka baca teenlit.<br>\n  (c) tokoh masyarakat itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067938a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti suka baca teenlit.<br>\n  Tokoh masyarakat itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan tokoh masyarakat tapi suka baca teenlit " 0]
+    [true "Tokoh masyarakat gak suka baca teenlit " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) suka baca teenlit.<br>\n  (c) tokoh masyarakat itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067938b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti pernah naksir orang.<br>\n  Makhluk itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Makhluk gak pernah naksir orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan makhluk tapi pernah naksir orang " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) pernah naksir orang.<br>\n  (c) makhluk itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067938c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah menjalin asmara pasti gampang sakit hati.<br>\n  Manusia itu pernah menjalin asmara.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan manusia tapi gampang sakit hati " 1]
+    [true "Manusia gak gampang sakit hati " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah menjalin asmara pasti (b) gampang sakit hati.<br>\n  (c) manusia itu (a) pernah menjalin asmara.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067938d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti gampang sakit hati.<br>\n  Perempuan itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Perempuan gak gampang sakit hati " 0]
+    [false "Bukan perempuan tapi gampang sakit hati " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) gampang sakit hati.<br>\n  (c) perempuan itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067938e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti pernah naksir orang.<br>\n  Tokoh masyarakat itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Tokoh masyarakat gak pernah naksir orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan tokoh masyarakat tapi pernah naksir orang " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) pernah naksir orang.<br>\n  (c) tokoh masyarakat itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067938f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti ngerti perasaan orang.<br>\n  Pujangga itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pujangga tapi ngerti perasaan orang " 0]
+    [true "Pujangga gak ngerti perasaan orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) ngerti perasaan orang.<br>\n  (c) pujangga itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793905a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti punya banyak mantan.<br>\n  Laki-laki itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan laki-laki tapi punya banyak mantan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Laki-laki gak punya banyak mantan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) punya banyak mantan.<br>\n  (c) laki-laki itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793915a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti ngerti perasaan orang.<br>\n  Tokoh masyarakat itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Tokoh masyarakat gak ngerti perasaan orang " 0]
+    [false "Bukan tokoh masyarakat tapi ngerti perasaan orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) ngerti perasaan orang.<br>\n  (c) tokoh masyarakat itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793925a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti suka baca teenlit.<br>\n  Laki-laki itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Laki-laki gak suka baca teenlit " 0]
+    [false "Bukan laki-laki tapi suka baca teenlit " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) suka baca teenlit.<br>\n  (c) laki-laki itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793935a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti ngerti perasaan orang.<br>\n  Orang itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan orang tapi ngerti perasaan orang " 1]
+    [true "Orang gak ngerti perasaan orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) ngerti perasaan orang.<br>\n  (c) orang itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793945a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti suka lagu cinta.<br>\n  Makhluk itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan makhluk tapi suka lagu cinta " 1]
+    [true "Makhluk gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) suka lagu cinta.<br>\n  (c) makhluk itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793955a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti bertepuk sebelah tangan.<br>\n  Pujangga itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan pujangga tapi bertepuk sebelah tangan " 1]
+    [true "Pujangga gak bertepuk sebelah tangan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) bertepuk sebelah tangan.<br>\n  (c) pujangga itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793965a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti suka film romance.<br>\n  Pemuda itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan pemuda tapi suka film romance " 1]
+    [true "Pemuda gak suka film romance " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) suka film romance.<br>\n  (c) pemuda itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793975a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti suka lagu cinta.<br>\n  Manusia itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Manusia gak suka lagu cinta " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan manusia tapi suka lagu cinta " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) suka lagu cinta.<br>\n  (c) manusia itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793985a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti suka lagu cinta.<br>\n  Pemuda itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pemuda gak suka lagu cinta " 0]
+    [false "Bukan pemuda tapi suka lagu cinta " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) suka lagu cinta.<br>\n  (c) pemuda itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793995a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti suka film romance.<br>\n  Manusia itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Manusia gak suka film romance " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan manusia tapi suka film romance " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) suka film romance.<br>\n  (c) manusia itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067939a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti punya cinta pertama.<br>\n  Pemuda itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pemuda tapi punya cinta pertama " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Pemuda gak punya cinta pertama " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) punya cinta pertama.<br>\n  (c) pemuda itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067939b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti punya banyak mantan.<br>\n  Selebritis itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan selebritis tapi punya banyak mantan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Selebritis gak punya banyak mantan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) punya banyak mantan.<br>\n  (c) selebritis itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067939c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti punya cinta pertama.<br>\n  Tokoh masyarakat itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan tokoh masyarakat tapi punya cinta pertama " 0]
+    [true "Tokoh masyarakat gak punya cinta pertama " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) punya cinta pertama.<br>\n  (c) tokoh masyarakat itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067939d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti punya banyak mantan.<br>\n  Tokoh masyarakat itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Tokoh masyarakat gak punya banyak mantan " 0]
+    [false "Bukan tokoh masyarakat tapi punya banyak mantan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) punya banyak mantan.<br>\n  (c) tokoh masyarakat itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067939e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti suka lagu cinta.<br>\n  Makhluk itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan makhluk tapi suka lagu cinta " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Makhluk gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) suka lagu cinta.<br>\n  (c) makhluk itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c067939f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti punya banyak mantan.<br>\n  Pahlawan itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pahlawan tapi punya banyak mantan " 0]
+    [true "Pahlawan gak punya banyak mantan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) punya banyak mantan.<br>\n  (c) pahlawan itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793a05a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti suka baca teenlit.<br>\n  Makhluk itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan makhluk tapi suka baca teenlit " 0]
+    [true "Makhluk gak suka baca teenlit " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) suka baca teenlit.<br>\n  (c) makhluk itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793a15a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti gampang sakit hati.<br>\n  Makhluk itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Makhluk gak gampang sakit hati " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan makhluk tapi gampang sakit hati " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) gampang sakit hati.<br>\n  (c) makhluk itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793a25a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti suka lagu cinta.<br>\n  Tokoh masyarakat itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan tokoh masyarakat tapi suka lagu cinta " 0]
+    [true "Tokoh masyarakat gak suka lagu cinta " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) suka lagu cinta.<br>\n  (c) tokoh masyarakat itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793a35a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti suka baca teenlit.<br>\n  Orang itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan orang tapi suka baca teenlit " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Orang gak suka baca teenlit " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) suka baca teenlit.<br>\n  (c) orang itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793a45a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti punya sedikit mantan.<br>\n  Tokoh masyarakat itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan tokoh masyarakat tapi punya sedikit mantan " 1]
+    [true "Tokoh masyarakat gak punya sedikit mantan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) punya sedikit mantan.<br>\n  (c) tokoh masyarakat itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793a55a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti suka lagu cinta.<br>\n  Manusia itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan manusia tapi suka lagu cinta " 0]
+    [true "Manusia gak suka lagu cinta " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) suka lagu cinta.<br>\n  (c) manusia itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793a65a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti gampang sakit hati.<br>\n  Selebritis itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Selebritis gak gampang sakit hati " 0]
+    [false "Bukan selebritis tapi gampang sakit hati " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) gampang sakit hati.<br>\n  (c) selebritis itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793a75a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti ngerti perasaan orang.<br>\n  Perempuan itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan perempuan tapi ngerti perasaan orang " 1]
+    [true "Perempuan gak ngerti perasaan orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) ngerti perasaan orang.<br>\n  (c) perempuan itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793a85a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti pernah naksir orang.<br>\n  Perempuan itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Perempuan gak pernah naksir orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan perempuan tapi pernah naksir orang " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) pernah naksir orang.<br>\n  (c) perempuan itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793a95a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti bertepuk sebelah tangan.<br>\n  Orang itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Orang gak bertepuk sebelah tangan " 1]
+    [false "Bukan orang tapi bertepuk sebelah tangan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) bertepuk sebelah tangan.<br>\n  (c) orang itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793aa5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti punya banyak mantan.<br>\n  Selebritis itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Selebritis gak punya banyak mantan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan selebritis tapi punya banyak mantan " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) punya banyak mantan.<br>\n  (c) selebritis itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793ab5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti ngerti perasaan orang.<br>\n  Orang itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan orang tapi ngerti perasaan orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Orang gak ngerti perasaan orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) ngerti perasaan orang.<br>\n  (c) orang itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793ac5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti ngerti perasaan orang.<br>\n  Tokoh masyarakat itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan tokoh masyarakat tapi ngerti perasaan orang " 1]
+    [true "Tokoh masyarakat gak ngerti perasaan orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) ngerti perasaan orang.<br>\n  (c) tokoh masyarakat itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793ad5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti ngerti perasaan orang.<br>\n  Manusia itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan manusia tapi ngerti perasaan orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Manusia gak ngerti perasaan orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) ngerti perasaan orang.<br>\n  (c) manusia itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793ae5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti suka baca teenlit.<br>\n  Perempuan itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan perempuan tapi suka baca teenlit " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Perempuan gak suka baca teenlit " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) suka baca teenlit.<br>\n  (c) perempuan itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793af5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang percaya cinta sejati pasti punya cinta pertama.<br>\n  Makhluk itu percaya cinta sejati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Makhluk gak punya cinta pertama " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan makhluk tapi punya cinta pertama " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) percaya cinta sejati pasti (b) punya cinta pertama.<br>\n  (c) makhluk itu (a) percaya cinta sejati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793b05a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti suka lagu cinta.<br>\n  Remaja itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Remaja gak suka lagu cinta " 1]
+    [false "Bukan remaja tapi suka lagu cinta " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) suka lagu cinta.<br>\n  (c) remaja itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793b15a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti punya banyak mantan.<br>\n  Pemuda itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pemuda tapi punya banyak mantan " 0]
+    [true "Pemuda gak punya banyak mantan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) punya banyak mantan.<br>\n  (c) pemuda itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793b25a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti punya sedikit mantan.<br>\n  Selebritis itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Selebritis gak punya sedikit mantan " 1]
+    [false "Bukan selebritis tapi punya sedikit mantan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) punya sedikit mantan.<br>\n  (c) selebritis itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793b35a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya perasaan pasti pernah naksir orang.<br>\n  Laki-laki itu punya perasaan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan laki-laki tapi pernah naksir orang " 1]
+    [true "Laki-laki gak pernah naksir orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya perasaan pasti (b) pernah naksir orang.<br>\n  (c) laki-laki itu (a) punya perasaan.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793b45a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti gampang sakit hati.<br>\n  Pemuda itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pemuda gak gampang sakit hati " 0]
+    [false "Bukan pemuda tapi gampang sakit hati " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) gampang sakit hati.<br>\n  (c) pemuda itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793b55a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah menjalin asmara pasti suka film romance.<br>\n  Pahlawan itu pernah menjalin asmara.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Pahlawan gak suka film romance " 0]
+    [false "Bukan pahlawan tapi suka film romance " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah menjalin asmara pasti (b) suka film romance.<br>\n  (c) pahlawan itu (a) pernah menjalin asmara.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793b65a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti ngerti perasaan orang.<br>\n  Pujangga itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan pujangga tapi ngerti perasaan orang " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Pujangga gak ngerti perasaan orang " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) ngerti perasaan orang.<br>\n  (c) pujangga itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793b75a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti suka lagu cinta.<br>\n  Tokoh masyarakat itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan tokoh masyarakat tapi suka lagu cinta " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Tokoh masyarakat gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) suka lagu cinta.<br>\n  (c) tokoh masyarakat itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793b85a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti punya cinta pertama.<br>\n  Tokoh masyarakat itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Tokoh masyarakat gak punya cinta pertama " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan tokoh masyarakat tapi punya cinta pertama " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) punya cinta pertama.<br>\n  (c) tokoh masyarakat itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793b95a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti bertepuk sebelah tangan.<br>\n  Selebritis itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Selebritis gak bertepuk sebelah tangan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Bukan selebritis tapi bertepuk sebelah tangan " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) bertepuk sebelah tangan.<br>\n  (c) selebritis itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793ba5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang susah move on pasti gampang sakit hati.<br>\n  Remaja itu susah move on.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Remaja gak gampang sakit hati " 0]
+    [false "Bukan remaja tapi gampang sakit hati " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) susah move on pasti (b) gampang sakit hati.<br>\n  (c) remaja itu (a) susah move on.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793bb5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang penuh cinta pasti suka lagu cinta.<br>\n  Perempuan itu penuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Perempuan gak suka lagu cinta " 1]
+    [false "Bukan perempuan tapi suka lagu cinta " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) penuh cinta pasti (b) suka lagu cinta.<br>\n  (c) perempuan itu (a) penuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793bc5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah kasmaran pasti suka lagu cinta.<br>\n  Orang itu pernah kasmaran.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan orang tapi suka lagu cinta " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Orang gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah kasmaran pasti (b) suka lagu cinta.<br>\n  (c) orang itu (a) pernah kasmaran.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793bd5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang pernah jatuh cinta pasti suka film romance.<br>\n  Laki-laki itu pernah jatuh cinta.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan laki-laki tapi suka film romance " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Laki-laki gak suka film romance " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) pernah jatuh cinta pasti (b) suka film romance.<br>\n  (c) laki-laki itu (a) pernah jatuh cinta.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793be5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang gampang baper pasti ngerti perasaan orang.<br>\n  Tokoh masyarakat itu gampang baper.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Bukan tokoh masyarakat tapi ngerti perasaan orang " 0]
+    [true "Tokoh masyarakat gak ngerti perasaan orang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) gampang baper pasti (b) ngerti perasaan orang.<br>\n  (c) tokoh masyarakat itu (a) gampang baper.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793bf5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang punya hati pasti suka lagu cinta.<br>\n  Manusia itu punya hati.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Bukan manusia tapi suka lagu cinta " 1]
+    [true "Manusia gak suka lagu cinta " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) punya hati pasti (b) suka lagu cinta.<br>\n  (c) manusia itu (a) punya hati.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793c05a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Semua yang bisa sayang pasti gampang sakit hati.<br>\n  Remaja itu bisa sayang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Remaja gak gampang sakit hati " 0]
+    [false "Bukan remaja tapi gampang sakit hati " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Gampang yaa? Semua yang (a) bisa sayang pasti (b) gampang sakit hati.<br>\n  (c) remaja itu (a) bisa sayang.<br>\n<br>\n  Semua a pasti b, c adalah a. Jelas doong kesimpulannya? <br>\n  c pasti b.<br>\n  <br>\n  Jadi, kondisi yang kalo bener maka membuktikan klaimnya salah adalah<br>\n  c dan gak b.\n</p>\n",
+  :template-id "c6f3ef305a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06793c15a7c11eb8b9672c8190c1ce1"}]

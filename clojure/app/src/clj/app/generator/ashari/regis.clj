@@ -1,7 +1,11 @@
 (ns app.generator.ashari.regis
   (:require [app.generator.ashari.ips.smp_09.geografi]
             [app.generator.ashari.ips.smp_09.sosiologi]
-            [app.generator.ashari.ips.smp_09.ekonomi]))
+            [app.generator.ashari.ips.smp_09.ekonomi]
+            [app.generator.ashari.ips.smp_09.sejarah]
+            [app.generator.ashari.geography.geo_ch_fb]
+            [app.generator.ashari.geography.geo_ch_gb]
+            [app.generator.ashari.geography.geo_ch_gc]))
 
 (def register
   [;;  {:folder "templates/piloting"
@@ -96,27 +100,327 @@
   ;;   :file   "ekonomi_distribusi-antardaerah.html"
   ;;   :topic  :smp-ips
   ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/distribusi-antardaerah}
-   {:folder "templates/ips/smp_09"
-    :file   "ekonomi_pengertian-dan-tujuan-konsumsi.html"
-    :topic  :smp-ips
-    :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pengertian-dan-tujuan-konsumsi}
-   {:folder "templates/ips/smp_09"
-    :file   "ekonomi_ciri-benda-konsumsi.html"
-    :topic  :smp-ips
-    :gen-fn app.generator.ashari.ips.smp_09.ekonomi/ciri-benda-konsumsi}
-   {:folder "templates/ips/smp_09"
-    :file   "ekonomi_pembagian-benda-konsumsi.html"
-    :topic  :smp-ips
-    :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pembagian-benda-konsumsi}
-   {:folder "templates/ips/smp_09"
-    :file   "ekonomi_pengertian-harga.html"
-    :topic  :smp-ips
-    :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pengertian-harga}
-   {:folder "templates/ips/smp_09"
-    :file   "ekonomi_fungsi-harga.html"
-    :topic  :smp-ips
-    :gen-fn app.generator.ashari.ips.smp_09.ekonomi/fungsi-harga}
-   {:folder "templates/ips/smp_09"
-    :file   "ekonomi_jenis-harga.html"
-    :topic  :smp-ips
-    :gen-fn app.generator.ashari.ips.smp_09.ekonomi/jenis-harga}])
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pengertian-dan-tujuan-konsumsi.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pengertian-dan-tujuan-konsumsi}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_ciri-benda-konsumsi.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/ciri-benda-konsumsi}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pembagian-benda-konsumsi.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pembagian-benda-konsumsi}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pengertian-harga.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pengertian-harga}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_fungsi-harga.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/fungsi-harga}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_jenis-harga.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/jenis-harga}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pengertian-pasar.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pengertian-pasar}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_fungsi-pasar.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/fungsi-pasar}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_jenis-pasar.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/jenis-pasar}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_perdagangan-indonesia-1.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/perdagangan-indonesia-1}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pengertian-migrasi.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pengertian-migrasi}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_jenis-migran-antardaerah.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/jenis-migran-antardaerah}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pengaruh-ketergantungan-antarruang-pada-migrasi-1.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pengaruh-ketergantungan-antarruang-pada-migrasi-1}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pengaruh-ketergantungan-antarruang-pada-migrasi-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pengaruh-ketergantungan-antarruang-pada-migrasi-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pengertian-transportasi.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pengertian-transportasi}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_transportasi-indonesia-era-kolonial.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/transportasi-indonesia-era-kolonial}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_transportasi-indonesia-era-orde-lama.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/transportasi-indonesia-era-orde-lama}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_transportasi-indonesia-era-orde-baru.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/transportasi-indonesia-era-orde-baru}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pendidikan-di-indonesia-1.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pendidikan-di-indonesia-1}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pendidikan-di-indonesia-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pendidikan-di-indonesia-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sosiologi_hakikat-perubahan-sosial-budaya-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sosiologi/hakikat-perubahan-sosial-budaya-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sosiologi_karakteristik-perubahan-sosial-budaya-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sosiologi/karakteristik-perubahan-sosial-budaya-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sosiologi_bentuk-perubahan-sosial-budaya-dari-waktu.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sosiologi/bentuk-perubahan-sosial-budaya-dari-waktu}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sosiologi_bentuk-perubahan-sosial-budaya-dari-pengaruh.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sosiologi/bentuk-perubahan-sosial-budaya-dari-pengaruh}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sosiologi_bentuk-perubahan-sosial-budaya-dari-perencanaan.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sosiologi/bentuk-perubahan-sosial-budaya-dari-perencanaan}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sosiologi_faktor-penyebab-perubahan-sosial-budaya-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sosiologi/faktor-penyebab-perubahan-sosial-budaya-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sosiologi_faktor-pendorong-perubahan-sosial-budaya-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sosiologi/faktor-pendorong-perubahan-sosial-budaya-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sosiologi_faktor-penghambat-perubahan-sosial-budaya-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sosiologi/faktor-penghambat-perubahan-sosial-budaya-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sosiologi_ciri-ciri-globalisasi-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sosiologi/ciri-ciri-globalisasi-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sosiologi_bentuk-globalisasi-budaya.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sosiologi/bentuk-globalisasi-budaya}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pendidikan-di-dunia-1.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pendidikan-di-dunia-1}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pendidikan-di-dunia-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pendidikan-di-dunia-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pendidikan-di-dunia-3.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pendidikan-di-dunia-3}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pengaruh-ketergantungan-antarruang-pada-pendidikan.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pengaruh-ketergantungan-antarruang-pada-pendidikan}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_pengertian-lembaga-ekonomi.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/pengertian-lembaga-ekonomi}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_lembaga-ekonomi-di-indonesia-1.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/lembaga-ekonomi-di-indonesia-1}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_lembaga-ekonomi-di-indonesia-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/lembaga-ekonomi-di-indonesia-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_lembaga-ekonomi-di-indonesia-3.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/lembaga-ekonomi-di-indonesia-3}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_lembaga-ekonomi-di-indonesia-4.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/lembaga-ekonomi-di-indonesia-4}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_manfaat-pengembangan-pusat-keunggulan-ekonomi.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/manfaat-pengembangan-pusat-keunggulan-ekonomi}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_masyarakat-ekonomi-asean-1.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/masyarakat-ekonomi-asean-1}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_masyarakat-ekonomi-asean-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/masyarakat-ekonomi-asean-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_kelangkaan-sebagai-permasalahan-ekonomi-1.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/kelangkaan-sebagai-permasalahan-ekonomi-1}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_kelangkaan-sebagai-permasalahan-ekonomi-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/kelangkaan-sebagai-permasalahan-ekonomi-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_faktor-yang-mempengaruhi-kebutuhan-manusia-1.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/faktor-yang-mempengaruhi-kebutuhan-manusia-1}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_faktor-yang-mempengaruhi-kebutuhan-manusia-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/faktor-yang-mempengaruhi-kebutuhan-manusia-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_asean-free-trade-area.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/asean-free-trade-area}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_asia-pacific-economic-cooperation.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/asia-pacific-economic-cooperation}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "ekonomi_european-union.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.ekonomi/european-union}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sejarah_masa-praaksara-7.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sejarah/masa-praaksara-7}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "geografi_benua-asia-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.geografi/benua-asia-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "geografi_benua-amerika-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.geografi/benua-amerika-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "geografi_benua-eropa-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.geografi/benua-eropa-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "geografi_benua-afrika-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.geografi/benua-afrika-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "geografi_benua-australia-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.geografi/benua-australia-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "geografi_jepang-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.geografi/jepang-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "geografi_tiongkok-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.geografi/tiongkok-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "geografi_amerika-serikat-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.geografi/amerika-serikat-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "geografi_brasil-2.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.geografi/brasil-2}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sejarah_masa-praaksara-6.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sejarah/masa-praaksara-6}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sejarah_masa-praaksara-10.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sejarah/masa-praaksara-10}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sejarah_masa-praaksara-7b.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sejarah/masa-praaksara-7b}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sejarah_masa-praaksara.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sejarah/masa-praaksara}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sejarah_masa-praaksara-8.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sejarah/masa-praaksara-8}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sejarah_masa-praaksara-9.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sejarah/masa-praaksara-9}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sejarah_masa-praaksara-4.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sejarah/masa-praaksara-4}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sejarah_masa-praaksara-3.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sejarah/masa-praaksara-3}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sejarah_masa-praaksara-6b.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sejarah/masa-praaksara-6b}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sejarah_masa-praaksara-5.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sejarah/masa-praaksara-5}
+  ;;  {:folder "templates/ips/smp_09"
+  ;;   :file   "sejarah_masa-praaksara-8b.html"
+  ;;   :topic  :smp-ips
+  ;;   :gen-fn app.generator.ashari.ips.smp_09.sejarah/masa-praaksara-8b}
+  ;;  {:folder "templates/geography/UTBK_F"
+  ;;   :file   "geo_FB_proyeksi-peta-1a.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.geography.geo_ch_fb/proyeksi-peta-1a}
+  ;;  {:folder "templates/geography/UTBK_F"
+  ;;   :file   "geo_FB_proyeksi-peta-3a.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.geography.geo_ch_fb/proyeksi-peta-3a}
+  ;;  {:folder "templates/geography/UTBK_F"
+  ;;   :file   "geo_FB_proyeksi-peta-3b.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.geography.geo_ch_fb/proyeksi-peta-3b}
+  ;;  {:folder "templates/geography/UTBK_F"
+  ;;   :file   "geo_FB_proyeksi-peta-3c.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.geography.geo_ch_fb/proyeksi-peta-3c}
+  ;;  {:folder "templates/geography/UTBK_F"
+  ;;   :file   "geo_FB_proyeksi-peta-3d.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.geography.geo_ch_fb/proyeksi-peta-3d}
+  ;;  {:folder "templates/geography/UTBK_F"
+  ;;   :file   "geo_FB_proyeksi-peta-3e.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.geography.geo_ch_fb/proyeksi-peta-3e}
+  ;;  {:folder "templates/geography/UTBK_F"
+  ;;   :file   "geo_FB_proyeksi-peta-5a.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.geography.geo_ch_fb/proyeksi-peta-5a}
+  ;;  {:folder "templates/geography/UTBK_F"
+  ;;   :file   "geo_FB_proyeksi-peta-6a.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.geography.geo_ch_fb/proyeksi-peta-6a}
+  ;;  {:folder "templates/geography/UTBK_G"
+  ;;   :file   "geo_GB_memahami-konsep-citra-nonfoto-1a.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.geography.geo_ch_gb/memahami-konsep-citra-nonfoto-1a}
+  ;;  {:folder "templates/geography/UTBK_G"
+  ;;   :file   "geo_GC_langkah-interpretasi-citra-1a.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.geography.geo_ch_gc/langkah-interpretasi-citra-1a}
+   {:folder "templates/geography/UTBK_F"
+    :file   "geo_FB_proyeksi-peta-7.html"
+    :topic  :geo
+    :gen-fn app.generator.ashari.geography.geo_ch_fb/proyeksi-peta-7}])

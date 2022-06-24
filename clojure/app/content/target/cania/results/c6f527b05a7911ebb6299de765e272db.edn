@@ -1,0 +1,1302 @@
+[{:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Ebola gak mati jika kena alkohol " 1]
+    [false "Virus Ebola  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Ebola mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3505a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Ebola  " 0]
+    [true "Virus Ebola gak mati di dalam kulkas " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Ebola mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3515a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Ebola gak mati jika kena alkohol " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Ebola  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Ebola mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3525a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus HIV  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus HIV gak bisa dilawan dengan elektromagnetik " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus HIV bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3535a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Cacar buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Cacar gak bisa dilawan dengan elektromagnetik " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Cacar  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Cacar buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Cacar bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Cacar gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3545a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Cacar buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Cacar  " 0]
+    [true "Virus Cacar gak mati jika kena ultraviolet " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Cacar buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Cacar mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Cacar gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3555a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Ebola gak mati jika kena alkohol " 0]
+    [false "Virus Ebola  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Ebola mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3565a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus DBD gak bisa dilawan oleh vaksin " 1]
+    [false "Virus DBD  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\n  Jadi, harusnya virus DBD bisa dilawan oleh vaksin.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak bisa dilawan oleh vaksin.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3575a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Ebola  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus Ebola gak mati jika kena ultraviolet " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Ebola mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3585a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Corona gak bisa dilawan dengan elektromagnetik " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Corona  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Corona bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3595a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus HIV  " 0]
+    [true "Virus HIV gak bisa dilawan dengan elektromagnetik " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus HIV bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc35a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Influenza  " 0]
+    [true "Virus Influenza gak bisa dilawan oleh vaksin " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\n  Jadi, harusnya virus Influenza bisa dilawan oleh vaksin.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak bisa dilawan oleh vaksin.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc35b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Rabies gak mati jika kena ultraviolet " 1]
+    [false "Virus Rabies  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Rabies mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc35c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Corona  " 0]
+    [true "Virus Corona gak bisa dilawan oleh vaksin " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\n  Jadi, harusnya virus Corona bisa dilawan oleh vaksin.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak bisa dilawan oleh vaksin.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc35d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Ebola gak mati di dalam kulkas " 0]
+    [false "Virus Ebola  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Ebola mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc35e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Ebola gak bisa dilawan oleh vaksin " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Ebola  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\n  Jadi, harusnya virus Ebola bisa dilawan oleh vaksin.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak bisa dilawan oleh vaksin.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc35f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus DBD  " 0]
+    [true "Virus DBD gak mati jika kena ultraviolet " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus DBD mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3605a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus DBD  " 0]
+    [true "Virus DBD gak bisa dilawan dengan elektromagnetik " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus DBD bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3615a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus HIV gak bisa dilawan dengan elektromagnetik " 1]
+    [false "Virus HIV  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus HIV bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3625a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus DBD  " 0]
+    [true "Virus DBD gak mati jika kena alkohol " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus DBD mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3635a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Virus Influenza  " 1]
+    [true "Virus Influenza gak mati di dalam kulkas " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Influenza mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3645a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Virus DBD  " 1]
+    [true "Virus DBD gak mati jika kena ultraviolet " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus DBD mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3655a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Influenza gak mati jika kena ultraviolet " 1]
+    [false "Virus Influenza  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Influenza mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3665a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Influenza gak mati jika kena alkohol " 0]
+    [false "Virus Influenza  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Influenza mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3675a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus DBD  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus DBD gak bisa dilawan oleh vaksin " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\n  Jadi, harusnya virus DBD bisa dilawan oleh vaksin.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak bisa dilawan oleh vaksin.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3685a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Influenza gak mati jika kena ultraviolet " 0]
+    [false "Virus Influenza  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Influenza mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3695a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Virus DBD  " 1]
+    [true "Virus DBD gak mati di dalam kulkas " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus DBD mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc36a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Cacar buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Cacar gak mati jika kena alkohol " 1]
+    [false "Virus Cacar  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Cacar buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Cacar mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Cacar gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc36b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Corona gak bisa dilawan oleh vaksin " 0]
+    [false "Virus Corona  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\n  Jadi, harusnya virus Corona bisa dilawan oleh vaksin.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak bisa dilawan oleh vaksin.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc36c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Influenza gak mati jika kena ultraviolet " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Influenza  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Influenza mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc36d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Virus HIV  " 1]
+    [true "Virus HIV gak bisa dilawan oleh vaksin " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\n  Jadi, harusnya virus HIV bisa dilawan oleh vaksin.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak bisa dilawan oleh vaksin.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc36e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Influenza  " 0]
+    [true "Virus Influenza gak mati jika kena alkohol " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Influenza mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc36f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Ebola  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus Ebola gak bisa dilawan dengan elektromagnetik " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Ebola bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3705a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus HIV  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus HIV gak mati jika kena alkohol " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus HIV mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3715a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus DBD  " 0]
+    [true "Virus DBD gak bisa dilawan oleh vaksin " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\n  Jadi, harusnya virus DBD bisa dilawan oleh vaksin.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak bisa dilawan oleh vaksin.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3725a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Rabies  " 0]
+    [true "Virus Rabies gak mati jika kena alkohol " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Rabies mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3735a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Corona gak bisa dilawan dengan elektromagnetik " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Corona  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Corona bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3745a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Rabies  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus Rabies gak mati jika kena alkohol " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Rabies mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3755a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Rabies gak mati jika kena alkohol " 1]
+    [false "Virus Rabies  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Rabies mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3765a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Rabies gak bisa dilawan dengan elektromagnetik " 1]
+    [false "Virus Rabies  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Rabies bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3775a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Cacar buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Cacar gak bisa dilawan dengan elektromagnetik " 0]
+    [false "Virus Cacar  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Cacar buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Cacar bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Cacar gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3785a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Cacar buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Cacar gak mati jika kena ultraviolet " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Cacar  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Cacar buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Cacar mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Cacar gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3795a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Influenza gak mati di dalam kulkas " 1]
+    [false "Virus Influenza  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Influenza mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc37a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Corona gak bisa dilawan dengan elektromagnetik " 1]
+    [false "Virus Corona  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Corona bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc37b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Rabies gak bisa dilawan dengan elektromagnetik " 1]
+    [false "Virus Rabies  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Rabies bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc37c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Virus Influenza  " 1]
+    [true
+     "Virus Influenza gak bisa dilawan dengan elektromagnetik "
+     2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Influenza bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc37d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus HIV  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus HIV gak mati jika kena alkohol " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus HIV mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc37e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Rabies  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus Rabies gak mati di dalam kulkas " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Rabies mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc37f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Ebola gak mati jika kena ultraviolet " 0]
+    [false "Virus Ebola  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Ebola mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3805a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Influenza gak bisa dilawan dengan elektromagnetik " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Influenza  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Influenza bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3815a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus HIV gak mati di dalam kulkas " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus HIV  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus HIV mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3825a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Rabies gak bisa dilawan oleh vaksin " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Rabies  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\n  Jadi, harusnya virus Rabies bisa dilawan oleh vaksin.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak bisa dilawan oleh vaksin.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3835a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Virus Corona  " 1]
+    [true "Virus Corona gak mati jika kena ultraviolet " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Corona mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3845a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus HIV gak mati jika kena ultraviolet " 0]
+    [false "Virus HIV  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus HIV mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3855a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Corona gak bisa dilawan dengan elektromagnetik " 0]
+    [false "Virus Corona  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Corona bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3865a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus DBD gak mati di dalam kulkas " 1]
+    [false "Virus DBD  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus DBD mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3875a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Corona gak mati di dalam kulkas " 1]
+    [false "Virus Corona  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Corona mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3885a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Influenza gak mati di dalam kulkas " 1]
+    [false "Virus Influenza  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Influenza mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3895a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus DBD gak mati jika kena ultraviolet " 1]
+    [false "Virus DBD  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus DBD mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc38a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Corona gak mati jika kena alkohol " 0]
+    [false "Virus Corona  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Corona mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc38b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Virus Corona  " 1]
+    [true "Virus Corona gak mati jika kena alkohol " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Corona mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc38c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus HIV gak mati jika kena alkohol " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus HIV  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus HIV mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc38d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Virus Rabies  " 1]
+    [true "Virus Rabies gak mati jika kena ultraviolet " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Rabies mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc38e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus DBD gak mati di dalam kulkas " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus DBD  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus DBD mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc38f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Rabies  " 0]
+    [true "Virus Rabies gak mati di dalam kulkas " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Rabies mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3905a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Corona gak mati jika kena alkohol " 1]
+    [false "Virus Corona  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Corona mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3915a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Rabies gak mati jika kena alkohol " 1]
+    [false "Virus Rabies  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Rabies mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3925a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus DBD gak bisa dilawan dengan elektromagnetik " 0]
+    [false "Virus DBD  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus DBD bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3935a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Influenza  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus Influenza gak mati jika kena ultraviolet " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Influenza mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3945a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Rabies gak mati jika kena alkohol " 1]
+    [false "Virus Rabies  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Rabies mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3955a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Influenza gak mati jika kena alkohol " 1]
+    [false "Virus Influenza  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Influenza mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3965a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Corona  " 0]
+    [true "Virus Corona gak mati di dalam kulkas " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Corona mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3975a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus HIV gak mati jika kena ultraviolet " 0]
+    [false "Virus HIV  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus HIV mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3985a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Cacar buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Cacar gak mati di dalam kulkas " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Cacar  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Cacar buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Cacar mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Cacar gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3995a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus HIV  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus HIV gak bisa dilawan oleh vaksin " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\n  Jadi, harusnya virus HIV bisa dilawan oleh vaksin.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak bisa dilawan oleh vaksin.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc39a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Corona  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus Corona gak mati jika kena ultraviolet " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Corona mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc39b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Influenza gak mati jika kena alkohol " 1]
+    [false "Virus Influenza  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Influenza mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc39c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Influenza  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus Influenza gak mati jika kena ultraviolet " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Influenza mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc39d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Cacar buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Cacar gak mati di dalam kulkas " 1]
+    [false "Virus Cacar  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Cacar buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Cacar mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Cacar gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc39e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Ebola gak bisa dilawan oleh vaksin " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Ebola  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\n  Jadi, harusnya virus Ebola bisa dilawan oleh vaksin.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak bisa dilawan oleh vaksin.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc39f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Rabies gak mati jika kena ultraviolet " 0]
+    [false "Virus Rabies  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Rabies mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3a05a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus DBD gak mati jika kena alkohol " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus DBD  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus DBD mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3a15a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus HIV gak mati di dalam kulkas " 1]
+    [false "Virus HIV  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus HIV mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3a25a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Ebola  " 0]
+    [true "Virus Ebola gak bisa dilawan dengan elektromagnetik " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Ebola bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3a35a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Corona gak mati di dalam kulkas " 1]
+    [false "Virus Corona  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Corona mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3a45a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Rabies gak bisa dilawan dengan elektromagnetik " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Rabies  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Rabies bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3a55a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Virus Corona  " 1]
+    [true "Virus Corona gak mati di dalam kulkas " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Corona mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cc3a65a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Rabies buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Virus Rabies  " 1]
+    [true "Virus Rabies gak mati di dalam kulkas " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Rabies buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Rabies mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Rabies gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea605a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus DBD  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus DBD gak bisa dilawan dengan elektromagnetik " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus DBD bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea615a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus HIV buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus HIV  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus HIV gak mati di dalam kulkas " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus HIV buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus HIV mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus HIV gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea625a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Virus Corona  " 1]
+    [true "Virus Corona gak mati jika kena ultraviolet " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Corona mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea635a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Virus Ebola gak bisa dilawan dengan elektromagnetik " 1]
+    [false "Virus Ebola  " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan dengan elektromagnetik.<br>\n<br>\n  Jadi, harusnya virus Ebola bisa dilawan dengan elektromagnetik.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak bisa dilawan dengan elektromagnetik.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea645a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Corona buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Corona gak mati jika kena ultraviolet " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Corona  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Corona buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Corona mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Corona gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea655a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Influenza buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Influenza  " 0]
+    [true "Virus Influenza gak mati di dalam kulkas " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Influenza buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Influenza mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Influenza gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea665a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Ebola gak bisa dilawan oleh vaksin " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Ebola  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia bisa dilawan oleh vaksin.<br>\n<br>\n  Jadi, harusnya virus Ebola bisa dilawan oleh vaksin.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak bisa dilawan oleh vaksin.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea675a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Cacar buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Cacar  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus Cacar gak mati jika kena ultraviolet " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Cacar buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Cacar mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Cacar gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea685a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Cacar buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus Cacar  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus Cacar gak mati di dalam kulkas " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Cacar buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus Cacar mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Cacar gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea695a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Ebola buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Ebola gak mati jika kena ultraviolet " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Virus Ebola  " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Ebola buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena ultraviolet.<br>\n<br>\n  Jadi, harusnya virus Ebola mati jika kena ultraviolet.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Ebola gak mati jika kena ultraviolet.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea6a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus DBD buatan manusia.<br>\n  Semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Virus DBD  " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Virus DBD gak mati di dalam kulkas " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus DBD buatan manusia dan <br>\n  semua virus buatan manusia mati di dalam kulkas.<br>\n<br>\n  Jadi, harusnya virus DBD mati di dalam kulkas.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus DBD gak mati di dalam kulkas.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea6b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Virus Cacar buatan manusia.<br>\n  Semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Virus Cacar gak mati jika kena alkohol " 0]
+    [false "Virus Cacar  " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Cukup jelas yaa? Klaimnya kan virus Cacar buatan manusia dan <br>\n  semua virus buatan manusia mati jika kena alkohol.<br>\n<br>\n  Jadi, harusnya virus Cacar mati jika kena alkohol.<br>\n  Maka itu, kondisi yang jika benar maka membuktikan klaimnya salah adalah<br>\n  virus Cacar gak mati jika kena alkohol.\n</p>\n",
+  :template-id "c6f527b05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c06cea6c5a7c11eb8b9672c8190c1ce1"}]

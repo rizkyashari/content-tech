@@ -1,0 +1,208 @@
+[{:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap pria pasti berpasangan dengan minimal satu orang betina<br>\n  dan setiap betina pasti berpasangan dengan satu orang pria.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah betina lebih banyak dari pria " 1]
+    [true "Jumlah pria lebih banyak dari betina " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: pria (a) dan betina (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c04565305a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap pejantan pasti berpasangan dengan minimal satu orang betina<br>\n  dan setiap betina pasti berpasangan dengan satu orang pejantan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah betina lebih banyak dari pejantan " 1]
+    [true "Jumlah pejantan lebih banyak dari betina " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: pejantan (a) dan betina (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c04565315a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap cowok pasti berpasangan dengan minimal satu orang cewek<br>\n  dan setiap cewek pasti berpasangan dengan satu orang cowok.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah cewek lebih banyak dari cowok " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah cowok lebih banyak dari cewek " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cowok (a) dan cewek (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c04565325a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap cowok pasti berpasangan dengan minimal satu orang perempuan<br>\n  dan setiap perempuan pasti berpasangan dengan satu orang cowok.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah perempuan lebih banyak dari cowok " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah cowok lebih banyak dari perempuan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cowok (a) dan perempuan (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c04565335a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap pria pasti berpasangan dengan minimal satu orang wanita<br>\n  dan setiap wanita pasti berpasangan dengan satu orang pria.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah wanita lebih banyak dari pria " 0]
+    [true "Jumlah pria lebih banyak dari wanita " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: pria (a) dan wanita (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c04565345a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap pria pasti berpasangan dengan minimal satu orang perempuan<br>\n  dan setiap perempuan pasti berpasangan dengan satu orang pria.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah perempuan lebih banyak dari pria " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah pria lebih banyak dari perempuan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: pria (a) dan perempuan (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c04565355a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap cowok pasti berpasangan dengan minimal satu orang betina<br>\n  dan setiap betina pasti berpasangan dengan satu orang cowok.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah cowok lebih banyak dari betina " 0]
+    [false "Jumlah betina lebih banyak dari cowok " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cowok (a) dan betina (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c04565365a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap pejantan pasti berpasangan dengan minimal satu orang perempuan<br>\n  dan setiap perempuan pasti berpasangan dengan satu orang pejantan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah pejantan lebih banyak dari perempuan " 0]
+    [false "Jumlah perempuan lebih banyak dari pejantan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: pejantan (a) dan perempuan (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c04565375a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap laki-laki pasti berpasangan dengan minimal satu orang cewek<br>\n  dan setiap cewek pasti berpasangan dengan satu orang laki-laki.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah cewek lebih banyak dari laki-laki " 1]
+    [true "Jumlah laki-laki lebih banyak dari cewek " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: laki-laki (a) dan cewek (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c04565385a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap cowok pasti berpasangan dengan minimal satu orang wanita<br>\n  dan setiap wanita pasti berpasangan dengan satu orang cowok.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah cowok lebih banyak dari wanita " 1]
+    [false "Jumlah wanita lebih banyak dari cowok " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cowok (a) dan wanita (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c04565395a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap laki-laki pasti berpasangan dengan minimal satu orang betina<br>\n  dan setiap betina pasti berpasangan dengan satu orang laki-laki.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah laki-laki lebih banyak dari betina " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah betina lebih banyak dari laki-laki " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: laki-laki (a) dan betina (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c045653a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap pria pasti berpasangan dengan minimal satu orang cewek<br>\n  dan setiap cewek pasti berpasangan dengan satu orang pria.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah cewek lebih banyak dari pria " 1]
+    [true "Jumlah pria lebih banyak dari cewek " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: pria (a) dan cewek (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c045653b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap pejantan pasti berpasangan dengan minimal satu orang cewek<br>\n  dan setiap cewek pasti berpasangan dengan satu orang pejantan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah pejantan lebih banyak dari cewek " 1]
+    [false "Jumlah cewek lebih banyak dari pejantan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: pejantan (a) dan cewek (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c045653c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap laki-laki pasti berpasangan dengan minimal satu orang wanita<br>\n  dan setiap wanita pasti berpasangan dengan satu orang laki-laki.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah laki-laki lebih banyak dari wanita " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah wanita lebih banyak dari laki-laki " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: laki-laki (a) dan wanita (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c045653d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap laki-laki pasti berpasangan dengan minimal satu orang perempuan<br>\n  dan setiap perempuan pasti berpasangan dengan satu orang laki-laki.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah perempuan lebih banyak dari laki-laki " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah laki-laki lebih banyak dari perempuan " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: laki-laki (a) dan perempuan (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c045653e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Setiap pejantan pasti berpasangan dengan minimal satu orang wanita<br>\n  dan setiap wanita pasti berpasangan dengan satu orang pejantan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah wanita lebih banyak dari pejantan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah pejantan lebih banyak dari wanita " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: pejantan (a) dan wanita (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f01ea05a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c045653f5a7c11eb8b9672c8190c1ce1"}]

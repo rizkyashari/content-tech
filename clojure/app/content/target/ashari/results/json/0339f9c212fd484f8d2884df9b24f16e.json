@@ -1,0 +1,595 @@
+[ {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang telah disetujui oleh penjual dan pembeli adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pokok ", 0 ], [ false, "subjektif ", 1 ], [ true, "pasar ", 2 ], [ false, "jual", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75c81e47f586261fdfd7586a56"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang telah disetujui oleh penjual dan pembeli merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual", 0 ], [ false, "pokok ", 1 ], [ true, "objektif ", 2 ], [ false, "subjektif ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75d82a46a5a153cedb7c83c010"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga suatu barang atau jasa ketika sudah dijual kepada konsumen merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "biaya produksi", 0 ], [ true, "jual ", 1 ], [ false, "subjektif ", 2 ], [ false, "objektif ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga jual adalah harga pokok yang sudah ditambahkan keuntungan oleh penjual.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7515364609badf886b77f5ec5a"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang telah disetujui oleh penjual dan pembeli merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "pasar ", 0 ], [ false, "jual ", 1 ], [ false, "subjektif ", 2 ], [ false, "biaya produksi", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda750ae646cfad5d5fac40f01e74"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHasil kesepakatan antara penjual dan pembeli terhadap harga suatu barang atau jasa merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "subjektif ", 0 ], [ false, "jual", 1 ], [ false, "pokok ", 2 ], [ true, "objektif ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda754fe74cc48e0d4e975bc3fdf5"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga pokok yang sudah ditambahkan keuntungan oleh penjual merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "jual ", 0 ], [ false, "pokok", 1 ], [ false, "objektif ", 2 ], [ false, "subjektif ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga jual adalah harga pokok yang sudah ditambahkan keuntungan oleh penjual.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75a127442980ba47c1984ffa21"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga asli suatu produk sebelum menentukan keuntungan merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "objektif", 0 ], [ false, "subjektif ", 1 ], [ true, "biaya produksi ", 2 ], [ false, "jual ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda759c0c4457ac13d57bf513c3da"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "subjektif ", 0 ], [ false, "biaya produksi ", 1 ], [ false, "jual", 2 ], [ false, "objektif ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75980a4ab7b526dcc7939c479c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga asli suatu produk sebelum menentukan keuntungan adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual ", 0 ], [ true, "pokok ", 1 ], [ false, "subjektif ", 2 ], [ false, "pasar", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75cecc44dd95f20b2be50739ab"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPerkiraan atas harga suatu barang atau jasa yang hendak diperjualbelikan merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "subjektif ", 0 ], [ false, "biaya produksi", 1 ], [ false, "pasar ", 2 ], [ false, "jual ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7587374007a657ae233db2b5de"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nNilai yang dikeluarkan oleh produsen dalam membuat suatu produk adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual ", 0 ], [ false, "pasar", 1 ], [ true, "pokok ", 2 ], [ false, "subjektif ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75cfcc46eba99067a9c81b9604"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga sebenarnya dari suatu produk sebelum produsen menjual produk tersebut ke konsumen merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual ", 0 ], [ false, "objektif", 1 ], [ false, "subjektif ", 2 ], [ true, "biaya produksi ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75cf5c490a9c0a37e6adda46f6"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga asli suatu produk sebelum menentukan keuntungan merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "subjektif ", 0 ], [ true, "pokok ", 1 ], [ false, "jual", 2 ], [ false, "objektif ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda751e42416995ca6ee03b2a7d35"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHasil kesepakatan antara penjual dan pembeli terhadap harga suatu barang atau jasa adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "subjektif", 0 ], [ true, "objektif ", 1 ], [ false, "biaya produksi ", 2 ], [ false, "jual ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda757960418a9fbc04c374435abb"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang ditentukan berdasarkan opini seseorang terhadap harga pasaran barang atau jasa merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual", 0 ], [ false, "biaya produksi ", 1 ], [ false, "pasar ", 2 ], [ true, "subjektif ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75e6214b45827433056f545476"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHasil kesepakatan antara penjual dan pembeli terhadap harga suatu barang atau jasa merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual ", 0 ], [ false, "subjektif ", 1 ], [ true, "objektif ", 2 ], [ false, "pokok", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7506654376a2ef691b6b756ddf"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga asli suatu produk sebelum menentukan keuntungan merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "pokok ", 0 ], [ false, "jual ", 1 ], [ false, "subjektif ", 2 ], [ false, "objektif", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda754ec94b77a0965d05dcdeaa99"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga asli suatu produk sebelum menentukan keuntungan merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pasar ", 0 ], [ false, "jual", 1 ], [ true, "pokok ", 2 ], [ false, "subjektif ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75a287485ebf7d25309720c1da"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga sebenarnya dari suatu produk sebelum produsen menjual produk tersebut ke konsumen merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual", 0 ], [ false, "subjektif ", 1 ], [ true, "pokok ", 2 ], [ false, "objektif ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75cef64915bb72a6524ab5cc50"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga biaya produksi yang sudah ditambahkan keuntungan oleh produsen merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "subjektif ", 0 ], [ true, "jual ", 1 ], [ false, "pokok", 2 ], [ false, "pasar ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga jual adalah harga pokok yang sudah ditambahkan keuntungan oleh penjual.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75ce834cc2b55b7acf6837a4a1"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga asli suatu produk sebelum menentukan keuntungan adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual", 0 ], [ false, "objektif ", 1 ], [ true, "pokok ", 2 ], [ false, "subjektif ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75d9f146e29b262afdad570ad5"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang ditentukan berdasarkan opini seseorang terhadap harga pasaran barang atau jasa adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "objektif", 0 ], [ true, "subjektif ", 1 ], [ false, "biaya produksi ", 2 ], [ false, "jual ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75dfde4aeebc044ca0b28a6bdf"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga pokok yang sudah ditambahkan keuntungan oleh penjual merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "subjektif ", 0 ], [ false, "pasar ", 1 ], [ false, "pokok", 2 ], [ true, "jual ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga jual adalah harga pokok yang sudah ditambahkan keuntungan oleh penjual.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda755100445b95a395699628a18f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang telah disetujui oleh penjual dan pembeli merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "subjektif ", 0 ], [ false, "biaya produksi ", 1 ], [ false, "jual", 2 ], [ true, "pasar ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75d22742c79aa05067c8e4698d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga biaya produksi yang sudah ditambahkan keuntungan oleh produsen merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "biaya produksi ", 0 ], [ true, "jual ", 1 ], [ false, "subjektif ", 2 ], [ false, "pasar", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga jual adalah harga pokok yang sudah ditambahkan keuntungan oleh penjual.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda756dfa420b86aa5ff2db081b73"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga sebenarnya dari suatu produk sebelum produsen menjual produk tersebut ke konsumen merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pasar ", 0 ], [ true, "biaya produksi ", 1 ], [ false, "jual ", 2 ], [ false, "subjektif", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda750c584812b3aba842e01c9e89"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPerkiraan atas harga suatu barang atau jasa yang hendak diperjualbelikan adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pokok", 0 ], [ false, "jual ", 1 ], [ true, "subjektif ", 2 ], [ false, "objektif ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7502f84911b88049e3d7c2fbd9"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga biaya produksi yang sudah ditambahkan keuntungan oleh produsen merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "subjektif", 0 ], [ false, "pasar ", 1 ], [ true, "jual ", 2 ], [ false, "pokok ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga jual adalah harga pokok yang sudah ditambahkan keuntungan oleh penjual.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75fe0c41f4a7e5fa7d7c5678eb"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga pokok yang sudah ditambahkan keuntungan oleh penjual merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "biaya produksi ", 0 ], [ false, "pasar ", 1 ], [ false, "subjektif", 2 ], [ true, "jual ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga jual adalah harga pokok yang sudah ditambahkan keuntungan oleh penjual.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda751a5f4d10914555a2d36f8a6c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nNilai yang dikeluarkan oleh produsen dalam membuat suatu produk merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "objektif", 0 ], [ true, "biaya produksi ", 1 ], [ false, "subjektif ", 2 ], [ false, "jual ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75181546dfbeebb5e3ba6b0c0d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang ditentukan berdasarkan opini seseorang terhadap harga pasaran barang atau jasa adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual ", 0 ], [ true, "subjektif ", 1 ], [ false, "pasar", 2 ], [ false, "biaya produksi ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7545f341fe96c73e2cac0447c9"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "objektif ", 0 ], [ false, "pokok ", 1 ], [ false, "jual", 2 ], [ true, "subjektif ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda754a754701911c969fd46b8f0f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga suatu barang atau jasa ketika sudah dijual kepada konsumen adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "jual ", 0 ], [ false, "pasar", 1 ], [ false, "subjektif ", 2 ], [ false, "biaya produksi ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga jual adalah harga pokok yang sudah ditambahkan keuntungan oleh penjual.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75d8524c16a7d3f070652ebd40"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pokok ", 0 ], [ true, "subjektif ", 1 ], [ false, "pasar", 2 ], [ false, "jual ", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75ef1544e2a0a17fffb1942c6b"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang ditentukan berdasarkan opini seseorang terhadap harga pasaran barang atau jasa merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "subjektif ", 0 ], [ false, "biaya produksi ", 1 ], [ false, "jual", 2 ], [ false, "objektif ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75fbd544468916417e88feec62"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang ditentukan berdasarkan opini seseorang terhadap harga pasaran barang atau jasa merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "biaya produksi ", 0 ], [ false, "pasar", 1 ], [ false, "jual ", 2 ], [ true, "subjektif ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75eb6243c7a93f5ec046a27c5d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga asli suatu produk sebelum menentukan keuntungan merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "biaya produksi ", 0 ], [ false, "jual ", 1 ], [ false, "subjektif", 2 ], [ false, "pasar ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75a0c54405b344dea3d03a382e"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang telah disetujui oleh penjual dan pembeli merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual ", 0 ], [ false, "pokok ", 1 ], [ false, "subjektif", 2 ], [ true, "pasar ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda755ff84907ac7f02b22ef9c5d8"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "biaya produksi", 0 ], [ false, "jual ", 1 ], [ true, "objektif ", 2 ], [ false, "subjektif ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75f1df4b73b45596de56e89790"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga biaya produksi yang sudah ditambahkan keuntungan oleh produsen adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pokok", 0 ], [ false, "pasar ", 1 ], [ true, "jual ", 2 ], [ false, "subjektif ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga jual adalah harga pokok yang sudah ditambahkan keuntungan oleh penjual.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7552534c0c98d61b72393300de"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang ditentukan berdasarkan opini seseorang terhadap harga pasaran barang atau jasa merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual ", 0 ], [ true, "subjektif ", 1 ], [ false, "biaya produksi ", 2 ], [ false, "objektif", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7521fe409f8170528dbf2adb8d"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang ditentukan berdasarkan opini seseorang terhadap harga pasaran barang atau jasa adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "subjektif ", 0 ], [ false, "jual ", 1 ], [ false, "objektif", 2 ], [ false, "pokok ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda753da54164832948acafcf99c9"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nPerkiraan atas harga suatu barang atau jasa yang hendak diperjualbelikan merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual ", 0 ], [ true, "subjektif ", 1 ], [ false, "pasar ", 2 ], [ false, "pokok", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75dcc843c39e2e0131c247574f"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "pasar ", 0 ], [ false, "biaya produksi ", 1 ], [ false, "subjektif ", 2 ], [ false, "jual", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75b73244ef851566767463ed33"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga pokok yang sudah ditambahkan keuntungan oleh penjual merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "subjektif ", 0 ], [ false, "pasar", 1 ], [ true, "jual ", 2 ], [ false, "pokok ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga jual adalah harga pokok yang sudah ditambahkan keuntungan oleh penjual.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda752ef94cbea6bd1394b082f5e1"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "jual ", 0 ], [ true, "pasar ", 1 ], [ false, "biaya produksi ", 2 ], [ false, "subjektif", 3 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75475d4e2fba5048df87e5e148"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga asli suatu produk sebelum menentukan keuntungan merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "subjektif", 0 ], [ false, "objektif ", 1 ], [ true, "biaya produksi ", 2 ], [ false, "jual ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda751ae24854baaa8447ecb49503"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga asli suatu produk sebelum menentukan keuntungan adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "subjektif ", 0 ], [ false, "pasar ", 1 ], [ true, "pokok ", 2 ], [ false, "jual", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75213049c1825d3c3747753677"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "objektif", 0 ], [ false, "pokok ", 1 ], [ true, "subjektif ", 2 ], [ false, "jual ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75e33a4c03be5892cea8d8e88b"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang ditentukan berdasarkan opini seseorang terhadap harga pasaran barang atau jasa adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "subjektif ", 0 ], [ false, "pasar ", 1 ], [ false, "pokok ", 2 ], [ false, "jual", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75a3034338aae77b878a839f1c"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nNilai yang dikeluarkan oleh produsen dalam membuat suatu produk adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "pasar ", 0 ], [ false, "subjektif ", 1 ], [ true, "pokok ", 2 ], [ false, "jual", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga pokok atau harga biaya produksi adalah harga asli suatu produk sebelum penjual atau produsen menentukan keuntungan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda75ebc54dd98d49257cbf1c1208"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang ditentukan berdasarkan opini seseorang terhadap harga pasaran barang atau jasa merupakan pengertian dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "objektif ", 0 ], [ false, "pokok", 1 ], [ true, "subjektif ", 2 ], [ false, "jual ", 3 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7579fe4eca92773e85520abc31"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi adalah maksud dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ false, "subjektif ", 0 ], [ false, "jual", 1 ], [ false, "biaya produksi ", 2 ], [ true, "objektif ", 3 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga objektif atau harga pasar adalah harga yang sudah disepakati oleh penjual dan pembeli dalam sebuah transaksi.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda757f3b4749bc8ce79a1820c848"
+}, {
+  "soal" : {
+    "soal-text" : "\r\n\r\n<p>\r\nHarga yang ditentukan berdasarkan opini seseorang terhadap harga pasaran barang atau jasa merupakan definisi dari jenis harga ....\r\n</p>\r\n\r\n\r\n",
+    "options" : [ [ true, "subjektif ", 0 ], [ false, "pokok", 1 ], [ false, "pasar ", 2 ], [ false, "jual ", 3 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\r\n\r\nGimana, <i>guys</i>? Simak penjelasan di bawah ini, ya!<br>\r\n<br>\r\nHarga terbagi dari harga subjektif, harga objektif (pasar), harga pokok (biaya produksi), dan harga jual. Harga subjektif adalah harga yang diperkirakan berdasarkan pendapat seseorang terhadap harga barang atau jasa yang akan dipasarkan.<br>\r\n<br>\r\nGimana? Sudah jelas? Kerjain terus soal-soal ZenPractice biar kamu makin paham, ya!\t\t\t\t\t\t\t\t\t\t\t\t",
+  "images" : [ ],
+  "template-id" : "0339f9c212fd484f8d2884df9b24f16e",
+  "topic" : "smp-ips",
+  "problem-id" : "033eda7539174a4792f9183dec32c015"
+} ]

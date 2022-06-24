@@ -1,0 +1,1309 @@
+[{:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 15 x 15. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "196 " 0] [false "144" 1] [false "289 " 2] [false "256 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698a0511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 14 x 14. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 8 x 8 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "36 " 0] [true "49 " 1] [false "64 " 2] [false "81" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698a1511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 10 x 10. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "121 " 0] [true "81 " 1] [false "49 " 2] [false "64" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698a2511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 5 x 5 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "169 " 0] [false "196 " 1] [false "256" 2] [false "121 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698a3511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 7 x 7 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "144 " 0] [false "225" 1] [false "121 " 2] [true "169 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698a4511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "169" 0] [true "225 " 1] [false "196 " 2] [false "324 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698a5511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 12 x 12. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 6 x 6 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "81" 0] [true "49 " 1] [false "100 " 2] [false "36 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698a6511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 16 x 16. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 10 x 10 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "49 " 0] [false "81 " 1] [false "64 " 2] [false "36" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698a7511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 14 x 14. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "121 " 0] [false "100" 1] [false "169 " 2] [false "144 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698a8511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 6 x 6. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "16 " 0] [false "25 " 1] [false "9 " 2] [false "36" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698a9511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 11 x 11. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 6 x 6 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "81" 0] [false "64 " 1] [true "36 " 2] [false "25 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698aa511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 15 x 15 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "49 " 0] [false "9" 1] [true "25 " 2] [false "16 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698ab511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 8 x 8 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "196" 0] [false "100 " 1] [false "169 " 2] [true "144 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698ac511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "196 " 0] [false "225" 1] [false "169 " 2] [false "144 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698ad511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "289 " 0] [true "225 " 1] [false "169" 2] [false "324 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698ae511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 12 x 12. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "81 " 0] [false "144 " 1] [false "169" 2] [true "100 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698af511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 11 x 11 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "144 " 0] [false "121" 1] [false "64 " 2] [true "81 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698b0511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 9 x 9. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "49 " 0] [false "81 " 1] [false "25" 2] [true "36 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698b1511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 8 x 8 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "196" 0] [true "121 " 1] [false "144 " 2] [false "169 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698b2511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 14 x 14 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "36 " 0] [false "25 " 1] [false "49 " 2] [false "81" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698b3511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 8 x 8 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "100 " 0] [false "81 " 1] [false "64 " 2] [false "121" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698b4511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 12 x 12 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "100 " 0] [false "36" 1] [false "64 " 2] [true "49 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698b5511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 11 x 11 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "25 " 0] [false "64" 1] [false "81 " 2] [true "49 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698b6511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "225 " 0] [false "361" 1] [false "256 " 2] [true "289 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698b7511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 8 x 8. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 5 x 5 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "36 " 0] [false "4" 1] [false "49 " 2] [true "16 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698b8511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 16 x 16. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 7 x 7 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "121 " 0] [false "144" 1] [false "169 " 2] [true "100 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698b9511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 14 x 14. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "144 " 0] [false "169" 1] [false "225 " 2] [false "121 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698ba511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 12 x 12. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "144 " 0] [false "49 " 1] [true "81 " 2] [false "64" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698bb511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 10 x 10. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "81" 0] [true "49 " 1] [false "64 " 2] [false "36 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698bc511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 13 x 13. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 10 x 10 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "16 " 0] [false "36" 1] [false "9 " 2] [false "49 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698bd511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 13 x 13. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 6 x 6 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "100 " 0] [false "36" 1] [false "81 " 2] [true "64 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698be511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 16 x 16. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 8 x 8 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "49 " 0] [true "81 " 1] [false "100" 2] [false "121 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698bf511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 12 x 12. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "144 " 0] [false "196" 1] [false "100 " 2] [true "121 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698c0511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 10 x 10. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 6 x 6 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "16 " 0] [false "36 " 1] [false "64" 2] [true "25 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698c1511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 16 x 16. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 13 x 13 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "4 " 0] [false "25" 1] [false "36 " 2] [true "16 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698c2511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 5 x 5 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "169 " 0] [false "289 " 1] [true "225 " 2] [false "256" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698c3511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 14 x 14 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "25 " 0] [false "9" 1] [false "4 " 2] [true "16 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698c4511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 13 x 13. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "100 " 0] [false "64" 1] [false "144 " 2] [false "81 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698c5511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 9 x 9 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "81 " 0] [false "121" 1] [true "100 " 2] [false "64 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698c6511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 16 x 16. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "169 " 0] [false "196 " 1] [false "144 " 2] [false "225" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698c7511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 10 x 10. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 5 x 5 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "64 " 0] [false "49 " 1] [false "25" 2] [true "36 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698c8511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 15 x 15 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "16 " 0] [false "9 " 1] [false "36" 2] [false "25 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698c9511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 16 x 16. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 6 x 6 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "100 " 0] [true "121 " 1] [false "81 " 2] [false "196" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698ca511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "324 " 0] [false "289" 1] [true "256 " 2] [false "196 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698cb511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 15 x 15. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 6 x 6 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "81 " 0] [false "64 " 1] [true "100 " 2] [false "144" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698cc511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 12 x 12. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 5 x 5 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "64 " 0] [false "36" 1] [false "81 " 2] [false "121 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698cd511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 14 x 14 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "16" 0] [false "64 " 1] [false "49 " 2] [true "25 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698ce511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 12 x 12. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 8 x 8 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "49 " 0] [false "64 " 1] [true "25 " 2] [false "16" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698cf511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "225" 0] [false "289 " 1] [true "256 " 2] [false "324 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698d0511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 12 x 12. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 9 x 9 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "25" 0] [true "16 " 1] [false "36 " 2] [false "49 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698d1511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 11 x 11. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 8 x 8 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "49" 0] [false "4 " 1] [false "25 " 2] [true "16 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698d2511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 7 x 7. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "16 " 0] [false "49" 1] [false "36 " 2] [true "25 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698d3511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 14 x 14. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 7 x 7 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "49 " 0] [false "100" 1] [false "121 " 2] [true "64 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698d4511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 6 x 6 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "196 " 0] [false "169 " 1] [false "100" 2] [true "144 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698d5511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 14 x 14. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "121 " 0] [true "169 " 1] [false "144" 2] [false "225 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698d6511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 12 x 12 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "81 " 0] [false "36 " 1] [false "100" 2] [true "64 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698d7511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 13 x 13 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "9 " 0] [true "25 " 1] [false "16" 2] [false "49 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698d8511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 9 x 9. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "64 " 0] [true "49 " 1] [false "36 " 2] [false "100" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698d9511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 16 x 16. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 11 x 11 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "64 " 0] [true "36 " 1] [false "16" 2] [false "25 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698da511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 14 x 14. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 6 x 6 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "81 " 0] [false "100" 1] [false "144 " 2] [false "64 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698db511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 9 x 9. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 5 x 5 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "36 " 0] [false "49" 1] [false "16 " 2] [true "25 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698dc511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 11 x 11. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 7 x 7 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "49" 0] [false "36 " 1] [true "25 " 2] [false "9 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698dd511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 14 x 14. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 11 x 11 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "4" 0] [false "36 " 1] [true "16 " 2] [false "25 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698de511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 11 x 11 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "81 " 0] [true "64 " 1] [false "49" 2] [false "100 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698df511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 7 x 7 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "196 " 0] [false "225" 1] [true "144 " 2] [false "121 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698e0511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 15 x 15. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 12 x 12 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "16 " 0] [false "36" 1] [false "9 " 2] [false "4 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698e1511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 10 x 10. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "64 " 0] [false "36" 1] [false "49 " 2] [false "81 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698e2511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 11 x 11. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 5 x 5 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "36 " 0] [false "100" 1] [true "49 " 2] [false "64 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698e3511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 11 x 11. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "144 " 0] [false "64" 1] [true "100 " 2] [false "121 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698e4511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 11 x 11. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "121 " 0] [true "81 " 1] [false "64" 2] [false "100 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698e5511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 8 x 8. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "16 " 0] [true "25 " 1] [false "36" 2] [false "64 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698e6511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 7 x 7 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "196 " 0] [false "144" 1] [false "100 " 2] [true "121 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698e7511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 9 x 9 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "100 " 0] [true "81 " 1] [false "64 " 2] [false "49" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698e8511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 15 x 15. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 5 x 5 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "144 " 0] [false "196" 1] [false "81 " 2] [true "121 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698e9511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 13 x 13 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "100" 0] [false "81 " 1] [true "49 " 2] [false "64 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698ea511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 15 x 15. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 8 x 8 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "64 " 0] [false "49" 1] [false "100 " 2] [false "36 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698eb511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 14 x 14. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 5 x 5 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "121 " 0] [true "100 " 1] [false "169 " 2] [false "64" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df698ec511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 9 x 9. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "100 " 0] [false "36" 1] [true "64 " 2] [false "49 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfb0511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 13 x 13. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 8 x 8 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "81 " 0] [true "36 " 1] [false "16" 2] [false "25 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfb1511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 14 x 14. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 10 x 10 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "25 " 0] [false "16" 1] [false "49 " 2] [false "64 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfb2511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 15 x 15. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 10 x 10 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "25 " 0] [false "64 " 1] [true "36 " 2] [false "16" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfb3511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 11 x 11. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "81 " 0] [false "36" 1] [true "64 " 2] [false "121 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfb4511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 9 x 9 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "121 " 0] [false "169 " 1] [false "196 " 2] [false "100" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfb5511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 15 x 15. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 7 x 7 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "64" 0] [true "81 " 1] [false "144 " 2] [false "121 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfb6511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 7 x 7. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "16 " 0] [false "49 " 1] [false "64" 2] [true "36 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfb7511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 6 x 6 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "169 " 0] [false "196" 1] [false "144 " 2] [false "256 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfb8511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 15 x 15. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 9 x 9 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "81 " 0] [true "49 " 1] [false "100" 2] [false "36 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfb9511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 6 x 6 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "256" 0] [false "144 " 1] [true "196 " 2] [false "289 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfba511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "441 " 0] [true "324 " 1] [false "256" 2] [false "400 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfbb511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 8 x 8. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "25 " 0] [true "36 " 1] [false "49 " 2] [false "16" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfbc511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 10 x 10 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "64 " 0] [true "81 " 1] [false "49 " 2] [false "100" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfbd511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "361 " 0] [false "289 " 1] [false "196" 2] [true "256 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfbe511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "400" 0] [false "361 " 1] [true "289 " 2] [false "256 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfbf511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 13 x 13. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 7 x 7 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "49 " 0] [false "100" 1] [false "81 " 2] [false "25 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfc0511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 10 x 10 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "36 " 0] [false "81" 1] [false "100 " 2] [true "64 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfc1511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 13 x 13 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "36 " 0] [false "81" 1] [false "16 " 2] [false "64 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfc2511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 16 x 16. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "256" 0] [true "196 " 1] [false "169 " 2] [false "225 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfc3511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 10 x 10 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "100 " 0] [false "121 " 1] [false "64" 2] [false "81 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfc4511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 19 x 19. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 16 x 16 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "25" 0] [false "4 " 1] [true "16 " 2] [false "49 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfc5511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 12 x 12. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 7 x 7 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "25 " 0] [false "64" 1] [false "49 " 2] [true "36 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfc6511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 6 x 6. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "49 " 0] [false "9 " 1] [true "25 " 2] [false "64" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfc7511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 15 x 15. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "121 " 0] [false "196 " 1] [false "169" 2] [true "144 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfc8511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 14 x 14. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 9 x 9 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "36 " 0] [false "16 " 1] [false "49 " 2] [false "25" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfc9511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 17 x 17. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 12 x 12 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "64 " 0] [false "81 " 1] [true "36 " 2] [false "16" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfca511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 15 x 15. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 11 x 11 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "64 " 0] [true "25 " 1] [false "49 " 2] [false "9" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfcb511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 13 x 13. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "169 " 0] [false "100 " 1] [true "121 " 2] [false "81" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfcc511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 16 x 16. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 12 x 12 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "25 " 0] [false "16 " 1] [false "49 " 2] [false "9" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfcd511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 8 x 8. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "100 " 0] [false "64 " 1] [false "36" 2] [true "49 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfce511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 18 x 18. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 5 x 5 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "196 " 0] [false "144 " 1] [false "169" 2] [false "256 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfcf511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 9 x 9. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 6 x 6 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "25" 0] [false "36 " 1] [false "49 " 2] [true "16 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfd0511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 10 x 10. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 7 x 7 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "36 " 0] [false "49" 1] [true "16 " 2] [false "4 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfd1511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 13 x 13. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "169" 0] [true "144 " 1] [false "225 " 2] [false "121 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfd2511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 15 x 15. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 3 x 3 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "196 " 0] [false "121 " 1] [true "169 " 2] [false "256" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfd3511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 16 x 16. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 2 x 2 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "256 " 0] [false "196" 1] [false "289 " 2] [true "225 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfd4511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 16 x 16. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 9 x 9 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "36 " 0] [false "81 " 1] [true "64 " 2] [false "121" 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfd5511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 16 x 16. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 5 x 5 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "144 " 0] [false "100 " 1] [false "196" 2] [false "121 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfd6511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 13 x 13. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 9 x 9 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "16 " 0] [true "25 " 1] [false "9 " 2] [false "49" 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfd7511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 13 x 13. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 5 x 5 di dalemnya?\n</p>\n\n",
+   :options
+   [[true "81 " 0] [false "64 " 1] [false "49" 2] [false "144 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfd8511911eb9792effc88b33977"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Bayangin papan catur, isinya kan persegi 8 x 8. <br>\n    nah di dalem papan kayak gitu kan ada juga <br>\n    persegi dengan ukuran beda2x, ada 2x2, 5x5, dll. <br>\n    Nah sekarang bayangin mirip papan catur <br>\n    dengan ukuran 7 x 7. <br><br>\n    Ada berapa persegi dengan <br>\n    ukuran 4 x 4 di dalemnya?\n</p>\n\n",
+   :options
+   [[false "9 " 0] [true "16 " 1] [false "25" 2] [false "49 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Hehe, ini salah satu yang ga seru kalo dibahas. <br>\n    Yang pasti polanya tuh ada kok, jadi coba pikirin polanya yak <br>\n</p>",
+  :template-id "80f7a3b0511811eb9792effc88b33977",
+  :topic :math,
+  :problem-id "2df6bfd9511911eb9792effc88b33977"}]

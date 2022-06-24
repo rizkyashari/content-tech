@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "template-id": "A",
+    "soal-id": "A1",
+    "level": 1,
+    "tipe": "literasi",
+    "title": "Siti dan Udin di Jalan",
+    "sub-title": "",
+    "konteks": "Sosial Budaya",
+    "konten": "Data dan Ketidakpastian",
+    "image": ["https://www.linkpicture.com/q/udin.jpeg"],
+    "setlet": "<style>\r\n    .kiri {\r\n    margin-left: 10px;\r\n    margin-top: 10px;\r\n    }\r\n    </style>\r\n<div class=\"flex xs:flex-wrap\">\r\n    <img src=\"https://www.linkpicture.com/q/udin.jpeg\" width=\"300\"/>\r\n    <p class=\"kiri\">\r\n        Siti dan Udin namanya. <br/>\r\n            Muka mereka penuh debu. <br/> \r\n            Dengan baju rombengan, mereka menyanyi di tengah kebisingan.<br/>\r\n            Pagi sampai malam, mereka tersenyum dalam peluh,menyapa om dan tante, mengharap receh seadanya.<br/>\r\n            Beribu Siti dan Udin berkeliaran di jalan-jalan,dengan suara serak.<br/>\r\n            Kalau hari ini bisa makan, alhamdulillah.<br/>\r\n            Siti dan Udin tetap berdoa agar mereka bisa sekolahdan punya rumah berjendela.<br/>\r\n            (Februari 2003)\r\n    </p>\r\n\r\n</div>\r\n",
+    "tipe-soal": "pilihan ganda",
+    "question": "Apa permintaan Siti dan Udin dalam doanya?",
+    "answer": "Ingin bersekolah.",
+    "options": [
+      "Ingin bersekolah.",
+      "Ingin bernyanyi.",
+      "Ingin bekerja.",
+      "Ingin bertamasya."
+    ]
+  },
+  {
+    "id": 2,
+    "template-id": "A",
+    "soal-id": "A2",
+    "level": 1,
+    "tipe": "literasi",
+    "title": "Siti dan Udin di Jalan",
+    "sub-title": "",
+    "konteks": "Sosial Budaya",
+    "konten": "Data dan Ketidakpastian",
+    "image": ["https://www.linkpicture.com/q/udin.jpeg"],
+    "setlet": "<style>\r\n    .kiri {\r\n    margin-left: 10px;\r\n    margin-top: 10px;\r\n    }\r\n    </style>\r\n<div class=\"flex xs:flex-wrap\">\r\n    <img src=\"https://www.linkpicture.com/q/udin.jpeg\" width=\"300\"/>\r\n    <p class=\"kiri\">\r\n        Siti dan Udin namanya. <br/>\r\n            Muka mereka penuh debu. <br/> \r\n            Dengan baju rombengan, mereka menyanyi di tengah kebisingan.<br/>\r\n            Pagi sampai malam, mereka tersenyum dalam peluh,menyapa om dan tante, mengharap receh seadanya.<br/>\r\n            Beribu Siti dan Udin berkeliaran di jalan-jalan,dengan suara serak.<br/>\r\n            Kalau hari ini bisa makan, alhamdulillah.<br/>\r\n            Siti dan Udin tetap berdoa agar mereka bisa sekolahdan punya rumah berjendela.<br/>\r\n            (Februari 2003)\r\n    </p>\r\n\r\n</div>\r\n",
+    "tipe-soal": "pilihan ganda kompleks",
+    "question": "Manakah yang merupakan sifat Siti dan Udin? <br /> Beri tanda centang (√) pada setiap pernyataan yang benar !",
+    "answer": ["Pekerja keras", "Sabar"],
+    "options": ["Pekerja keras", "Pemalu", "Sabar", "Congkak"]
+  },
+  {
+    "id": 3,
+    "template-id": "A",
+    "soal-id": "A3",
+    "level": 1,
+    "tipe": "literasi",
+    "title": "Siti dan Udin di Jalan",
+    "sub-title": "",
+    "konteks": "Sosial Budaya",
+    "konten": "Data dan Ketidakpastian",
+    "image": ["https://www.linkpicture.com/q/udin.jpeg"],
+    "setlet": "<style>\r\n    .kiri {\r\n    margin-left: 10px;\r\n    margin-top: 10px;\r\n    }\r\n    </style>\r\n<div class=\"flex xs:flex-wrap\">\r\n    <img src=\"https://www.linkpicture.com/q/udin.jpeg\" width=\"300\"/>\r\n    <p class=\"kiri\">\r\n        Siti dan Udin namanya. <br/>\r\n            Muka mereka penuh debu. <br/> \r\n            Dengan baju rombengan, mereka menyanyi di tengah kebisingan.<br/>\r\n            Pagi sampai malam, mereka tersenyum dalam peluh,menyapa om dan tante, mengharap receh seadanya.<br/>\r\n            Beribu Siti dan Udin berkeliaran di jalan-jalan,dengan suara serak.<br/>\r\n            Kalau hari ini bisa makan, alhamdulillah.<br/>\r\n            Siti dan Udin tetap berdoa agar mereka bisa sekolahdan punya rumah berjendela.<br/>\r\n            (Februari 2003)\r\n    </p>\r\n\r\n</div>\r\n",
+    "tipe-soal": "pilihan ganda kompleks 2",
+    "question": "Manakah yang merupakan sifat Siti dan Udin? Beri tanda centang (√) yang sesuai pada tiap pernyataan!",
+    "answer": [
+      ["Pekerja keraz", "benar"],
+      ["Pemalu", "benar"],
+      ["Sabar", "salah"],
+      ["Congkak", "salah"]
+    ],
+    "options": ["Pekerja keraz", "Pemalu", "Sabar", "Congkak"],
+    "tHead": ["Pernyataan", "Benar", "Salah"]
+  },
+  {
+    "id": 4,
+    "template-id": "A",
+    "soal-id": "A4",
+    "level": 1,
+    "tipe": "literasi",
+    "title": "Siti dan Udin di Jalan",
+    "sub-title": "",
+    "konteks": "Sosial Budaya",
+    "konten": "Data dan Ketidakpastian",
+    "image": ["https://www.linkpicture.com/q/udin.jpeg"],
+    "setlet": "<style>\r\n    .kiri {\r\n    margin-left: 10px;\r\n    margin-top: 10px;\r\n    }\r\n    </style>\r\n<div class=\"flex xs:flex-wrap\">\r\n    <img src=\"https://www.linkpicture.com/q/udin.jpeg\" width=\"300\"/>\r\n    <p class=\"kiri\">\r\n        Siti dan Udin namanya. <br/>\r\n            Muka mereka penuh debu. <br/> \r\n            Dengan baju rombengan, mereka menyanyi di tengah kebisingan.<br/>\r\n            Pagi sampai malam, mereka tersenyum dalam peluh,menyapa om dan tante, mengharap receh seadanya.<br/>\r\n            Beribu Siti dan Udin berkeliaran di jalan-jalan,dengan suara serak.<br/>\r\n            Kalau hari ini bisa makan, alhamdulillah.<br/>\r\n            Siti dan Udin tetap berdoa agar mereka bisa sekolahdan punya rumah berjendela.<br/>\r\n            (Februari 2003)\r\n    </p>\r\n\r\n</div>\r\n",
+    "tipe-soal": "isian",
+    "question": "Apa yang dilakukan Siti dan Udin di jalan?",
+    "answer": "mengamen"
+  },
+  {
+    "id": 5,
+    "template-id": "A",
+    "soal-id": "A5",
+    "level": 1,
+    "tipe": "literasi",
+    "title": "Siti dan Udin di Jalan",
+    "sub-title": "",
+    "konteks": "Sosial Budaya",
+    "konten": "Data dan Ketidakpastian",
+    "image": ["https://www.linkpicture.com/q/udin.jpeg"],
+    "setlet": "<style>\r\n    .kiri {\r\n    margin-left: 10px;\r\n    margin-top: 10px;\r\n    }\r\n    </style>\r\n<div class=\"flex xs:flex-wrap\">\r\n    <img src=\"https://www.linkpicture.com/q/udin.jpeg\" width=\"300\"/>\r\n    <p class=\"kiri\">\r\n        Siti dan Udin namanya. <br/>\r\n            Muka mereka penuh debu. <br/> \r\n            Dengan baju rombengan, mereka menyanyi di tengah kebisingan.<br/>\r\n            Pagi sampai malam, mereka tersenyum dalam peluh,menyapa om dan tante, mengharap receh seadanya.<br/>\r\n            Beribu Siti dan Udin berkeliaran di jalan-jalan,dengan suara serak.<br/>\r\n            Kalau hari ini bisa makan, alhamdulillah.<br/>\r\n            Siti dan Udin tetap berdoa agar mereka bisa sekolahdan punya rumah berjendela.<br/>\r\n            (Februari 2003)\r\n    </p>\r\n\r\n</div>\r\n",
+    "tipe-soal": "uraian",
+    "question": "Jelaskan alasan yang mendukung gambar tersebut sudah sesuai dengan isi puisi!",
+    "answer": "Ini Jawaban"
+  },
+  {
+    "id": 6,
+    "template-id": "A",
+    "soal-id": "A6",
+    "level": 1,
+    "tipe": "literasi",
+    "title": "Siti dan Udin di Jalan",
+    "sub-title": "",
+    "konteks": "Sosial Budaya",
+    "konten": "Data dan Ketidakpastian",
+    "image": ["https://www.linkpicture.com/q/udin.jpeg"],
+    "setlet": "<style>\r\n    .kiri {\r\n    margin-left: 10px;\r\n    margin-top: 10px;\r\n    }\r\n    </style>\r\n<div class=\"flex xs:flex-wrap\">\r\n    <img src=\"https://www.linkpicture.com/q/udin.jpeg\" width=\"300\"/>\r\n    <p class=\"kiri\">\r\n        Siti dan Udin namanya. <br/>\r\n            Muka mereka penuh debu. <br/> \r\n            Dengan baju rombengan, mereka menyanyi di tengah kebisingan.<br/>\r\n            Pagi sampai malam, mereka tersenyum dalam peluh,menyapa om dan tante, mengharap receh seadanya.<br/>\r\n            Beribu Siti dan Udin berkeliaran di jalan-jalan,dengan suara serak.<br/>\r\n            Kalau hari ini bisa makan, alhamdulillah.<br/>\r\n            Siti dan Udin tetap berdoa agar mereka bisa sekolahdan punya rumah berjendela.<br/>\r\n            (Februari 2003)\r\n    </p>\r\n\r\n</div>\r\n",
+    "tipe-soal": "menjodohkan",
+    "question": "Pasangkanlah peristiwa (yang ada pada lajur kiri) dengan tokoh (yang ada pada lajur kanan) sesuai dengan isi bacaan!",
+    "answer": [
+      ["Suka memberi uang receh dengan seadanya", "Om dan Tante"],
+      ["Suka bernyanyi dengan suara serak", "Siti dan Udin"],
+      ["Berkelamin perempuan", "Siti dan Tante"],
+      ["Berkelamin laki-laki", "Udin dan Om"]
+    ],
+    "options": {
+      "left": [
+        "Suka memberi uang receh dengan seadanya",
+        "Suka bernyanyi dengan suara serak",
+        "Berkelamin perempuan",
+        "Berkelamin laki-laki"
+      ],
+      "right": [
+        "Siti dan Udin",
+        "Om dan Tante",
+        "Siti dan Om",
+        "Siti dan Tante",
+        "Udin dan Om"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "template-id": "A",
+    "soal-id": "A7",
+    "level": 1,
+    "tipe": "literasi",
+    "title": "Siti dan Udin di Jalan",
+    "sub-title": "",
+    "konteks": "Sosial Budaya",
+    "konten": "Data dan Ketidakpastian",
+    "image": ["https://www.linkpicture.com/q/udin.jpeg"],
+    "setlet": "<style>\r\n    .kiri {\r\n    margin-left: 10px;\r\n    margin-top: 10px;\r\n    }\r\n    </style>\r\n<div class=\"flex xs:flex-wrap\">\r\n    <img src=\"https://www.linkpicture.com/q/udin.jpeg\" width=\"300\"/>\r\n    <p class=\"kiri\">\r\n        Siti dan Udin namanya. <br/>\r\n            Muka mereka penuh debu. <br/> \r\n            Dengan baju rombengan, mereka menyanyi di tengah kebisingan.<br/>\r\n            Pagi sampai malam, mereka tersenyum dalam peluh,menyapa om dan tante, mengharap receh seadanya.<br/>\r\n            Beribu Siti dan Udin berkeliaran di jalan-jalan,dengan suara serak.<br/>\r\n            Kalau hari ini bisa makan, alhamdulillah.<br/>\r\n            Siti dan Udin tetap berdoa agar mereka bisa sekolahdan punya rumah berjendela.<br/>\r\n            (Februari 2003)\r\n    </p>\r\n\r\n</div>\r\n",
+    "tipe-soal": "mencocokkan",
+    "question": "Pasangkanlah peristiwa (yang ada pada lajur kiri) dengan tokoh (yang ada pada lajur kanan) sesuai dengan isi bacaan!",
+    "answer": [
+      ["Om dan Tante", "Suka memberi uang receh dengan seadanya"],
+      ["Siti dan Udin", "Suka bernyanyi dengan suara serak"],
+      ["Siti dan Tante", "Berkelamin perempuan"],
+      ["Udin dan Om", "Berkelamin laki-laki"]
+    ],
+    "options": {
+      "source": [
+        "Siti dan Udin",
+        "Om dan Tante",
+        "Siti dan Tante",
+        "Udin dan Om"
+      ],
+      "target": [
+        "Suka memberi uang receh dengan seadanya",
+        "Suka bernyanyi dengan suara serak",
+        "Berkelamin perempuan",
+        "Berkelamin laki-laki"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "template-id": "B",
+    "soal-id": "B1",
+    "level": 2,
+    "tipe": "literasi",
+    "title": "Ori Si Pemberani",
+    "sub-title": "Oleh Irawati Subrata, Ilustrasi oleh Gery Adams, <i>Room to Read Accelerator Project.</i>",
+    "konteks": "Sosial Budaya",
+    "konten": "Data dan Ketidakpastian",
+    "image": [
+      "https://www.linkpicture.com/q/ori-1.jpeg",
+      "https://www.linkpicture.com/q/ori-2.jpeg",
+      "https://www.linkpicture.com/q/ori-3.jpeg"
+    ],
+    "setlet": "<style>\r\n    .kiri {\r\n    margin-left: 3%;\r\n    }\r\n    </style>\r\n<div class=\"flex xs:flex-wrap\">\r\n    <img src=\"https://www.linkpicture.com/q/ori-1.jpeg\"/>\r\n    <p class=\"kiri\">\r\nDi penampungan orang utan, si kecil Ori bangun lebih pagi dari biasanya.<br/>\r\n\r\n“Ayo!” kata Ito. “Saatnya berlatih!”<br/>\r\n\r\nOri belajar memanjat, berayun, dan membuat sarang.<br/>\r\n\r\nKalau sudah mahir baru Ori boleh bermain ke dalam hutan. Ori giat berlatih. Ito guru yang hebat.<br/>\r\n\r\nIto memanjat tinggi. Ori memanjat seperti Ito<br/>\r\n\r\nIto berayun cepat. Ori berayun mengikuti.<br/>\r\n\r\nTahu-tahu, Ito berayun semakin cepat dan menghilang di antara pepohonan. <br/>\r\n\r\n“Kembali Itoooooooo!”<br/>\r\n\r\nOri mencari  Ito sampai di ujung lahan penampungan.<br/>\r\n\r\nOri belum pernah masuk ke hutan sendirian.<br/>\r\nMemberanikan diri, Ori melompat ke pohon berikutnya lalu memanjat lebih tinggi lagi.<br/>\r\n\r\nIa berayun secepat mungkin melewati sulur-sulur yang menjuntai.<br/>\r\n\r\nSesaat, Ori sudah sangat jauh dari penampungan. Tapi, Ito belum ditemukan.<br/>\r\n\r\nOri merasa lapar! Dilihatnya beberapa orang utan menyantap durian.<br/>\r\n\r\nMereka mengajak Ori makan bersama.<br/>\r\n\r\nHari mulai gelap. Ori bersiap membuat sarang sendiri untuk pertama kalinya.<br/>\r\n\r\nDi atas pohon, Ori mendapati Ito yang sedang menunggunya.<br/>\r\n\r\nSetelah hari yang panjang si kecil Ori tertidur nyenyak dan memimpikan petualangannya esok.<br/>\r\n    </p>\r\n\r\n</div>\r\n",
+    "tipe-soal": "pilihan ganda",
+    "question": "Kapan Ori akhirnya menemukan Ito di hutan?",
+    "answer": "Saat Ori sedang belajar memanjat.",
+    "options": [
+      "Saat sedang menyantap durian bersama orang utan lainnya.",
+      "Saat akan membangun sarang di atas pohon.",
+      "Saat sedang berayun di antara sulur-sulur pohon.",
+      "Saat Ori sedang belajar memanjat."
+    ]
+  },
+  {
+    "id": 9,
+    "template-id": "C",
+    "soal-id": "C1",
+    "level": 2,
+    "tipe": "literasi",
+    "title": "Kue Ulang Tahun Widi",
+    "sub-title": "Penerbit: Litara, Tahun terbit: 2015, Diedit oleh Nurhayati Pujiastuti",
+    "konteks": "Sosial Budaya",
+    "konten": "Data dan Ketidakpastian",
+    "image": [
+      "https://i.postimg.cc/kGv8TCHd/ultah-widi1.jpg",
+      "https://i.postimg.cc/258N97Xb/ultah-widi2.jpg",
+      "https://i.postimg.cc/1zChkVLW/ultah-widi3.jpg",
+      "https://www.linkpicture.com/q/ultah-widi4.jpeg"
+    ],
+    "setlet": "<style>\r\n    .kiri {\r\n    margin-left: 10px;\r\n    margin-top: 10px;\r\n    }\r\n    </style>\r\n\r\n<div class=\"flex xs:flex-wrap\">\r\n    <img src=\"https://i.postimg.cc/kGv8TCHd/ultah-widi1.jpg\"\\>\r\n    <p class=\"kiri\">Widi hari ini berulang tahun. Widi senang melihat Nenek pulang dari pasar.<br/>\r\nWidi membayangkan Nenek akan membuat kue ulang tahun yang lezat hari ini.<br/>\r\nTapi, tunggu dulu. Apa itu yang dikeluarkan Nenek dari tas belanja? <br/>\r\nBeras, air santan kelapa, dan daun pandan. Nenek mengaduk semua bahan menjadi sebuah adonan. Nenek lalu menyalakan kompor. Nenek bilang, hari ini Nenek akan membuat bubur.<br/>\r\n\"Mengapa Nenek malah membuat bubur, bukan kue seperti keinginanku?\" pikir Widi.  <br/>\r\nNenek meminta Widi membantu Nenek. Widi membantu mengaduk bubur.<br/>\r\nWidi mencium bau wangi dari bubur. Kata Nenek, daun pandan membuat bubur menjadi wangi.<br/>\r\nSetelah matang, bubur dibagi menjadi dua bagian. <br/>\r\n        Lalu, ke dalam salah satu bubur dimasukkan gula jawa. <br/>\r\n        Gula jawa ini membuat bubur menjadi kecokelatan. Namun, orang menyebutnya bubur merah.<br/>\r\n        Digabungkan dengan bagian yang putih, maka menjadi bubur merah putih.<br/>\r\n        Bubur merah putih buatan Nenek sudah jadi. Yummy, ternyata Widi suka.<br/>\r\n    Kata Nenek, bubur merah putih ini untuk memperingati hari lahir.<br/>\r\n</p>\r\n</div>",
+    "tipe-soal": "uraian",
+    "question": "Apa yang ditambahkan nenek ke dalam bubur sehingga menjadi kecokelatan?",
+    "answer": "Ini Jawaban"
+  },
+  {
+    "id": 10,
+    "template-id": "C",
+    "soal-id": "C2",
+    "level": 2,
+    "tipe": "literasi",
+    "title": "Kue Ulang Tahun Widi",
+    "sub-title": "Penerbit: Litara, Tahun terbit: 2015, Diedit oleh Nurhayati Pujiastuti",
+    "konteks": "Sosial Budaya",
+    "konten": "Data dan Ketidakpastian",
+    "image": [
+      "https://i.postimg.cc/kGv8TCHd/ultah-widi1.jpg",
+      "https://i.postimg.cc/258N97Xb/ultah-widi2.jpg",
+      "https://i.postimg.cc/1zChkVLW/ultah-widi3.jpg",
+      "https://www.linkpicture.com/q/ultah-widi4.jpeg"
+    ],
+    "setlet": "<style>\r\n    .kiri {\r\n    margin-left: 10px;\r\n    margin-top: 10px;\r\n    }\r\n    </style>\r\n\r\n<div class=\"flex xs:flex-wrap\">\r\n    <img src=\"https://i.postimg.cc/kGv8TCHd/ultah-widi1.jpg\"\\>\r\n    <p class=\"kiri\">Widi hari ini berulang tahun. Widi senang melihat Nenek pulang dari pasar.<br/>\r\nWidi membayangkan Nenek akan membuat kue ulang tahun yang lezat hari ini.<br/>\r\nTapi, tunggu dulu. Apa itu yang dikeluarkan Nenek dari tas belanja? <br/>\r\nBeras, air santan kelapa, dan daun pandan. Nenek mengaduk semua bahan menjadi sebuah adonan. Nenek lalu menyalakan kompor. Nenek bilang, hari ini Nenek akan membuat bubur.<br/>\r\n\"Mengapa Nenek malah membuat bubur, bukan kue seperti keinginanku?\" pikir Widi.  <br/>\r\nNenek meminta Widi membantu Nenek. Widi membantu mengaduk bubur.<br/>\r\nWidi mencium bau wangi dari bubur. Kata Nenek, daun pandan membuat bubur menjadi wangi.<br/>\r\nSetelah matang, bubur dibagi menjadi dua bagian. <br/>\r\n        Lalu, ke dalam salah satu bubur dimasukkan gula jawa. <br/>\r\n        Gula jawa ini membuat bubur menjadi kecokelatan. Namun, orang menyebutnya bubur merah.<br/>\r\n        Digabungkan dengan bagian yang putih, maka menjadi bubur merah putih.<br/>\r\n        Bubur merah putih buatan Nenek sudah jadi. Yummy, ternyata Widi suka.<br/>\r\n    Kata Nenek, bubur merah putih ini untuk memperingati hari lahir.<br/>\r\n</p>\r\n</div>",
+    "tipe-soal": "pilihan ganda kompleks 2",
+    "question": "Pernyataan mana yang sesuai dengan bacaan di atas? Klik pada kolom Benar untuk pernyataan yang sesuai dan pada kolom Salah untuk pernyataan yang tidak sesuai dengan bacaan.",
+    "answer": [
+      ["Bubur yang berwarna kecokelatan disebut bubur merah.", "benar"],
+      ["Nenek membelikan kue ulang tahun Widi dari pasar.", "benar"],
+      [
+        "Bubur merah putih biasa dibuat untuk memperingati ulang tahun. ",
+        "salah"
+      ]
+    ],
+    "options": [
+      "Bubur yang berwarna kecokelatan disebut bubur merah.",
+      "Nenek membelikan kue ulang tahun Widi dari pasar.",
+      "Bubur merah putih biasa dibuat untuk memperingati ulang tahun. "
+    ],
+    "tHead": ["Pernyataan", "Benar", "Salah"]
+  }
+]

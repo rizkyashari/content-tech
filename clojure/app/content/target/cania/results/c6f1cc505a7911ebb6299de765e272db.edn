@@ -1,0 +1,1560 @@
+[{:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah sweater pasti berpasangan dengan minimal satu buah legging<br>\n  dan setiap legging pasti berpasangan dengan satu buah sweater.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah sweater lebih banyak dari legging " 0]
+    [false "Jumlah legging lebih banyak dari sweater " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: sweater (a) dan legging (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a005a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah topi pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah topi.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sepatu lebih banyak dari topi " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah topi lebih banyak dari sepatu " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: topi (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a015a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jam tangan pasti berpasangan dengan minimal satu buah legging<br>\n  dan setiap legging pasti berpasangan dengan satu buah jam tangan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah legging lebih banyak dari jam tangan " 1]
+    [true "Jumlah jam tangan lebih banyak dari legging " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jam tangan (a) dan legging (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a025a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kemeja pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah kemeja.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sepatu lebih banyak dari kemeja " 0]
+    [true "Jumlah kemeja lebih banyak dari sepatu " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kemeja (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a035a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kemeja pasti berpasangan dengan minimal satu buah sandal<br>\n  dan setiap sandal pasti berpasangan dengan satu buah kemeja.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah kemeja lebih banyak dari sandal " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah sandal lebih banyak dari kemeja " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kemeja (a) dan sandal (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a045a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cardigan pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah cardigan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah cardigan lebih banyak dari sepatu " 0]
+    [false "Jumlah sepatu lebih banyak dari cardigan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cardigan (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a055a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jam tangan pasti berpasangan dengan minimal satu buah kaos kaki<br>\n  dan setiap kaos kaki pasti berpasangan dengan satu buah jam tangan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah jam tangan lebih banyak dari kaos kaki " 1]
+    [false "Jumlah kaos kaki lebih banyak dari jam tangan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jam tangan (a) dan kaos kaki (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a065a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah hoodie pasti berpasangan dengan minimal satu buah rok<br>\n  dan setiap rok pasti berpasangan dengan satu buah hoodie.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah rok lebih banyak dari hoodie " 1]
+    [true "Jumlah hoodie lebih banyak dari rok " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: hoodie (a) dan rok (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a075a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cincin pasti berpasangan dengan minimal satu buah sabuk<br>\n  dan setiap sabuk pasti berpasangan dengan satu buah cincin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah cincin lebih banyak dari sabuk " 1]
+    [false "Jumlah sabuk lebih banyak dari cincin " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cincin (a) dan sabuk (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a085a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cincin pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah cincin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah cincin lebih banyak dari sepatu " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah sepatu lebih banyak dari cincin " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cincin (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a095a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah anting pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah anting.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah anting lebih banyak dari sepatu " 0]
+    [false "Jumlah sepatu lebih banyak dari anting " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: anting (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a0a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah sweater pasti berpasangan dengan minimal satu buah rok<br>\n  dan setiap rok pasti berpasangan dengan satu buah sweater.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah rok lebih banyak dari sweater " 0]
+    [true "Jumlah sweater lebih banyak dari rok " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: sweater (a) dan rok (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a0b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah gelang pasti berpasangan dengan minimal satu buah rok<br>\n  dan setiap rok pasti berpasangan dengan satu buah gelang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah gelang lebih banyak dari rok " 1]
+    [false "Jumlah rok lebih banyak dari gelang " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: gelang (a) dan rok (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a0c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jam tangan pasti berpasangan dengan minimal satu buah rok<br>\n  dan setiap rok pasti berpasangan dengan satu buah jam tangan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah rok lebih banyak dari jam tangan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah jam tangan lebih banyak dari rok " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jam tangan (a) dan rok (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a0d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah gelang pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah gelang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah gelang lebih banyak dari sepatu " 0]
+    [false "Jumlah sepatu lebih banyak dari gelang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: gelang (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a0e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cardigan pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah cardigan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sepatu lebih banyak dari cardigan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah cardigan lebih banyak dari sepatu " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cardigan (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a0f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jepitan pasti berpasangan dengan minimal satu buah kaos kaki<br>\n  dan setiap kaos kaki pasti berpasangan dengan satu buah jepitan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah kaos kaki lebih banyak dari jepitan " 1]
+    [true "Jumlah jepitan lebih banyak dari kaos kaki " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jepitan (a) dan kaos kaki (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a105a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah sweater pasti berpasangan dengan minimal satu buah sandal<br>\n  dan setiap sandal pasti berpasangan dengan satu buah sweater.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah sweater lebih banyak dari sandal " 0]
+    [false "Jumlah sandal lebih banyak dari sweater " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: sweater (a) dan sandal (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a115a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kemeja pasti berpasangan dengan minimal satu buah legging<br>\n  dan setiap legging pasti berpasangan dengan satu buah kemeja.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah legging lebih banyak dari kemeja " 1]
+    [true "Jumlah kemeja lebih banyak dari legging " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kemeja (a) dan legging (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a125a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jepitan pasti berpasangan dengan minimal satu buah legging<br>\n  dan setiap legging pasti berpasangan dengan satu buah jepitan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah jepitan lebih banyak dari legging " 0]
+    [false "Jumlah legging lebih banyak dari jepitan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jepitan (a) dan legging (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a135a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cardigan pasti berpasangan dengan minimal satu buah sandal<br>\n  dan setiap sandal pasti berpasangan dengan satu buah cardigan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah sandal lebih banyak dari cardigan " 1]
+    [true "Jumlah cardigan lebih banyak dari sandal " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cardigan (a) dan sandal (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a145a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah baju pasti berpasangan dengan minimal satu buah sandal<br>\n  dan setiap sandal pasti berpasangan dengan satu buah baju.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sandal lebih banyak dari baju " 0]
+    [true "Jumlah baju lebih banyak dari sandal " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: baju (a) dan sandal (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a155a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah gelang pasti berpasangan dengan minimal satu buah sandal<br>\n  dan setiap sandal pasti berpasangan dengan satu buah gelang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah gelang lebih banyak dari sandal " 0]
+    [false "Jumlah sandal lebih banyak dari gelang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: gelang (a) dan sandal (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a165a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah topi pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah topi.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah topi lebih banyak dari sepatu " 1]
+    [false "Jumlah sepatu lebih banyak dari topi " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: topi (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a175a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah topi pasti berpasangan dengan minimal satu buah jeans<br>\n  dan setiap jeans pasti berpasangan dengan satu buah topi.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah topi lebih banyak dari jeans " 0]
+    [false "Jumlah jeans lebih banyak dari topi " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: topi (a) dan jeans (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a185a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kalung pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah kalung.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sepatu lebih banyak dari kalung " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah kalung lebih banyak dari sepatu " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kalung (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a195a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah baju pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah baju.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sepatu lebih banyak dari baju " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah baju lebih banyak dari sepatu " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: baju (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a1a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah topi pasti berpasangan dengan minimal satu buah legging<br>\n  dan setiap legging pasti berpasangan dengan satu buah topi.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah topi lebih banyak dari legging " 1]
+    [false "Jumlah legging lebih banyak dari topi " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: topi (a) dan legging (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a1b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cincin pasti berpasangan dengan minimal satu buah jeans<br>\n  dan setiap jeans pasti berpasangan dengan satu buah cincin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah cincin lebih banyak dari jeans " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah jeans lebih banyak dari cincin " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cincin (a) dan jeans (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a1c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cincin pasti berpasangan dengan minimal satu buah celana<br>\n  dan setiap celana pasti berpasangan dengan satu buah cincin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah celana lebih banyak dari cincin " 0]
+    [true "Jumlah cincin lebih banyak dari celana " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cincin (a) dan celana (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a1d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah hoodie pasti berpasangan dengan minimal satu buah boots<br>\n  dan setiap boots pasti berpasangan dengan satu buah hoodie.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah hoodie lebih banyak dari boots " 0]
+    [false "Jumlah boots lebih banyak dari hoodie " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: hoodie (a) dan boots (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a1e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jepitan pasti berpasangan dengan minimal satu buah sandal<br>\n  dan setiap sandal pasti berpasangan dengan satu buah jepitan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sandal lebih banyak dari jepitan " 0]
+    [true "Jumlah jepitan lebih banyak dari sandal " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jepitan (a) dan sandal (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a1f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jepitan pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah jepitan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah jepitan lebih banyak dari sepatu " 0]
+    [false "Jumlah sepatu lebih banyak dari jepitan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jepitan (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a205a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kalung pasti berpasangan dengan minimal satu buah sabuk<br>\n  dan setiap sabuk pasti berpasangan dengan satu buah kalung.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah kalung lebih banyak dari sabuk " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah sabuk lebih banyak dari kalung " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kalung (a) dan sabuk (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a215a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah topi pasti berpasangan dengan minimal satu buah boots<br>\n  dan setiap boots pasti berpasangan dengan satu buah topi.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah boots lebih banyak dari topi " 0]
+    [true "Jumlah topi lebih banyak dari boots " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: topi (a) dan boots (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a225a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cardigan pasti berpasangan dengan minimal satu buah boots<br>\n  dan setiap boots pasti berpasangan dengan satu buah cardigan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah boots lebih banyak dari cardigan " 1]
+    [true "Jumlah cardigan lebih banyak dari boots " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cardigan (a) dan boots (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a235a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah baju pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah baju.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah sepatu lebih banyak dari baju " 1]
+    [true "Jumlah baju lebih banyak dari sepatu " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: baju (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a245a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah baju pasti berpasangan dengan minimal satu buah kaos kaki<br>\n  dan setiap kaos kaki pasti berpasangan dengan satu buah baju.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah baju lebih banyak dari kaos kaki " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah kaos kaki lebih banyak dari baju " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: baju (a) dan kaos kaki (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a255a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah anting pasti berpasangan dengan minimal satu buah rok<br>\n  dan setiap rok pasti berpasangan dengan satu buah anting.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah rok lebih banyak dari anting " 0]
+    [true "Jumlah anting lebih banyak dari rok " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: anting (a) dan rok (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a265a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah anting pasti berpasangan dengan minimal satu buah legging<br>\n  dan setiap legging pasti berpasangan dengan satu buah anting.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah anting lebih banyak dari legging " 1]
+    [false "Jumlah legging lebih banyak dari anting " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: anting (a) dan legging (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a275a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah baju pasti berpasangan dengan minimal satu buah rok<br>\n  dan setiap rok pasti berpasangan dengan satu buah baju.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah rok lebih banyak dari baju " 1]
+    [true "Jumlah baju lebih banyak dari rok " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: baju (a) dan rok (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a285a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah hoodie pasti berpasangan dengan minimal satu buah legging<br>\n  dan setiap legging pasti berpasangan dengan satu buah hoodie.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah legging lebih banyak dari hoodie " 0]
+    [true "Jumlah hoodie lebih banyak dari legging " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: hoodie (a) dan legging (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a295a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah baju pasti berpasangan dengan minimal satu buah legging<br>\n  dan setiap legging pasti berpasangan dengan satu buah baju.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah baju lebih banyak dari legging " 0]
+    [false "Jumlah legging lebih banyak dari baju " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: baju (a) dan legging (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a2a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah anting pasti berpasangan dengan minimal satu buah kaos kaki<br>\n  dan setiap kaos kaki pasti berpasangan dengan satu buah anting.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah kaos kaki lebih banyak dari anting " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah anting lebih banyak dari kaos kaki " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: anting (a) dan kaos kaki (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a2b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah gelang pasti berpasangan dengan minimal satu buah jeans<br>\n  dan setiap jeans pasti berpasangan dengan satu buah gelang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah gelang lebih banyak dari jeans " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah jeans lebih banyak dari gelang " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: gelang (a) dan jeans (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a2c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jepitan pasti berpasangan dengan minimal satu buah jeans<br>\n  dan setiap jeans pasti berpasangan dengan satu buah jepitan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah jeans lebih banyak dari jepitan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah jepitan lebih banyak dari jeans " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jepitan (a) dan jeans (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a2d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kalung pasti berpasangan dengan minimal satu buah kaos kaki<br>\n  dan setiap kaos kaki pasti berpasangan dengan satu buah kalung.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah kaos kaki lebih banyak dari kalung " 1]
+    [true "Jumlah kalung lebih banyak dari kaos kaki " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kalung (a) dan kaos kaki (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a2e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah sweater pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah sweater.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah sweater lebih banyak dari sepatu " 0]
+    [false "Jumlah sepatu lebih banyak dari sweater " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: sweater (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a2f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jepitan pasti berpasangan dengan minimal satu buah boots<br>\n  dan setiap boots pasti berpasangan dengan satu buah jepitan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah jepitan lebih banyak dari boots " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah boots lebih banyak dari jepitan " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jepitan (a) dan boots (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a305a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah gelang pasti berpasangan dengan minimal satu buah boots<br>\n  dan setiap boots pasti berpasangan dengan satu buah gelang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah gelang lebih banyak dari boots " 0]
+    [false "Jumlah boots lebih banyak dari gelang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: gelang (a) dan boots (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a315a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cincin pasti berpasangan dengan minimal satu buah kaos kaki<br>\n  dan setiap kaos kaki pasti berpasangan dengan satu buah cincin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah cincin lebih banyak dari kaos kaki " 1]
+    [false "Jumlah kaos kaki lebih banyak dari cincin " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cincin (a) dan kaos kaki (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a325a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jepitan pasti berpasangan dengan minimal satu buah rok<br>\n  dan setiap rok pasti berpasangan dengan satu buah jepitan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah rok lebih banyak dari jepitan " 1]
+    [true "Jumlah jepitan lebih banyak dari rok " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jepitan (a) dan rok (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a335a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah hoodie pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah hoodie.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah sepatu lebih banyak dari hoodie " 1]
+    [true "Jumlah hoodie lebih banyak dari sepatu " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: hoodie (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a345a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah sweater pasti berpasangan dengan minimal satu buah kaos kaki<br>\n  dan setiap kaos kaki pasti berpasangan dengan satu buah sweater.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah kaos kaki lebih banyak dari sweater " 1]
+    [true "Jumlah sweater lebih banyak dari kaos kaki " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: sweater (a) dan kaos kaki (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a355a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah sweater pasti berpasangan dengan minimal satu buah jeans<br>\n  dan setiap jeans pasti berpasangan dengan satu buah sweater.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah jeans lebih banyak dari sweater " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah sweater lebih banyak dari jeans " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: sweater (a) dan jeans (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a365a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kemeja pasti berpasangan dengan minimal satu buah kaos kaki<br>\n  dan setiap kaos kaki pasti berpasangan dengan satu buah kemeja.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah kaos kaki lebih banyak dari kemeja " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah kemeja lebih banyak dari kaos kaki " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kemeja (a) dan kaos kaki (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a375a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cincin pasti berpasangan dengan minimal satu buah rok<br>\n  dan setiap rok pasti berpasangan dengan satu buah cincin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah rok lebih banyak dari cincin " 1]
+    [true "Jumlah cincin lebih banyak dari rok " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cincin (a) dan rok (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a385a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cardigan pasti berpasangan dengan minimal satu buah legging<br>\n  dan setiap legging pasti berpasangan dengan satu buah cardigan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah legging lebih banyak dari cardigan " 1]
+    [true "Jumlah cardigan lebih banyak dari legging " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cardigan (a) dan legging (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a395a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jam tangan pasti berpasangan dengan minimal satu buah jeans<br>\n  dan setiap jeans pasti berpasangan dengan satu buah jam tangan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah jam tangan lebih banyak dari jeans " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah jeans lebih banyak dari jam tangan " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jam tangan (a) dan jeans (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a3a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah sweater pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah sweater.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sepatu lebih banyak dari sweater " 0]
+    [true "Jumlah sweater lebih banyak dari sepatu " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: sweater (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a3b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah hoodie pasti berpasangan dengan minimal satu buah kaos kaki<br>\n  dan setiap kaos kaki pasti berpasangan dengan satu buah hoodie.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah hoodie lebih banyak dari kaos kaki " 1]
+    [false "Jumlah kaos kaki lebih banyak dari hoodie " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: hoodie (a) dan kaos kaki (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a3c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kemeja pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah kemeja.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sepatu lebih banyak dari kemeja " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah kemeja lebih banyak dari sepatu " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kemeja (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a3d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kalung pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah kalung.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah kalung lebih banyak dari sepatu " 1]
+    [false "Jumlah sepatu lebih banyak dari kalung " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kalung (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a3e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah gelang pasti berpasangan dengan minimal satu buah kaos kaki<br>\n  dan setiap kaos kaki pasti berpasangan dengan satu buah gelang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah kaos kaki lebih banyak dari gelang " 0]
+    [true "Jumlah gelang lebih banyak dari kaos kaki " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: gelang (a) dan kaos kaki (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a3f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah anting pasti berpasangan dengan minimal satu buah sabuk<br>\n  dan setiap sabuk pasti berpasangan dengan satu buah anting.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah anting lebih banyak dari sabuk " 1]
+    [false "Jumlah sabuk lebih banyak dari anting " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: anting (a) dan sabuk (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a405a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah hoodie pasti berpasangan dengan minimal satu buah sabuk<br>\n  dan setiap sabuk pasti berpasangan dengan satu buah hoodie.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah hoodie lebih banyak dari sabuk " 1]
+    [false "Jumlah sabuk lebih banyak dari hoodie " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: hoodie (a) dan sabuk (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a415a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jam tangan pasti berpasangan dengan minimal satu buah boots<br>\n  dan setiap boots pasti berpasangan dengan satu buah jam tangan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah jam tangan lebih banyak dari boots " 0]
+    [false "Jumlah boots lebih banyak dari jam tangan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jam tangan (a) dan boots (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a425a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cincin pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah cincin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah sepatu lebih banyak dari cincin " 1]
+    [true "Jumlah cincin lebih banyak dari sepatu " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cincin (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a435a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jam tangan pasti berpasangan dengan minimal satu buah celana<br>\n  dan setiap celana pasti berpasangan dengan satu buah jam tangan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah celana lebih banyak dari jam tangan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah jam tangan lebih banyak dari celana " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jam tangan (a) dan celana (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a445a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah topi pasti berpasangan dengan minimal satu buah kaos kaki<br>\n  dan setiap kaos kaki pasti berpasangan dengan satu buah topi.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah topi lebih banyak dari kaos kaki " 1]
+    [false "Jumlah kaos kaki lebih banyak dari topi " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: topi (a) dan kaos kaki (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a455a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kemeja pasti berpasangan dengan minimal satu buah boots<br>\n  dan setiap boots pasti berpasangan dengan satu buah kemeja.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah kemeja lebih banyak dari boots " 0]
+    [false "Jumlah boots lebih banyak dari kemeja " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kemeja (a) dan boots (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a465a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah topi pasti berpasangan dengan minimal satu buah celana<br>\n  dan setiap celana pasti berpasangan dengan satu buah topi.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah topi lebih banyak dari celana " 0]
+    [false "Jumlah celana lebih banyak dari topi " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: topi (a) dan celana (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a475a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah topi pasti berpasangan dengan minimal satu buah sandal<br>\n  dan setiap sandal pasti berpasangan dengan satu buah topi.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sandal lebih banyak dari topi " 0]
+    [true "Jumlah topi lebih banyak dari sandal " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: topi (a) dan sandal (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a485a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kalung pasti berpasangan dengan minimal satu buah legging<br>\n  dan setiap legging pasti berpasangan dengan satu buah kalung.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah kalung lebih banyak dari legging " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah legging lebih banyak dari kalung " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kalung (a) dan legging (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a495a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah gelang pasti berpasangan dengan minimal satu buah legging<br>\n  dan setiap legging pasti berpasangan dengan satu buah gelang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah gelang lebih banyak dari legging " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah legging lebih banyak dari gelang " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: gelang (a) dan legging (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a4a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah hoodie pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah hoodie.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah hoodie lebih banyak dari sepatu " 1]
+    [false "Jumlah sepatu lebih banyak dari hoodie " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: hoodie (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a4b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cardigan pasti berpasangan dengan minimal satu buah jeans<br>\n  dan setiap jeans pasti berpasangan dengan satu buah cardigan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah jeans lebih banyak dari cardigan " 1]
+    [true "Jumlah cardigan lebih banyak dari jeans " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cardigan (a) dan jeans (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a4c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah anting pasti berpasangan dengan minimal satu buah boots<br>\n  dan setiap boots pasti berpasangan dengan satu buah anting.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah boots lebih banyak dari anting " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah anting lebih banyak dari boots " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: anting (a) dan boots (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a4d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah baju pasti berpasangan dengan minimal satu buah sabuk<br>\n  dan setiap sabuk pasti berpasangan dengan satu buah baju.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sabuk lebih banyak dari baju " 0]
+    [true "Jumlah baju lebih banyak dari sabuk " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: baju (a) dan sabuk (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a4e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah baju pasti berpasangan dengan minimal satu buah jeans<br>\n  dan setiap jeans pasti berpasangan dengan satu buah baju.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah jeans lebih banyak dari baju " 0]
+    [true "Jumlah baju lebih banyak dari jeans " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: baju (a) dan jeans (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a4f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cincin pasti berpasangan dengan minimal satu buah sandal<br>\n  dan setiap sandal pasti berpasangan dengan satu buah cincin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sandal lebih banyak dari cincin " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah cincin lebih banyak dari sandal " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cincin (a) dan sandal (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a505a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kemeja pasti berpasangan dengan minimal satu buah celana<br>\n  dan setiap celana pasti berpasangan dengan satu buah kemeja.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah kemeja lebih banyak dari celana " 0]
+    [false "Jumlah celana lebih banyak dari kemeja " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kemeja (a) dan celana (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a515a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jam tangan pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah jam tangan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sepatu lebih banyak dari jam tangan " 0]
+    [true "Jumlah jam tangan lebih banyak dari sepatu " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jam tangan (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a525a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah baju pasti berpasangan dengan minimal satu buah boots<br>\n  dan setiap boots pasti berpasangan dengan satu buah baju.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah boots lebih banyak dari baju " 1]
+    [true "Jumlah baju lebih banyak dari boots " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: baju (a) dan boots (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a535a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah gelang pasti berpasangan dengan minimal satu buah sabuk<br>\n  dan setiap sabuk pasti berpasangan dengan satu buah gelang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah gelang lebih banyak dari sabuk " 0]
+    [false "Jumlah sabuk lebih banyak dari gelang " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: gelang (a) dan sabuk (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a545a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah topi pasti berpasangan dengan minimal satu buah rok<br>\n  dan setiap rok pasti berpasangan dengan satu buah topi.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah topi lebih banyak dari rok " 0]
+    [false "Jumlah rok lebih banyak dari topi " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: topi (a) dan rok (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a555a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kemeja pasti berpasangan dengan minimal satu buah rok<br>\n  dan setiap rok pasti berpasangan dengan satu buah kemeja.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah rok lebih banyak dari kemeja " 1]
+    [true "Jumlah kemeja lebih banyak dari rok " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kemeja (a) dan rok (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a565a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah baju pasti berpasangan dengan minimal satu buah celana<br>\n  dan setiap celana pasti berpasangan dengan satu buah baju.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah baju lebih banyak dari celana " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah celana lebih banyak dari baju " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: baju (a) dan celana (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a575a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kalung pasti berpasangan dengan minimal satu buah rok<br>\n  dan setiap rok pasti berpasangan dengan satu buah kalung.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah rok lebih banyak dari kalung " 0]
+    [true "Jumlah kalung lebih banyak dari rok " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kalung (a) dan rok (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a585a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah sweater pasti berpasangan dengan minimal satu buah boots<br>\n  dan setiap boots pasti berpasangan dengan satu buah sweater.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah sweater lebih banyak dari boots " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah boots lebih banyak dari sweater " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: sweater (a) dan boots (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a595a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jam tangan pasti berpasangan dengan minimal satu buah sabuk<br>\n  dan setiap sabuk pasti berpasangan dengan satu buah jam tangan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah jam tangan lebih banyak dari sabuk " 0]
+    [false "Jumlah sabuk lebih banyak dari jam tangan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jam tangan (a) dan sabuk (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a5a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kalung pasti berpasangan dengan minimal satu buah sandal<br>\n  dan setiap sandal pasti berpasangan dengan satu buah kalung.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah sandal lebih banyak dari kalung " 1]
+    [true "Jumlah kalung lebih banyak dari sandal " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kalung (a) dan sandal (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a5b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jam tangan pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah jam tangan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sepatu lebih banyak dari jam tangan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah jam tangan lebih banyak dari sepatu " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jam tangan (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a5c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah topi pasti berpasangan dengan minimal satu buah sabuk<br>\n  dan setiap sabuk pasti berpasangan dengan satu buah topi.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah topi lebih banyak dari sabuk " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah sabuk lebih banyak dari topi " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: topi (a) dan sabuk (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a5d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cincin pasti berpasangan dengan minimal satu buah boots<br>\n  dan setiap boots pasti berpasangan dengan satu buah cincin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah boots lebih banyak dari cincin " 0]
+    [true "Jumlah cincin lebih banyak dari boots " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cincin (a) dan boots (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a5e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah hoodie pasti berpasangan dengan minimal satu buah celana<br>\n  dan setiap celana pasti berpasangan dengan satu buah hoodie.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah hoodie lebih banyak dari celana " 1]
+    [false "Jumlah celana lebih banyak dari hoodie " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: hoodie (a) dan celana (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a5f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kalung pasti berpasangan dengan minimal satu buah jeans<br>\n  dan setiap jeans pasti berpasangan dengan satu buah kalung.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah jeans lebih banyak dari kalung " 1]
+    [true "Jumlah kalung lebih banyak dari jeans " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kalung (a) dan jeans (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a605a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah anting pasti berpasangan dengan minimal satu buah celana<br>\n  dan setiap celana pasti berpasangan dengan satu buah anting.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah celana lebih banyak dari anting " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah anting lebih banyak dari celana " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: anting (a) dan celana (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a615a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah anting pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah anting.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah anting lebih banyak dari sepatu " 0]
+    [false "Jumlah sepatu lebih banyak dari anting " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: anting (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a625a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah hoodie pasti berpasangan dengan minimal satu buah sandal<br>\n  dan setiap sandal pasti berpasangan dengan satu buah hoodie.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah hoodie lebih banyak dari sandal " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah sandal lebih banyak dari hoodie " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: hoodie (a) dan sandal (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a635a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah anting pasti berpasangan dengan minimal satu buah jeans<br>\n  dan setiap jeans pasti berpasangan dengan satu buah anting.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah jeans lebih banyak dari anting " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah anting lebih banyak dari jeans " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: anting (a) dan jeans (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a645a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cincin pasti berpasangan dengan minimal satu buah legging<br>\n  dan setiap legging pasti berpasangan dengan satu buah cincin.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah cincin lebih banyak dari legging " 0]
+    [false "Jumlah legging lebih banyak dari cincin " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cincin (a) dan legging (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a655a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cardigan pasti berpasangan dengan minimal satu buah celana<br>\n  dan setiap celana pasti berpasangan dengan satu buah cardigan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah cardigan lebih banyak dari celana " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah celana lebih banyak dari cardigan " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cardigan (a) dan celana (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a665a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah gelang pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah gelang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah sepatu lebih banyak dari gelang " 1]
+    [true "Jumlah gelang lebih banyak dari sepatu " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: gelang (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a675a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cardigan pasti berpasangan dengan minimal satu buah sabuk<br>\n  dan setiap sabuk pasti berpasangan dengan satu buah cardigan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah cardigan lebih banyak dari sabuk " 0]
+    [false "Jumlah sabuk lebih banyak dari cardigan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cardigan (a) dan sabuk (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a685a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah anting pasti berpasangan dengan minimal satu buah sandal<br>\n  dan setiap sandal pasti berpasangan dengan satu buah anting.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah anting lebih banyak dari sandal " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah sandal lebih banyak dari anting " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: anting (a) dan sandal (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a695a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kemeja pasti berpasangan dengan minimal satu buah jeans<br>\n  dan setiap jeans pasti berpasangan dengan satu buah kemeja.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah kemeja lebih banyak dari jeans " 0]
+    [false "Jumlah jeans lebih banyak dari kemeja " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kemeja (a) dan jeans (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a6a5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah sweater pasti berpasangan dengan minimal satu buah celana<br>\n  dan setiap celana pasti berpasangan dengan satu buah sweater.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah sweater lebih banyak dari celana " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah celana lebih banyak dari sweater " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: sweater (a) dan celana (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a6b5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jam tangan pasti berpasangan dengan minimal satu buah sandal<br>\n  dan setiap sandal pasti berpasangan dengan satu buah jam tangan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah jam tangan lebih banyak dari sandal " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah sandal lebih banyak dari jam tangan " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jam tangan (a) dan sandal (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a6c5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah gelang pasti berpasangan dengan minimal satu buah celana<br>\n  dan setiap celana pasti berpasangan dengan satu buah gelang.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [false "Jumlah celana lebih banyak dari gelang " 1]
+    [true "Jumlah gelang lebih banyak dari celana " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: gelang (a) dan celana (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a6d5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kalung pasti berpasangan dengan minimal satu buah celana<br>\n  dan setiap celana pasti berpasangan dengan satu buah kalung.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah kalung lebih banyak dari celana " 1]
+    [false "Jumlah celana lebih banyak dari kalung " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kalung (a) dan celana (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a6e5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah sweater pasti berpasangan dengan minimal satu buah sabuk<br>\n  dan setiap sabuk pasti berpasangan dengan satu buah sweater.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah sabuk lebih banyak dari sweater " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah sweater lebih banyak dari sabuk " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: sweater (a) dan sabuk (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a6f5a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jepitan pasti berpasangan dengan minimal satu buah celana<br>\n  dan setiap celana pasti berpasangan dengan satu buah jepitan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah celana lebih banyak dari jepitan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah jepitan lebih banyak dari celana " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jepitan (a) dan celana (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a705a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah hoodie pasti berpasangan dengan minimal satu buah jeans<br>\n  dan setiap jeans pasti berpasangan dengan satu buah hoodie.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah hoodie lebih banyak dari jeans " 0]
+    [false "Jumlah jeans lebih banyak dari hoodie " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: hoodie (a) dan jeans (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a715a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jepitan pasti berpasangan dengan minimal satu buah sabuk<br>\n  dan setiap sabuk pasti berpasangan dengan satu buah jepitan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Tidak bisa ditentukan" 0]
+    [true "Jumlah jepitan lebih banyak dari sabuk " 1]
+    [false "Jumlah sabuk lebih banyak dari jepitan " 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jepitan (a) dan sabuk (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a725a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kalung pasti berpasangan dengan minimal satu buah boots<br>\n  dan setiap boots pasti berpasangan dengan satu buah kalung.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah kalung lebih banyak dari boots " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah boots lebih banyak dari kalung " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kalung (a) dan boots (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a735a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cardigan pasti berpasangan dengan minimal satu buah rok<br>\n  dan setiap rok pasti berpasangan dengan satu buah cardigan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah rok lebih banyak dari cardigan " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [true "Jumlah cardigan lebih banyak dari rok " 2]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cardigan (a) dan rok (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a745a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah kemeja pasti berpasangan dengan minimal satu buah sabuk<br>\n  dan setiap sabuk pasti berpasangan dengan satu buah kemeja.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah kemeja lebih banyak dari sabuk " 0]
+    [false "Tidak bisa ditentukan" 1]
+    [false "Jumlah sabuk lebih banyak dari kemeja " 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: kemeja (a) dan sabuk (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a755a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah cardigan pasti berpasangan dengan minimal satu buah kaos kaki<br>\n  dan setiap kaos kaki pasti berpasangan dengan satu buah cardigan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[false "Jumlah kaos kaki lebih banyak dari cardigan " 0]
+    [true "Jumlah cardigan lebih banyak dari kaos kaki " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: cardigan (a) dan kaos kaki (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a765a7c11eb8b9672c8190c1ce1"}
+ {:soal
+  {:soal-text
+   "\n<p>\n  Ada klaim sebagai berikut:<br>\n  Sebuah jepitan pasti berpasangan dengan minimal satu buah sepatu<br>\n  dan setiap sepatu pasti berpasangan dengan satu buah jepitan.<br>\n<br>\nKondisi yang jika benar maka membuktikan klaimnya salah adalah...\n</p>\n\n",
+   :options
+   [[true "Jumlah jepitan lebih banyak dari sepatu " 0]
+    [false "Jumlah sepatu lebih banyak dari jepitan " 1]
+    [false "Tidak bisa ditentukan" 2]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n  Nah di sini kita liat ada dua variabel yak: jepitan (a) dan sepatu (b).<br>\n  <br>\n  Abis itu, dalem klaimnya, ada hubungan di antara kedua variabel ini.<br>\n  Yaitu: Setiap 1 a PASTI berpasangan dengan minimal 1 b (gak bisa kurang tapi bisa lebih berarti yaa).<br>\n  Sedangkan setiap 1 b pasti berpasangan dengan 1 a (gak bisa lebih, gak bisa kurang).<br>\n  <br>\n  Kondisi yang membuktikan klaimnya salah adalah ketika ada lebih banyak a dari b doong.<br>\n  Kalo lebih banyak b dari a kan gak masalah.. karena setiap 1 a mungkin berpasangan dengan lebih dari 1 b.<br>\n</p>\n",
+  :template-id "c6f1cc505a7911ebb6299de765e272db",
+  :topic :logic,
+  :problem-id "c05d5a775a7c11eb8b9672c8190c1ce1"}]

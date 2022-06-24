@@ -721,3 +721,658 @@
        shuffle
        (take 60)
        (shuffle)))
+
+(defn benua-asia-2 []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2])
+               soal-1 (rand-nth ["Berikut ini yang merupakan kondisi geografis Benua Asia adalah ...."
+                                 "Di bawah ini yang merupakan kondisi geografis Benua Asia adalah ...."
+                                 "Salah satu kondisi geografis Benua Asia adalah ...."
+                                 "Kondisi geografis Benua Asia salah satunya adalah ...."
+                                 "Yang termasuk kondisi geografis Benua Asia adalah ...."])
+               soal-2 (rand-nth ["Berikut ini yang <b><i>bukan</i></b> merupakan kondisi geografis Benua Asia adalah ...."
+                                 "Di bawah ini yang <b><i>bukan</i></b> merupakan kondisi geografis Benua Asia adalah ...."
+                                 "Kondisi geografis Benua Asia adalah berikut ini, <b><i>kecuali</i></b> ...."
+                                 "Salah satu kondisi geografis Benua Asia adalah sebagai berikut, <b><i>kecuali</i></b> ...."
+                                 "Yang termasuk kondisi geografis Benua Asia adalah berikut ini, <b><i>kecuali</i></b> ...."])
+               benar ["terletak pada 26º BT – 170º BT dan 11º LS – 80º LU"
+                      "hampir seluruh wilayahnya berada di belahan bumi utara (BBU)"
+                      "hanya sebagian kecil yang berada di belahan bumi selatan"
+                      "batas utara benua ini ialah Samudra Arktik"
+                      "batas selatan benua ini ialah Samudra Hindia"
+                      "batas barat benua ini adalah Benua Eropa"
+                      "batas timur benua ini ialah Selat Bering dan Samudra Pasifik"
+                      "benua ini merupakan benua terluas di permukaan bumi"
+                      "luasnya mencapai 44.000.000 km2 atau seperempat luas wilayah daratan dunia"
+                      "wilayahnya membentang dari Turki di bagian barat sampai Rusia di bagian timur"]
+               salah ["terletak pada 170º BT – 35º BB dan 55º LS – 83º LU"
+                      "benua ini sering juga disebut sebagai Benua Merah"
+                      "terdapat suku Indian yang mendiami benua ini"
+                      "batas utara benua ini ialah Samudra Atlantik"
+                      "batas selatan benua ini ialah Samudra Atlantik"
+                      "batas barat benua ini adalah Samudra Pasifik"
+                      "batas timur benua ini ialah Samudra Atlantik"
+                      "benua ini merupakan benua terluas kedua di permukaan bumi"
+                      "luasnya mencapai 42.057.100 km2"
+                      "wilayahnya membentang dari Alaska di bagian utara sampai Chile di bagian selatan"]]
+
+           (merge
+            (condp = type-soal
+              :S1 (merge {:soal soal-1
+                          :pb (rand-nth benar)}
+                         (zipmap [:p1 :p2 :p3] (shuffle salah)))
+              :S2 (merge {:soal soal-2
+                          :pb (rand-nth salah)}
+                         (zipmap [:p1 :p2 :p3] (shuffle benar)))))))
+
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 100)
+       shuffle))
+
+(defn benua-amerika-2 []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2])
+               soal-1 (rand-nth ["Berikut ini yang merupakan kondisi geografis Benua Amerika adalah ...."
+                                 "Di bawah ini yang merupakan kondisi geografis Benua Amerika adalah ...."
+                                 "Salah satu kondisi geografis Benua Amerika adalah ...."
+                                 "Kondisi geografis Benua Amerika salah satunya adalah ...."
+                                 "Yang termasuk kondisi geografis Benua Amerika adalah ...."])
+               soal-2 (rand-nth ["Berikut ini yang <b><i>bukan</i></b> merupakan kondisi geografis Benua Amerika adalah ...."
+                                 "Di bawah ini yang <b><i>bukan</i></b> merupakan kondisi geografis Benua Amerika adalah ...."
+                                 "Kondisi geografis Benua Amerika adalah berikut ini, <b><i>kecuali</i></b> ...."
+                                 "Salah satu kondisi geografis Benua Amerika adalah sebagai berikut, <b><i>kecuali</i></b> ...."
+                                 "Yang termasuk kondisi geografis Benua Amerika adalah berikut ini, <b><i>kecuali</i></b> ...."])
+               benar ["terletak pada 170º BT – 35º BB dan 55º LS – 83º LU"
+                      "benua ini sering juga disebut sebagai Benua Merah"
+                      "terdapat suku Indian yang mendiami benua ini"
+                      "batas utara benua ini ialah Samudra Arktik"
+                      "batas selatan benua ini ialah Samudra Atlantik"
+                      "batas barat benua ini adalah Samudra Pasifik"
+                      "batas timur benua ini ialah Samudra Atlantik"
+                      "benua ini merupakan benua terluas kedua di permukaan bumi"
+                      "luasnya mencapai 42.057.100 km2"
+                      "wilayahnya membentang dari Alaska di bagian utara sampai Chile di bagian selatan"]
+               salah ["terletak pada 26º BT – 170º BT dan 11º LS – 80º LU"
+                      "hampir seluruh wilayahnya berada di belahan bumi utara (BBU)"
+                      "hanya sebagian kecil yang berada di belahan bumi selatan"
+                      "batas utara benua ini ialah Samudra Hindia"
+                      "batas selatan benua ini ialah Samudra Hindia"
+                      "batas barat benua ini adalah Benua Eropa"
+                      "batas timur benua ini ialah Selat Bering dan Samudra Pasifik"
+                      "benua ini merupakan benua terluas di permukaan bumi"
+                      "luasnya mencapai 44.000.000 km2 atau seperempat luas wilayah daratan dunia"
+                      "wilayahnya membentang dari Turki di bagian barat sampai Rusia di bagian timur"]]
+
+           (merge
+            (condp = type-soal
+              :S1 (merge {:soal soal-1
+                          :pb (rand-nth benar)}
+                         (zipmap [:p1 :p2 :p3] (shuffle salah)))
+              :S2 (merge {:soal soal-2
+                          :pb (rand-nth salah)}
+                         (zipmap [:p1 :p2 :p3] (shuffle benar)))))))
+
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 100)
+       shuffle))
+
+(defn benua-eropa-2 []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2 :S3 :S4])
+               pengantar (rand-nth ["Coba perhatikan kondisi geografis suatu benua di bawah ini!"
+                                    "Perhatikan opsi-opsi terkait karakteristik geografis benua di bawah ini!"
+                                    "Di bawah ini adalah opsi-opsi terkait karakteristik geografis suatu benua."])
+               soal (rand-nth ["Dari beberapa opsi di atas, yang termasuk kondisi geografis Benua Eropa adalah ...."
+                               "Dari beberapa pernyataan di atas, yang termasuk kondisi geografis Benua Eropa adalah ...."
+                               "Manakah dari opsi-opsi di atas yang termasuk kondisi geografis Benua Eropa?"])
+               eropa ["Terletak pada 9º BB – 60º BT dan 35º LS – 80º LU."
+                      "Seluruh wilayahnya berada di luar wilayah tropis."
+                      "Iklim di wilayahnya adalah subtropis dan sedang."
+                      "Mengalami empat musim, yaitu musim semi, panas, gugur, dan dingin."
+                      "Luasnya mencapai 10.355.000 km2."
+                      "Berbatasan dengan Samudra Arktik di utara."
+                      "Berbatasan dengan Laut Tengah di selatan."
+                      "Berbatasan dengan Samudra Atlantik di barat."
+                      "Berbatasan dengan Benua Asia di timur."
+                      "Laut Kaspia adalah salah satu batas antara Benua Eropa dan Benua Asia."
+                      "Selat Dardanella adalah salah satu batas antara Benua Eropa dan Benua Asia."]
+               eropa-1 (rand-nth eropa)
+               eropa-2 (rand-nth (remove #{eropa-1} eropa))
+               non-eropa ["Terletak pada 17º BB – 52º BT dan 35º LU – 34º LS."
+                          "Dilewati garis khatulistiwa."
+                          "Sebagian wilayahnya beriklim tropis."
+                          "Bagian paling utara dan paling selatan mulai memasuki zona iklim subtropis."
+                          "Luasnya mencapai 30.290.000 km2."
+                          "Berbatasan dengan Laut Tengah di utara."
+                          "Berbatasan dengan Samudra Hindia di selatan."
+                          "Berbatasan dengan Samudra Pasifik di barat."
+                          "Berbatasan dengan Samudra Hindia di timur."]
+               non-eropa-1 (rand-nth non-eropa)
+               non-eropa-2 (rand-nth (remove #{non-eropa-1} non-eropa))
+               jawaban ["1 saja"
+                        "2 saja"
+                        "semuanya"
+                        "tidak ada"]
+               wrong (fn [z] (shuffle (filter #(not (= % z)) jawaban)))]
+
+           (merge
+            (condp = type-soal
+              :S1 (merge {:pengantar pengantar
+                          :fakta1 eropa-1
+                          :fakta2 non-eropa-2
+                          :soal soal
+                          :pb (jawaban 0)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 0)))))
+              :S2 (merge {:pengantar pengantar
+                          :fakta1 non-eropa-1
+                          :fakta2 eropa-2
+                          :soal soal
+                          :pb (jawaban 1)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 1)))))
+              :S3 (merge {:pengantar pengantar
+                          :fakta1 eropa-1
+                          :fakta2 eropa-2
+                          :soal soal
+                          :pb (jawaban 2)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 2)))))
+              :S4 (merge {:pengantar pengantar
+                          :fakta1 non-eropa-1
+                          :fakta2 non-eropa-2
+                          :soal soal
+                          :pb (jawaban 3)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 3)))))))))
+
+       (repeatedly 1000)
+       distinct
+       shuffle
+       (take 300)
+       shuffle))
+
+(defn benua-afrika-2 []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2 :S3 :S4])
+               pengantar (rand-nth ["Coba perhatikan kondisi geografis suatu benua di bawah ini!"
+                                    "Perhatikan opsi-opsi terkait karakteristik geografis benua di bawah ini!"
+                                    "Di bawah ini adalah opsi-opsi terkait karakteristik geografis suatu benua."])
+               soal (rand-nth ["Dari beberapa opsi di atas, yang termasuk kondisi geografis Benua Afrika adalah ...."
+                               "Dari beberapa pernyataan di atas, yang termasuk kondisi geografis Benua Afrika adalah ...."
+                               "Manakah dari opsi-opsi di atas yang termasuk kondisi geografis Benua Afrika?"])
+               afrika ["Terletak pada 17º BB – 52º BT dan 35º LU – 34º LS."
+                       "Dilewati garis khatulistiwa."
+                       "Sebagian wilayahnya beriklim tropis."
+                       "Bagian paling utara dan paling selatan mulai memasuki zona iklim subtropis."
+                       "Luasnya mencapai 30.290.000 km2."
+                       "Berbatasan dengan Laut Tengah di utara."
+                       "Berbatasan dengan Samudra Hindia di selatan."
+                       "Berbatasan dengan Samudra Atlantik di barat."
+                       "Berbatasan dengan Samudra Hindia di timur."]
+               afrika-1 (rand-nth afrika)
+               afrika-2 (rand-nth (remove #{afrika-1} afrika))
+               non-afrika ["Terletak pada 9º BB – 60º BT dan 35º LS – 80º LU."
+                           "Seluruh wilayahnya berada di luar wilayah tropis."
+                           "Iklim di wilayahnya adalah subtropis dan sedang."
+                           "Mengalami empat musim, yaitu musim semi, panas, gugur, dan dingin."
+                           "Luasnya mencapai 10.355.000 km2."
+                           "Berbatasan dengan Samudra Arktik di utara."
+                           "Berbatasan dengan Laut Tengah di selatan."
+                           "Berbatasan dengan Samudra Pasifik di barat."
+                           "Berbatasan dengan Benua Asia di timur."
+                           "Laut Kaspia adalah salah satu batas antara Benua Eropa dan Benua Asia."
+                           "Selat Dardanella adalah salah satu batas antara Benua Eropa dan Benua Asia."]
+               non-afrika-1 (rand-nth non-afrika)
+               non-afrika-2 (rand-nth (remove #{non-afrika-1} non-afrika))
+               jawaban ["1 saja"
+                        "2 saja"
+                        "semuanya"
+                        "tidak ada"]
+               wrong (fn [z] (shuffle (filter #(not (= % z)) jawaban)))]
+
+           (merge
+            (condp = type-soal
+              :S1 (merge {:pengantar pengantar
+                          :fakta1 afrika-1
+                          :fakta2 non-afrika-2
+                          :soal soal
+                          :pb (jawaban 0)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 0)))))
+              :S2 (merge {:pengantar pengantar
+                          :fakta1 non-afrika-1
+                          :fakta2 afrika-2
+                          :soal soal
+                          :pb (jawaban 1)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 1)))))
+              :S3 (merge {:pengantar pengantar
+                          :fakta1 afrika-1
+                          :fakta2 afrika-2
+                          :soal soal
+                          :pb (jawaban 2)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 2)))))
+              :S4 (merge {:pengantar pengantar
+                          :fakta1 non-afrika-1
+                          :fakta2 non-afrika-2
+                          :soal soal
+                          :pb (jawaban 3)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 3)))))))))
+
+       (repeatedly 1000)
+       distinct
+       shuffle
+       (take 300)
+       shuffle))
+
+(defn benua-australia-2 []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2])
+               soal-1 (rand-nth ["Berikut ini yang merupakan kondisi geografis Benua Australia adalah ...."
+                                 "Di bawah ini yang merupakan kondisi geografis Benua Australia adalah ...."
+                                 "Salah satu kondisi geografis Benua Australia adalah ...."
+                                 "Kondisi geografis Benua Australia salah satunya adalah ...."
+                                 "Yang termasuk kondisi geografis Benua Australia adalah ...."])
+               soal-2 (rand-nth ["Berikut ini yang <b><i>bukan</i></b> merupakan kondisi geografis Benua Australia adalah ...."
+                                 "Di bawah ini yang <b><i>bukan</i></b> merupakan kondisi geografis Benua Australia adalah ...."
+                                 "Kondisi geografis Benua Australia adalah berikut ini, <b><i>kecuali</i></b> ...."
+                                 "Salah satu kondisi geografis Benua Australia adalah sebagai berikut, <b><i>kecuali</i></b> ...."
+                                 "Yang termasuk kondisi geografis Benua Australia adalah berikut ini, <b><i>kecuali</i></b> ...."])
+               benar ["terletak pada 113º BT – 155º BT dan 10º LS – 43º LS"
+                      "benua ini dikenal sebagai Benua Kanguru"
+                      "terdapat suku Aborigin yang mendiami benua ini"
+                      "batas utara benua ini ialah Laut Timor, Laut Arafuru, dan Selat Torres"
+                      "batas selatan benua ini ialah Samudra Hindia"
+                      "batas barat benua ini adalah Samudra Hindia"
+                      "batas timur benua ini ialah Samudra Pasifik, Laut Tasman, dan Laut Coral"
+                      "benua ini merupakan benua terkecil di permukaan bumi"
+                      "luasnya mencapai 8.945.000 km2"
+                      "hanya ada satu negara dalam satu benua"]
+               salah ["terletak pada 26º BT – 170º BT dan 11º LS – 80º LU"
+                      "hampir seluruh wilayahnya berada di belahan bumi utara (BBU)"
+                      "hanya sebagian kecil yang berada di belahan bumi selatan"
+                      "batas utara benua ini ialah Samudra Hindia"
+                      "batas selatan benua ini ialah Samudra Hindia"
+                      "batas barat benua ini adalah Benua Eropa"
+                      "batas timur benua ini ialah Selat Bering dan Samudra Pasifik"
+                      "benua ini merupakan benua terluas di permukaan bumi"
+                      "luasnya mencapai 44.000.000 km2 atau seperempat luas wilayah daratan dunia"
+                      "wilayahnya membentang dari Turki di bagian barat sampai Rusia di bagian timur"]]
+
+           (merge
+            (condp = type-soal
+              :S1 (merge {:soal soal-1
+                          :pb (rand-nth benar)}
+                         (zipmap [:p1 :p2 :p3] (shuffle salah)))
+              :S2 (merge {:soal soal-2
+                          :pb (rand-nth salah)}
+                         (zipmap [:p1 :p2 :p3] (shuffle benar)))))))
+
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 100)
+       shuffle))
+
+(defn jepang-2 []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2 :S3 :S4])
+               pengantar (rand-nth ["Coba perhatikan kondisi geografis suatu benua di bawah ini!"
+                                    "Perhatikan opsi-opsi terkait karakteristik geografis benua di bawah ini!"
+                                    "Di bawah ini adalah opsi-opsi terkait karakteristik geografis suatu benua."])
+               soal (rand-nth ["Dari beberapa opsi di atas, yang termasuk kondisi geografis Jepang adalah ...."
+                               "Dari beberapa pernyataan di atas, yang termasuk kondisi geografis Jepang adalah ...."
+                               "Manakah dari opsi-opsi di atas yang termasuk kondisi geografis Jepang?"])
+               jepang ["Terletak pada 30º LU – 47º LU dan 128º BT – 146º BT."
+                       "Terletak di barat laut Samudra Pasifik."
+                       "Berbatasan dengan Korea Utara, Korea Selatan, dan Rusia di barat."
+                       "Berbatasan dengan Laut Okhstosk di utara."
+                       "Berbatasan dengan Samudra Pasifik di timur."
+                       "Berbatasan dengan Laut Cina Timur dan Laut Filipina di selatan."
+                       "Memiliki iklim sedang."
+                       "Seluruh wilayahnya berada di luar khatulistiwa."
+                       "Memiliki wilayah dataran sekitar 30% dari luas wilayahnya."
+                       "Sekitar 70–80% wilayahnya terdiri atas pegunungan."
+                       "Terletak pada daerah perbatasan antara lempeng Benua Asia dan Lempeng Samudra Pasifik."
+                       "Memiliki sumber daya mineral yang sangat terbatas."
+                       "Sumber daya mineral yang cukup terpenuhi dari negaranya adalah belerang."
+                       "Tumbuhan yang dapat dijumpai di antaranya pohon ek, bambu, mapel, birch, beech, dan poplar."
+                       "Hewan yang dapat ditemui di antaranya babi hutan, monyet, serigala, dan rusa."
+                       "Memiliki penduduk sebesar 126,9 juta jiwa (WPDS, 2015)."
+                       "Memiliki angka kelahiran dan pertumbuhan penduduk relatif rendah."
+                       "Sebagian besar penduduknya bekerja di sektor industri."
+                       "Memiliki angka harapan hidup yang sangat tinggi, yakni sekitar 83 tahun (WPDS, 2015)."]
+               jepang-1 (rand-nth jepang)
+               jepang-2 (rand-nth (remove #{jepang-1} jepang))
+               non-jepang ["Terletak pada 6º LU – 11º LS dan 95º BT – 141º BT."
+                           "Terletak di barat laut Benua Australia."
+                           "Berbatasan dengan Samudra Hindia di barat."
+                           "Berbatasan dengan Laut Filipina di utara."
+                           "Berbatasan dengan Papua Nugini di timur."
+                           "Berbatasan dengan Australia di selatan."
+                           "Memiliki iklim tropis."
+                           "Seluruh wilayahnya berada di garis khatulistiwa."
+                           "Memiliki wilayah dataran sekitar 90% dari luas wilayahnya."
+                           "Sebagian besar wilayahnya terdiri atas dataran rendah."
+                           "Terletak pada daerah perbatasan antara lempeng Benua Asia dan Lempeng Samudra Hindia."
+                           "Memiliki sumber daya mineral yang sangat melimpah."
+                           "Sumber daya mineral yang cukup terpenuhi bagi negaranya adalah batubara."
+                           "Tumbuhan yang dapat dijumpai antara lain jati, sonokeling, merbau, sengon, cendana, trembesi, mahoni."
+                           "Hewan yang dapat ditemui di antaranya badak, anoa, cendrawasih, dan trenggiling."
+                           "Memiliki penduduk sebesar 238,5 juta jiwa (WPDS, 2015)."
+                           "Memiliki angka kelahiran dan pertumbuhan penduduk relatif tinggi."
+                           "Sebagian besar penduduknya bekerja di sektor pertanian."
+                           "Memiliki angka harapan hidup yang tinggi, yakni sekitar 76 tahun (WPDS, 2015)."]
+               non-jepang-1 (rand-nth non-jepang)
+               non-jepang-2 (rand-nth (remove #{non-jepang-1} non-jepang))
+               jawaban ["1 saja"
+                        "2 saja"
+                        "semuanya"
+                        "tidak ada"]
+               wrong (fn [z] (shuffle (filter #(not (= % z)) jawaban)))]
+
+           (merge
+            (condp = type-soal
+              :S1 (merge {:pengantar pengantar
+                          :fakta1 jepang-1
+                          :fakta2 non-jepang-2
+                          :soal soal
+                          :pb (jawaban 0)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 0)))))
+              :S2 (merge {:pengantar pengantar
+                          :fakta1 non-jepang-1
+                          :fakta2 jepang-2
+                          :soal soal
+                          :pb (jawaban 1)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 1)))))
+              :S3 (merge {:pengantar pengantar
+                          :fakta1 jepang-1
+                          :fakta2 jepang-2
+                          :soal soal
+                          :pb (jawaban 2)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 2)))))
+              :S4 (merge {:pengantar pengantar
+                          :fakta1 non-jepang-1
+                          :fakta2 non-jepang-2
+                          :soal soal
+                          :pb (jawaban 3)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 3)))))))))
+
+       (repeatedly 1000)
+       distinct
+       shuffle
+       (take 300)
+       shuffle))
+
+(defn tiongkok-2 []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2 :S3 :S4])
+               pengantar (rand-nth ["Coba perhatikan kondisi geografis suatu benua di bawah ini!"
+                                    "Perhatikan opsi-opsi terkait karakteristik geografis benua di bawah ini!"
+                                    "Di bawah ini adalah opsi-opsi terkait karakteristik geografis suatu benua."])
+               soal (rand-nth ["Dari beberapa opsi di atas, yang termasuk kondisi geografis Jepang adalah ...."
+                               "Dari beberapa pernyataan di atas, yang termasuk kondisi geografis Jepang adalah ...."
+                               "Manakah dari opsi-opsi di atas yang termasuk kondisi geografis Jepang?"])
+               tiongkok ["Terletak pada 18º LU – 54º LU dan 73º BT – 135º BT."
+                         "Sebagian besar daratannya berhadapan dengan Samudra Pasifik dan Laut Cina Selatan."
+                         "Berbatasan dengan Kirgiztan, India, dan Tajikistan di sebelah barat."
+                         "Berbatasan dengan Rusia, Mongolia, dan Kazakstan di sebelah utara."
+                         "Berbatasan dengan Korea Utara, Laut Kuning, Laut Cina Selatan, dan Laut Cina Timur di sebelah timur."
+                         "Berbatasan dengan Vietnam, Laos, Myanmar, Bhutan, Nepal, dan India di sebelah selatan."
+                         "Sebagian besar wilayahnya beriklim subtropis."
+                         "Sebagian wilayahnya di selatan masuk ke dalam zona tropis."
+                         "Luas wilayahnya terbesar ke-4 di dunia, yakni sekitar 9,59 juta km2."
+                         "Wilayah bagian barat terdapat pegunungan yang tinggi yang merupakan sambungan dari Pegunungan Himalaya."
+                         "Wilayah bagian utara terdapat gurun yang bernama Gurun Gobi."
+                         "Wilayah bagian selatan terdiri atas Daerah Aliran Sungai (DAS) Yangtze, Plato Yunan, dan Lembah Szechuan."
+                         "Wilayah bagian timur terdapat dataran rendah yang luas tempat sunga-sungai besar bermuara, seperti Sungai Huang Ho dan Sungai Yangtze."
+                         "Hutannya terdiri dari berbagai jenis, seperti hutan hujan tropis, hutan berdaun lebar, hutan gugur, hutan campuran, hutan kayu keras, dan hutan berdaun jarum."
+                         "Hewan khas yang dapat ditemui di antaranya panda raksasa, panda merah, salamander raksasa, dan dugong."
+                         "Jumlah penduduknya sebesar 1,402 miliar jiwa (Bank Dunia, 2020)."
+                         "Mayoritas penduduknya adalah suku Han."
+                         "Wilayah yang jarang penduduknya adalah wilayah barat dan utara."
+                         "Memiliki angka harapan hidup yang tinggi, yakni sekitar 77,3 tahun (Kantor Informasi Dewan Negara Tiongkok, 2019)."]
+               tiongkok-1 (rand-nth tiongkok)
+               tiongkok-2 (rand-nth (remove #{tiongkok-1} tiongkok))
+               non-tiongkok ["Terletak pada 30º LU – 47º LU dan 128º BT – 146º BT."
+                             "Sebagian besar daratannya berhadapan dengan Samudra Hindia dan Laut Cina Timur."
+                             "Berbatasan dengan Korea Utara, Korea Selatan, dan Rusia di sebelah barat."
+                             "Berbatasan dengan Laut Okhstosk dan Jepang di sebelah utara."
+                             "Berbatasan dengan Samudra Pasifik dan Indonesia di sebelah timur."
+                             "Berbatasan dengan Laut Cina Timur dan Filipina di sebelah selatan."
+                             "Sebagian besar wilayahnya beriklim tropis."
+                             "Sebagian wilayahnya di selatan masuk ke dalam zona subtropis."
+                             "Luas wilayahnya terbesar ke-1 di dunia, yakni sekitar 17,1 juta km2."
+                             "Wilayah bagian barat terdapat pegunungan yang tinggi yang merupakan sambungan dari Pegunungan Alpen."
+                             "Wilayah bagian utara terdapat gurun yang bernama Gurun Sahara."
+                             "Wilayah bagian selatan terdiri atas Daerah Aliran Sungai (DAS) Mekong, Plato Chuo, dan Lembah Szechuan."
+                             "Wilayah bagian timur terdapat dataran rendah yang luas tempat sunga-sungai besar bermuara, seperti Sungai Mekong dan Sungai Chi."
+                             "Hutannya terdiri dari beberapa jenis, seperti hutan hujan tropis, hutan bakau, hutan rawa, hutan sabana, dan hutan musim."
+                             "Hewan yang khas dapat ditemui di antaranya babi hutan, monyet, serigala, dan rusa."
+                             "Jumlah penduduknya sebesar 1,38 miliar jiwa (Bank Dunia, 2020)."
+                             "Mayoritas penduduknya adalah suku Yamato."
+                             "Wilayah yang jarang penduduknya adalah wilayah timur dan selatan."
+                             "Memiliki angka harapan hidup yang sangat tinggi, yakni sekitar 83 tahun (Kantor Informasi Dewan Negara Tiongkok, 2019)."]
+               non-tiongkok-1 (rand-nth non-tiongkok)
+               non-tiongkok-2 (rand-nth (remove #{non-tiongkok-1} non-tiongkok))
+               jawaban ["1 saja"
+                        "2 saja"
+                        "semuanya"
+                        "tidak ada"]
+               wrong (fn [z] (shuffle (filter #(not (= % z)) jawaban)))]
+
+           (merge
+            (condp = type-soal
+              :S1 (merge {:pengantar pengantar
+                          :fakta1 tiongkok-1
+                          :fakta2 non-tiongkok-2
+                          :soal soal
+                          :pb (jawaban 0)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 0)))))
+              :S2 (merge {:pengantar pengantar
+                          :fakta1 non-tiongkok-1
+                          :fakta2 tiongkok-2
+                          :soal soal
+                          :pb (jawaban 1)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 1)))))
+              :S3 (merge {:pengantar pengantar
+                          :fakta1 tiongkok-1
+                          :fakta2 tiongkok-2
+                          :soal soal
+                          :pb (jawaban 2)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 2)))))
+              :S4 (merge {:pengantar pengantar
+                          :fakta1 non-tiongkok-1
+                          :fakta2 non-tiongkok-2
+                          :soal soal
+                          :pb (jawaban 3)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 3)))))))))
+
+       (repeatedly 1000)
+       distinct
+       shuffle
+       (take 300)
+       shuffle))
+
+(defn amerika-serikat-2 []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2 :S3 :S4])
+               pengantar (rand-nth ["Coba perhatikan kondisi geografis suatu benua di bawah ini!"
+                                    "Perhatikan opsi-opsi terkait karakteristik geografis benua di bawah ini!"
+                                    "Di bawah ini adalah opsi-opsi terkait karakteristik geografis suatu benua."])
+               soal (rand-nth ["Dari beberapa opsi di atas, yang termasuk kondisi geografis Jepang adalah ...."
+                               "Dari beberapa pernyataan di atas, yang termasuk kondisi geografis Jepang adalah ...."
+                               "Manakah dari opsi-opsi di atas yang termasuk kondisi geografis Jepang?"])
+               amerika-serikat ["Terletak pada 24º LU – 70º LU dan 172º BB – 67º BB."
+                                "Sebagian besar daratannya berhadapan dengan Samudra Pasifik di barat dan Samudra Atlantik di timur."
+                                "Berbatasan dengan Samudra Pasifik di sebelah barat."
+                                "Berbatasan dengan Kanada di sebelah utara."
+                                "Berbatasan dengan Samudra Atlantik di sebelah timur."
+                                "Berbatasan dengan Meksiko, Teluk Meksiko, dan Kuba di sebelah selatan."
+                                "Memiliki iklim yang sangat bervariasi."
+                                "Memiliki curah hujan yang sangat bervariasi."
+                                "Luas wilayahnya terbesar ke-3 di dunia, yakni sekitar 9,83 juta km2."
+                                "Wilayah bagian barat terdapat rangkaian Pegunungan Rocky."
+                                "Di bagian tengah terdapat dataran yang sangat luas bernama Great Plains."
+                                "Memiliki dataran pantai barat yang sempit yang menghadap ke Samudra Pasifik."
+                                "Wilayah bagian timur terdapat rangkaian Pegunungan Appalachia."
+                                "Kaya sumber daya geologi seperti minyak bumi, batubara, tembaga, fosfat, dan besi."
+                                "Di bagian utara banyak ditumbuhi pohon pinus."
+                                "Di bagian tengah terdapat padang rumput yang luas."
+                                "Di bagian tenggara terdapat hutan yang menggugurkan daunnya setiap tahun."
+                                "Memiliki jenis fauna antara lain bison, antelop, dan beruang di kawasan Midwest."
+                                "Memiliki jenis fauna seperti puma di kawasan pesisir pasifik."
+                                "Memiliki jenis fauna seperti armadilo, selot, dan jaguar di kawasan barat daya."
+                                "Memiliki jenis fauna seperti opossum, aligator, dan buaya kardinal di kawasan selatan."
+                                "Penduduk aslinya adalah Suku Indian."
+                                "Sebagian besar penduduknya bekerja di luar sektor pertanian."]
+               amerika-serikat-1 (rand-nth amerika-serikat)
+               amerika-serikat-2 (rand-nth (remove #{amerika-serikat-1} amerika-serikat))
+               non-amerika-serikat ["Terletak pada 18º LU – 54º LU dan 73º BT – 135º BT."
+                                    "Sebagian besar daratannya berhadapan dengan Samudra Pasifik di timur dan Samudra Atlantik di barat."
+                                    "Berbatasan dengan Samudra Atlantik di sebelah barat."
+                                    "Berbatasan dengan Greenland di sebelah utara."
+                                    "Berbatasan dengan Samudra Pasifik di sebelah timur."
+                                    "Berbatasan dengan Meksiko, Jamaika, dan Haiti di sebelah selatan."
+                                    "Sebagian besar wilayahnya beriklim subtropis."
+                                    "Memiliki curah hujan yang sangat rendah."
+                                    "Luas wilayahnya terbesar ke-4 di dunia, yakni sekitar 9,59 juta km2."
+                                    "Wilayah bagian barat terdapat rangkaian Pegunungan Appalachia."
+                                    "Di bagian tengah terdapat dataran yang sempit bernama Seattle."
+                                    "Memiliki dataran pantai barat yang luas yang menghadap ke Samudra Atlantik."
+                                    "Wilayah bagian timur terdapat rangkaian Pegunungan Rocky."
+                                    "Miskin sumber daya mineral dan energi."
+                                    "Di bagian utara banyak ditumbuhi padang rumput."
+                                    "Di bagian tengah terdapat hutan pinus yang luas."
+                                    "Di bagian tenggara terdapat hutan hujan tropis."
+                                    "Memiliki jenis fauna seperti puma di kawasan Midwest."
+                                    "Memiliki jenis fauna seperti bison, antelop, dan beruang di kawasan pesisir pasifik."
+                                    "Memiliki jenis fauna seperti opossum, aligator, dan buaya kardinal di kawasan barat daya."
+                                    "Memiliki jenis fauna seperti armadilo, selot, dan jaguar di kawasan selatan."
+                                    "Penduduk aslinya adalah Suku Aborigin."
+                                    "Sebagian besar penduduknya bekerja di sektor pertanian."]
+               non-amerika-serikat-1 (rand-nth non-amerika-serikat)
+               non-amerika-serikat-2 (rand-nth (remove #{non-amerika-serikat-1} non-amerika-serikat))
+               jawaban ["1 saja"
+                        "2 saja"
+                        "semuanya"
+                        "tidak ada"]
+               wrong (fn [z] (shuffle (filter #(not (= % z)) jawaban)))]
+
+           (merge
+            (condp = type-soal
+              :S1 (merge {:pengantar pengantar
+                          :fakta1 amerika-serikat-1
+                          :fakta2 non-amerika-serikat-2
+                          :soal soal
+                          :pb (jawaban 0)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 0)))))
+              :S2 (merge {:pengantar pengantar
+                          :fakta1 non-amerika-serikat-1
+                          :fakta2 amerika-serikat-2
+                          :soal soal
+                          :pb (jawaban 1)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 1)))))
+              :S3 (merge {:pengantar pengantar
+                          :fakta1 amerika-serikat-1
+                          :fakta2 amerika-serikat-2
+                          :soal soal
+                          :pb (jawaban 2)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 2)))))
+              :S4 (merge {:pengantar pengantar
+                          :fakta1 non-amerika-serikat-1
+                          :fakta2 non-amerika-serikat-2
+                          :soal soal
+                          :pb (jawaban 3)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 3)))))))))
+
+       (repeatedly 1000)
+       distinct
+       shuffle
+       (take 300)
+       shuffle))
+
+(defn brasil-2 []
+  (->> (fn []
+         (let [type-soal (rand-nth [:S1 :S2 :S3 :S4])
+               pengantar (rand-nth ["Coba perhatikan kondisi geografis suatu benua di bawah ini!"
+                                    "Perhatikan opsi-opsi terkait karakteristik geografis benua di bawah ini!"
+                                    "Di bawah ini adalah opsi-opsi terkait karakteristik geografis suatu benua."])
+               soal (rand-nth ["Dari beberapa opsi di atas, yang termasuk kondisi geografis Jepang adalah ...."
+                               "Dari beberapa pernyataan di atas, yang termasuk kondisi geografis Jepang adalah ...."
+                               "Manakah dari opsi-opsi di atas yang termasuk kondisi geografis Jepang?"])
+               brasil ["Terletak pada 5º LU – 34º LS dan 47º BB – 74º BB."
+                       "Sebagian besar daratannya berhadapan dengan Samudra Atlantik."
+                       "Berbatasan dengan Peru dan Bolivia di sebelah barat."
+                       "Berbatasan dengan Samudra Atlantik, Guyana, Suriname, Venezuela, dan Kolombia di sebelah utara."
+                       "Berbatasan dengan Samudra Atlantik di sebelah timur."
+                       "Berbatasan dengan Paraguay, Uruguay, dan Argentina di sebelah selatan."
+                       "Sebagian besar wilayahnya beriklim tropis."
+                       "Sebagian kecil wilayahnya di selatan beriklim subtropis."
+                       "Sebagian kecil wilayahnya di timur beriklim kering."
+                       "Wilayah bagian timur dan tengah terdapat Dataran Tinggi Brasilia."
+                       "Di sebelah utara Lembah Amazon terdapat Dataran Tinggi Guyana."
+                       "Di sebelah selatan Lembah Amazon terdapat Dataran Tinggi Brasilia."
+                       "Wilayah bagian timur terdapat Lembah Parana-Paraguay yang sempit."
+                       "Memiliki hutan terkenal, yakni Hutan Amazon dengan tingkat keberagaman flora yang tinggi."
+                       "Memiliki fauna khas seperti jaguar hitam, ikan piranha, anaconda, dan katak kaca."
+                       "Mayoritas penduduknya adalah keturunan Portugis."
+                       "Penduduknya menggunakan bahasa Portugis sebagai bahasa resmi."]
+               brasil-1 (rand-nth brasil)
+               brasil-2 (rand-nth (remove #{brasil-1} brasil))
+               non-brasil ["Terletak pada 24º LU – 70º LU dan 172º BB – 67º BB."
+                           "Sebagian besar daratannya berhadapan dengan Samudra Pasifik."
+                           "Berbatasan dengan Meksiko dan Argentina di sebelah barat."
+                           "Berbatasan dengan Samudra Pasifik, Haiti, Suriname, Venezuela, dan Kolombia di sebelah utara."
+                           "Berbatasan dengan Samudra Pasifik di sebelah timur."
+                           "Berbatasan dengan Venezuela, Kolombia, dan Peru di sebelah selatan."
+                           "Sebagian besar wilayahnya beriklim subtropis."
+                           "Sebagian kecil wilayahnya di selatan beriklim kering."
+                           "Sebagian kecil wilayahnya di timur beriklim dingin."
+                           "Wilayah bagian timur dan tengah terdapat Dataran Tinggi Great Plains."
+                           "Di sebelah utara Lembah Amazon terdapat Dataran Tinggi Brasilia."
+                           "Di sebelah selatan Lembah Amazon terdapat Dataran Tinggi Guyana."
+                           "Wilayah bagian timur terdapat rangkaian Pegunungan Appalachia."
+                           "Memiliki hutan terkenal, yakni Hutan Black Forest dengan tingkat keberagaman flora yang tinggi."
+                           "Memiliki jenis fauna khas seperti puma, anoa, cendrawasih, dan komodo."
+                           "Mayoritas penduduknya adalah keturunan Inggris."
+                           "Penduduknya menggunakan bahasa Spanyol sebagai bahasa resmi."]
+               non-brasil-1 (rand-nth non-brasil)
+               non-brasil-2 (rand-nth (remove #{non-brasil-1} non-brasil))
+               jawaban ["1 saja"
+                        "2 saja"
+                        "semuanya"
+                        "tidak ada"]
+               wrong (fn [z] (shuffle (filter #(not (= % z)) jawaban)))]
+
+           (merge
+            (condp = type-soal
+              :S1 (merge {:pengantar pengantar
+                          :fakta1 brasil-1
+                          :fakta2 non-brasil-2
+                          :soal soal
+                          :pb (jawaban 0)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 0)))))
+              :S2 (merge {:pengantar pengantar
+                          :fakta1 non-brasil-1
+                          :fakta2 brasil-2
+                          :soal soal
+                          :pb (jawaban 1)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 1)))))
+              :S3 (merge {:pengantar pengantar
+                          :fakta1 brasil-1
+                          :fakta2 brasil-2
+                          :soal soal
+                          :pb (jawaban 2)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 2)))))
+              :S4 (merge {:pengantar pengantar
+                          :fakta1 non-brasil-1
+                          :fakta2 non-brasil-2
+                          :soal soal
+                          :pb (jawaban 3)}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 3)))))))))
+
+       (repeatedly 1000)
+       distinct
+       shuffle
+       (take 300)
+       shuffle))
