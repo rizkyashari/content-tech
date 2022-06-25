@@ -24,7 +24,7 @@
 "waalaikumussalam"
 (seq "assalamualaikum")
 
-;; Hash-Map & Map
+;; Set & Map
 {:name "Ashari" :umur "22" :alamat "rejotangan" :jumlah-istri "belum punya"}
 {}
 #{1 2 3}
