@@ -2,6 +2,7 @@
 
 ;; Untuk mengetahui pengenalan seputar Clojure bisa cek di 
 ;; https://www.baeldung.com/clojure atau https://clojure.org/guides/getting_started
+;; Cheatsheet Clojure https://clojure.org/api/cheatsheet
 
 ;; Data & Functions
 (* 2 3)
