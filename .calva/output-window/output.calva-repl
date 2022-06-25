@@ -5,6 +5,7 @@
 ; Happy coding! ♥️
 
 ; Jacking in...
-; Aborting jack-in. No project type selected.
+; Starting Jack-in Terminal: npx.cmd nbb nrepl-server :port 64032
+; Interrupting Jack-in process.
 ; Jacking in...
-; Starting Jack-in Terminal: bb --nrepl-server 63581
+; Starting Jack-in Terminal: bb --nrepl-server 57656
