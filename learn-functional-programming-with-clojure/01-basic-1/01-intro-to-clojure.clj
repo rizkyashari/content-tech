@@ -29,6 +29,7 @@
 ;; Perhatikan juga karakter titik koma. 
 ;; Ini digunakan di Clojure untuk menunjukkan komentar dan bukan akhir dari ekspresi seperti yang kita lihat di Java.
 
+;; ASSIGNMENT
 ;; Rewrite following algebraic expression as a Clojure expression!
 
 ; 2 * 3
