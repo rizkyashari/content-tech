@@ -18,51 +18,130 @@
 clj꞉user꞉>  ; Use `alt+enter` to evaluate
 ; Jack-in done.
 clj꞉user꞉> 
-"gabener"
+3
 clj꞉user꞉> 
-"bener"
+; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
+; Unable to resolve symbol: popos in this context
 clj꞉user꞉> 
-"gabener"
+; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
+; Unable to resolve symbol: popos in this context
 clj꞉user꞉> 
-"bener"
+; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
+; Unable to resolve symbol: popos in this context
+clj꞉user꞉> 
+; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
+; Unable to resolve symbol: x in this context
+clj꞉user꞉> 
+; Syntax error macroexpanding clojure.core/let at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
+; [popos x (if (= x 123) true false)] - failed: even-number-of-forms? at: [:bindings] spec: :clojure.core.specs.alpha/bindings
+clj꞉user꞉> 
+; Syntax error macroexpanding clojure.core/defn at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
+; () - failed: Insufficient input at: [:fn-tail] spec: :clojure.core.specs.alpha/defn-args
+clj꞉user꞉> 
+; Syntax error macroexpanding clojure.core/defn at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
+; () - failed: Insufficient input at: [:fn-tail] spec: :clojure.core.specs.alpha/defn-args
+clj꞉user꞉> 
+#'user/popos
+clj꞉user꞉> 
+123
+clj꞉user꞉> 
+false
+clj꞉user꞉> 
+#'user/square
+clj꞉user꞉> 
+144
+clj꞉user꞉> 
+; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\14-math-part-1.clj:24:8).
+; Unable to resolve symbol: cube in this context
+clj꞉user꞉> 
+#'user/square
+clj꞉user꞉> 
+#'user/cube
 clj꞉user꞉> 
 #'user/mutlak
 clj꞉user꞉> 
-#'user/mutlak
+#'user/what-this?
 clj꞉user꞉> 
-12
+64
 clj꞉user꞉> 
-#'user/apa-nih-?
-clj꞉user꞉> 
-"negatif"
+30
 clj꞉user꞉> 
 "nol"
 clj꞉user꞉> 
-"positif"
+#'user/kecap
 clj꞉user꞉> 
-; Syntax error macroexpanding clojure.core/defn at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\12-conditional-if-cond-case-etc.clj:33:8).
-; cond - failed: vector? at: [:fn-tail :arity-n :bodies :params] spec: :clojure.core.specs.alpha/param-list
-(cond (> x 0) "positif" (= x 0) "nol" (< x 0) "negatif") - failed: vector? at: [:fn-tail :arity-1 :params] spec: :clojure.core.specs.alpha/param-list
+#'user/kecap
 clj꞉user꞉> 
-#'user/apa-nih-?-2
+[##NaN ##NaN]
 clj꞉user꞉> 
-#'user/apa-nih-??
+[3.0 2.0]
 clj꞉user꞉> 
-#'user/apa-nih-??
+[15129 246]
 clj꞉user꞉> 
-; Execution error (ArityException) at user/eval7922 (form-init6985974326513400207.clj:40).
-; Wrong number of args (0) passed to: user/apa-nih-??
+[4 4]
 clj꞉user꞉> 
-"positif"
+[9 6]
 clj꞉user꞉> 
-; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\12-conditional-if-cond-case-etc.clj:42:8).
-; Unable to resolve symbol: apa-nih?? in this context
+[9 6]
 clj꞉user꞉> 
-"nol"
+; Syntax error macroexpanding clojure.core/let at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\14-math-part-1.clj:50:8).
+; [x 3 y (+ x 2) [x y]] - failed: even-number-of-forms? at: [:bindings] spec: :clojure.core.specs.alpha/bindings
 clj꞉user꞉> 
-"negatif"
+[3 15]
 clj꞉user꞉> 
-#'user/apa-sih-?
+2/3
 clj꞉user꞉> 
-"impossible"
+#'user/ngasal
+clj꞉user꞉> 
+110
+clj꞉user꞉> 
+#'user/ngasal1
+clj꞉user꞉> 
+310
+clj꞉user꞉> 
+#'user/kecap
+clj꞉user꞉> 
+#'user/kecap
+clj꞉user꞉> 
+[3.0 2.0]
+clj꞉user꞉> 
+#'user/kecap
+clj꞉user꞉> 
+#'user/kecap-1
+clj꞉user꞉> 
+#'user/kecap2
+clj꞉user꞉> 
+#'user/kecap2
+clj꞉user꞉> 
+#'user/kecap
+clj꞉user꞉> 
+3.5
+clj꞉user꞉> 
+3.5
+clj꞉user꞉> 
+#'user/kecap2
+clj꞉user꞉> 
+#'user/kecap2
+clj꞉user꞉> 
+3.0
+clj꞉user꞉> 
+2.0
+clj꞉user꞉> 
+#'user/say
+clj꞉user꞉> 
+"Hello clojure.core$name@68f66c8d !"
+clj꞉user꞉> 
+#'user/say
+clj꞉user꞉> 
+#'user/say
+clj꞉user꞉> 
+"Hello David !"
+clj꞉user꞉> 
+#'user/say
+clj꞉user꞉> 
+#'user/say
+clj꞉user꞉> 
+"Hello, David !"
+clj꞉user꞉> 
+"Hello, Rhea!"
 clj꞉user꞉> 
