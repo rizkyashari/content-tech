@@ -33,5 +33,11 @@
 ;; Rewrite following algebraic expression as a Clojure expression!
 
 ; 2 * 3
+user=> (* 2 3)
+6
 ; (58 – 2) / 8
+user=> (/ (- 58 2) 8)
+7
 ; (7 + 3 * 4 + 5) / 10
+user=> (/ (+ (* 3 4) 7 5) 10)
+12/5
