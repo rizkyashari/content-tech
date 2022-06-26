@@ -18,15 +18,51 @@
 clj꞉user꞉>  ; Use `alt+enter` to evaluate
 ; Jack-in done.
 clj꞉user꞉> 
-6
+"gabener"
 clj꞉user꞉> 
-7
+"bener"
 clj꞉user꞉> 
-12/5
+"gabener"
 clj꞉user꞉> 
-6
+"bener"
 clj꞉user꞉> 
-7
+#'user/mutlak
 clj꞉user꞉> 
-12/5
+#'user/mutlak
+clj꞉user꞉> 
+12
+clj꞉user꞉> 
+#'user/apa-nih-?
+clj꞉user꞉> 
+"negatif"
+clj꞉user꞉> 
+"nol"
+clj꞉user꞉> 
+"positif"
+clj꞉user꞉> 
+; Syntax error macroexpanding clojure.core/defn at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\12-conditional-if-cond-case-etc.clj:33:8).
+; cond - failed: vector? at: [:fn-tail :arity-n :bodies :params] spec: :clojure.core.specs.alpha/param-list
+(cond (> x 0) "positif" (= x 0) "nol" (< x 0) "negatif") - failed: vector? at: [:fn-tail :arity-1 :params] spec: :clojure.core.specs.alpha/param-list
+clj꞉user꞉> 
+#'user/apa-nih-?-2
+clj꞉user꞉> 
+#'user/apa-nih-??
+clj꞉user꞉> 
+#'user/apa-nih-??
+clj꞉user꞉> 
+; Execution error (ArityException) at user/eval7922 (form-init6985974326513400207.clj:40).
+; Wrong number of args (0) passed to: user/apa-nih-??
+clj꞉user꞉> 
+"positif"
+clj꞉user꞉> 
+; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\12-conditional-if-cond-case-etc.clj:42:8).
+; Unable to resolve symbol: apa-nih?? in this context
+clj꞉user꞉> 
+"nol"
+clj꞉user꞉> 
+"negatif"
+clj꞉user꞉> 
+#'user/apa-sih-?
+clj꞉user꞉> 
+"impossible"
 clj꞉user꞉> 
