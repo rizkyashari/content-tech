@@ -18,130 +18,105 @@
 clj꞉user꞉>  ; Use `alt+enter` to evaluate
 ; Jack-in done.
 clj꞉user꞉> 
+#'user/faktorial
+clj꞉user꞉> 
+#'user/faktorial
+clj꞉user꞉> 
+#'user/faktorial
+clj꞉user꞉> 
+24
+clj꞉user꞉> 
+120
+clj꞉user꞉> 
+#'user/sum
+clj꞉user꞉> 
+#'user/sum
+clj꞉user꞉> 
+; Execution error (ClassCastException) at user/sum (form-init9873326341483214852.clj:7).
+; class clojure.lang.LongRange cannot be cast to class java.lang.Number (clojure.lang.LongRange is in unnamed module of loader 'app'; java.lang.Number is in module java.base of loader 'bootstrap')
+clj꞉user꞉> 
+; Execution error (ClassCastException) at user/sum (form-init9873326341483214852.clj:7).
+; class clojure.lang.LongRange cannot be cast to class java.lang.Number (clojure.lang.LongRange is in unnamed module of loader 'app'; java.lang.Number is in module java.base of loader 'bootstrap')
+clj꞉user꞉> 
+#'user/sum
+clj꞉user꞉> 
+#'user/sum
+clj꞉user꞉> 
 3
 clj꞉user꞉> 
-; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
-; Unable to resolve symbol: popos in this context
+6
 clj꞉user꞉> 
-; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
-; Unable to resolve symbol: popos in this context
+6
 clj꞉user꞉> 
-; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
-; Unable to resolve symbol: popos in this context
+#'user/drop'
 clj꞉user꞉> 
-; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
-; Unable to resolve symbol: x in this context
+(3 4 5 6 7 8 9)
 clj꞉user꞉> 
-; Syntax error macroexpanding clojure.core/let at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
-; [popos x (if (= x 123) true false)] - failed: even-number-of-forms? at: [:bindings] spec: :clojure.core.specs.alpha/bindings
+(3 4 5 6 7 8 9)
 clj꞉user꞉> 
-; Syntax error macroexpanding clojure.core/defn at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
-; () - failed: Insufficient input at: [:fn-tail] spec: :clojure.core.specs.alpha/defn-args
+#'user/drop'
 clj꞉user꞉> 
-; Syntax error macroexpanding clojure.core/defn at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\13-truthy-falsy.clj:7:8).
-; () - failed: Insufficient input at: [:fn-tail] spec: :clojure.core.specs.alpha/defn-args
+(3 4 5 6 7 8 9)
 clj꞉user꞉> 
-#'user/popos
+(1 2 3 4 5)
 clj꞉user꞉> 
-123
+; Syntax error macroexpanding clojure.core/let at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\17-recursive-part-2-and-destructuring.clj:37:8).
+; [b [1 2 3 4 5 6] [(first b) (rest b)]] - failed: even-number-of-forms? at: [:bindings] spec: :clojure.core.specs.alpha/bindings
+clj꞉user꞉> 
+[1 (2 3 4 5 6)]
+clj꞉user꞉> 
+[1 (2 3 4 5 6)]
+clj꞉user꞉> 
+[1 (2 3 4 5 6)]
+clj꞉user꞉> 
+[1 2 3 (4 5 6 7 8)]
+clj꞉user꞉> 
+nil
+clj꞉user꞉> 
+[1 2]
+clj꞉user꞉> 
+#'user/testi
+clj꞉user꞉> 
+6
+clj꞉user꞉> 
+2
+clj꞉user꞉> 
+#'user/sum'
+clj꞉user꞉> 
+; Execution error (ArityException) at user/eval7972 (form-init9873326341483214852.clj:59).
+; Wrong number of args (0) passed to: user/sum'
+clj꞉user꞉> 
+; Execution error (ClassCastException) at user/eval7974 (form-init9873326341483214852.clj:59).
+; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉user꞉> 
+6
+clj꞉user꞉> 
+6
+clj꞉user꞉> 
+0
+clj꞉user꞉> 
+nil
 clj꞉user꞉> 
 false
 clj꞉user꞉> 
-#'user/square
+#'user/tes
 clj꞉user꞉> 
-144
+[0 (1 2 3)]
 clj꞉user꞉> 
-; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\14-math-part-1.clj:24:8).
-; Unable to resolve symbol: cube in this context
+[0 (1 2 3)]
 clj꞉user꞉> 
-#'user/square
+; Execution error (ClassCastException) at user/eval7995 (form-init9873326341483214852.clj:68).
+; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
 clj꞉user꞉> 
-#'user/cube
+[0 (1 2 3)]
 clj꞉user꞉> 
-#'user/mutlak
+[1 (2 3 4 5) [1 2 3 4 5]]
 clj꞉user꞉> 
-#'user/what-this?
+[1 (2 3 4 5) [1 2 3 4 5]]
 clj꞉user꞉> 
-64
+["aku" ("suka" "dia" "tapi" "dia" "gak suka") ["aku" "suka" "dia" "tapi" "dia" "gak suka"]]
 clj꞉user꞉> 
-30
+["aku" ("suka" "dia") ["aku" "suka" "dia"]]
 clj꞉user꞉> 
-"nol"
-clj꞉user꞉> 
-#'user/kecap
-clj꞉user꞉> 
-#'user/kecap
-clj꞉user꞉> 
-[##NaN ##NaN]
-clj꞉user꞉> 
-[3.0 2.0]
-clj꞉user꞉> 
-[15129 246]
-clj꞉user꞉> 
-[4 4]
-clj꞉user꞉> 
-[9 6]
-clj꞉user꞉> 
-[9 6]
-clj꞉user꞉> 
-; Syntax error macroexpanding clojure.core/let at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\14-math-part-1.clj:50:8).
-; [x 3 y (+ x 2) [x y]] - failed: even-number-of-forms? at: [:bindings] spec: :clojure.core.specs.alpha/bindings
-clj꞉user꞉> 
-[3 15]
-clj꞉user꞉> 
-2/3
-clj꞉user꞉> 
-#'user/ngasal
-clj꞉user꞉> 
-110
-clj꞉user꞉> 
-#'user/ngasal1
-clj꞉user꞉> 
-310
-clj꞉user꞉> 
-#'user/kecap
-clj꞉user꞉> 
-#'user/kecap
-clj꞉user꞉> 
-[3.0 2.0]
-clj꞉user꞉> 
-#'user/kecap
-clj꞉user꞉> 
-#'user/kecap-1
-clj꞉user꞉> 
-#'user/kecap2
-clj꞉user꞉> 
-#'user/kecap2
-clj꞉user꞉> 
-#'user/kecap
-clj꞉user꞉> 
-3.5
-clj꞉user꞉> 
-3.5
-clj꞉user꞉> 
-#'user/kecap2
-clj꞉user꞉> 
-#'user/kecap2
-clj꞉user꞉> 
-3.0
-clj꞉user꞉> 
-2.0
-clj꞉user꞉> 
-#'user/say
-clj꞉user꞉> 
-"Hello clojure.core$name@68f66c8d !"
-clj꞉user꞉> 
-#'user/say
-clj꞉user꞉> 
-#'user/say
-clj꞉user꞉> 
-"Hello David !"
-clj꞉user꞉> 
-#'user/say
-clj꞉user꞉> 
-#'user/say
-clj꞉user꞉> 
-"Hello, David !"
-clj꞉user꞉> 
-"Hello, Rhea!"
+["aku" ("suka" "dia") ["aku" "suka" "dia"]]
 clj꞉user꞉> 
