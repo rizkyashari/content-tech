@@ -18,105 +18,63 @@
 clj꞉user꞉>  ; Use `alt+enter` to evaluate
 ; Jack-in done.
 clj꞉user꞉> 
-#'user/faktorial
+; Syntax error compiling at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\03-recursion\18-anonymous-function.clj:7:1).
+; Unable to resolve symbol: square in this context
 clj꞉user꞉> 
-#'user/faktorial
+#'user/square
 clj꞉user꞉> 
-#'user/faktorial
+15129
 clj꞉user꞉> 
 24
 clj꞉user꞉> 
-120
+10
 clj꞉user꞉> 
-#'user/sum
-clj꞉user꞉> 
-#'user/sum
-clj꞉user꞉> 
-; Execution error (ClassCastException) at user/sum (form-init9873326341483214852.clj:7).
-; class clojure.lang.LongRange cannot be cast to class java.lang.Number (clojure.lang.LongRange is in unnamed module of loader 'app'; java.lang.Number is in module java.base of loader 'bootstrap')
-clj꞉user꞉> 
-; Execution error (ClassCastException) at user/sum (form-init9873326341483214852.clj:7).
-; class clojure.lang.LongRange cannot be cast to class java.lang.Number (clojure.lang.LongRange is in unnamed module of loader 'app'; java.lang.Number is in module java.base of loader 'bootstrap')
-clj꞉user꞉> 
-#'user/sum
-clj꞉user꞉> 
-#'user/sum
-clj꞉user꞉> 
-3
-clj꞉user꞉> 
-6
-clj꞉user꞉> 
-6
-clj꞉user꞉> 
-#'user/drop'
-clj꞉user꞉> 
-(3 4 5 6 7 8 9)
-clj꞉user꞉> 
-(3 4 5 6 7 8 9)
-clj꞉user꞉> 
-#'user/drop'
-clj꞉user꞉> 
-(3 4 5 6 7 8 9)
-clj꞉user꞉> 
-(1 2 3 4 5)
-clj꞉user꞉> 
-; Syntax error macroexpanding clojure.core/let at (c:\Users\M RIZKY - T GEOGRAFI\content-tech\content-tech\learn-functional-programming-with-clojure\02-basic-2\17-recursive-part-2-and-destructuring.clj:37:8).
-; [b [1 2 3 4 5 6] [(first b) (rest b)]] - failed: even-number-of-forms? at: [:bindings] spec: :clojure.core.specs.alpha/bindings
-clj꞉user꞉> 
-[1 (2 3 4 5 6)]
-clj꞉user꞉> 
-[1 (2 3 4 5 6)]
-clj꞉user꞉> 
-[1 (2 3 4 5 6)]
-clj꞉user꞉> 
-[1 2 3 (4 5 6 7 8)]
+210
 clj꞉user꞉> 
 nil
 clj꞉user꞉> 
-[1 2]
+210
 clj꞉user꞉> 
-#'user/testi
+210
 clj꞉user꞉> 
-6
+10
 clj꞉user꞉> 
-2
+#'user/fi
 clj꞉user꞉> 
-#'user/sum'
+; Execution error (ArityException) at user/eval6190 (form-init11423445806672684036.clj:35).
+; Wrong number of args (3) passed to: user/fi
 clj꞉user꞉> 
-; Execution error (ArityException) at user/eval7972 (form-init9873326341483214852.clj:59).
-; Wrong number of args (0) passed to: user/sum'
+#'user/fi
 clj꞉user꞉> 
-; Execution error (ClassCastException) at user/eval7974 (form-init9873326341483214852.clj:59).
-; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+#'user/fi
 clj꞉user꞉> 
-6
+#function[user/fi/fn--6207]
 clj꞉user꞉> 
-6
+#'user/fi
 clj꞉user꞉> 
-0
+#function[user/fi/fn--6218]
 clj꞉user꞉> 
-nil
+#'user/fi
 clj꞉user꞉> 
-false
+#function[user/fi/fn--6223]
 clj꞉user꞉> 
-#'user/tes
+#function[user/fi/fn--6223]
 clj꞉user꞉> 
-[0 (1 2 3)]
+#'user/fi
 clj꞉user꞉> 
-[0 (1 2 3)]
+#function[user/fi/fn--6230]
 clj꞉user꞉> 
-; Execution error (ClassCastException) at user/eval7995 (form-init9873326341483214852.clj:68).
-; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+#'user/fi
 clj꞉user꞉> 
-[0 (1 2 3)]
+10
 clj꞉user꞉> 
-[1 (2 3 4 5) [1 2 3 4 5]]
+#'user/fi
 clj꞉user꞉> 
-[1 (2 3 4 5) [1 2 3 4 5]]
+10
 clj꞉user꞉> 
-["aku" ("suka" "dia" "tapi" "dia" "gak suka") ["aku" "suka" "dia" "tapi" "dia" "gak suka"]]
+#'user/fi
 clj꞉user꞉> 
-["aku" ("suka" "dia") ["aku" "suka" "dia"]]
+10
 clj꞉user꞉> 
-["aku" ("suka" "dia") ["aku" "suka" "dia"]]
+10
 clj꞉user꞉> 
