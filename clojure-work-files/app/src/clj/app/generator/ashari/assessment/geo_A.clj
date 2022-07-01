@@ -748,3 +748,133 @@
        shuffle
        (take 36)
        shuffle))
+
+(defn pendekatan-geografi-2 []
+  (->> (fn []
+         (let [tipe (rand-nth [:a :b :c])
+               pertanyaan (rand-nth ["Pendekatan geografi yang berkaitan dengan fenomena geosfer tersebut adalah pendekatan …."
+                                     "Pemaparan tersebut merupakan penerapan dari pendekatan ...."])
+               ekologi ["Penebangan pohon yang ada di kawasan hutan di daerah Sukabumi, Jawa Barat telah menyebabkan terjadinya tanah longsor. Peristiwa tersebut menimbulkan banyak kerusakan, mulai dari permukiman, sawah, hingga banyak hewan ternak yang mati."
+                        "Kebakaran hutan yang terjadi di Sumatra seringkali disebabkan oleh ulah manusia. Masyarakat di sekitar hutan biasanya membakar lahan untuk diolah menjadi perkebunan, seperti sawit, kopi, dan coklat. Awalnya mungkin masyarakat tersebut berniat untuk membakar lahan pada area yang sempit. Akan tetapi, lahan yang dibakar bisa merembet ke area hutan yang lebih luas sehingga terjadi kebakaran hutan."]
+               spasial ["Gunung Sinabung (ketinggian 2.412 m) merupakan objek gunungapi di Sumatra Utara. Gunung ini terbentuk karena adanya penunjaman lempeng Indo-Australia terhadap lempeng Eurasia. Tumbukan tersebut membentuk pola gunung api yang memanjang di wilayah Sumatra, Jawa, dan Nusa Tenggara."
+                        "Danau Toba merupakan salah satu danau yang berada di kaldera Gunung Supervulkan. Disebut sebagai kaldera dikarenakan danau tersebut merupakan fitur vulkanik berupa kawah yang terbentuk setelah runtuhnya batuan penyangga ke dalam dapur magma akibat letusan vulkanik. Batuan penyangga tersebut retak dikarenakan magma yang terus menerus mendesak keluar dengan volume yang sangat besar."
+                        "Panas bumi merupakan salah satu energi terbarukan yang disebut ramah lingkungan. Aktivitas tektonik di dalam perut bumi memicu terbentuknya energi panas bumi. Magma di dalam perut bumi membuat lapisan batuan di atasnya mengalami peningkatan temperatur. Lapisan batuan yang bersuhu tinggi tersebut mengalami kontak dengan  air sehingga terbentuklah uap panas bertekanan tinggi yang disebut energi panas bumi. Beberapa lapangan panas bumi di Indonesia antara lain Kamojang, Lahendong, Sibayak, Sarulla, dan lain-lain."]
+               regional ["Wilayah Jakarta sering dilanda banjir setiap tahunnya. Ketika dianalisis lebih lanjut, ternyata banjir di Jakarta tidak hanya disebabkan oleh faktor keruangan yang bermasalah di Jakarta saja, melainkan juga ada peran daerah yang lebih tinggi, yaitu Bogor, yang menjadi penyumbang limpasan air menuju Jakarta."
+                         "Dalam perencanaan pembangunan kawasan permukiman di Pulau Sumatra, perlu dilakukan analisis kelayakan wilayah di daerah tersebut untuk lokasi transmigrasi. Langkah pertama yang bisa dikerjakan adalah identifikasi wilayah potensial yang memenuhi persyaratan minimum untuk dijadikan permukiman baru. Langkah kedua adalah identifikasi aksesibilitas wilayah yang dirumuskan untuk jangka pendek dan jangka panjang dalam rangka pengembangan kawasan tersebut."
+                         "Banjir di Jakarta turut disebabkan oleh adanya alih fungsi lahan di daerah sekitar hulu sungai-sungai yang melewati Jakarta. Kawasan hutan yang berubah menjadi kawasan hunian wisata (villa) serta berbagai peruntukan lainnya mengakibatkan kawasan yang mulanya berfungsi sebagai daerah tangkapan air hujan tidak mampu meresapkan air hujan ke dalam lapisan air tanah."]
+               benar [["ekologi"
+                       "kelingkungan"]
+                      ["keruangan"
+                       "spasial"]
+                      ["kompleks wilayah"
+                       "regional"]]
+               salah [["keruangan"
+                       "spasial"
+                       "regional"
+                       "kompleks wilayah"]
+                      ["regional"
+                       "kompleks wilayah"
+                       "ekologi"
+                       "lingkungan"]
+                      ["ekologi"
+                       "lingkungan"
+                       "keruangan"
+                       "spasial"]]]
+
+           (merge
+            (condp = tipe
+              :a (merge {:fenomena (rand-nth ekologi)
+                         :pertanyaan pertanyaan
+                         :pb (rand-nth (benar 0))}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah 0))))
+              :b (merge {:fenomena (rand-nth spasial)
+                         :pertanyaan pertanyaan
+                         :pb (rand-nth (benar 1))}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah 1))))
+              :c (merge {:fenomena (rand-nth regional)
+                         :pertanyaan pertanyaan
+                         :pb (rand-nth (benar 2))}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah 2))))))))
+
+       (repeatedly 50)
+       distinct
+       shuffle
+       (take 36)
+       shuffle))
+
+(defn konsep-geografi-bagian-2 []
+  (->> (fn []
+         (let [tipe (rand-nth [:a :b :c :d :e
+                               :f :g :h :i :j])
+               pertanyaan (rand-nth ["Fenomena tersebut dapat dianalisis menggunakan konsep …."
+                                     "Konsep geografi yang dapat mengkaji fenomena tersebut adalah ...."])
+               lokasi ["Konsep geografi yang membahas tentang letak atau posisi spasial dari objek tertentu adalah konsep ...."
+                       "Konsep ... membahas posisi keruangan dari suatu objek."]
+               jarak ["Konsep geografi yang membahas ruang yang menghubungkan antara dua lokasi disebut sebagai konsep ...."
+                      "Konsep ... membahas ruang yang menghubungkan antara dua objek."]
+               keterjangkauan ["Konsep geografi yang mengacu pada kemudahan untuk mencapai suatu objek yang dipengaruhi oleh kondisi geografis suatu wilayah adalah konsep ...."
+                               "Konsep ... membahas kemudahan untuk mencapai suatu objek yang dipengaruhi oleh kondisi geografis suatu wilayah."]
+               pola ["Konsep geografi yang mengacu pada susunan fenomena pada ruang muka bumi adalah konsep ...."
+                     "Konsep ... mengacu pada penyebaran fenomena geosfer."]
+               morfologi ["Konsep geografi yang menggambarkan perwujudan daratan di muka bumi yang merupakan hasil proses pengangkatan atau penurunan wilayah melalui proses geologi adalah konsep ...."
+                          "Konsep ... berhubungan dengan bentuk permukaan bumi sebagai hasil proses alam dan hubungannya dengan aktivitas manusia."]
+               aglomerasi ["Kecenderungan persebaran yang bersifat mengelompok pada suatu wilayah merupakan konsep ...."
+                           "Konsep ... membahas kecenderungan persebaran yang bersifat mengelompok pada suatu wilayah yang relatif sempit yang disbebabkan oleh adanya faktor-faktor umum yang menguntungkan."]
+               interaksi ["Konsep yang berkaitan dengan hubungan timbal balik atau saling ketergantungan antarwilayah merupakan konsep ...."
+                          "Konsep ... mengacu pada hubungan saling ketergantungan atau timbal balik antara satu wilayah dengan wilayah lainnya."]
+               nilai-guna ["Konsep yang mengacu pada kelebihan yang dimiliki suatu tempat atau wilayah tertentu disebut sebagai konsep ...."
+                           "Konsep ... membahas kelebihan yang dipunyai oleh suatu wilayah yang berbeda-beda berdasarkan fungsinya."]
+               difer-area ["Konsep yang menggambarkan keunikan atau karakteristik yang berbeda antara wilayah satu dengan yang lainnya merupakan konsep ...."
+                           "Konsep ... membahas berbagai gejala dan problem geografis yang tersebar dalam ruang mempunyai karakteristik yang berbeda."]
+               keterkaitan ["Konsep yang membahas adanya saling keterkaitan antar wilayah dalam memenuhi kebutuhan dan sosial penduduknya adalah konsep ...."
+                            "Konsep ... menunjukkan tingkat hubungan antarwilayah."]
+               konsep ["lokasi"
+                       "jarak"
+                       "keterjangkauan"
+                       "pola"
+                       "morfologi"
+                       "aglomerasi"
+                       "interaksi dan interdependensi"
+                       "nilai guna"
+                       "diferensiasi area"
+                       "keterkaitan ruang"]
+               salah (fn [x] (shuffle (filter #(not (= % x)) konsep)))]
+
+           (merge
+            (condp = tipe
+              :a (merge {:pertanyaan (rand-nth lokasi)
+                         :pb (konsep 0)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (konsep 0)))))
+              :b (merge {:pertanyaan (rand-nth jarak)
+                         :pb (konsep 1)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (konsep 1)))))
+              :c (merge {:pertanyaan (rand-nth keterjangkauan)
+                         :pb (konsep 2)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (konsep 2)))))
+              :d (merge {:pertanyaan (rand-nth pola)
+                         :pb (konsep 3)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (konsep 3)))))
+              :e (merge {:pertanyaan (rand-nth morfologi)
+                         :pb (konsep 4)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (konsep 4)))))
+              :f (merge {:pertanyaan (rand-nth aglomerasi)
+                         :pb (konsep 5)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (konsep 5)))))
+              :g (merge {:pertanyaan (rand-nth interaksi)
+                         :pb (konsep 6)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (konsep 6)))))
+              :h (merge {:pertanyaan (rand-nth nilai-guna)
+                         :pb (konsep 7)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (konsep 7)))))
+              :i (merge {:pertanyaan (rand-nth difer-area)
+                         :pb (konsep 8)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (konsep 8)))))
+              :j (merge {:pertanyaan (rand-nth keterkaitan)
+                         :pb (konsep 9)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (konsep 9)))))))))
+
+       (repeatedly 50)
+       distinct
+       shuffle
+       (take 26)
+       shuffle))
