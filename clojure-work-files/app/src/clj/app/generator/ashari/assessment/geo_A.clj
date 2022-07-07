@@ -878,3 +878,344 @@
        shuffle
        (take 26)
        shuffle))
+
+(defn komponen-peta-bagian-3-i []
+  (->> (fn []
+         (let [tipe (rand-nth [:a :b :c])
+               soal (rand-nth ["Berikut ini yang merupakan fungsi dari"
+                               "Salah satu fungsi dari"])
+               komponen ["simbol"
+                         "legenda"
+                         "sumber dan tahun pembuatan peta"]
+               pertanyaan-1 (str soal " " (komponen 0) " peta adalah ....")
+               pertanyaan-2 (str soal " " (komponen 1) " peta adalah ....")
+               pertanyaan-3 (str soal " " (komponen 2) " peta adalah ....")
+               correct-answer [["mewakili kenampakan objek yang sebenarnya"
+                                "mewakili kenampakan yang ada di permukaan bumi"
+                                "memberikan tanda mengenai objek yang ingin dipetakan"
+                                "memberikan tanda mengenai informasi yang ingin ditonjolkan pada peta"
+                                "memberikan tanda pada peta untuk mewakili kenampakan yang ada di permukaan bumi"]
+                               ["memberikan keterangan semua simbol yang ada pada peta"
+                                "memberikan informasi penjelasan semua simbol yang ada pada peta agar lebih mudah dipahami"
+                                "memberikan penjelasan mengenai keterangan simbol-simbol yang terdapat pada peta"
+                                "memberikan keterangan lebih lanjut mengenai simbol-simbol yang ada pada peta"
+                                "menjelaskan simbol-simbol yang tercantum pada peta"]
+                               ["memberikan informasi tahun pembuatan peta"
+                                "memberikan informasi mengenai data yang diperoleh dalam pembuatan peta"
+                                "memberikan referensi data yang diperlukan dalam pembuatan peta"
+                                "memberikan informasi tahun peta tersebut dibuat"
+                                "memberikan keterangan mengenai data yang diperlukan dalam pembuatan peta"]]
+               wrong-answer ["memberikan perbedaan objek pada peta"
+                             "membedakan kenampakan suatu objek di permukaan bumi"
+                             "mewakili kenampakan objek yang sebenarnya"
+                             "mewakili kenampakan yang ada di permukaan bumi"
+                             "memberikan tanda pada peta untuk mewakili kenampakan yang ada di permukaan bumi"
+                             "mewakili kenampakan objek yang sebenarnya"
+                             "mewakili kenampakan yang ada di permukaan bumi"
+                             "memberikan informasi tingkatan dengan gradasi"
+                             "memberikan informasi ketinggian dengan ketentuan yang sudah ditetapkan"
+                             "memberikan informasi mengenai perbedaan kenampakan suatu objek"]
+               salah-1 (concat wrong-answer (concat (correct-answer 1) (correct-answer 2)))
+               salah-2 (concat wrong-answer (concat (correct-answer 0) (correct-answer 2)))
+               salah-3 (concat wrong-answer (concat (correct-answer 0) (correct-answer 1)))
+               pbhs-1 ["Simbol peta merupakan salah satu komponen penting dalam peta. Simbol peta bisa disebut juga sebagai tanda pada peta yang berfungsi untuk mewakili kenampakan objek di permukaan bumi yanh sebenarnya pada peta. Kenampakan objek tersebut meliputi kenampakan alami (sungai, danau, gunung, dan sebagainya) dan kenampakan buatan (gedung sekolah, rumah sakit, gedung pemerintah, dan lain-lain)."]
+               pbhs-2 ["Legenda merupakan tabel atau daftar yang menunjukkan kumpulan simbol yang digunakan dalam peta. Kumpulan simbol tersebut biasanya disertai dengan warna dan deskripsi untuk memperjelas maksud dari simbol tersebut."]
+               pbhs-3 ["Sumber peta berfungsi untuk menunjukkan kebenaran atau validitas data yang didasarkan kepada karya ilmiah atau lembaga resmi pembuat peta, misalnya mengenai lembaga penerbit peta seperti Badan Informasi Geospasial (BIG), Badan Geologi. Sumber peta tersebut umumnya disertai oleh pencantuman tahun pembuatan untuk memperlihatkan waktu pembuatan peta dan mengetahui masa kadaluwarsa peta."]]
+         
+         (merge
+          (condp = tipe
+            :a (merge {:pertanyaan pertanyaan-1
+                       :pb (rand-nth (correct-answer 0))
+                       :pembahasan (rand-nth pbhs-1)}
+                      (zipmap [:p1 :p2 :p3] (shuffle salah-1)))
+            :b (merge {:pertanyaan pertanyaan-2
+                       :pb (rand-nth (correct-answer 1))
+                       :pembahasan (rand-nth pbhs-2)}
+                      (zipmap [:p1 :p2 :p3] (shuffle salah-2)))
+            :c (merge {:pertanyaan pertanyaan-3
+                       :pb (rand-nth (correct-answer 2))
+                       :pembahasan (rand-nth pbhs-3)}
+                      (zipmap [:p1 :p2 :p3] (shuffle salah-3)))))))
+  
+  (repeatedly 100)
+  distinct
+  shuffle
+  (take 30)
+  shuffle))
+
+(defn jenis-jenis-peta []
+  (->> (fn []
+         (let [tipe (rand-nth [:a :b])
+               soal (rand-nth ["Manakah di bawah ini yang termasuk ke dalam peta"
+                               "Dari opsi-opsi berikut manakah yang merupakan contoh peta"])
+               jenis [["umum"
+                       "dasar"]
+                      ["tematik"]]
+               soal-1 (str soal " " (rand-nth (jenis 0)) "?")
+               soal-2 (str soal " " (rand-nth (jenis 1)) "?")
+               umum ["Peta Korografi"
+                     "Peta Topografi Sumatra"
+                     "Peta Wilayah"
+                     "Peta Dunia"
+                     "Peta Kontur Indonesia"
+                     "Peta Rupa Bumi Indonesia"]
+               tematik ["Peta Kepadatan Penduduk"
+                        "Peta Tata Guna Lahan"
+                        "Peta Sebaran Lokasi Pertambangan"
+                        "Peta Kawasan Lindung"
+                        "Peta Kawasan Budidaya"
+                        "Peta Curah Hujan"
+                        "Peta Sebaran Fauna Indonesia"]]
+         
+         (merge
+          (condp = tipe
+            :a (merge {:pertanyaan soal-1
+                       :pb (rand-nth umum)}
+                      (zipmap [:p1 :p2 :p3] (shuffle tematik)))
+            :b (merge {:pertanyaan soal-2
+                       :pb (rand-nth tematik)}
+                      (zipmap [:p1 :p2 :p3] (shuffle umum)))))))
+  
+  (repeatedly 100)
+  distinct
+  shuffle
+  (take 38)
+  shuffle))
+
+(defn generalisasi-dan-eksagerasi-peta []
+  (->> (fn []
+         (let [tipe (rand-nth [:a :b])
+               benar [["Eksagerasi adalah proses untuk memilih kenampakan yang penting untuk ditonjolkan dalam peta."
+                       "Eksagerasi dapat diartikan sebagai proses untuk memperjelas suatu objek dalam peta."
+                       "Eksagerasi adalah teknik pembebasan dalam penyajian suatu unsur pada peta yang dihubungkan dengan ukuran sebenarnya dari suatu unsur dalam skala tertentu dari peta."
+                       "Eksagerasi berfungsi untuk menonjolkan fitur-fitur tertentu untuk mempertahankan signifikansinya dalam pengurangan atau pembesaran skala."
+                       "Eksagerasi ini penting untuk dilakukan jika fitur mendetail lainnya seperti bentuk halaman bangunan secara tidak sengaja disederhanakan atau hilang karena perubahan skala."]
+                      ["benar"]]
+               salah [["Eksagerasi diartikan sebagai proses untuk memperbesar skala pada peta."
+                       "Eksagerasi diartikan sebagai proses untuk memperkecil skala pada peta."
+                       "Eksagerasi adalah proses untuk menghilangkan beberapa unsur yang dianggap tidak terlalu penting dalam peta."
+                       "Eksagerasi bukan merupakan bagian atau aspek dari generalisasi, melainkan sesuatu di luar generalisasi."
+                       "Jika terdapat unsur yang terlalu kecil dan sulit untuk disajikan dengan detil yang cukup, maka unsur tersebut perlu disederhanakan dengan metode eksagerasi."]
+                      ["salah"]]]
+         (merge
+          (condp = tipe
+            :a {:pernyataan (rand-nth (benar 0))
+                :pb (rand-nth (benar 1))
+                :p1 (rand-nth (salah 1))}
+            :b {:pernyataan (rand-nth (salah 0))
+                :pb (rand-nth (salah 1))
+                :p1 (rand-nth (benar 1))}))))
+  (repeatedly 50)
+  distinct
+  shuffle
+  (take 10)
+  shuffle))
+
+(defn apa-itu-peta-kontur []
+  (->> (fn []
+         (let [tipe (rand-nth [:1 :2 :3 :4 :5 :6 :7 :8])
+               pengantar (rand-nth ["Perhatikan pernyataan-pernyataan berikut!"
+                                    "Coba perhatikan beberapa opsi di bawah ini!"])
+               soal (rand-nth ["Pernyataan yang sesuai untuk menggambarkan karakteristik garis kontur ditunjukkan oleh nomor …."
+                               "Dari opsi-opsi di atas yang termasuk karakteristik atau aturan penggambaran garis kontur yang tepat adalah nomor ...."])
+               benar ["Berbentuk kurva tertutup"
+                      "Tidak bercabang"
+                      "Tidak saling berpotongan"
+                      "Semakin lebar jarak antara dua kontur semakin datar suatu daerah"
+                      "Semakin rapat jarak antara dua kontur semakin terjal suatu daerah"
+                      "Jika memotong sungai maka akan berbentuk V terbalik dengan arah ke hulu sungai"
+                      "Jika memotong jalan maka akan berbentuk U ke arah lokasi yang lebih rendah"]
+               benar1 (rand-nth benar)
+               benar2 (rand-nth (remove #{benar1} benar))
+               benar3 (rand-nth (remove #{benar1 benar2} benar))
+               salah ["Semakin rapat jarak antargaris kontur semakin tinggi suatu daerah"
+                      "Bercabang"
+                      "Berpotongan"
+                      "Semakin lebar jarak antara dua kontur semakin terjal suatu daerah"
+                      "Semakin rapat jarak antara dua kontur semakin datar suatu daerah"
+                      "Jika memotong sungai maka akan berbentuk U dengan arah ke hulu sungai"
+                      "Jika memotong jalan maka akan berbentuk V terbalik ke arah lokasi yang lebih rendah"]
+               salah1 (rand-nth salah)
+               salah2 (rand-nth (remove #{salah1} salah))
+               salah3 (rand-nth (remove #{salah1 salah2} salah))
+               jawaban ["1 saja"
+                        "2 saja"
+                        "3 saja"
+                        "1 dan 2"
+                        "1 dan 3"
+                        "2 dan 3"
+                        "semuanya"
+                        "tidak ada"]
+               wrong (fn [x] (shuffle (filter #(not (= % x)) jawaban)))]
+         
+         (merge
+          (condp = tipe
+            :1 (merge {:pengantar pengantar
+                       :fakta1 benar1
+                       :fakta2 salah2
+                       :fakta3 salah3
+                       :soal soal
+                       :pb (jawaban 0)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 0)))))
+            :2 (merge {:pengantar pengantar
+                       :fakta1 salah1
+                       :fakta2 benar2
+                       :fakta3 salah3
+                       :soal soal
+                       :pb (jawaban 1)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 1)))))
+            :3 (merge {:pengantar pengantar
+                       :fakta1 salah1
+                       :fakta2 salah2
+                       :fakta3 benar3
+                       :soal soal
+                       :pb (jawaban 2)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 2)))))
+            :4 (merge {:pengantar pengantar
+                       :fakta1 benar1
+                       :fakta2 benar2
+                       :fakta3 salah3
+                       :soal soal
+                       :pb (jawaban 3)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 3)))))
+            :5 (merge {:pengantar pengantar
+                       :fakta1 benar1
+                       :fakta2 salah2
+                       :fakta3 benar3
+                       :soal soal
+                       :pb (jawaban 4)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 4)))))
+            :6 (merge {:pengantar pengantar
+                       :fakta1 salah1
+                       :fakta2 benar2
+                       :fakta3 benar3
+                       :soal soal
+                       :pb (jawaban 5)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 5)))))
+            :7 (merge {:pengantar pengantar
+                       :fakta1 benar1
+                       :fakta2 benar2
+                       :fakta3 benar3
+                       :soal soal
+                       :pb (jawaban 6)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 6)))))
+            :8 (merge {:pengantar pengantar
+                       :fakta1 salah1
+                       :fakta2 salah2
+                       :fakta3 salah3
+                       :soal soal
+                       :pb (jawaban 7)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 7)))))))))
+  
+  (repeatedly 500)
+  distinct
+  shuffle
+  (take 100)
+  shuffle))
+
+(defn menghitung-interval-kontur-pada-peta-kontur []
+  (->> (fn []
+         (let [tipe (rand-nth [:1 :2 :3 :4 :5 :6 :7 :8 :9 :10 :11])
+               nama ["Harist"
+                     "Hana"
+                     "Aura"
+                     "Dian"
+                     "Ashari"
+                     "Iman"
+                     "Yoel"
+                     "Yoga"]
+               peta ["topografi"
+                     "kontur"]
+               jarak-peta [1 2 3 4 5 6 7 8 9 10]
+               jarak-asli-0 (rand-nth (range 1 11))
+               jarak-asli-1 (rand-nth (range 2 11 2))
+               jarak-asli-2 (rand-nth (range 3 11 3))
+               jarak-asli-3 (rand-nth (range 4 13 4))
+               jarak-asli-4 (rand-nth (range 5 16 5))
+               jarak-asli-5 (rand-nth (range 6 19 6))
+               jarak-asli-6 (rand-nth (range 7 22 7))
+               jarak-asli-7 (rand-nth (range 8 25 8))
+               jarak-asli-8 (rand-nth (range 9 28 9))
+               jarak-asli-9 (rand-nth (range 10 31 10))
+               interval (rand-nth (range 50 501 25))
+               pertanyaan-1 (rand-nth ["Berapa interval kontur pada peta tersebut?"
+                                       "Peta tersebut mempunyai interval kontur sebesar ...."])
+               pertanyaan-2 (rand-nth ["Skala pada peta tersebut adalah …."
+                                       "Berapa skala peta tersebut?"])
+               pengantar-2 (str (rand-nth nama) " mempunyai sebuah peta yang interval konturnya sebesar " interval " m.")]
+         
+         (merge
+          (condp = tipe
+            :1 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 0) " cm pada peta mewakili " jarak-asli-0 " km.")
+                :pertanyaan pertanyaan-1
+                :pb (str (float (/ (/ (* jarak-asli-0 1000) (jarak-peta 0)) 2000)) " meter")
+                :p1 (str (float (/ (/ (* jarak-asli-0 1000) (jarak-peta 0)) 1000)) " meter")
+                :p2 (str (float (/ (/ (* jarak-asli-0 1000) (jarak-peta 0)) 500)) " meter")
+                :p3 (str (float (* (/ (/ (* jarak-asli-0 1000) (jarak-peta 0)) 2000) 3)) " meter")}
+            :2 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 1) " cm pada peta mewakili " jarak-asli-1 " km.")
+                :pertanyaan pertanyaan-1
+                :pb (str (float (/ (/ (* jarak-asli-1 1000) (jarak-peta 1)) 2000)) " meter")
+                :p1 (str (float (/ (/ (* jarak-asli-1 1000) (jarak-peta 1)) 1000)) " meter")
+                :p2 (str (float (/ (/ (* jarak-asli-1 1000) (jarak-peta 1)) 500)) " meter")
+                :p3 (str (float (* (/ (/ (* jarak-asli-1 1000) (jarak-peta 1)) 2000) 3)) " meter")}
+            :3 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 2) " cm pada peta mewakili " jarak-asli-2 " km.")
+                :pertanyaan pertanyaan-1
+                :pb (str (float (/ (/ (* jarak-asli-2 1000) (jarak-peta 2)) 2000)) " meter")
+                :p1 (str (float (/ (/ (* jarak-asli-2 1000) (jarak-peta 2)) 1000)) " meter")
+                :p2 (str (float (/ (/ (* jarak-asli-2 1000) (jarak-peta 2)) 500)) " meter")
+                :p3 (str (float (* (/ (/ (* jarak-asli-2 1000) (jarak-peta 2)) 2000) 3)) " meter")}
+            :4 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 3) " cm pada peta mewakili " jarak-asli-3 " km.")
+                :pertanyaan pertanyaan-1
+                :pb (str (float (/ (/ (* jarak-asli-3 1000) (jarak-peta 3)) 2000)) " meter")
+                :p1 (str (float (/ (/ (* jarak-asli-3 1000) (jarak-peta 3)) 1000)) " meter")
+                :p2 (str (float (/ (/ (* jarak-asli-3 1000) (jarak-peta 3)) 500)) " meter")
+                :p3 (str (float (* (/ (/ (* jarak-asli-3 1000) (jarak-peta 3)) 2000) 3)) " meter")}
+            :5 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 4) " cm pada peta mewakili " jarak-asli-4 " km.")
+                :pertanyaan pertanyaan-1
+                :pb (str (float (/ (/ (* jarak-asli-4 1000) (jarak-peta 4)) 2000)) " meter")
+                :p1 (str (float (/ (/ (* jarak-asli-4 1000) (jarak-peta 4)) 1000)) " meter")
+                :p2 (str (float (/ (/ (* jarak-asli-4 1000) (jarak-peta 4)) 500)) " meter")
+                :p3 (str (float (* (/ (/ (* jarak-asli-4 1000) (jarak-peta 4)) 2000) 3)) " meter")}
+            :6 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 5) " cm pada peta mewakili " jarak-asli-5 " km.")
+                :pertanyaan pertanyaan-1
+                :pb (str (float (/ (/ (* jarak-asli-5 1000) (jarak-peta 5)) 2000)) " meter")
+                :p1 (str (float (/ (/ (* jarak-asli-5 1000) (jarak-peta 5)) 1000)) " meter")
+                :p2 (str (float (/ (/ (* jarak-asli-5 1000) (jarak-peta 5)) 500)) " meter")
+                :p3 (str (float (* (/ (/ (* jarak-asli-5 1000) (jarak-peta 5)) 2000) 3)) " meter")}
+            :7 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 6) " cm pada peta mewakili " jarak-asli-6 " km.")
+                :pertanyaan pertanyaan-1
+                :pb (str (float (/ (/ (* jarak-asli-6 1000) (jarak-peta 6)) 2000)) " meter")
+                :p1 (str (float (/ (/ (* jarak-asli-6 1000) (jarak-peta 6)) 1000)) " meter")
+                :p2 (str (float (/ (/ (* jarak-asli-6 1000) (jarak-peta 6)) 500)) " meter")
+                :p3 (str (float (* (/ (/ (* jarak-asli-6 1000) (jarak-peta 6)) 2000) 3)) " meter")}
+            :8 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 7) " cm pada peta mewakili " jarak-asli-7 " km.")
+                :pertanyaan pertanyaan-1
+                :pb (str (float (/ (/ (* jarak-asli-7 1000) (jarak-peta 7)) 2000)) " meter")
+                :p1 (str (float (/ (/ (* jarak-asli-7 1000) (jarak-peta 7)) 1000)) " meter")
+                :p2 (str (float (/ (/ (* jarak-asli-7 1000) (jarak-peta 7)) 500)) " meter")
+                :p3 (str (float (* (/ (/ (* jarak-asli-7 1000) (jarak-peta 7)) 2000) 3)) " meter")}
+            :9 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 8) " cm pada peta mewakili " jarak-asli-8 " km.")
+                :pertanyaan pertanyaan-1
+                :pb (str (float (/ (/ (* jarak-asli-8 1000) (jarak-peta 8)) 2000)) " meter")
+                :p1 (str (float (/ (/ (* jarak-asli-8 1000) (jarak-peta 8)) 1000)) " meter")
+                :p2 (str (float (/ (/ (* jarak-asli-8 1000) (jarak-peta 8)) 500)) " meter")
+                :p3 (str (float (* (/ (/ (* jarak-asli-8 1000) (jarak-peta 8)) 2000) 3)) " meter")}
+            :10 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 9) " cm pada peta mewakili " jarak-asli-9 " km.")
+                :pertanyaan pertanyaan-1
+                :pb (str (float (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 2000)) " meter")
+                :p1 (str (float (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 1000)) " meter")
+                :p2 (str (float (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 500)) " meter")
+                :p3 (str (float (* (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 2000) 3)) " meter")}
+            :11 {:pengantar pengantar-2
+                :pertanyaan pertanyaan-2
+                :pb (/ 1 (* interval 2000))
+                :p1 (* (/ 1 (* interval 2000)) 2)
+                :p2 (* (/ 1 (* interval 2000)) 10)
+                :p3 (* (/ 1 (* interval 2000)) 20)}))))
+  (repeatedly 2000)
+  distinct
+  shuffle
+  (take 200)
+  shuffle))
+
+
