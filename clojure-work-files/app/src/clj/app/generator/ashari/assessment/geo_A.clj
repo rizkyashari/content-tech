@@ -1208,10 +1208,10 @@
                 :p3 (str (float (* (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 2000) 3)) " meter")}
             :11 {:pengantar pengantar-2
                 :pertanyaan pertanyaan-2
-                :pb (/ 1 (* interval 2000))
-                :p1 (* (/ 1 (* interval 2000)) 2)
-                :p2 (* (/ 1 (* interval 2000)) 10)
-                :p3 (* (/ 1 (* interval 2000)) 20)}))))
+                :pb (str "1:" (* interval 2000))
+                :p1 (str "1:" (/ (* interval 2000) 2))
+                :p2 (str "1:" (/ (* interval 2000) 10))
+                :p3 (str "1:" (/ (* interval 2000) 20))}))))
   (repeatedly 2000)
   distinct
   shuffle
