@@ -1219,3 +1219,565 @@
   shuffle))
 
 
+(defn macam-citra-foto-berdasarkan-spektrum []
+  (->> (fn []
+         (let [tipe (rand-nth [:a :b :c :d])
+               pertanyaan (rand-nth ["Pernyataan tersebut merupakan ciri-ciri dari citra foto ...."
+                                     "Ciri-ciri di atas merupakan karakteristik dari citra foto ...."])
+               pankromatik (rand-nth ["Merekam seluruh spektrum cahaya tampak sehingga objek yang terekam sesuai dengan kepekaan mata manusia."
+                                      "Citra foto yang merekam seluruh cahaya tampak."
+                                      "Objek yang terekam pada citra ini sesuai dengan kepekaan mata."
+                                      "Panjang gelombang yang dihasilkan sekitar 0,4-0,7 mikrometer."
+                                      "Cocok untuk perencanaan wilayah dan kota."
+                                      "Warna kenampakan objek menyerupai warna aslinya."
+                                      "Identifikasi penggunaan lahan akan lebih mudah"])
+               ortokromatik (rand-nth ["Cahaya tampak yang didominasi oleh warna biru dan hijau."
+                                       "Memiliki panjang gelombang 0,4-0,56 mikrometer."
+                                       "Cocok digunakan untuk studi pantai."
+                                       "Cocok digunakan untuk survey vegetasi."
+                                       "Cocok digunakan untuk studi sungai."
+                                       "Cocok digunakan untuk studi hidrologi."])
+               ultraviolet (rand-nth ["Didominasi oleh spektrum ungu."
+                                      "Memiliki panjang gelombang 0,2-0,4 mikrometer."
+                                      "Biasanya digunakan untuk mendeteksi tumpahan minyak."
+                                      "Cocok digunakan untuk melihat jaringan jalan."])
+               inframerah (rand-nth ["Didominasi oleh spektrum merah."
+                                     "Memiliki panjang gelombang 0,7-0,9 mikrometer."
+                                     "Bagus untuk mendeteksi tanaman sehat dan sakit."
+                                     "Mendeteksi terumbu karang yang sehat dan sakit."])
+               jawaban ["pankromatik"
+                        "ortokromatik"
+                        "ultraviolet"
+                        "inframerah"]
+               salah (fn [x] (shuffle (filter #(not (= % x)) jawaban)))]
+         
+         (merge
+          (condp = tipe
+            :a (merge
+                {:pengantar pankromatik
+                 :pertanyaan pertanyaan
+                 :pb (jawaban 0)}
+                (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+            :b (merge
+                {:pengantar ortokromatik
+                 :pertanyaan pertanyaan
+                 :pb (jawaban 1)}
+                (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+            :c (merge
+                {:pengantar ultraviolet
+                 :pertanyaan pertanyaan
+                 :pb (jawaban 2)}
+                (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+            :d (merge
+                {:pengantar inframerah
+                 :pertanyaan pertanyaan
+                 :pb (jawaban 3)}
+                (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))))))
+  
+  (repeatedly 100)
+  shuffle
+  distinct
+  (take 40)
+  shuffle))
+
+(defn macam-citra-foto-berdasarkan-jenis-kamera-dan-warna-yang-dihasilkan []
+  (->> (fn []
+         (let [tipe (rand-nth [:a :b :c :d :e :f :g :h])
+               pengantar (rand-nth ["Perhatikan pernyataan-pernyataan berikut!"
+                                    "Coba perhatikan beberapa opsi di bawah ini!"])
+               pertanyaan (rand-nth ["Berikut ini yang merupakan ciri-ciri citra foto"
+                                     "Pernyataan di bawah ini yang merupakan ciri-ciri citra foto"])
+               jenis ["<i>true colour</i>" "<i>false colour</i>"]
+               soal-1 (str pertanyaan " " (jenis 0) " adalah ....")
+               soal-2 (str pertanyaan " " (jenis 1) " adalah ....")
+               truec ["Warna objek yang dihasilkan sama seperti warna aslinya."
+                     "Biasanya menggunakan pankromatik berwarna."]
+               truec1 (rand-nth truec)
+               truec2 (rand-nth (remove #{truec1} truec))
+               falsec ["Foto berwarna semu."
+                      "Warna objek pada foto tidak sama seperti warna aslinya."
+                      "Biasanya menggunakan inframerah berwarna."
+                      "Menggunakan setidaknya satu panjang gelombang <i>non visible</i>."]
+               falsec1 (rand-nth falsec)
+               falsec2 (rand-nth (remove #{falsec1} falsec))
+               jawaban ["1 saja"
+                        "2 saja"
+                        "semuanya"
+                        "tidak ada"]
+               salah (fn [x] (shuffle (filter #(not (= % x)) jawaban)))]
+         
+         (merge
+          (condp = tipe
+            :a (merge {:pengantar pengantar
+                       :fakta1 truec1
+                       :fakta2 falsec2
+                       :soal soal-1
+                       :pb (jawaban 0)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+            :b (merge {:pengantar pengantar
+                       :fakta1 falsec1
+                       :fakta2 truec2
+                       :soal soal-1
+                       :pb (jawaban 1)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+            :c (merge {:pengantar pengantar
+                       :fakta1 truec1
+                       :fakta2 truec2
+                       :soal soal-1
+                       :pb (jawaban 2)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+            :d (merge {:pengantar pengantar
+                       :fakta1 falsec1
+                       :fakta2 falsec2
+                       :soal soal-1
+                       :pb (jawaban 3)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))
+            :e (merge {:pengantar pengantar
+                       :fakta1 falsec1
+                       :fakta2 truec2
+                       :soal soal-2
+                       :pb (jawaban 0)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+            :f (merge {:pengantar pengantar
+                       :fakta1 truec1
+                       :fakta2 falsec2
+                       :soal soal-2
+                       :pb (jawaban 1)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+            :g (merge {:pengantar pengantar
+                       :fakta1 falsec1
+                       :fakta2 falsec2
+                       :soal soal-2
+                       :pb (jawaban 2)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+            :h (merge {:pengantar pengantar
+                       :fakta1 truec1
+                       :fakta2 truec2
+                       :soal soal-2
+                       :pb (jawaban 3)}
+                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))))))
+  
+  (repeatedly 300)
+  shuffle
+  distinct
+  (take 100)
+  shuffle))
+
+(defn memahami-konsep-citra-nonfoto-1 []
+  (->> (fn []
+         (let [tipe (rand-nth [:a :b])
+               soal [["Berikut ini yang termasuk pengertian dari citra nonfoto adalah ...."
+                      "Di bawah ini yang termasuk pengertian dari citra nonfoto adalah ...."
+                      "Yang termasuk definisi dari citra nonfoto adalah ...."
+                      "Pengertian dari citra nonfoto adalah ...."
+                      "Citra nonfoto adalah ...."]
+                     ["Berikut ini yang <b>bukan</b> termasuk pengertian dari citra nonfoto adalah ...."
+                      "Di bawah ini yang <b>bukan</b> termasuk pengertian dari citra nonfoto adalah ...."
+                      "Yang termasuk definisi dari citra nonfoto adalah berikut ini, <b>kecuali</b>...."
+                      "Pengertian dari citra nonfoto adalah berikut ini, <b>kecuali</b> ...."
+                      "Definisi dari citra nonfoto adalah berikut ini, <b>kecuali</b> ...."]]
+               answer [["citra hasil pengindraan jauh yang dihasilkan oleh sensor nonfotografi"
+                        "citra hasil pengindraan jauh yang dihasilkan oleh sensor selain kamera"
+                        "citra yang dihasilkan oleh sensor nonfotografi dengan menggunakan sensor <i>scanning</i>"
+                        "citra yang dihasilkan oleh sensor nonfotografi dengan menggunakan detektor pita magnetik"
+                        "citra yang dihasilkan oleh sensor nonfotografi yang proses perekamannya dilakukan secara elektronik"]
+                       ["citra hasil pengindraan jauh yang dihasilkan oleh sensor fotografi"
+                        "citra hasil pengindraan jauh yang dihasilkan oleh sensor kamera"
+                        "citra yang dihasilkan oleh sensor nonfotografi dengan menggunakan sensor kamera"
+                        "citra yang dihasilkan oleh sensor nonfotografi dengan menggunakan detektor film"
+                        "citra yang dihasilkan oleh sensor nonfotografi yang proses perekamannya dilakukan secara kimiawi"]]]
+         (merge
+          (condp = tipe
+            :a (merge {:soal (rand-nth (soal 0))
+                       :pb (rand-nth (answer 0))}
+                      (zipmap [:p1 :p2 :p3] (shuffle (answer 1))))
+            :b (merge {:soal (rand-nth (soal 1))
+                       :pb (rand-nth (answer 1))}
+                      (zipmap [:p1 :p2 :p3] (shuffle (answer 0))))))))
+  
+  (repeatedly 100)
+  distinct
+  shuffle
+  (take 50)
+  shuffle))
+
+(defn memahami-konsep-citra-nonfoto-2 []
+  (->> (fn []
+         (let [tipe (rand-nth [:a :b :c :d :e :f :g :h])
+               pengantar (rand-nth ["Perhatikan pernyataan-pernyataan berikut!"
+                                    "Coba perhatikan beberapa opsi di bawah ini!"])
+               soal (rand-nth ["Dari beberapa opsi di atas yang termasuk ciri-ciri citra nonfoto adalah ...."
+                               "Ciri-ciri citra nonfoto ditunjukkan oleh nomor ...."])
+               nonfoto ["Menggunakan sensor <i>scanning</i>."
+                        "Menggunakan detektor pita magnetik."
+                        "Proses perekaman secara elektronik."
+                        "Salah satu contohnya adalah citra dirgantara."
+                        "Salah satu contohnya adalah citra satelit."
+                        "Salah satu contohnya adalah citra multispektral."]
+               nonfoto1 (rand-nth nonfoto)
+               nonfoto2 (rand-nth (remove #{nonfoto1} nonfoto))
+               nonfoto3 (rand-nth (remove #{nonfoto1 nonfoto2} nonfoto))
+               foto ["Menggunakan sensor kamera."
+                     "Menggunakan detektor film."
+                     "Proses perekaman secara kimiawi."
+                     "Salah satu contohnya adalah citra pankromatik."
+                     "Salah satu contohnya adalah citra ultraviolet."
+                     "Salah satu contohnya adalah citra ortokromatik."
+                     "Salah satu contohnya adalah citra inframerah."]
+               foto1 (rand-nth foto)
+               foto2 (rand-nth (remove #{foto1} foto))
+               foto3 (rand-nth (remove #{foto1 foto2} foto))
+               jawaban ["1 saja"
+                        "2 saja"
+                        "3 saja"
+                        "1 dan 2"
+                        "1 dan 3"
+                        "2 dan 3"
+                        "semuanya"
+                        "tidak ada"]
+               salah (fn [x] (shuffle (filter #(not (= % x)) jawaban)))]
+
+           (merge
+            (condp = tipe
+              :a (merge {:pengantar pengantar
+                         :fakta1 nonfoto1
+                         :fakta2 foto1
+                         :fakta3 foto2
+                         :soal soal
+                         :pb (jawaban 0)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+              :b (merge {:pengantar pengantar
+                         :fakta1 foto1
+                         :fakta2 nonfoto2
+                         :fakta3 foto3
+                         :soal soal
+                         :pb (jawaban 1)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+              :c (merge {:pengantar pengantar
+                         :fakta1 foto1
+                         :fakta2 foto2
+                         :fakta3 nonfoto3
+                         :soal soal
+                         :pb (jawaban 2)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+              :d (merge {:pengantar pengantar
+                         :fakta1 nonfoto1
+                         :fakta2 nonfoto2
+                         :fakta3 foto3
+                         :soal soal
+                         :pb (jawaban 3)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))
+              :e (merge {:pengantar pengantar
+                         :fakta1 nonfoto1
+                         :fakta2 foto2
+                         :fakta3 nonfoto3
+                         :soal soal
+                         :pb (jawaban 4)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 4)))))
+              :f (merge {:pengantar pengantar
+                         :fakta1 foto1
+                         :fakta2 nonfoto2
+                         :fakta3 nonfoto3
+                         :soal soal
+                         :pb (jawaban 5)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 5)))))
+              :g (merge {:pengantar pengantar
+                         :fakta1 nonfoto1
+                         :fakta2 nonfoto2
+                         :fakta3 nonfoto3
+                         :soal soal
+                         :pb (jawaban 6)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 6)))))
+              :h (merge {:pengantar pengantar
+                         :fakta1 foto1
+                         :fakta2 foto2
+                         :fakta3 foto3
+                         :soal soal
+                         :pb (jawaban 7)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 7)))))))))
+
+       (repeatedly 300)
+       shuffle
+       distinct
+       (take 100)
+       shuffle))
+
+(defn apa-itu-interpretasi-citra []
+  (->> (fn []
+         (let [tipe (rand-nth [:a :b :c :d :e :f :g :h])
+               pengantar (rand-nth ["Perhatikan pernyataan-pernyataan berikut!"
+                                    "Coba perhatikan beberapa opsi di bawah ini!"])
+               soal (rand-nth ["Manakah di antara kegiatan di atas yang termasuk dalam kegiatan interpretasi citra?"
+                               "Dari opsi-opsi di atas kegiatan interpretasi citra ditunjukkan oleh nomor ...."])
+               noncitra ["Seorang petani menggunakan perencanaan lokasi irigasi sebelum membangun irigasinya."
+                         "Seorang ahli geologi membawa peta geologi sebagai referensi kegiatan pemetaan jenis batuan."
+                         "Tim konstruksi membandingkan antara peta jenis tanah dan keadaan lahan bangunan di lapangan."
+                         "Penentuan lokasi tambang potensial dengan bantuan peta geologi."]
+               noncitra1 (rand-nth noncitra)
+               noncitra2 (rand-nth (remove #{noncitra1} noncitra))
+               noncitra3 (rand-nth (remove #{noncitra1 noncitra2} noncitra))
+               citra ["Tim konstruksi membandingkan antara hasil foto udara dan keadaan lahan bangunan di lapangan."
+                      "Seorang pengemudi ojek <i>online</i> menggunakan Google Maps untuk sampai ke lokasi pelanggannya."
+                      "Tim mitigasi bencana gunung api menentukan zona rawan gunung api berdasarkan citra kawasan terdampak pada saat letusan gunung api."
+                      "Penentuan lokasi tambang potensial dengan bantuan citra satelit."
+                      "Seorang ahli geologi mengolah data hasil citra satelit untuk mendeteksi titik-titik anomali yang diperkirakan sebagai manifestasi panas bumi."]
+               citra1 (rand-nth citra)
+               citra2 (rand-nth (remove #{citra1} citra))
+               citra3 (rand-nth (remove #{citra1 citra2} citra))
+               jawaban ["1 saja"
+                        "2 saja"
+                        "3 saja"
+                        "1 dan 2"
+                        "1 dan 3"
+                        "2 dan 3"
+                        "semuanya"
+                        "tidak ada"]
+               salah (fn [x] (shuffle (filter #(not (= % x)) jawaban)))]
+
+           (merge
+            (condp = tipe
+              :a (merge {:pengantar pengantar
+                         :fakta1 noncitra1
+                         :fakta2 citra1
+                         :fakta3 citra2
+                         :soal soal
+                         :pb (jawaban 5)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 5)))))
+              :b (merge {:pengantar pengantar
+                         :fakta1 citra1
+                         :fakta2 noncitra2
+                         :fakta3 citra3
+                         :soal soal
+                         :pb (jawaban 4)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 4)))))
+              :c (merge {:pengantar pengantar
+                         :fakta1 citra1
+                         :fakta2 citra2
+                         :fakta3 noncitra3
+                         :soal soal
+                         :pb (jawaban 3)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))
+              :d (merge {:pengantar pengantar
+                         :fakta1 noncitra1
+                         :fakta2 noncitra2
+                         :fakta3 citra3
+                         :soal soal
+                         :pb (jawaban 2)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+              :e (merge {:pengantar pengantar
+                         :fakta1 noncitra1
+                         :fakta2 citra2
+                         :fakta3 noncitra3
+                         :soal soal
+                         :pb (jawaban 1)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+              :f (merge {:pengantar pengantar
+                         :fakta1 citra1
+                         :fakta2 noncitra2
+                         :fakta3 noncitra3
+                         :soal soal
+                         :pb (jawaban 0)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+              :g (merge {:pengantar pengantar
+                         :fakta1 noncitra1
+                         :fakta2 noncitra2
+                         :fakta3 noncitra3
+                         :soal soal
+                         :pb (jawaban 7)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 7)))))
+              :h (merge {:pengantar pengantar
+                         :fakta1 citra1
+                         :fakta2 citra2
+                         :fakta3 citra3
+                         :soal soal
+                         :pb (jawaban 6)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 6)))))))))
+
+       (repeatedly 300)
+       shuffle
+       distinct
+       (take 100)
+       shuffle))
+
+(defn unsur-interpretasi-citra-bagian-1-2 []
+  (->> (fn []
+         (let [tipe (rand-nth [:a :b :c :d :e :f :g :h])
+               pengantar (rand-nth ["Perhatikan pernyataan-pernyataan berikut!"
+                                    "Coba perhatikan beberapa opsi di bawah ini!"])
+               soal (rand-nth ["Faktor-faktor yang memengaruhi rona ditunjukkan oleh nomor …."
+                               "Di antara opsi-opsi di atas yang termasuk faktor yang memengaruhi rona adalah ...."])
+               noncitra ["Proses pengolahan data"
+                         "Ukuran objek"
+                         "Bentuk objek"
+                         "Susunan spasial objek"
+                         "Asosiasi objek dengan objek lainnya"]
+               noncitra1 (rand-nth noncitra)
+               noncitra2 (rand-nth (remove #{noncitra1} noncitra))
+               noncitra3 (rand-nth (remove #{noncitra1 noncitra2} noncitra))
+               citra ["Karakteristik objek"
+                      "Tekstur objek"
+                      "Kandungan air pada objek"
+                      "Cuaca"
+                      "Waktu pemotretan"]
+               citra1 (rand-nth citra)
+               citra2 (rand-nth (remove #{citra1} citra))
+               citra3 (rand-nth (remove #{citra1 citra2} citra))
+               jawaban ["1 saja"
+                        "2 saja"
+                        "3 saja"
+                        "1 dan 2"
+                        "1 dan 3"
+                        "2 dan 3"
+                        "semuanya"
+                        "tidak ada"]
+               salah (fn [x] (shuffle (filter #(not (= % x)) jawaban)))]
+
+           (merge
+            (condp = tipe
+              :a (merge {:pengantar pengantar
+                         :fakta1 noncitra1
+                         :fakta2 citra1
+                         :fakta3 citra2
+                         :soal soal
+                         :pb (jawaban 5)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 5)))))
+              :b (merge {:pengantar pengantar
+                         :fakta1 citra1
+                         :fakta2 noncitra2
+                         :fakta3 citra3
+                         :soal soal
+                         :pb (jawaban 4)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 4)))))
+              :c (merge {:pengantar pengantar
+                         :fakta1 citra1
+                         :fakta2 citra2
+                         :fakta3 noncitra3
+                         :soal soal
+                         :pb (jawaban 3)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))
+              :d (merge {:pengantar pengantar
+                         :fakta1 noncitra1
+                         :fakta2 noncitra2
+                         :fakta3 citra3
+                         :soal soal
+                         :pb (jawaban 2)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+              :e (merge {:pengantar pengantar
+                         :fakta1 noncitra1
+                         :fakta2 citra2
+                         :fakta3 noncitra3
+                         :soal soal
+                         :pb (jawaban 1)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+              :f (merge {:pengantar pengantar
+                         :fakta1 citra1
+                         :fakta2 noncitra2
+                         :fakta3 noncitra3
+                         :soal soal
+                         :pb (jawaban 0)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+              :g (merge {:pengantar pengantar
+                         :fakta1 noncitra1
+                         :fakta2 noncitra2
+                         :fakta3 noncitra3
+                         :soal soal
+                         :pb (jawaban 7)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 7)))))
+              :h (merge {:pengantar pengantar
+                         :fakta1 citra1
+                         :fakta2 citra2
+                         :fakta3 citra3
+                         :soal soal
+                         :pb (jawaban 6)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 6)))))))))
+
+       (repeatedly 300)
+       shuffle
+       distinct
+       (take 100)
+       shuffle))
+
+(defn unsur-interpretasi-citra-bagian-1-1 []
+  (->> (fn []
+         (let [role (rand-nth ["seorang geografer"
+                               "seorang ahli geografi"
+                               "seorang ahli geologi"
+                               "seorang <i>geologist</i>"
+                               "seorang surveyor"
+                               "seorang ahli indraja"
+                               "seorang ahli <i>remote sensing</i>"])
+               objek (rand-nth ["pohon palem"
+                                "pohon kelapa"
+                                "jalan raya"
+                                "sawah"
+                                "permukiman"
+                                "sungai"
+                                "danau"])
+               kenampakan (condp = objek
+                            "pohon palem" (rand-nth ["tajuknya yang seperti bintang"])
+                            "pohon kelapa" (rand-nth ["tajuknya yang runcing"])
+                            "jalan raya" (rand-nth ["tingkat kecerahannya yang terang"
+                                                    "rangkaiannya yang memanjang"
+                                                    "panjangnya yang seragam"
+                                                    "lebarnya yang seragam"
+                                                    "tingkat kekasarannya yang halus"
+                                                    "kenampakannya yang terbelah oleh jembatan"
+                                                    "keberadaan gedung-gedung di sekitarnya"])
+                            "sawah" (rand-nth ["tingkat kecerahannya yang berubah-ubah"
+                                               "rangkaiannya yang mengelompok"
+                                               "tingkat kekasarannya yang halus"])
+                            "permukiman" (rand-nth ["rangkaiannya yang memusat"
+                                                    "rangkaiannya yang mengikuti sungai"
+                                                    "rangkaiannya yang mengikuti jalan"
+                                                    "rangkaiannya yang terisolasi"
+                                                    "tingkat kekasarannya yang halus"
+                                                    "tingkat kecerahannya yang terang"])
+                            "sungai" (rand-nth ["tingkat kecerahannya yang terang"
+                                                "tingkat kecerahannya yang gelap"
+                                                "susunannya yang tidak teratur"
+                                                "susunannya yang teranyam"
+                                                "susunannya yang berkelok-kelok"
+                                                "tingkat kekasarannya yang halus"])
+                            "danau" (rand-nth ["tingkat kekasarannya yang halus"
+                                               "susunannya yang tidak teratur"
+                                               "tingkat kecerahannya yang gelap"]))
+              correct-answer (condp = kenampakan
+                               "tajuknya yang seperti bintang" "bentuk"
+                               "tajuknya yang runcing" "bentuk"
+                               "tingkat kecerahannya yang terang" "rona"
+                               "tingkat kecerahannya yang berubah-ubah" "rona"
+                               "tingkat kecerahannya yang gelap" "rona"
+                               "rangkaiannya yang mengelompok" "pola"
+                               "rangkaiannya yang memanjang" "pola"
+                               "rangkaiannya yang memusat" "pola"
+                               "rangkaiannya yang mengikuti sungai" "pola"
+                               "rangkaiannya yang mengikuti jalan" "pola"
+                               "rangkaiannya yang terisolasi" "pola"
+                               "susunannya yang tidak teratur" "pola"
+                               "susunannya yang teranyam" "pola"
+                               "susunannya yang berkelok-kelok" "pola"
+                               "panjangnya yang seragam" "ukuran"
+                               "lebarnya yang seragam" "ukuran"
+                               "tingkat kekasarannya yang halus" "tekstur"
+                               "kenampakannya yang terbelah oleh jembatan" "asosiasi"
+                               "keberadaan gedung-gedung di sekitarnya" "situs")
+              unsur ["bentuk"
+                     "rona"
+                     "pola"
+                     "ukuran"
+                     "tekstur"
+                     "asosiasi"
+                     "situs"]
+              salah (fn [x] (shuffle (filter #(not (= % x)) unsur)))]
+         
+         (merge {:role role
+                 :objek objek
+                 :kenampakan kenampakan
+                 :pb correct-answer}
+                (zipmap [:p1 :p2 :p3] (shuffle (salah correct-answer))))))
+  
+  (repeatedly 300)
+  distinct
+  shuffle
+  (take 162)
+  shuffle))
