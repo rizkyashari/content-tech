@@ -5,7 +5,8 @@
             [app.generator.ashari.ips.smp_09.sejarah]
             [app.generator.ashari.geography.geo_ch_fb]
             [app.generator.ashari.geography.geo_ch_gb]
-            [app.generator.ashari.geography.geo_ch_gc]))
+            [app.generator.ashari.geography.geo_ch_gc]
+            [app.generator.ashari.assessment.geo_A]))
 
 (def register
   [;;  {:folder "templates/piloting"
@@ -420,7 +421,127 @@
   ;;   :file   "geo_GC_langkah-interpretasi-citra-1a.html"
   ;;   :topic  :geo
   ;;   :gen-fn app.generator.ashari.geography.geo_ch_gc/langkah-interpretasi-citra-1a}
-   {:folder "templates/geography/UTBK_F"
-    :file   "geo_FB_proyeksi-peta-7.html"
+  ;;  {:folder "templates/geography/UTBK_F"
+  ;;   :file   "geo_FB_proyeksi-peta-7.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.geography.geo_ch_fb/proyeksi-peta-7} 
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AA_pentingnya-berpikir-spasial.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/pentingnya-berpikir-spasial}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AB_mengapa-perlu-belajar-geografi.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/mengapa-perlu-belajar-geografi}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AC_ruang-lingkup-geografi-1.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/ruang-lingkup-geografi-1}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AC_aspek-geografi-1.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/aspek-geografi-1}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AC_objek-material-geografi-1.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/objek-material-geografi-1}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AC_objek-material-geografi-2.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/objek-material-geografi-2}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AC_objek-material-geografi-3.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/objek-material-geografi-3}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AC_aspek-geografi-2.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/aspek-geografi-2}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AD_konsep-geografi-bagian-1.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/konsep-geografi-bagian-1}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AD_pendekatan-geografi-1.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/pendekatan-geografi-1}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AD_pendekatan-geografi-2.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/pendekatan-geografi-2}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AD_konsep-geografi-bagian-2.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/konsep-geografi-bagian-2}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AE_komponen-peta-bagian-3-i.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/komponen-peta-bagian-3-i}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AE_jenis-jenis-peta.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/jenis-jenis-peta} 
+  ;;  {:folder "templates/assessment/sma_10" 
+  ;;   :file   "geo_AF_generalisasi-dan-eksagerasi-peta.html" 
+  ;;   :topic  :geo 
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/generalisasi-dan-eksagerasi-peta}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AG_apa-itu-peta-kontur.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/apa-itu-peta-kontur}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AG_menghitung-interval-kontur-pada-peta-kontur.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/menghitung-interval-kontur-pada-peta-kontur}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AH_macam-citra-foto-berdasarkan-spektrum.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/macam-citra-foto-berdasarkan-spektrum} 
+  ;;  {:folder "templates/assessment/sma_10" 
+  ;;   :file   "geo_AH_macam-citra-foto-berdasarkan-jenis-kamera-dan-warna-yang-dihasilkan.html" 
+  ;;   :topic  :geo 
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/macam-citra-foto-berdasarkan-jenis-kamera-dan-warna-yang-dihasilkan}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AH_memahami-konsep-citra-nonfoto-1.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/memahami-konsep-citra-nonfoto-1}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AH_memahami-konsep-citra-nonfoto-2.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/memahami-konsep-citra-nonfoto-2}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AI_apa-itu-interpretasi-citra.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/apa-itu-interpretasi-citra}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AI_unsur-interpretasi-citra-bagian-1-2.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/unsur-interpretasi-citra-bagian-1-2}
+  ;;  {:folder "templates/assessment/sma_10"
+  ;;   :file   "geo_AI_unsur-interpretasi-citra-bagian-1-1.html"
+  ;;   :topic  :geo
+  ;;   :gen-fn app.generator.ashari.assessment.geo_A/unsur-interpretasi-citra-bagian-1-1}
+   {:folder "templates/assessment/sma_10"
+    :file   "geo_AI_unsur-interpretasi-citra-bagian-3-1.html"
     :topic  :geo
-    :gen-fn app.generator.ashari.geography.geo_ch_fb/proyeksi-peta-7}])
+    :gen-fn app.generator.ashari.assessment.geo_A/unsur-interpretasi-citra-bagian-3-1}
+   {:folder "templates/assessment/sma_10"
+    :file   "geo_AI_contoh-interpretasi-citra-berdasarkan-unsur.html"
+    :topic  :geo
+    :gen-fn app.generator.ashari.assessment.geo_A/contoh-interpretasi-citra-berdasarkan-unsur}
+   {:folder "templates/assessment/sma_10"
+    :file   "geo_AI_langkah-interpretasi-citra-1.html"
+    :topic  :geo
+    :gen-fn app.generator.ashari.assessment.geo_A/langkah-interpretasi-citra-1}
+   {:folder "templates/assessment/sma_10"
+    :file   "geo_AI_langkah-interpretasi-citra-2.html"
+    :topic  :geo
+    :gen-fn app.generator.ashari.assessment.geo_A/langkah-interpretasi-citra-2}
+   {:folder "templates/assessment/sma_10"
+    :file   "geo_AI_penentuan-skala-foto-udara.html"
+    :topic  :geo
+    :gen-fn app.generator.ashari.assessment.geo_A/penentuan-skala-foto-udara}
+   {:folder "templates/assessment/sma_10"
+    :file   "geo_AI_meninjau-ulang-keterampilan-pengindraan-jauh.html"
+    :topic  :geo
+    :gen-fn app.generator.ashari.assessment.geo_A/meninjau-ulang-keterampilan-pengindraan-jauh}])

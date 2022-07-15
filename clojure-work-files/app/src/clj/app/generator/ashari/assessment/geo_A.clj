@@ -7,7 +7,7 @@
                          "fenomena pada lapisan atmosfer"
                          "fenomena pada lapisan litosfer"
                          "fenomena pada lapisan hidrosfer"]
-               pertanyaan (rand-nth 
+               pertanyaan (rand-nth
                            ["Bagaimana ilmu geografi mengkaji "
                             "Manakah dari opsi-opsi di bawah yang merupakan contoh penerapan ilmu geografi dalam mengkaji "])
                pertanyaan-1 (str pertanyaan (fenomena 0) "?")
@@ -46,27 +46,27 @@
                         "Mengidentifikasi sumber daya tambang yang berpotensi di suatu daerah"
                         "Mengkaji perubahan tata guna lahan"
                         "Mengetahui prakiraan cuaca untuk membantu kegiatan transportasi laut"]]]
-         
-         (merge
-          (condp = type-soal
-            :S1 (merge {:pertanyaan pertanyaan-1
-                        :pb (rand-nth (covid 0))}
-                       (zipmap [:p1 :p2 :p3] (shuffle (covid 1))))
-            :S2 (merge {:pertanyaan pertanyaan-2
-                        :pb (rand-nth (atmos 0))}
-                       (zipmap [:p1 :p2 :p3] (shuffle (atmos 1))))
-            :S3 (merge {:pertanyaan pertanyaan-3
-                        :pb (rand-nth (litos 0))}
-                       (zipmap [:p1 :p2 :p3] (shuffle (litos 1))))
-            :S4 (merge {:pertanyaan pertanyaan-4
-                        :pb (rand-nth (hidros 0))}
-                       (zipmap [:p1 :p2 :p3] (shuffle (hidros 1))))))))
-  
-  (repeatedly 100)
-  distinct
-  shuffle
-  (take 30)
-  shuffle))
+
+           (merge
+            (condp = type-soal
+              :S1 (merge {:pertanyaan pertanyaan-1
+                          :pb (rand-nth (covid 0))}
+                         (zipmap [:p1 :p2 :p3] (shuffle (covid 1))))
+              :S2 (merge {:pertanyaan pertanyaan-2
+                          :pb (rand-nth (atmos 0))}
+                         (zipmap [:p1 :p2 :p3] (shuffle (atmos 1))))
+              :S3 (merge {:pertanyaan pertanyaan-3
+                          :pb (rand-nth (litos 0))}
+                         (zipmap [:p1 :p2 :p3] (shuffle (litos 1))))
+              :S4 (merge {:pertanyaan pertanyaan-4
+                          :pb (rand-nth (hidros 0))}
+                         (zipmap [:p1 :p2 :p3] (shuffle (hidros 1))))))))
+
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 30)
+       shuffle))
 
 (defn mengapa-perlu-belajar-geografi []
   (->> (fn []
@@ -90,16 +90,16 @@
                       "Ilmu geografi membantu kita agar lebih kritis dan rasional dalam menanggapi gejala sosial"
                       "Ilmu geografi membantu manusia dalam mengeksploitasi sumber daya alam secara besar-besaran"
                       "Ilmu geografi membuat kita menurunkan kesadaran lingkungan"]]
-         (merge
-          {:pertanyaan (rand-nth pertanyaan)
-           :pb (rand-nth correct)}
-          (zipmap [:p1 :p2 :p3] (shuffle wrong)))))
-  
-  (repeatedly 100)
-  distinct
-  shuffle
-  (take 30)
-  shuffle))
+           (merge
+            {:pertanyaan (rand-nth pertanyaan)
+             :pb (rand-nth correct)}
+            (zipmap [:p1 :p2 :p3] (shuffle wrong)))))
+
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 30)
+       shuffle))
 
 (defn ruang-lingkup-geografi-1 []
   (->> (fn []
@@ -140,33 +140,33 @@
                          ["penentuan batas-batas wilayah secara formal" "pengelompokan negara-negara di suatu wilayah dengan sebutan kawasan tertentu" "penentuan batas-batas wilayah secara imajiner" "analisis dampak pencemaran lingkungan terhadap kehidupan manusia"]]
                wilayah [["penentuan batas-batas wilayah secara formal" "pengelompokan negara-negara di suatu wilayah dengan sebutan kawasan tertentu" "penentuan batas-batas wilayah secara imajiner"]
                         ["pengangkutan barang dari satu tempat di bumi ke tempat yang lain" "pertukaran gagasan antara bangsa-bangsa di dunia yang memungkinkan penyatuan peradaban" "migrasi manusia dari suatu wilayah ke wilayah lain" "analisis dampak pencemaran lingkungan terhadap kehidupan manusia"]]]
-         
-         (merge
-          (condp = tipe-soal
-            :S1 (merge {:pertanyaan pertanyaan-1
-                        :pb (rand-nth (lingkup 0))}
-                       (zipmap [:p1 :p2 :p3] (shuffle (lingkup 1))))
-            :S2 (merge {:pertanyaan pertanyaan-2
-                        :pb (rand-nth (lokasi 0))}
-                       (zipmap [:p1 :p2 :p3] (shuffle (lokasi 1))))
-            :S3 (merge {:pertanyaan pertanyaan-3
-                        :pb (rand-nth (tempat 0))}
-                       (zipmap [:p1 :p2 :p3] (shuffle (tempat 1))))
-            :S4 (merge {:pertanyaan pertanyaan-4
-                        :pb (rand-nth (interaksi 0))}
-                       (zipmap [:p1 :p2 :p3] (shuffle (interaksi 1))))
-            :S5 (merge {:pertanyaan pertanyaan-5
-                        :pb (rand-nth (movement 0))}
-                       (zipmap [:p1 :p2 :p3] (shuffle (movement 1))))
-            :S6 (merge {:pertanyaan pertanyaan-6
-                        :pb (rand-nth (wilayah 0))}
-                       (zipmap [:p1 :p2 :p3] (shuffle (wilayah 1))))))))
-  
-  (repeatedly 100)
-  distinct
-  shuffle
-  (take 38)
-  shuffle))
+
+           (merge
+            (condp = tipe-soal
+              :S1 (merge {:pertanyaan pertanyaan-1
+                          :pb (rand-nth (lingkup 0))}
+                         (zipmap [:p1 :p2 :p3] (shuffle (lingkup 1))))
+              :S2 (merge {:pertanyaan pertanyaan-2
+                          :pb (rand-nth (lokasi 0))}
+                         (zipmap [:p1 :p2 :p3] (shuffle (lokasi 1))))
+              :S3 (merge {:pertanyaan pertanyaan-3
+                          :pb (rand-nth (tempat 0))}
+                         (zipmap [:p1 :p2 :p3] (shuffle (tempat 1))))
+              :S4 (merge {:pertanyaan pertanyaan-4
+                          :pb (rand-nth (interaksi 0))}
+                         (zipmap [:p1 :p2 :p3] (shuffle (interaksi 1))))
+              :S5 (merge {:pertanyaan pertanyaan-5
+                          :pb (rand-nth (movement 0))}
+                         (zipmap [:p1 :p2 :p3] (shuffle (movement 1))))
+              :S6 (merge {:pertanyaan pertanyaan-6
+                          :pb (rand-nth (wilayah 0))}
+                         (zipmap [:p1 :p2 :p3] (shuffle (wilayah 1))))))))
+
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 38)
+       shuffle))
 
 (defn aspek-geografi-1 []
   (->> (fn []
@@ -193,43 +193,43 @@
                        "daerah dengan penduduk yang muda cenderung menyukai aktivitas padat karya"
                        "daerah dengan penduduk tua dan non produktif cenderung menyukai aktivitas yang padat modal"
                        "piramida penduduk di tiap-tiap negara berbeda-beda"]]
-              sosial [["Fenomena berikut ini yang menunjukkan aspek sosial geografi adalah .…"
-                         "Di bawah ini yang termasuk fenomena yang berkaitan dengan aspek sosial geografi adalah ...."]
-                        ["lahan yang subur membuat penduduk pedesaan di Indonesia berprofesi sebagai petani"
-                         "adanya risiko bencana gempa bumi mendorong ilmuwan untuk menciptakan alat deteksi gempa"
-                         "kesenjangan sosial di kota menyebabkan timbulnya permukiman kumuh"
-                         "penggunaan lahan di kawasan terpencil yang masih banyak dikontrol oleh tanah adat"
-                         "lokasi yang strategis dapat memberikan keuntungan bagi suatu negara"
-                         "kehidupan masyarakat di daerah pesisir sangat bergantung pada laut dan perikanan"
-                         "wilayah dengan kepadatan penduduk tinggi akan memiliki intensitas aktivitas yang lebih tinggi"
-                         "daerah dengan penduduk yang muda cenderung menyukai aktivitas padat karya"
-                         "daerah dengan penduduk tua dan non produktif cenderung menyukai aktivitas yang padat modal"
-                         "piramida penduduk di tiap-tiap negara berbeda-beda"]
-                        ["terjadi sedimentasi di Sungai Musi akibat curah hujan yang tinggi"
-                         "negara-negara dilintasi garis khatulistiwa umumnya beriklim tropis"
-                         "persebaran flora dan fauna di Indonesia sangat beragam"
-                         "laut berpotensi membawa bencana seperti tsunami dan banjir rob"
-                         "kondisi tanah yang sesuai mempengaruhi hasil pertanian"
-                         "terbentuknya batu jamur disebabkan oleh erosi angin"
-                         "suhu dan ketinggian berpengaruh terhadap persebaran flora"
-                         "gunungapi banyak ditemukan di sekitar zona subduksi"
-                         "daerah karst kurang cocok dijadikan permukiman karena ketersediaan air kurang memadai"
-                         "potensi pertambangan sangat tergantung dengan jenis tanah dan batuan yang ada di suatu wilayah"]]]
-         
-         (merge
-          (condp = tipe-soal
-            :S1 (merge {:pertanyaan (rand-nth (fisik 0))
-                        :pb (rand-nth (fisik 1))}
-                       (zipmap [:p1 :p2 :p3] (shuffle (fisik 2))))
-            :S2 (merge {:pertanyaan (rand-nth (sosial 0))
-                        :pb (rand-nth (sosial 1))}
-                       (zipmap [:p1 :p2 :p3] (shuffle (sosial 2))))))))
-  
-  (repeatedly 100)
-  distinct
-  shuffle
-  (take 40)
-  shuffle))
+               sosial [["Fenomena berikut ini yang menunjukkan aspek sosial geografi adalah .…"
+                        "Di bawah ini yang termasuk fenomena yang berkaitan dengan aspek sosial geografi adalah ...."]
+                       ["lahan yang subur membuat penduduk pedesaan di Indonesia berprofesi sebagai petani"
+                        "adanya risiko bencana gempa bumi mendorong ilmuwan untuk menciptakan alat deteksi gempa"
+                        "kesenjangan sosial di kota menyebabkan timbulnya permukiman kumuh"
+                        "penggunaan lahan di kawasan terpencil yang masih banyak dikontrol oleh tanah adat"
+                        "lokasi yang strategis dapat memberikan keuntungan bagi suatu negara"
+                        "kehidupan masyarakat di daerah pesisir sangat bergantung pada laut dan perikanan"
+                        "wilayah dengan kepadatan penduduk tinggi akan memiliki intensitas aktivitas yang lebih tinggi"
+                        "daerah dengan penduduk yang muda cenderung menyukai aktivitas padat karya"
+                        "daerah dengan penduduk tua dan non produktif cenderung menyukai aktivitas yang padat modal"
+                        "piramida penduduk di tiap-tiap negara berbeda-beda"]
+                       ["terjadi sedimentasi di Sungai Musi akibat curah hujan yang tinggi"
+                        "negara-negara dilintasi garis khatulistiwa umumnya beriklim tropis"
+                        "persebaran flora dan fauna di Indonesia sangat beragam"
+                        "laut berpotensi membawa bencana seperti tsunami dan banjir rob"
+                        "kondisi tanah yang sesuai mempengaruhi hasil pertanian"
+                        "terbentuknya batu jamur disebabkan oleh erosi angin"
+                        "suhu dan ketinggian berpengaruh terhadap persebaran flora"
+                        "gunungapi banyak ditemukan di sekitar zona subduksi"
+                        "daerah karst kurang cocok dijadikan permukiman karena ketersediaan air kurang memadai"
+                        "potensi pertambangan sangat tergantung dengan jenis tanah dan batuan yang ada di suatu wilayah"]]]
+
+           (merge
+            (condp = tipe-soal
+              :S1 (merge {:pertanyaan (rand-nth (fisik 0))
+                          :pb (rand-nth (fisik 1))}
+                         (zipmap [:p1 :p2 :p3] (shuffle (fisik 2))))
+              :S2 (merge {:pertanyaan (rand-nth (sosial 0))
+                          :pb (rand-nth (sosial 1))}
+                         (zipmap [:p1 :p2 :p3] (shuffle (sosial 2))))))))
+
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 40)
+       shuffle))
 
 (defn objek-material-geografi-1 []
   (->> (fn []
@@ -260,35 +260,35 @@
                             "Migrasi penduduk ke luar negeri menyebabkan berkurangnya penduduk suatu negara."
                             "Kota-kota besar seperti Jakarta dan Surabaya memiliki kepadatan penduduk yang tinggi daripada kota-kota kecil lainnya."]
                salah (fn [x] (shuffle (filter #(not (= % x)) objek-material)))]
-         
-         (merge
-          (condp = type
-            :a (merge {:pengantar (rand-nth atmosfer)
-                       :pertanyaan pertanyaan
-                       :pb (objek-material 0)}
-                      (zipmap [:p1 :p2 :p3] (salah (objek-material 0))))
-            :b (merge {:pengantar (rand-nth litosfer)
-                       :pertanyaan pertanyaan
-                       :pb (objek-material 1)}
-                      (zipmap [:p1 :p2 :p3] (salah (objek-material 1))))
-            :c (merge {:pengantar (rand-nth hidrosfer)
-                       :pertanyaan pertanyaan
-                       :pb (objek-material 2)}
-                      (zipmap [:p1 :p2 :p3] (salah (objek-material 2))))
-            :d (merge {:pengantar (rand-nth biosfer)
-                       :pertanyaan pertanyaan
-                       :pb (objek-material 3)}
-                      (zipmap [:p1 :p2 :p3] (salah (objek-material 3))))
-            :e (merge {:pengantar (rand-nth antroposfer)
-                       :pertanyaan pertanyaan
-                       :pb (objek-material 4)}
-                      (zipmap [:p1 :p2 :p3] (salah (objek-material 4))))))))
-  
-  (repeatedly 100)
-  distinct
-  shuffle
-  (take 34)
-  shuffle))
+
+           (merge
+            (condp = type
+              :a (merge {:pengantar (rand-nth atmosfer)
+                         :pertanyaan pertanyaan
+                         :pb (objek-material 0)}
+                        (zipmap [:p1 :p2 :p3] (salah (objek-material 0))))
+              :b (merge {:pengantar (rand-nth litosfer)
+                         :pertanyaan pertanyaan
+                         :pb (objek-material 1)}
+                        (zipmap [:p1 :p2 :p3] (salah (objek-material 1))))
+              :c (merge {:pengantar (rand-nth hidrosfer)
+                         :pertanyaan pertanyaan
+                         :pb (objek-material 2)}
+                        (zipmap [:p1 :p2 :p3] (salah (objek-material 2))))
+              :d (merge {:pengantar (rand-nth biosfer)
+                         :pertanyaan pertanyaan
+                         :pb (objek-material 3)}
+                        (zipmap [:p1 :p2 :p3] (salah (objek-material 3))))
+              :e (merge {:pengantar (rand-nth antroposfer)
+                         :pertanyaan pertanyaan
+                         :pb (objek-material 4)}
+                        (zipmap [:p1 :p2 :p3] (salah (objek-material 4))))))))
+
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 34)
+       shuffle))
 
 (defn objek-material-geografi-2 []
   (->> (fn []
@@ -416,175 +416,175 @@
                                "; adanya permukiman penduduk mempengaruhi pola aliran sungai"
                                "; ekosistem sungai sangat dipengaruhi oleh pola aliran sungai"]]
                         (str a b))]
-         (merge
-          (condp = tipe
-            :1 (merge
-                {:pengantar pengantar
-                 :fakta1 (fakta 0)
-                 :fakta2 (fakta 3)
-                 :fakta3 kuning1
-                 :fakta4 kuning2
-                 :pertanyaan (rand-nth (pertanyaan 0))
-                 :pb (str (jawaban1 0) (rand-nth (jawaban2 0)))}
-                (zipmap [:p1 :p2 :p3] (shuffle salah1)))
-            :2 (merge
-                {:pengantar pengantar
-                 :fakta1 (fakta 0)
-                 :fakta2 kuning1
-                 :fakta3 (fakta 3)
-                 :fakta4 kuning2
-                 :pertanyaan (rand-nth (pertanyaan 0))
-                 :pb (str (jawaban1 1) (rand-nth (jawaban2 0)))}
-                (zipmap [:p1 :p2 :p3] (shuffle salah1)))
-            :3 (merge
-                {:pengantar pengantar
-                 :fakta1 (fakta 0)
-                 :fakta2 kuning1
-                 :fakta3 kuning2
-                 :fakta4 (fakta 3)
-                 :pertanyaan (rand-nth (pertanyaan 0))
-                 :pb (str (jawaban1 2) (rand-nth (jawaban2 0)))}
-                (zipmap [:p1 :p2 :p3] (shuffle salah1)))
-            :4 (merge
-                {:pengantar pengantar
-                 :fakta1 kuning1
-                 :fakta2 (fakta 0)
-                 :fakta3 (fakta 3)
-                 :fakta4 kuning2
-                 :pertanyaan (rand-nth (pertanyaan 0))
-                 :pb (str (jawaban1 3) (rand-nth (jawaban2 0)))}
-                (zipmap [:p1 :p2 :p3] (shuffle salah1)))
-            :5 (merge
-                {:pengantar pengantar
-                 :fakta1 kuning1
-                 :fakta2 (fakta 0)
-                 :fakta3 kuning2
-                 :fakta4 (fakta 3)
-                 :pertanyaan (rand-nth (pertanyaan 0))
-                 :pb (str (jawaban1 4) (rand-nth (jawaban2 0)))}
-                (zipmap [:p1 :p2 :p3] (shuffle salah1)))
-            :6 (merge
-                {:pengantar pengantar
-                 :fakta1 kuning1
-                 :fakta2 kuning2
-                 :fakta3 (fakta 0)
-                 :fakta4 (fakta 3)
-                 :pertanyaan (rand-nth (pertanyaan 0))
-                 :pb (str (jawaban1 5) (rand-nth (jawaban2 0)))}
-                (zipmap [:p1 :p2 :p3] (shuffle salah1)))
-            :7 (merge
-                {:pengantar pengantar
-                 :fakta1 (fakta 0)
-                 :fakta2 (fakta 4)
-                 :fakta3 biru1
-                 :fakta4 biru2
-                 :pertanyaan (rand-nth (pertanyaan 1))
-                 :pb (str (jawaban1 0) (rand-nth (jawaban2 1)))}
-                (zipmap [:p1 :p2 :p3] (shuffle salah2)))
-            :8 (merge
-                {:pengantar pengantar
-                 :fakta1 (fakta 0)
-                 :fakta2 biru1
-                 :fakta3 (fakta 4)
-                 :fakta4 biru2
-                 :pertanyaan (rand-nth (pertanyaan 1))
-                 :pb (str (jawaban1 1) (rand-nth (jawaban2 1)))}
-                (zipmap [:p1 :p2 :p3] (shuffle salah2)))
-            :9 (merge
-                {:pengantar pengantar
-                 :fakta1 (fakta 0)
-                 :fakta2 biru1
-                 :fakta3 biru2
-                 :fakta4 (fakta 4)
-                 :pertanyaan (rand-nth (pertanyaan 1))
-                 :pb (str (jawaban1 2) (rand-nth (jawaban2 1)))}
-                (zipmap [:p1 :p2 :p3] (shuffle salah2)))
-            :10 (merge
-                 {:pengantar pengantar
-                  :fakta1 biru1
-                  :fakta2 (fakta 0)
-                  :fakta3 (fakta 4)
-                  :fakta4 biru2
-                  :pertanyaan (rand-nth (pertanyaan 1))
-                  :pb (str (jawaban1 3) (rand-nth (jawaban2 1)))}
-                 (zipmap [:p1 :p2 :p3] (shuffle salah2)))
-            :11 (merge
-                 {:pengantar pengantar
-                  :fakta1 biru1
-                  :fakta2 (fakta 0)
-                  :fakta3 biru2
-                  :fakta4 (fakta 4)
-                  :pertanyaan (rand-nth (pertanyaan 1))
-                  :pb (str (jawaban1 4) (rand-nth (jawaban2 1)))}
-                 (zipmap [:p1 :p2 :p3] (shuffle salah2)))
-            :12 (merge
-                 {:pengantar pengantar
-                  :fakta1 biru1
-                  :fakta2 biru2
-                  :fakta3 (fakta 0)
-                  :fakta4 (fakta 4)
-                  :pertanyaan (rand-nth (pertanyaan 1))
-                  :pb (str (jawaban1 5) (rand-nth (jawaban2 1)))}
-                 (zipmap [:p1 :p2 :p3] (shuffle salah2)))
-            :13 (merge
-                {:pengantar pengantar
-                 :fakta1 (fakta 0)
-                 :fakta2 (fakta 2)
-                 :fakta3 pink1
-                 :fakta4 pink2
-                 :pertanyaan (rand-nth (pertanyaan 2))
-                 :pb (str (jawaban1 0) (rand-nth (jawaban2 2)))}
-                (zipmap [:p1 :p2 :p3] (shuffle salah3)))
-            :14 (merge
-                {:pengantar pengantar
-                 :fakta1 (fakta 0)
-                 :fakta2 pink1
-                 :fakta3 (fakta 2)
-                 :fakta4 pink2
-                 :pertanyaan (rand-nth (pertanyaan 2))
-                 :pb (str (jawaban1 1) (rand-nth (jawaban2 2)))}
-                (zipmap [:p1 :p2 :p3] (shuffle salah3)))
-            :15 (merge
-                {:pengantar pengantar
-                 :fakta1 (fakta 0)
-                 :fakta2 pink1
-                 :fakta3 pink2
-                 :fakta4 (fakta 2)
-                 :pertanyaan (rand-nth (pertanyaan 2))
-                 :pb (str (jawaban1 2) (rand-nth (jawaban2 2)))}
-                (zipmap [:p1 :p2 :p3] (shuffle salah3)))
-            :16 (merge
-                 {:pengantar pengantar
-                  :fakta1 pink1
-                  :fakta2 (fakta 0)
-                  :fakta3 (fakta 2)
-                  :fakta4 pink2
-                  :pertanyaan (rand-nth (pertanyaan 2))
-                  :pb (str (jawaban1 3) (rand-nth (jawaban2 2)))}
-                 (zipmap [:p1 :p2 :p3] (shuffle salah3)))
-            :17 (merge
-                 {:pengantar pengantar
-                  :fakta1 pink1
-                  :fakta2 (fakta 0)
-                  :fakta3 pink2
-                  :fakta4 (fakta 2)
-                  :pertanyaan (rand-nth (pertanyaan 2))
-                  :pb (str (jawaban1 4) (rand-nth (jawaban2 2)))}
-                 (zipmap [:p1 :p2 :p3] (shuffle salah3)))
-            :18 (merge
-                 {:pengantar pengantar
-                  :fakta1 pink1
-                  :fakta2 pink2
-                  :fakta3 (fakta 0)
-                  :fakta4 (fakta 2)
-                  :pertanyaan (rand-nth (pertanyaan 2))
-                  :pb (str (jawaban1 5) (rand-nth (jawaban2 2)))}
-                 (zipmap [:p1 :p2 :p3] (shuffle salah3)))))))
-  (repeatedly 100)
-  distinct
-  shuffle
-  (take 72)
-  shuffle))
+           (merge
+            (condp = tipe
+              :1 (merge
+                  {:pengantar pengantar
+                   :fakta1 (fakta 0)
+                   :fakta2 (fakta 3)
+                   :fakta3 kuning1
+                   :fakta4 kuning2
+                   :pertanyaan (rand-nth (pertanyaan 0))
+                   :pb (str (jawaban1 0) (rand-nth (jawaban2 0)))}
+                  (zipmap [:p1 :p2 :p3] (shuffle salah1)))
+              :2 (merge
+                  {:pengantar pengantar
+                   :fakta1 (fakta 0)
+                   :fakta2 kuning1
+                   :fakta3 (fakta 3)
+                   :fakta4 kuning2
+                   :pertanyaan (rand-nth (pertanyaan 0))
+                   :pb (str (jawaban1 1) (rand-nth (jawaban2 0)))}
+                  (zipmap [:p1 :p2 :p3] (shuffle salah1)))
+              :3 (merge
+                  {:pengantar pengantar
+                   :fakta1 (fakta 0)
+                   :fakta2 kuning1
+                   :fakta3 kuning2
+                   :fakta4 (fakta 3)
+                   :pertanyaan (rand-nth (pertanyaan 0))
+                   :pb (str (jawaban1 2) (rand-nth (jawaban2 0)))}
+                  (zipmap [:p1 :p2 :p3] (shuffle salah1)))
+              :4 (merge
+                  {:pengantar pengantar
+                   :fakta1 kuning1
+                   :fakta2 (fakta 0)
+                   :fakta3 (fakta 3)
+                   :fakta4 kuning2
+                   :pertanyaan (rand-nth (pertanyaan 0))
+                   :pb (str (jawaban1 3) (rand-nth (jawaban2 0)))}
+                  (zipmap [:p1 :p2 :p3] (shuffle salah1)))
+              :5 (merge
+                  {:pengantar pengantar
+                   :fakta1 kuning1
+                   :fakta2 (fakta 0)
+                   :fakta3 kuning2
+                   :fakta4 (fakta 3)
+                   :pertanyaan (rand-nth (pertanyaan 0))
+                   :pb (str (jawaban1 4) (rand-nth (jawaban2 0)))}
+                  (zipmap [:p1 :p2 :p3] (shuffle salah1)))
+              :6 (merge
+                  {:pengantar pengantar
+                   :fakta1 kuning1
+                   :fakta2 kuning2
+                   :fakta3 (fakta 0)
+                   :fakta4 (fakta 3)
+                   :pertanyaan (rand-nth (pertanyaan 0))
+                   :pb (str (jawaban1 5) (rand-nth (jawaban2 0)))}
+                  (zipmap [:p1 :p2 :p3] (shuffle salah1)))
+              :7 (merge
+                  {:pengantar pengantar
+                   :fakta1 (fakta 0)
+                   :fakta2 (fakta 4)
+                   :fakta3 biru1
+                   :fakta4 biru2
+                   :pertanyaan (rand-nth (pertanyaan 1))
+                   :pb (str (jawaban1 0) (rand-nth (jawaban2 1)))}
+                  (zipmap [:p1 :p2 :p3] (shuffle salah2)))
+              :8 (merge
+                  {:pengantar pengantar
+                   :fakta1 (fakta 0)
+                   :fakta2 biru1
+                   :fakta3 (fakta 4)
+                   :fakta4 biru2
+                   :pertanyaan (rand-nth (pertanyaan 1))
+                   :pb (str (jawaban1 1) (rand-nth (jawaban2 1)))}
+                  (zipmap [:p1 :p2 :p3] (shuffle salah2)))
+              :9 (merge
+                  {:pengantar pengantar
+                   :fakta1 (fakta 0)
+                   :fakta2 biru1
+                   :fakta3 biru2
+                   :fakta4 (fakta 4)
+                   :pertanyaan (rand-nth (pertanyaan 1))
+                   :pb (str (jawaban1 2) (rand-nth (jawaban2 1)))}
+                  (zipmap [:p1 :p2 :p3] (shuffle salah2)))
+              :10 (merge
+                   {:pengantar pengantar
+                    :fakta1 biru1
+                    :fakta2 (fakta 0)
+                    :fakta3 (fakta 4)
+                    :fakta4 biru2
+                    :pertanyaan (rand-nth (pertanyaan 1))
+                    :pb (str (jawaban1 3) (rand-nth (jawaban2 1)))}
+                   (zipmap [:p1 :p2 :p3] (shuffle salah2)))
+              :11 (merge
+                   {:pengantar pengantar
+                    :fakta1 biru1
+                    :fakta2 (fakta 0)
+                    :fakta3 biru2
+                    :fakta4 (fakta 4)
+                    :pertanyaan (rand-nth (pertanyaan 1))
+                    :pb (str (jawaban1 4) (rand-nth (jawaban2 1)))}
+                   (zipmap [:p1 :p2 :p3] (shuffle salah2)))
+              :12 (merge
+                   {:pengantar pengantar
+                    :fakta1 biru1
+                    :fakta2 biru2
+                    :fakta3 (fakta 0)
+                    :fakta4 (fakta 4)
+                    :pertanyaan (rand-nth (pertanyaan 1))
+                    :pb (str (jawaban1 5) (rand-nth (jawaban2 1)))}
+                   (zipmap [:p1 :p2 :p3] (shuffle salah2)))
+              :13 (merge
+                   {:pengantar pengantar
+                    :fakta1 (fakta 0)
+                    :fakta2 (fakta 2)
+                    :fakta3 pink1
+                    :fakta4 pink2
+                    :pertanyaan (rand-nth (pertanyaan 2))
+                    :pb (str (jawaban1 0) (rand-nth (jawaban2 2)))}
+                   (zipmap [:p1 :p2 :p3] (shuffle salah3)))
+              :14 (merge
+                   {:pengantar pengantar
+                    :fakta1 (fakta 0)
+                    :fakta2 pink1
+                    :fakta3 (fakta 2)
+                    :fakta4 pink2
+                    :pertanyaan (rand-nth (pertanyaan 2))
+                    :pb (str (jawaban1 1) (rand-nth (jawaban2 2)))}
+                   (zipmap [:p1 :p2 :p3] (shuffle salah3)))
+              :15 (merge
+                   {:pengantar pengantar
+                    :fakta1 (fakta 0)
+                    :fakta2 pink1
+                    :fakta3 pink2
+                    :fakta4 (fakta 2)
+                    :pertanyaan (rand-nth (pertanyaan 2))
+                    :pb (str (jawaban1 2) (rand-nth (jawaban2 2)))}
+                   (zipmap [:p1 :p2 :p3] (shuffle salah3)))
+              :16 (merge
+                   {:pengantar pengantar
+                    :fakta1 pink1
+                    :fakta2 (fakta 0)
+                    :fakta3 (fakta 2)
+                    :fakta4 pink2
+                    :pertanyaan (rand-nth (pertanyaan 2))
+                    :pb (str (jawaban1 3) (rand-nth (jawaban2 2)))}
+                   (zipmap [:p1 :p2 :p3] (shuffle salah3)))
+              :17 (merge
+                   {:pengantar pengantar
+                    :fakta1 pink1
+                    :fakta2 (fakta 0)
+                    :fakta3 pink2
+                    :fakta4 (fakta 2)
+                    :pertanyaan (rand-nth (pertanyaan 2))
+                    :pb (str (jawaban1 4) (rand-nth (jawaban2 2)))}
+                   (zipmap [:p1 :p2 :p3] (shuffle salah3)))
+              :18 (merge
+                   {:pengantar pengantar
+                    :fakta1 pink1
+                    :fakta2 pink2
+                    :fakta3 (fakta 0)
+                    :fakta4 (fakta 2)
+                    :pertanyaan (rand-nth (pertanyaan 2))
+                    :pb (str (jawaban1 5) (rand-nth (jawaban2 2)))}
+                   (zipmap [:p1 :p2 :p3] (shuffle salah3)))))))
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 72)
+       shuffle))
 
 (defn aspek-geografi-2 []
   (->> (fn []
@@ -610,35 +610,35 @@
                       "hukum"
                       "keamanan"]
                salah (fn [x] (shuffle (filter #(not (= % x)) aspek)))]
-         
-         (merge
-          (condp = tipe
-            :a (merge {:pengantar pengantar
-                       :wacana (rand-nth ekonomi)
-                       :pertanyaan pertanyaan
-                       :pb (aspek 0)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (salah (aspek 0)))))
-            :b (merge {:pengantar pengantar
-                       :wacana (rand-nth sosial)
-                       :pertanyaan pertanyaan
-                       :pb (aspek 1)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (salah (aspek 1)))))
-            :c (merge {:pengantar pengantar
-                       :wacana (rand-nth budaya)
-                       :pertanyaan pertanyaan
-                       :pb (aspek 2)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (salah (aspek 2)))))
-            :d (merge {:pengantar pengantar
-                       :wacana (rand-nth politik)
-                       :pertanyaan pertanyaan
-                       :pb (aspek 3)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (salah (aspek 3)))))))))
-  
-  (repeatedly 100)
-  distinct
-  shuffle
-  (take 40)
-  shuffle))
+
+           (merge
+            (condp = tipe
+              :a (merge {:pengantar pengantar
+                         :wacana (rand-nth ekonomi)
+                         :pertanyaan pertanyaan
+                         :pb (aspek 0)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (aspek 0)))))
+              :b (merge {:pengantar pengantar
+                         :wacana (rand-nth sosial)
+                         :pertanyaan pertanyaan
+                         :pb (aspek 1)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (aspek 1)))))
+              :c (merge {:pengantar pengantar
+                         :wacana (rand-nth budaya)
+                         :pertanyaan pertanyaan
+                         :pb (aspek 2)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (aspek 2)))))
+              :d (merge {:pengantar pengantar
+                         :wacana (rand-nth politik)
+                         :pertanyaan pertanyaan
+                         :pb (aspek 3)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (aspek 3)))))))))
+
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 40)
+       shuffle))
 
 (defn konsep-geografi-bagian-1 []
   (->> (fn []
@@ -680,7 +680,7 @@
                          :pertanyaan pertanyaan
                          :pb (konsep 1)}
                         (zipmap [:p1 :p2 :p3] (shuffle (salah (konsep 1)))))
-              :c (merge {:fenomena (rand-nth keterjangkauan) 
+              :c (merge {:fenomena (rand-nth keterjangkauan)
                          :pertanyaan pertanyaan
                          :pb (konsep 2)}
                         (zipmap [:p1 :p2 :p3] (shuffle (salah (konsep 2)))))
@@ -921,27 +921,27 @@
                pbhs-1 ["Simbol peta merupakan salah satu komponen penting dalam peta. Simbol peta bisa disebut juga sebagai tanda pada peta yang berfungsi untuk mewakili kenampakan objek di permukaan bumi yanh sebenarnya pada peta. Kenampakan objek tersebut meliputi kenampakan alami (sungai, danau, gunung, dan sebagainya) dan kenampakan buatan (gedung sekolah, rumah sakit, gedung pemerintah, dan lain-lain)."]
                pbhs-2 ["Legenda merupakan tabel atau daftar yang menunjukkan kumpulan simbol yang digunakan dalam peta. Kumpulan simbol tersebut biasanya disertai dengan warna dan deskripsi untuk memperjelas maksud dari simbol tersebut."]
                pbhs-3 ["Sumber peta berfungsi untuk menunjukkan kebenaran atau validitas data yang didasarkan kepada karya ilmiah atau lembaga resmi pembuat peta, misalnya mengenai lembaga penerbit peta seperti Badan Informasi Geospasial (BIG), Badan Geologi. Sumber peta tersebut umumnya disertai oleh pencantuman tahun pembuatan untuk memperlihatkan waktu pembuatan peta dan mengetahui masa kadaluwarsa peta."]]
-         
-         (merge
-          (condp = tipe
-            :a (merge {:pertanyaan pertanyaan-1
-                       :pb (rand-nth (correct-answer 0))
-                       :pembahasan (rand-nth pbhs-1)}
-                      (zipmap [:p1 :p2 :p3] (shuffle salah-1)))
-            :b (merge {:pertanyaan pertanyaan-2
-                       :pb (rand-nth (correct-answer 1))
-                       :pembahasan (rand-nth pbhs-2)}
-                      (zipmap [:p1 :p2 :p3] (shuffle salah-2)))
-            :c (merge {:pertanyaan pertanyaan-3
-                       :pb (rand-nth (correct-answer 2))
-                       :pembahasan (rand-nth pbhs-3)}
-                      (zipmap [:p1 :p2 :p3] (shuffle salah-3)))))))
-  
-  (repeatedly 100)
-  distinct
-  shuffle
-  (take 30)
-  shuffle))
+
+           (merge
+            (condp = tipe
+              :a (merge {:pertanyaan pertanyaan-1
+                         :pb (rand-nth (correct-answer 0))
+                         :pembahasan (rand-nth pbhs-1)}
+                        (zipmap [:p1 :p2 :p3] (shuffle salah-1)))
+              :b (merge {:pertanyaan pertanyaan-2
+                         :pb (rand-nth (correct-answer 1))
+                         :pembahasan (rand-nth pbhs-2)}
+                        (zipmap [:p1 :p2 :p3] (shuffle salah-2)))
+              :c (merge {:pertanyaan pertanyaan-3
+                         :pb (rand-nth (correct-answer 2))
+                         :pembahasan (rand-nth pbhs-3)}
+                        (zipmap [:p1 :p2 :p3] (shuffle salah-3)))))))
+
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 30)
+       shuffle))
 
 (defn jenis-jenis-peta []
   (->> (fn []
@@ -966,21 +966,21 @@
                         "Peta Kawasan Budidaya"
                         "Peta Curah Hujan"
                         "Peta Sebaran Fauna Indonesia"]]
-         
-         (merge
-          (condp = tipe
-            :a (merge {:pertanyaan soal-1
-                       :pb (rand-nth umum)}
-                      (zipmap [:p1 :p2 :p3] (shuffle tematik)))
-            :b (merge {:pertanyaan soal-2
-                       :pb (rand-nth tematik)}
-                      (zipmap [:p1 :p2 :p3] (shuffle umum)))))))
-  
-  (repeatedly 100)
-  distinct
-  shuffle
-  (take 38)
-  shuffle))
+
+           (merge
+            (condp = tipe
+              :a (merge {:pertanyaan soal-1
+                         :pb (rand-nth umum)}
+                        (zipmap [:p1 :p2 :p3] (shuffle tematik)))
+              :b (merge {:pertanyaan soal-2
+                         :pb (rand-nth tematik)}
+                        (zipmap [:p1 :p2 :p3] (shuffle umum)))))))
+
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 38)
+       shuffle))
 
 (defn generalisasi-dan-eksagerasi-peta []
   (->> (fn []
@@ -997,19 +997,19 @@
                        "Eksagerasi bukan merupakan bagian atau aspek dari generalisasi, melainkan sesuatu di luar generalisasi."
                        "Jika terdapat unsur yang terlalu kecil dan sulit untuk disajikan dengan detil yang cukup, maka unsur tersebut perlu disederhanakan dengan metode eksagerasi."]
                       ["salah"]]]
-         (merge
-          (condp = tipe
-            :a {:pernyataan (rand-nth (benar 0))
-                :pb (rand-nth (benar 1))
-                :p1 (rand-nth (salah 1))}
-            :b {:pernyataan (rand-nth (salah 0))
-                :pb (rand-nth (salah 1))
-                :p1 (rand-nth (benar 1))}))))
-  (repeatedly 50)
-  distinct
-  shuffle
-  (take 10)
-  shuffle))
+           (merge
+            (condp = tipe
+              :a {:pernyataan (rand-nth (benar 0))
+                  :pb (rand-nth (benar 1))
+                  :p1 (rand-nth (salah 1))}
+              :b {:pernyataan (rand-nth (salah 0))
+                  :pb (rand-nth (salah 1))
+                  :p1 (rand-nth (benar 1))}))))
+       (repeatedly 50)
+       distinct
+       shuffle
+       (take 10)
+       shuffle))
 
 (defn apa-itu-peta-kontur []
   (->> (fn []
@@ -1047,71 +1047,71 @@
                         "semuanya"
                         "tidak ada"]
                wrong (fn [x] (shuffle (filter #(not (= % x)) jawaban)))]
-         
-         (merge
-          (condp = tipe
-            :1 (merge {:pengantar pengantar
-                       :fakta1 benar1
-                       :fakta2 salah2
-                       :fakta3 salah3
-                       :soal soal
-                       :pb (jawaban 0)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 0)))))
-            :2 (merge {:pengantar pengantar
-                       :fakta1 salah1
-                       :fakta2 benar2
-                       :fakta3 salah3
-                       :soal soal
-                       :pb (jawaban 1)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 1)))))
-            :3 (merge {:pengantar pengantar
-                       :fakta1 salah1
-                       :fakta2 salah2
-                       :fakta3 benar3
-                       :soal soal
-                       :pb (jawaban 2)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 2)))))
-            :4 (merge {:pengantar pengantar
-                       :fakta1 benar1
-                       :fakta2 benar2
-                       :fakta3 salah3
-                       :soal soal
-                       :pb (jawaban 3)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 3)))))
-            :5 (merge {:pengantar pengantar
-                       :fakta1 benar1
-                       :fakta2 salah2
-                       :fakta3 benar3
-                       :soal soal
-                       :pb (jawaban 4)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 4)))))
-            :6 (merge {:pengantar pengantar
-                       :fakta1 salah1
-                       :fakta2 benar2
-                       :fakta3 benar3
-                       :soal soal
-                       :pb (jawaban 5)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 5)))))
-            :7 (merge {:pengantar pengantar
-                       :fakta1 benar1
-                       :fakta2 benar2
-                       :fakta3 benar3
-                       :soal soal
-                       :pb (jawaban 6)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 6)))))
-            :8 (merge {:pengantar pengantar
-                       :fakta1 salah1
-                       :fakta2 salah2
-                       :fakta3 salah3
-                       :soal soal
-                       :pb (jawaban 7)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 7)))))))))
-  
-  (repeatedly 500)
-  distinct
-  shuffle
-  (take 100)
-  shuffle))
+
+           (merge
+            (condp = tipe
+              :1 (merge {:pengantar pengantar
+                         :fakta1 benar1
+                         :fakta2 salah2
+                         :fakta3 salah3
+                         :soal soal
+                         :pb (jawaban 0)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 0)))))
+              :2 (merge {:pengantar pengantar
+                         :fakta1 salah1
+                         :fakta2 benar2
+                         :fakta3 salah3
+                         :soal soal
+                         :pb (jawaban 1)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 1)))))
+              :3 (merge {:pengantar pengantar
+                         :fakta1 salah1
+                         :fakta2 salah2
+                         :fakta3 benar3
+                         :soal soal
+                         :pb (jawaban 2)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 2)))))
+              :4 (merge {:pengantar pengantar
+                         :fakta1 benar1
+                         :fakta2 benar2
+                         :fakta3 salah3
+                         :soal soal
+                         :pb (jawaban 3)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 3)))))
+              :5 (merge {:pengantar pengantar
+                         :fakta1 benar1
+                         :fakta2 salah2
+                         :fakta3 benar3
+                         :soal soal
+                         :pb (jawaban 4)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 4)))))
+              :6 (merge {:pengantar pengantar
+                         :fakta1 salah1
+                         :fakta2 benar2
+                         :fakta3 benar3
+                         :soal soal
+                         :pb (jawaban 5)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 5)))))
+              :7 (merge {:pengantar pengantar
+                         :fakta1 benar1
+                         :fakta2 benar2
+                         :fakta3 benar3
+                         :soal soal
+                         :pb (jawaban 6)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 6)))))
+              :8 (merge {:pengantar pengantar
+                         :fakta1 salah1
+                         :fakta2 salah2
+                         :fakta3 salah3
+                         :soal soal
+                         :pb (jawaban 7)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (wrong (jawaban 7)))))))))
+
+       (repeatedly 500)
+       distinct
+       shuffle
+       (take 100)
+       shuffle))
 
 (defn menghitung-interval-kontur-pada-peta-kontur []
   (->> (fn []
@@ -1143,80 +1143,80 @@
                pertanyaan-2 (rand-nth ["Skala pada peta tersebut adalah …."
                                        "Berapa skala peta tersebut?"])
                pengantar-2 (str (rand-nth nama) " mempunyai sebuah peta yang interval konturnya sebesar " interval " m.")]
-         
-         (merge
-          (condp = tipe
-            :1 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 0) " cm pada peta mewakili " jarak-asli-0 " km.")
-                :pertanyaan pertanyaan-1
-                :pb (str (float (/ (/ (* jarak-asli-0 1000) (jarak-peta 0)) 2000)) " meter")
-                :p1 (str (float (/ (/ (* jarak-asli-0 1000) (jarak-peta 0)) 1000)) " meter")
-                :p2 (str (float (/ (/ (* jarak-asli-0 1000) (jarak-peta 0)) 500)) " meter")
-                :p3 (str (float (* (/ (/ (* jarak-asli-0 1000) (jarak-peta 0)) 2000) 3)) " meter")}
-            :2 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 1) " cm pada peta mewakili " jarak-asli-1 " km.")
-                :pertanyaan pertanyaan-1
-                :pb (str (float (/ (/ (* jarak-asli-1 1000) (jarak-peta 1)) 2000)) " meter")
-                :p1 (str (float (/ (/ (* jarak-asli-1 1000) (jarak-peta 1)) 1000)) " meter")
-                :p2 (str (float (/ (/ (* jarak-asli-1 1000) (jarak-peta 1)) 500)) " meter")
-                :p3 (str (float (* (/ (/ (* jarak-asli-1 1000) (jarak-peta 1)) 2000) 3)) " meter")}
-            :3 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 2) " cm pada peta mewakili " jarak-asli-2 " km.")
-                :pertanyaan pertanyaan-1
-                :pb (str (float (/ (/ (* jarak-asli-2 1000) (jarak-peta 2)) 2000)) " meter")
-                :p1 (str (float (/ (/ (* jarak-asli-2 1000) (jarak-peta 2)) 1000)) " meter")
-                :p2 (str (float (/ (/ (* jarak-asli-2 1000) (jarak-peta 2)) 500)) " meter")
-                :p3 (str (float (* (/ (/ (* jarak-asli-2 1000) (jarak-peta 2)) 2000) 3)) " meter")}
-            :4 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 3) " cm pada peta mewakili " jarak-asli-3 " km.")
-                :pertanyaan pertanyaan-1
-                :pb (str (float (/ (/ (* jarak-asli-3 1000) (jarak-peta 3)) 2000)) " meter")
-                :p1 (str (float (/ (/ (* jarak-asli-3 1000) (jarak-peta 3)) 1000)) " meter")
-                :p2 (str (float (/ (/ (* jarak-asli-3 1000) (jarak-peta 3)) 500)) " meter")
-                :p3 (str (float (* (/ (/ (* jarak-asli-3 1000) (jarak-peta 3)) 2000) 3)) " meter")}
-            :5 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 4) " cm pada peta mewakili " jarak-asli-4 " km.")
-                :pertanyaan pertanyaan-1
-                :pb (str (float (/ (/ (* jarak-asli-4 1000) (jarak-peta 4)) 2000)) " meter")
-                :p1 (str (float (/ (/ (* jarak-asli-4 1000) (jarak-peta 4)) 1000)) " meter")
-                :p2 (str (float (/ (/ (* jarak-asli-4 1000) (jarak-peta 4)) 500)) " meter")
-                :p3 (str (float (* (/ (/ (* jarak-asli-4 1000) (jarak-peta 4)) 2000) 3)) " meter")}
-            :6 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 5) " cm pada peta mewakili " jarak-asli-5 " km.")
-                :pertanyaan pertanyaan-1
-                :pb (str (float (/ (/ (* jarak-asli-5 1000) (jarak-peta 5)) 2000)) " meter")
-                :p1 (str (float (/ (/ (* jarak-asli-5 1000) (jarak-peta 5)) 1000)) " meter")
-                :p2 (str (float (/ (/ (* jarak-asli-5 1000) (jarak-peta 5)) 500)) " meter")
-                :p3 (str (float (* (/ (/ (* jarak-asli-5 1000) (jarak-peta 5)) 2000) 3)) " meter")}
-            :7 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 6) " cm pada peta mewakili " jarak-asli-6 " km.")
-                :pertanyaan pertanyaan-1
-                :pb (str (float (/ (/ (* jarak-asli-6 1000) (jarak-peta 6)) 2000)) " meter")
-                :p1 (str (float (/ (/ (* jarak-asli-6 1000) (jarak-peta 6)) 1000)) " meter")
-                :p2 (str (float (/ (/ (* jarak-asli-6 1000) (jarak-peta 6)) 500)) " meter")
-                :p3 (str (float (* (/ (/ (* jarak-asli-6 1000) (jarak-peta 6)) 2000) 3)) " meter")}
-            :8 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 7) " cm pada peta mewakili " jarak-asli-7 " km.")
-                :pertanyaan pertanyaan-1
-                :pb (str (float (/ (/ (* jarak-asli-7 1000) (jarak-peta 7)) 2000)) " meter")
-                :p1 (str (float (/ (/ (* jarak-asli-7 1000) (jarak-peta 7)) 1000)) " meter")
-                :p2 (str (float (/ (/ (* jarak-asli-7 1000) (jarak-peta 7)) 500)) " meter")
-                :p3 (str (float (* (/ (/ (* jarak-asli-7 1000) (jarak-peta 7)) 2000) 3)) " meter")}
-            :9 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 8) " cm pada peta mewakili " jarak-asli-8 " km.")
-                :pertanyaan pertanyaan-1
-                :pb (str (float (/ (/ (* jarak-asli-8 1000) (jarak-peta 8)) 2000)) " meter")
-                :p1 (str (float (/ (/ (* jarak-asli-8 1000) (jarak-peta 8)) 1000)) " meter")
-                :p2 (str (float (/ (/ (* jarak-asli-8 1000) (jarak-peta 8)) 500)) " meter")
-                :p3 (str (float (* (/ (/ (* jarak-asli-8 1000) (jarak-peta 8)) 2000) 3)) " meter")}
-            :10 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 9) " cm pada peta mewakili " jarak-asli-9 " km.")
-                :pertanyaan pertanyaan-1
-                :pb (str (float (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 2000)) " meter")
-                :p1 (str (float (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 1000)) " meter")
-                :p2 (str (float (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 500)) " meter")
-                :p3 (str (float (* (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 2000) 3)) " meter")}
-            :11 {:pengantar pengantar-2
-                :pertanyaan pertanyaan-2
-                :pb (str "1:" (* interval 2000))
-                :p1 (str "1:" (/ (* interval 2000) 2))
-                :p2 (str "1:" (/ (* interval 2000) 10))
-                :p3 (str "1:" (/ (* interval 2000) 20))}))))
-  (repeatedly 2000)
-  distinct
-  shuffle
-  (take 200)
-  shuffle))
+
+           (merge
+            (condp = tipe
+              :1 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 0) " cm pada peta mewakili " jarak-asli-0 " km.")
+                  :pertanyaan pertanyaan-1
+                  :pb (str (float (/ (/ (* jarak-asli-0 1000) (jarak-peta 0)) 2000)) " meter")
+                  :p1 (str (float (/ (/ (* jarak-asli-0 1000) (jarak-peta 0)) 1000)) " meter")
+                  :p2 (str (float (/ (/ (* jarak-asli-0 1000) (jarak-peta 0)) 500)) " meter")
+                  :p3 (str (float (* (/ (/ (* jarak-asli-0 1000) (jarak-peta 0)) 2000) 3)) " meter")}
+              :2 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 1) " cm pada peta mewakili " jarak-asli-1 " km.")
+                  :pertanyaan pertanyaan-1
+                  :pb (str (float (/ (/ (* jarak-asli-1 1000) (jarak-peta 1)) 2000)) " meter")
+                  :p1 (str (float (/ (/ (* jarak-asli-1 1000) (jarak-peta 1)) 1000)) " meter")
+                  :p2 (str (float (/ (/ (* jarak-asli-1 1000) (jarak-peta 1)) 500)) " meter")
+                  :p3 (str (float (* (/ (/ (* jarak-asli-1 1000) (jarak-peta 1)) 2000) 3)) " meter")}
+              :3 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 2) " cm pada peta mewakili " jarak-asli-2 " km.")
+                  :pertanyaan pertanyaan-1
+                  :pb (str (float (/ (/ (* jarak-asli-2 1000) (jarak-peta 2)) 2000)) " meter")
+                  :p1 (str (float (/ (/ (* jarak-asli-2 1000) (jarak-peta 2)) 1000)) " meter")
+                  :p2 (str (float (/ (/ (* jarak-asli-2 1000) (jarak-peta 2)) 500)) " meter")
+                  :p3 (str (float (* (/ (/ (* jarak-asli-2 1000) (jarak-peta 2)) 2000) 3)) " meter")}
+              :4 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 3) " cm pada peta mewakili " jarak-asli-3 " km.")
+                  :pertanyaan pertanyaan-1
+                  :pb (str (float (/ (/ (* jarak-asli-3 1000) (jarak-peta 3)) 2000)) " meter")
+                  :p1 (str (float (/ (/ (* jarak-asli-3 1000) (jarak-peta 3)) 1000)) " meter")
+                  :p2 (str (float (/ (/ (* jarak-asli-3 1000) (jarak-peta 3)) 500)) " meter")
+                  :p3 (str (float (* (/ (/ (* jarak-asli-3 1000) (jarak-peta 3)) 2000) 3)) " meter")}
+              :5 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 4) " cm pada peta mewakili " jarak-asli-4 " km.")
+                  :pertanyaan pertanyaan-1
+                  :pb (str (float (/ (/ (* jarak-asli-4 1000) (jarak-peta 4)) 2000)) " meter")
+                  :p1 (str (float (/ (/ (* jarak-asli-4 1000) (jarak-peta 4)) 1000)) " meter")
+                  :p2 (str (float (/ (/ (* jarak-asli-4 1000) (jarak-peta 4)) 500)) " meter")
+                  :p3 (str (float (* (/ (/ (* jarak-asli-4 1000) (jarak-peta 4)) 2000) 3)) " meter")}
+              :6 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 5) " cm pada peta mewakili " jarak-asli-5 " km.")
+                  :pertanyaan pertanyaan-1
+                  :pb (str (float (/ (/ (* jarak-asli-5 1000) (jarak-peta 5)) 2000)) " meter")
+                  :p1 (str (float (/ (/ (* jarak-asli-5 1000) (jarak-peta 5)) 1000)) " meter")
+                  :p2 (str (float (/ (/ (* jarak-asli-5 1000) (jarak-peta 5)) 500)) " meter")
+                  :p3 (str (float (* (/ (/ (* jarak-asli-5 1000) (jarak-peta 5)) 2000) 3)) " meter")}
+              :7 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 6) " cm pada peta mewakili " jarak-asli-6 " km.")
+                  :pertanyaan pertanyaan-1
+                  :pb (str (float (/ (/ (* jarak-asli-6 1000) (jarak-peta 6)) 2000)) " meter")
+                  :p1 (str (float (/ (/ (* jarak-asli-6 1000) (jarak-peta 6)) 1000)) " meter")
+                  :p2 (str (float (/ (/ (* jarak-asli-6 1000) (jarak-peta 6)) 500)) " meter")
+                  :p3 (str (float (* (/ (/ (* jarak-asli-6 1000) (jarak-peta 6)) 2000) 3)) " meter")}
+              :8 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 7) " cm pada peta mewakili " jarak-asli-7 " km.")
+                  :pertanyaan pertanyaan-1
+                  :pb (str (float (/ (/ (* jarak-asli-7 1000) (jarak-peta 7)) 2000)) " meter")
+                  :p1 (str (float (/ (/ (* jarak-asli-7 1000) (jarak-peta 7)) 1000)) " meter")
+                  :p2 (str (float (/ (/ (* jarak-asli-7 1000) (jarak-peta 7)) 500)) " meter")
+                  :p3 (str (float (* (/ (/ (* jarak-asli-7 1000) (jarak-peta 7)) 2000) 3)) " meter")}
+              :9 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 8) " cm pada peta mewakili " jarak-asli-8 " km.")
+                  :pertanyaan pertanyaan-1
+                  :pb (str (float (/ (/ (* jarak-asli-8 1000) (jarak-peta 8)) 2000)) " meter")
+                  :p1 (str (float (/ (/ (* jarak-asli-8 1000) (jarak-peta 8)) 1000)) " meter")
+                  :p2 (str (float (/ (/ (* jarak-asli-8 1000) (jarak-peta 8)) 500)) " meter")
+                  :p3 (str (float (* (/ (/ (* jarak-asli-8 1000) (jarak-peta 8)) 2000) 3)) " meter")}
+              :10 {:pengantar (str (rand-nth nama) " mempunyai sebuah peta " (rand-nth peta) " yang setiap " (jarak-peta 9) " cm pada peta mewakili " jarak-asli-9 " km.")
+                   :pertanyaan pertanyaan-1
+                   :pb (str (float (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 2000)) " meter")
+                   :p1 (str (float (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 1000)) " meter")
+                   :p2 (str (float (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 500)) " meter")
+                   :p3 (str (float (* (/ (/ (* jarak-asli-9 1000) (jarak-peta 9)) 2000) 3)) " meter")}
+              :11 {:pengantar pengantar-2
+                   :pertanyaan pertanyaan-2
+                   :pb (str "1:" (* interval 2000))
+                   :p1 (str "1:" (/ (* interval 2000) 2))
+                   :p2 (str "1:" (/ (* interval 2000) 10))
+                   :p3 (str "1:" (/ (* interval 2000) 20))}))))
+       (repeatedly 2000)
+       distinct
+       shuffle
+       (take 200)
+       shuffle))
 
 
 (defn macam-citra-foto-berdasarkan-spektrum []
@@ -1250,35 +1250,35 @@
                         "ultraviolet"
                         "inframerah"]
                salah (fn [x] (shuffle (filter #(not (= % x)) jawaban)))]
-         
-         (merge
-          (condp = tipe
-            :a (merge
-                {:pengantar pankromatik
-                 :pertanyaan pertanyaan
-                 :pb (jawaban 0)}
-                (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
-            :b (merge
-                {:pengantar ortokromatik
-                 :pertanyaan pertanyaan
-                 :pb (jawaban 1)}
-                (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
-            :c (merge
-                {:pengantar ultraviolet
-                 :pertanyaan pertanyaan
-                 :pb (jawaban 2)}
-                (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
-            :d (merge
-                {:pengantar inframerah
-                 :pertanyaan pertanyaan
-                 :pb (jawaban 3)}
-                (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))))))
-  
-  (repeatedly 100)
-  shuffle
-  distinct
-  (take 40)
-  shuffle))
+
+           (merge
+            (condp = tipe
+              :a (merge
+                  {:pengantar pankromatik
+                   :pertanyaan pertanyaan
+                   :pb (jawaban 0)}
+                  (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+              :b (merge
+                  {:pengantar ortokromatik
+                   :pertanyaan pertanyaan
+                   :pb (jawaban 1)}
+                  (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+              :c (merge
+                  {:pengantar ultraviolet
+                   :pertanyaan pertanyaan
+                   :pb (jawaban 2)}
+                  (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+              :d (merge
+                  {:pengantar inframerah
+                   :pertanyaan pertanyaan
+                   :pb (jawaban 3)}
+                  (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))))))
+
+       (repeatedly 100)
+       shuffle
+       distinct
+       (take 40)
+       shuffle))
 
 (defn macam-citra-foto-berdasarkan-jenis-kamera-dan-warna-yang-dihasilkan []
   (->> (fn []
@@ -1291,13 +1291,13 @@
                soal-1 (str pertanyaan " " (jenis 0) " adalah ....")
                soal-2 (str pertanyaan " " (jenis 1) " adalah ....")
                truec ["Warna objek yang dihasilkan sama seperti warna aslinya."
-                     "Biasanya menggunakan pankromatik berwarna."]
+                      "Biasanya menggunakan pankromatik berwarna."]
                truec1 (rand-nth truec)
                truec2 (rand-nth (remove #{truec1} truec))
                falsec ["Foto berwarna semu."
-                      "Warna objek pada foto tidak sama seperti warna aslinya."
-                      "Biasanya menggunakan inframerah berwarna."
-                      "Menggunakan setidaknya satu panjang gelombang <i>non visible</i>."]
+                       "Warna objek pada foto tidak sama seperti warna aslinya."
+                       "Biasanya menggunakan inframerah berwarna."
+                       "Menggunakan setidaknya satu panjang gelombang <i>non visible</i>."]
                falsec1 (rand-nth falsec)
                falsec2 (rand-nth (remove #{falsec1} falsec))
                jawaban ["1 saja"
@@ -1305,63 +1305,63 @@
                         "semuanya"
                         "tidak ada"]
                salah (fn [x] (shuffle (filter #(not (= % x)) jawaban)))]
-         
-         (merge
-          (condp = tipe
-            :a (merge {:pengantar pengantar
-                       :fakta1 truec1
-                       :fakta2 falsec2
-                       :soal soal-1
-                       :pb (jawaban 0)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
-            :b (merge {:pengantar pengantar
-                       :fakta1 falsec1
-                       :fakta2 truec2
-                       :soal soal-1
-                       :pb (jawaban 1)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
-            :c (merge {:pengantar pengantar
-                       :fakta1 truec1
-                       :fakta2 truec2
-                       :soal soal-1
-                       :pb (jawaban 2)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
-            :d (merge {:pengantar pengantar
-                       :fakta1 falsec1
-                       :fakta2 falsec2
-                       :soal soal-1
-                       :pb (jawaban 3)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))
-            :e (merge {:pengantar pengantar
-                       :fakta1 falsec1
-                       :fakta2 truec2
-                       :soal soal-2
-                       :pb (jawaban 0)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
-            :f (merge {:pengantar pengantar
-                       :fakta1 truec1
-                       :fakta2 falsec2
-                       :soal soal-2
-                       :pb (jawaban 1)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
-            :g (merge {:pengantar pengantar
-                       :fakta1 falsec1
-                       :fakta2 falsec2
-                       :soal soal-2
-                       :pb (jawaban 2)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
-            :h (merge {:pengantar pengantar
-                       :fakta1 truec1
-                       :fakta2 truec2
-                       :soal soal-2
-                       :pb (jawaban 3)}
-                      (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))))))
-  
-  (repeatedly 300)
-  shuffle
-  distinct
-  (take 100)
-  shuffle))
+
+           (merge
+            (condp = tipe
+              :a (merge {:pengantar pengantar
+                         :fakta1 truec1
+                         :fakta2 falsec2
+                         :soal soal-1
+                         :pb (jawaban 0)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+              :b (merge {:pengantar pengantar
+                         :fakta1 falsec1
+                         :fakta2 truec2
+                         :soal soal-1
+                         :pb (jawaban 1)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+              :c (merge {:pengantar pengantar
+                         :fakta1 truec1
+                         :fakta2 truec2
+                         :soal soal-1
+                         :pb (jawaban 2)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+              :d (merge {:pengantar pengantar
+                         :fakta1 falsec1
+                         :fakta2 falsec2
+                         :soal soal-1
+                         :pb (jawaban 3)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))
+              :e (merge {:pengantar pengantar
+                         :fakta1 falsec1
+                         :fakta2 truec2
+                         :soal soal-2
+                         :pb (jawaban 0)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+              :f (merge {:pengantar pengantar
+                         :fakta1 truec1
+                         :fakta2 falsec2
+                         :soal soal-2
+                         :pb (jawaban 1)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+              :g (merge {:pengantar pengantar
+                         :fakta1 falsec1
+                         :fakta2 falsec2
+                         :soal soal-2
+                         :pb (jawaban 2)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+              :h (merge {:pengantar pengantar
+                         :fakta1 truec1
+                         :fakta2 truec2
+                         :soal soal-2
+                         :pb (jawaban 3)}
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))))))
+
+       (repeatedly 300)
+       shuffle
+       distinct
+       (take 100)
+       shuffle))
 
 (defn memahami-konsep-citra-nonfoto-1 []
   (->> (fn []
@@ -1386,20 +1386,20 @@
                         "citra yang dihasilkan oleh sensor nonfotografi dengan menggunakan sensor kamera"
                         "citra yang dihasilkan oleh sensor nonfotografi dengan menggunakan detektor film"
                         "citra yang dihasilkan oleh sensor nonfotografi yang proses perekamannya dilakukan secara kimiawi"]]]
-         (merge
-          (condp = tipe
-            :a (merge {:soal (rand-nth (soal 0))
-                       :pb (rand-nth (answer 0))}
-                      (zipmap [:p1 :p2 :p3] (shuffle (answer 1))))
-            :b (merge {:soal (rand-nth (soal 1))
-                       :pb (rand-nth (answer 1))}
-                      (zipmap [:p1 :p2 :p3] (shuffle (answer 0))))))))
-  
-  (repeatedly 100)
-  distinct
-  shuffle
-  (take 50)
-  shuffle))
+           (merge
+            (condp = tipe
+              :a (merge {:soal (rand-nth (soal 0))
+                         :pb (rand-nth (answer 0))}
+                        (zipmap [:p1 :p2 :p3] (shuffle (answer 1))))
+              :b (merge {:soal (rand-nth (soal 1))
+                         :pb (rand-nth (answer 1))}
+                        (zipmap [:p1 :p2 :p3] (shuffle (answer 0))))))))
+
+       (repeatedly 100)
+       distinct
+       shuffle
+       (take 50)
+       shuffle))
 
 (defn memahami-konsep-citra-nonfoto-2 []
   (->> (fn []
@@ -1741,43 +1741,413 @@
                             "danau" (rand-nth ["tingkat kekasarannya yang halus"
                                                "susunannya yang tidak teratur"
                                                "tingkat kecerahannya yang gelap"]))
-              correct-answer (condp = kenampakan
-                               "tajuknya yang seperti bintang" "bentuk"
-                               "tajuknya yang runcing" "bentuk"
-                               "tingkat kecerahannya yang terang" "rona"
-                               "tingkat kecerahannya yang berubah-ubah" "rona"
-                               "tingkat kecerahannya yang gelap" "rona"
-                               "rangkaiannya yang mengelompok" "pola"
-                               "rangkaiannya yang memanjang" "pola"
-                               "rangkaiannya yang memusat" "pola"
-                               "rangkaiannya yang mengikuti sungai" "pola"
-                               "rangkaiannya yang mengikuti jalan" "pola"
-                               "rangkaiannya yang terisolasi" "pola"
-                               "susunannya yang tidak teratur" "pola"
-                               "susunannya yang teranyam" "pola"
-                               "susunannya yang berkelok-kelok" "pola"
-                               "panjangnya yang seragam" "ukuran"
-                               "lebarnya yang seragam" "ukuran"
-                               "tingkat kekasarannya yang halus" "tekstur"
-                               "kenampakannya yang terbelah oleh jembatan" "asosiasi"
-                               "keberadaan gedung-gedung di sekitarnya" "situs")
-              unsur ["bentuk"
-                     "rona"
-                     "pola"
-                     "ukuran"
-                     "tekstur"
-                     "asosiasi"
-                     "situs"]
-              salah (fn [x] (shuffle (filter #(not (= % x)) unsur)))]
-         
-         (merge {:role role
-                 :objek objek
-                 :kenampakan kenampakan
-                 :pb correct-answer}
-                (zipmap [:p1 :p2 :p3] (shuffle (salah correct-answer))))))
-  
+               correct-answer (condp = kenampakan
+                                "tajuknya yang seperti bintang" "bentuk"
+                                "tajuknya yang runcing" "bentuk"
+                                "tingkat kecerahannya yang terang" "rona"
+                                "tingkat kecerahannya yang berubah-ubah" "rona"
+                                "tingkat kecerahannya yang gelap" "rona"
+                                "rangkaiannya yang mengelompok" "pola"
+                                "rangkaiannya yang memanjang" "pola"
+                                "rangkaiannya yang memusat" "pola"
+                                "rangkaiannya yang mengikuti sungai" "pola"
+                                "rangkaiannya yang mengikuti jalan" "pola"
+                                "rangkaiannya yang terisolasi" "pola"
+                                "susunannya yang tidak teratur" "pola"
+                                "susunannya yang teranyam" "pola"
+                                "susunannya yang berkelok-kelok" "pola"
+                                "panjangnya yang seragam" "ukuran"
+                                "lebarnya yang seragam" "ukuran"
+                                "tingkat kekasarannya yang halus" "tekstur"
+                                "kenampakannya yang terbelah oleh jembatan" "asosiasi"
+                                "keberadaan gedung-gedung di sekitarnya" "situs")
+               unsur ["bentuk"
+                      "rona"
+                      "pola"
+                      "ukuran"
+                      "tekstur"
+                      "asosiasi"
+                      "situs"]
+               salah (fn [x] (shuffle (filter #(not (= % x)) unsur)))]
+
+           (merge {:role role
+                   :objek objek
+                   :kenampakan kenampakan
+                   :pb correct-answer}
+                  (zipmap [:p1 :p2 :p3] (shuffle (salah correct-answer))))))
+
+       (repeatedly 300)
+       distinct
+       shuffle
+       (take 162)
+       shuffle))
+
+(defn unsur-interpretasi-citra-bagian-3-1 []
+  (->> (fn []
+         (let [pertanyaan (rand-nth ["Unsur interpretasi yang digunakan untuk mengenalinya adalah ...."
+                                     "Unsur interpretasi yang digunakan dalam mengamati kasus di atas adalah ...."
+                                     "Kasus di atas dapat diamati dengan menggunakan unsur interpretasi ...."])
+               kasus (rand-nth ["Perkebunan biasanya terletak di daerah pegunungan."
+                                "Hutan mangrove umumnya berada di kawasan pesisir."
+                                "Sawah irigasi umumnya terletak di dataran rendah."
+                                "Hutan pinus biasanya terletak di kawasan dataran tinggi."
+                                "Perkebunan teh biasanya terletak di kawasan dataran tinggi."
+                                "Tambak ikan umumnya terletak di kawasan pesisir."
+                                "Pertambangan garam biasanya terletak di kawasan pesisir."
+                                "Bangunan mercusuar dapat diidentifikasi karena letaknya yang berada dekat dengan pantai."
+                                "Pertambangan garam dapat diidentifikasi dengan letaknya yang berada di pesisir."
+                                "Perkebunan yang berada di kawasan dekat perbukitan biasanya merupakan kebun campuran."
+                                "Stasiun dapat diidentifikasi dengan lokasinya yang berdekatan dengan rel kereta api."
+                                "Bandara dapat diidentifikasi dengan melihat di sekitarnya terdapat pesawat yang parkir."
+                                "Kawasan sekolah dapat diidentifikasi dengan bangunan dan keberadaan lapangan didekatnya."
+                                "Permukiman dapat diidentifikasi dengan lokasinya yang berada dekat dengan jalan."
+                                "Pusat perbelanjaan dapat diidentifikasi dengan lokasinya yang memiliki lahan parkir mobil yang luas di sekitarnya."
+                                "Taman bermain dapat diidentifikasi dengan keberadaan wahana permainan disekitarnya."
+                                "Terminal bus dapat diidentifikasi dengan keberadaan bus yang parkir."])
+               correct-answer (condp = kasus
+                                "Perkebunan biasanya terletak di daerah pegunungan." "situs"
+                                "Hutan mangrove umumnya berada di kawasan pesisir." "situs"
+                                "Sawah irigasi umumnya terletak di dataran rendah." "situs"
+                                "Hutan pinus biasanya terletak di kawasan dataran tinggi." "situs"
+                                "Perkebunan teh biasanya terletak di kawasan dataran tinggi." "situs"
+                                "Tambak ikan umumnya terletak di kawasan pesisir." "situs"
+                                "Pertambangan garam biasanya terletak di kawasan pesisir." "situs"
+                                "Bangunan mercusuar dapat diidentifikasi karena letaknya yang berada dekat dengan pantai." "situs"
+                                "Pertambangan garam dapat diidentifikasi dengan letaknya yang berada di pesisir." "situs"
+                                "Perkebunan yang berada di kawasan dekat perbukitan biasanya merupakan kebun campuran." "situs"
+                                "Stasiun dapat diidentifikasi dengan lokasinya yang berdekatan dengan rel kereta api." "asosiasi"
+                                "Bandara dapat diidentifikasi dengan melihat di sekitarnya terdapat pesawat yang parkir." "asosiasi"
+                                "Kawasan sekolah dapat diidentifikasi dengan bangunan dan keberadaan lapangan didekatnya." "asosiasi"
+                                "Permukiman dapat diidentifikasi dengan lokasinya yang berada dekat dengan jalan." "asosiasi"
+                                "Pusat perbelanjaan dapat diidentifikasi dengan lokasinya yang memiliki lahan parkir mobil yang luas di sekitarnya." "asosiasi"
+                                "Taman bermain dapat diidentifikasi dengan keberadaan wahana permainan disekitarnya." "asosiasi"
+                                "Terminal bus dapat diidentifikasi dengan keberadaan bus yang parkir." "asosiasi")
+               unsur ["situs"
+                      "bentuk"
+                      "ukuran"
+                      "tekstur"
+                      "pola"
+                      "bayangan"
+                      "rona dan warna"
+                      "asosiasi"]
+               salah (fn [x] (shuffle (filter #(not (= % x)) unsur)))]
+
+           (merge {:pertanyaan pertanyaan
+                   :kasus kasus
+                   :pb correct-answer}
+                  (zipmap [:p1 :p2 :p3] (shuffle (salah correct-answer))))))
+
+       (repeatedly 300)
+       distinct
+       shuffle
+       (take 100)
+       shuffle))
+
+(defn contoh-interpretasi-citra-berdasarkan-unsur []
+  (->> (fn []
+         (let [tipe (rand-nth [:1 :2 :3 :4 :5
+                               :6 :7 :8 :9 :10])
+               pengantar (rand-nth ["Perhatikan pernyataan di bawah ini!"
+                                    "Coba perhatikan pernyataan berikut ini!"])
+               soal (rand-nth ["Berdasarkan unsur interpretasi citra di atas objek yang sedang diamati adalah ...."
+                               "Objek yang sedang diinterpretasi berdasarkan unsur interpretasi di atas adalah ...."])
+               aspal ["Ronanya dan warna gelap"	"Bentuknya lurus dan memanjang"	"Ukuran lebarnya seragam"	"Teksturnya halus"]
+               hutan ["Ronanya gelap"	"Polanya tidak teratur"	"Bentuk tinggi dan beragam"	"Teksturnya kasar"]
+               sungai ["Ronanya terang atau gelap tergantung kondisi"	"Bentuk panjang lebar tak seragam"	"Pola berkelok-kelok"	"Teksturnya halus"	"sungai"]
+               sawah ["Rona cenderung terang"	"Bentuk kotak-kotak"	"Pola berkelompok teratur"	"Tekstur halus"]
+               beton ["Rona terang berwarna putih"	"Bentuknya lurus memanjang"	"Tekstur halus"	"Ukuran lebarnya seragam"]
+               tangki ["Terdapat bayangan"	"Ronanya terang"	"Ukurannya besar"	"Bentuk bulat"]
+               permukiman ["Ronanya terang dan warnyanya merah-kecoklatan"	"Polanya berkelompok teratur biasanya memanjang mengikuti jalan"	"Ukurannya cenderung seragam"	"Tekstur kasar"]
+               sekolah ["Bentuk bangunannya I, L, atau U"	"Berasosiasi dengan lapangan"	"Ukurannya cenderung luas"	"Letaknya biasanya di tengah permukiman"]
+               sawit ["Ronanya gelap"	"Polanya teratur dan mengelompok"	"Bentuknya tajuk menyerupai bintang"	"Teksturnya kasar"	"perkebunan kelapa sawit"]
+               kantor ["Ronanya terang"	"Polanya berkelompok teratur biasanya memanjang mengikuti jalan"	"Terdapat bayangan"	"Teksturnya kasar"]
+               jawaban ["jalan aspal"
+                        "hutan"
+                        "sungai"
+                        "sawah"
+                        "jalan beton"
+                        "tangki air"
+                        "permukiman"
+                        "sekolah"
+                        "perkebunan kelapa sawit"
+                        "komplek perkantoran"]
+               salah (fn [x] (shuffle (filter #(not (= % x)) jawaban)))]
+
+           (merge
+            (condp = tipe
+              :1 (merge {:pengantar pengantar
+                         :soal soal
+                         :pb (jawaban 0)}
+                        (zipmap [:fakta1 :fakta2 :fakta3 :fakta4] (shuffle aspal))
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 0)))))
+              :2 (merge {:pengantar pengantar
+                         :soal soal
+                         :pb (jawaban 1)}
+                        (zipmap [:fakta1 :fakta2 :fakta3 :fakta4] (shuffle hutan))
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 1)))))
+              :3 (merge {:pengantar pengantar
+                         :soal soal
+                         :pb (jawaban 2)}
+                        (zipmap [:fakta1 :fakta2 :fakta3 :fakta4] (shuffle sungai))
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 2)))))
+              :4 (merge {:pengantar pengantar
+                         :soal soal
+                         :pb (jawaban 3)}
+                        (zipmap [:fakta1 :fakta2 :fakta3 :fakta4] (shuffle sawah))
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 3)))))
+              :5 (merge {:pengantar pengantar
+                         :soal soal
+                         :pb (jawaban 4)}
+                        (zipmap [:fakta1 :fakta2 :fakta3 :fakta4] (shuffle beton))
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 4)))))
+              :6 (merge {:pengantar pengantar
+                         :soal soal
+                         :pb (jawaban 5)}
+                        (zipmap [:fakta1 :fakta2 :fakta3 :fakta4] (shuffle tangki))
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 5)))))
+              :7 (merge {:pengantar pengantar
+                         :soal soal
+                         :pb (jawaban 6)}
+                        (zipmap [:fakta1 :fakta2 :fakta3 :fakta4] (shuffle permukiman))
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 6)))))
+              :8 (merge {:pengantar pengantar
+                         :soal soal
+                         :pb (jawaban 7)}
+                        (zipmap [:fakta1 :fakta2 :fakta3 :fakta4] (shuffle sekolah))
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 7)))))
+              :9 (merge {:pengantar pengantar
+                         :soal soal
+                         :pb (jawaban 8)}
+                        (zipmap [:fakta1 :fakta2 :fakta3 :fakta4] (shuffle sawit))
+                        (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 8)))))
+              :10 (merge {:pengantar pengantar
+                          :soal soal
+                          :pb (jawaban 9)}
+                         (zipmap [:fakta1 :fakta2 :fakta3 :fakta4] (shuffle kantor))
+                         (zipmap [:p1 :p2 :p3] (shuffle (salah (jawaban 4)))))))))
+       (repeatedly 300)
+       distinct
+       shuffle
+       (take 100)
+       shuffle))
+
+(defn langkah-interpretasi-citra-1 []
+  (->> (fn []
+         (let [pengantar (rand-nth ["Coba perhatikan pernyataan di bawah ini!"
+                                    "Perhatikan pernyataan berikut ini!"])
+               soal (rand-nth ["Pernyataan di atas merupakan kegiatan interpretasi citra pada tahapan ...."
+                               "Pernyataan di atas termasuk ke dalam tahapan interpretasi citra, yaitu ...."])
+               kasus (rand-nth ["Langkah pertama dalam kegiatan interpretasi citra."
+                                "Tahapan memastikan keberadaan objek."
+                                "Kegiatan pengamatan objek dalam citra."
+                                "Tahap awal pengenalan objek secara keseluruhan."
+                                "Kegiatan mendeteksi objek yang terekam pada foto udara maupun foto satelit."
+                                "Tahapan pengenalan atau pengamatan suatu objek."
+                                "Mengenali objek berdasarkan unsur."
+                                "Mengenali objek berdasarkan ciri-ciri spektral, spasial, dan temporal."
+                                "Megenali objek menggunakan kunci interpretasi citra."
+                                "Mengenali objek yang ada pada citra maupun foto udara dengan menggunakan kunci interpretasi citra"
+                                "Tahapan mengidentifikasi objek dengan menggunakan rona, ukuran, bentuk, tekstur, bayangan, pola, situs, asosiasi."
+                                "Penguraian pola keruangan objek dalam bentuk tabel, grafik, atau peta."
+                                "Tahapan mengolah dan menganalisis hasil interpretasi."
+                                "Tahapan penguraian deskripsi hasil interpretasi citra."
+                                "Tahapan menganalisis berbagai informasi yang telah dikumpulkan."
+                                "Pengelompokan objek-objek pada citra yang memiliki ciri-ciri yang sama."
+                                "Penarikan kesimpulan setelah pengamatan berulang."
+                                "Proses akhir dalam tahapan interpretasi citra."
+                                "Proses mengambil kesimpulan yang didasarkan oleh bukti-bukti."
+                                "Tahapan konvergensi bukti."
+                                "Tahapan ini adalah tahapan pengambilan kesimpulan."])
+               correct-answer (condp = kasus
+                                "Langkah pertama dalam kegiatan interpretasi citra." "deteksi"
+                                "Tahapan memastikan keberadaan objek." "deteksi"
+                                "Kegiatan pengamatan objek dalam citra." "deteksi"
+                                "Tahap awal pengenalan objek secara keseluruhan." "deteksi"
+                                "Kegiatan mendeteksi objek yang terekam pada foto udara maupun foto satelit." "deteksi"
+                                "Tahapan pengenalan atau pengamatan suatu objek." "deteksi"
+                                "Mengenali objek berdasarkan unsur." "identifikasi"
+                                "Mengenali objek berdasarkan ciri-ciri spektral, spasial, dan temporal." "identifikasi"
+                                "Megenali objek menggunakan kunci interpretasi citra." "identifikasi"
+                                "Mengenali objek yang ada pada citra maupun foto udara dengan menggunakan kunci interpretasi citra" "identifikasi"
+                                "Tahapan mengidentifikasi objek dengan menggunakan rona, ukuran, bentuk, tekstur, bayangan, pola, situs, asosiasi." "identifikasi"
+                                "Penguraian pola keruangan objek dalam bentuk tabel, grafik, atau peta." "analisis"
+                                "Tahapan mengolah dan menganalisis hasil interpretasi." "analisis"
+                                "Tahapan penguraian deskripsi hasil interpretasi citra." "analisis"
+                                "Tahapan menganalisis berbagai informasi yang telah dikumpulkan." "analisis"
+                                "Pengelompokan objek-objek pada citra yang memiliki ciri-ciri yang sama." "analisis"
+                                "Penarikan kesimpulan setelah pengamatan berulang." "deduksi"
+                                "Proses akhir dalam tahapan interpretasi citra." "deduksi"
+                                "Proses mengambil kesimpulan yang didasarkan oleh bukti-bukti." "deduksi"
+                                "Tahapan konvergensi bukti." "deduksi"
+                                "Tahapan ini adalah tahapan pengambilan kesimpulan." "deduksi")
+               tahapan ["deteksi"
+                        "identifikasi"
+                        "analisis"
+                        "deduksi"]
+               salah (fn [x] (shuffle (filter #(not (= % x)) tahapan)))]
+
+           (merge {:pengantar pengantar
+                   :kasus kasus
+                   :soal soal
+                   :pb correct-answer}
+                  (zipmap [:p1 :p2 :p3] (shuffle (salah correct-answer))))))
+
+       (repeatedly 300)
+       distinct
+       shuffle
+       (take 98)
+       shuffle))
+
+(defn langkah-interpretasi-citra-2 []
+  (->> (fn []
+         (let [pengantar (rand-nth ["Perhatikan beberapa kegiatan dalam interpretasi citra bawah ini!"
+                                    "Perhatikan tahapan interpretasi citra yang disajikan secara acak di bawah ini!"])
+               opsi (rand-nth ["1-2-3-4" "1-2-4-3" "1-3-4-2" "1-3-2-4" "1-4-2-3" "1-4-3-2"
+                               "4-3-2-1" "4-2-3-1" "4-2-1-3" "4-1-3-2" "4-1-2-3" "4-3-1-2"
+                               "2-1-3-4" "2-1-4-3" "2-3-4-1" "2-3-1-4" "2-4-1-3" "2-4-3-1"
+                               "3-2-1-4" "3-2-4-1" "3-1-2-4" "3-1-4-2" "3-4-2-1" "3-4-1-2"])
+               pilihan ["1-2-3-4" "1-2-4-3" "1-3-4-2" "1-3-2-4" "1-4-2-3" "1-4-3-2"
+                        "4-3-2-1" "4-2-3-1" "4-2-1-3" "4-1-3-2" "4-1-2-3" "4-3-1-2"
+                        "2-1-3-4" "2-1-4-3" "2-3-4-1" "2-3-1-4" "2-4-1-3" "2-4-3-1"
+                        "3-2-1-4" "3-2-4-1" "3-1-2-4" "3-1-4-2" "3-4-2-1" "3-4-1-2"]
+               deteksi ["Mendeteksi keberadaan objek."
+                        "Mencari objek."
+                        "Menemukan objek."
+                        "Memastikan keberadaan objek."
+                        "Menjumpai objek."
+                        "Memastikan keberadaan data yang sifatnya umum."
+                        "Menemukan data yang sifatnya umum."
+                        "Mendeteksi keberadaan data yang sifatnya umum."]
+               identifikasi ["Mengidentifikasi objek."
+                             "Mengenali objek."
+                             "Menandai objek."
+                             "Mencatat objek."
+                             "Mengenali objek berdasarkan ciri-ciri tertentu."
+                             "Mengenali objek berdasarkan ciri spektral."
+                             "Mengenali objek berdasarkan ciri spasial."
+                             "Mengenali objek berdasarkan ciri temporal."]
+               analisis ["Menganalisis objek."
+                         "Mengelompokkan data."
+                         "Mengelompokkan objek."
+                         "Menelaah objek."
+                         "Menguraikan pola keruangan objek."
+                         "Menguraikan pola keruangan objek ke dalam bentuk tabel."
+                         "Menguraikan pola keruangan objek ke dalam bentuk gambar."
+                         "Menguraikan pola keruangan objek ke dalam bentuk peta."]
+               deduksi ["Melakukan deduksi terkait objek."
+                        "Menyimpulkan jenis objek."
+                        "Menarik kesimpulan terkait jenis objek."
+                        "Menarik konklusi terkait jenis objek."
+                        "Menentukan jenis objek."]
+               soal "Urutan kegiatan yang benar atau sesuai dengan tahapan interpretasi citra adalah ...."]
+
+           (merge {:pengantar pengantar
+                   :soal soal
+                   :pb opsi}
+                  (zipmap [:p1 :p2 :p3] (shuffle (remove #(= opsi %) pilihan)))
+                  (zipmap (mapv keyword (mapv #(str "fakta" %) (clojure.string/split opsi #"-")))
+                          (mapv rand-nth [deteksi identifikasi analisis deduksi])))))
+       (repeatedly 300)
+       distinct
+       shuffle
+       (take 100)
+       shuffle))
+
+(defn penentuan-skala-foto-udara []
+  (->> (fn []
+         (let [wahana (rand-nth ["drone"
+                                 "pesawat"
+                                 "pesawat terbang"
+                                 "helikopter"
+                                 "balon udara"])
+               fokus (rand-nth [20 40 80 100 200 400 800 1000])
+               tinggi (rand-nth [2 4 8 10 20 40 80 100])
+               soal (str (rand-nth ["Perekaman suatu wilayah dilakukan dengan menggunakan "
+                                    "Suatu wilayah direkam dengan menggunakan "])
+                         wahana
+                         " yang memiliki panjang fokus kamera sebesar "
+                         fokus
+                         " mm.  Ketinggiannya dari objek saat proses perekaman adalah "
+                         tinggi
+                         " km. Skala foto udara yang direkam oleh wahana tersebut adalah ....")
+               correct-answer (str "1:" (/ (* tinggi 1000000) fokus))
+               wrong-answer [(str "1:" (/ (/ (* tinggi 1000000) fokus) 10))
+                             (str "1:" (/ (/ (* tinggi 1000000) fokus) 4))
+                             (str "1:" (* (/ (* tinggi 1000000) fokus) 2))
+                             (str "1:" (* (/ (* tinggi 1000000) fokus) 3))]]
+           (merge {:pertanyaan soal
+                   :pb correct-answer}
+                  (zipmap [:p1 :p2 :p3] (shuffle wrong-answer))))) 
+                  
   (repeatedly 300)
   distinct
   shuffle
-  (take 162)
+  (take 98)
+  shuffle))
+
+(defn meninjau-ulang-keterampilan-pengindraan-jauh []
+  (->> (fn []
+         (let [tipe (rand-nth [:s1 :s2])
+               pink [["Berikut ini yang merupakan kunci interpretasi citra adalah ...."
+                      "Berikut ini yang merupakan unsur penting dalam interpretasi citra adalah ...."]
+                     ["rona dan warna"
+                      "bentuk"
+                      "ukuran"
+                      "pola"
+                      "tekstur"
+                      "bayangan"
+                      "situs"
+                      "asosiasi"]
+                     ["lokasi"
+                      "jarak"
+                      "titik koordinat"
+                      "letak"
+                      "waktu pengambilan citra"
+                      "wahana"
+                      "ketinggian pengambilan citra"]]
+               ungu [["Berikut ini yang merupakan salah satu tahapan dalam interpretasi citra adalah ...."
+                      "Berikut ini yang merupakan salah satu langkah dalam menginterpretasi citra adalah ...."
+                      "Berikut ini yang merupakan salah satu langkah dalam interpretasi citra adalah ...."]
+                     ["deteksi"
+                      "identifikasi"
+                      "analisis"
+                      "deduksi"]
+                     ["input"
+                      "output"
+                      "manajemen"
+                      "manipulasi"
+                      "pengambilan data"
+                      "mencari wahana yang digunakan"]]
+               pembahasan [["Unsur interpretasi citra itu ada 8, yakni:<br>
+                             <ol>
+                             <li>Rona dan warna: interpretasi dengan menggunakan rona mengidentifikasi objek berdasarkan tingkat kecerahan objek, sedangkan warna mengidentifikasi objek dengan warna yang terlihat mata. Warna ini bergantung dengan spektrum yang dipancarkan masing-masing satelit.</li>
+                             <li>Ukuran: mengidentifikasi objek dengan melihat perbandingan ukuran hingga kemiringan objek. Ukuran juga berkaitan dengan dimensi panjang, luas, tinggi, kemiringan, dan volume objek.</li>
+                             <li>Bentuk: konfigurasi kerangka objek.</li>
+                             <li>Tekstur: tingkat kehalusan/kekasaran objek.</li>
+                             <li>Bayangan: dihasilkan dari kemiringan suatu objek.</li>
+                             <li>Pola: bentuk objek dilihat dari susunan spasial.</li>
+                             <li>Situs: lokasi objek berhubungan dengan objek lain.</li>
+                             <li>Asosiasi: keterkaitan antar objek.</li>
+                             </ol>"]
+                           ["Dalam kegiatan interpretasi citra terdapat tahapan-tahapan yang terjadi dalam interpretasi citra sebagai berikut:<br>
+                             <ol>
+                             <li>Deteksi: kegiatan mendeteksi objek yang terekam pada foto udara maupun foto satelit.</li>
+                             <li>Identifikasi: mengenali objek berdasarkan ciri-ciri spektral, spasial, dan temporal.</li>
+                             <li>Analisis: penguraian pola keruangan objek dalam bentuk tabel, grafik, atau peta.</li>
+                             <li>Deduksi: penarikan kesimpulan setelah pengamatan berulang.</li>
+                             </ol>"]]]
+         (merge
+          (condp = tipe
+            :s1 (merge {:pertanyaan (rand-nth (pink 0))
+                        :pb (rand-nth (pink 1))
+                        :pembahasan (rand-nth (pembahasan 0))}
+                       (zipmap [:p1 :p2 :p3] (shuffle (pink 2))))
+            :s2 (merge {:pertanyaan (rand-nth (ungu 0))
+                        :pb (rand-nth (ungu 1))
+                        :pembahasan (rand-nth (pembahasan 1))}
+                       (zipmap [:p1 :p2 :p3] (shuffle (ungu 2))))))))
+  (repeatedly 50)
+  distinct
+  shuffle
+  (take 28)
   shuffle))
